@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="col-1"></div>
+        <div class="col-2"></div>
+    </div>
+    <br> <br> <br> <br>
+    <div class="container2">
+        <div class="row-1">
+            <div class="col-3"></div>
+            <div class="col-4"></div>
+        </div>
+        <div class="row-2">
+            <div class="col-5"></div>
+            <div class="col-6"></div>
+        </div>
+        <br><br><br>
+        <div class="container3">
+            <div class="col-7"></div>
+            <div class="col-8"></div>
+            <div class="col-9"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+    <div class="row">
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+
+    <div class="login">
+        <form action="" class="form">
+            <div style="display: flex; justify-content: center;">
+                <img src="./my-web/src/assets/USER.svg" alt="" style="width: 100px;">
+            </div>
+            <div class="userinput">
+                <input type="text" placeholder="USERNAME">
+            </div>
+            <div class="userpwd">
+                <input type="password" placeholder="PASSWORD">
+            </div>
+            <div class="btn"> <button>LOGIN</button></div>
+        </form>
+    </div>
+</body>
+<style>
+    .container {
+        width: 700px;
+        height: 500px;
+        border: 1px solid #ccc;
+        background-color: rgb(131, 139, 146);
+    }
+
+    .col-1 {
+        width: 250px;
+        height: 250px;
+        background-color: red;
+    }
+
+    .col-2 {
+        width: 250px;
+        height: 250px;
+        background-color: rgb(211, 176, 21);
+        float: right;
+    }
+
+    .row-1 {
+        display: flex;
+    }
+
+    .row-2 {
+        display: flex;
+    }
+
+    .col-3 {
+        width: 250px;
+        height: 250px;
+        background-color: red;
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-4 {
+        width: 250px;
+        height: 250px;
+        background-color: rgb(206, 173, 26);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-5 {
+        margin-top: 100px;
+        width: 250px;
+        height: 250px;
+        background-color: rgb(18, 66, 226);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-6 {
+        margin-top: 100px;
+        width: 250px;
+        height: 250px;
+        background-color: rgb(77, 219, 11);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-7 {
+        margin-top: 100px;
+        width: 250px;
+        height: 250px;
+        background-color: rgb(18, 66, 226);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-8 {
+        margin-top: 100px;
+        width: 250px;
+        height: 250px;
+        background-color: rgb(18, 66, 226);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .col-9 {
+        margin-top: 100px;
+        width: 250px;
+        height: 250px;
+        background-color: rgb(18, 66, 226);
+        transform: rotate(45deg);
+        margin-left: 100px;
+    }
+
+    .row {
+        display: flex;
+    }
+
+    .box {
+        width: 40px;
+        height: 40px;
+        background: orange;
+        margin: 2px;
+    }
+
+    .row:nth-child(even) .box {
+        margin-top: 20px;
+    }
+
+    .login {
+        margin: 100px;
+        border: 1px solid #ccc;
+        width: 300px;
+        height: 400px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #da700e;
+    }
+
+    .userinput {
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+    }
+
+    .userinput input[type=text] {
+        background-color: inherit;
+        border-radius: 10px;
+        height: 40px;
+        width: 200px;
+        color: white;
+        border: 2px solid white;
+    }
+
+    .userinput input[type=text]::placeholder {
+        color: white;
+    }
+
+    .userpwd {
+        display: flex;
+        justify-content: center;
+        margin: 20px;
+    }
+
+    .userpwd input[type=password] {
+        background-color: inherit;
+        border-radius: 10px;
+        height: 40px;
+        width: 200px;
+        color: white;
+        border: 2px solid white;
+    }
+
+    .userpwd input[type=password]::placeholder {
+        color: white;
+    }
+
+    .btn {
+        display: flex;
+        justify-content: center;
+    }
+
+    .btn button {
+        border-radius: 10px;
+        height: 40px;
+        width: 200px;
+        background-color: blue;
+        color: white;
+        border: none;
+    }
+</style>
+
+</html>
