@@ -486,5 +486,1276 @@
 | 1 | 6 | C | 2 | 6 | C |
 | 1 | 7 | D | 2 | 7 | C |
 | 1 | 8 | C | 2 | 8 | A |
+
+Địa chỉ IP thuộc lớp A nằm trong khoảng từ 1.xxx – 126.xxx
+Địa chỉ IP thuộc lớp B nằm trong khoảng từ 128.0.xx – 191.255.xx
+Địa chỉ IP thuộc lớp C có phạm vi từ 192.0.0.x – 223.255.255.x.
+Lớp D có phạm vi từ 224.0.0.0 – 239.255.255.255.
+lớp E nằm trong khoảng từ 240.0.0.0 – 255.255.255.254
+Web proxy trên ISA chạy port là bao nhiêu? 8080
+Cổng mặc định của Remote desktop là? 3389
+Cổng mặc định của Remote web brower là? 8098
+Cổng hoạt động TCP của dịch vụ Web là? 80
+Chương 1: Tổng quan về quản trị mạng
+Các thuật ngữ, khái niệm cần biết:
+Quản trị mạng (Network Administration): Quản lý, vận hành, giám sát và bảo trì các thành phần của mạng máy tính.
+   5 lĩnh vực chức năng của công tác quản trị mạng (Computer
+  Network Management)
+   Mô hình quản trị mạng do ISO (International Standard 
+  Organization) đề xuất bao gồm 5 lĩnh vực chức năng:
+   Fault Management: Theo ISO, đây là một lĩnh vực phức tạp nhất của công tác quản trị mạng
+1)Xác định “triệu chứng” và cô lập vấn đề căn nguyên của lỗi;
+ 2)Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống;
+ 3)Ghi lại vấn đề/lỗi được phát hiện và giải pháp khắc phục chúng (chuẩn bị cho
+việc khắc phục lỗi lần sau.
+
+   Configuration Management
+   Accounting Management: quan tâm đến việc chuẩn bị số
+liệu để báo cáo về việc sử dụng mạng và cấp phát tài
+nguyên của toàn hệ thống.
+ Quytrình quản lý kiểm toán bao gồm:
+ 1) Đo lường việc sử dụng của tất cả các tài nguyên mạng quan
+trọng;
+ 2) Phân tích các mẫu sử dụng hiện tại;
+ 3) Thiết lập hạn ngạch sử dụng tài nguyên mạng cho các nhóm
+user khác nhau 
+
+   Performance Management: quản lý/đo lường các khía cạnh khác nhau
+của hiệu năng mạng: Băng thông mạng, thời gian hồi đáp
+người dùng, … Mục tiêu là duy trì hiệu năng của mạng ở
+mức có thể truy cập được.
+ Quytrình quản lý hiệu năng bao gồm các giai đoạn:
+ 1) Thu thập dữ liệu hiệu năng;
+ 2) Phân tích dữ liệu;
+ 3) Thiết lập các ngưỡng hiệu năng cho giá trị của các thông số
+quan trọng.
+
+   Security Management: điều khiển truy cập đến tài
+nguyên mạng theo đặc quyền của người dùng, nhằm bảo
+vệ các tài nguyên nhạy cảm, ngăn chặn sự truy cập bất
+hợp lệ của người sử dụng không được phép.
+ Quytrình quản lý bảo mật liên quan đến:
+ 1) Định danh các tài nguyên (tài nguyên mạng) nhạy cảm;
+ 2) Xác định mối liên quan giữa tài nguyên nhạy cảm và nhóm user
+được quyền truy cập/không được quyền truy cập tài nguyên đó;
+ 3)Theo dõi việc truy cập đến tài nguyên nhạy cảm của user
+
+Hệ thống mạng (Network System): Tập hợp các thiết bị mạng (máy tính, router, switch...) kết nối với nhau nhằm chia sẻ tài nguyên.
+Quản trị viên mạng (Network Administrator): Người chịu trách nhiệm giám sát, vận hành và khắc phục sự cố mạng.
+Thiết bị mạng (Network Devices): Bao gồm router, switch, hub, access point, tường lửa...
+Hệ thống quản trị mạng (Network Management System - NMS): Hệ thống bao gồm phần mềm và phần cứng dùng để giám sát, cấu hình, và quản lý toàn bộ mạng.
+Giám sát mạng (Network Monitoring): Theo dõi hoạt động mạng để kịp thời phát hiện và xử lý sự cố.
+SNMP (Simple Network Management Protocol): Giao thức quản trị mạng đơn giản, cho phép giám sát và điều khiển các thiết bị mạng.
+   3 phiên bản
+   SNMP v1: 1990
+   SNMP v2: 1996
+   SNMP v3: 2003
+   Sử dụng giao thức vận chuyển UDP:
+   Port 161: polling
+   Port 162: trapping
+Một thiết bị hỗ trợ SNMP có thể cung cấp nhiều thông
+tin khác nhau, mỗi thông tin đó gọi là một object.
+ Mỗi object có một tên gọi và một mã số để nhận dạng
+object đó, mã số gọi là Object ID (OID)
+Tên thiết bị được gọi là sysName, OID là 1.3.6.1.2.1.1.5.
+ Tổng số port giao tiếp (interface) được gọi là ifNumber, OID là 
+1.3.6.1.2.1.2.1.
+ Địa chỉ Mac Address của một port được gọi là ifPhysAddress, 
+OID là 1.3.6.1.2.1.2.2.1.6.
+ Số byte đã nhận trên một port được gọi là ifInOctets, OID là 
+1.3.6.1.2.1.2.2.1.10.
+
+SNMP message được gói trong UDP-IP-Link header
+SNMP message = Version + Community string + SNMP PDU
+PDU type   PDU
+0       GetRequest: Manager gửi GetRequest cho agent để yêu cầu agent cung 
+      cấp thông tin nào đó dựa vào ObjectID (trong GetRequest 
+      có chứa OID)
+1       GetNextRequest:  Manager gửi GetNextRequest có chứa một ObjectID cho 
+      agent để yêu cầu cung cấp thông tin nằm kế tiếp ObjectID 
+      đó trong MIB. snmpget –v 2c –c public localhost  system.sysContact.0
+2       Response: Agent gửi GetResponse cho Manager để trả lời khi nhận 
+      được GetRequest/GetNextRequest
+3       SetRequest: Manager gửi SetRequest cho agent để đặt giá trị cho đối 
+      tượng của agent dựa vào ObjectID. snmpset -v 2c -c private localhost system.sysContact.0 s “BMCNTT”
+4       Trap (obsolete
+5       GetBulkRequest
+6       InformRequest
+7       Trap (SNMPv2): Agent tự động gửi Trap cho Manager khi có một sự kiện 
+      xảy ra đối với một object nào đó trong agent
+      Có 2 loại trap:
+       trap phổ biến (generic trap): được quy định trong các chuẩn SNMP
+          Ý nghĩa của các bản tin generic-trap như sau : 
+- coldStart: thông báo rằng thiết bị gửi bản tin này đang khởi động lại
+(reinitialize) và cấu hình của nó có thể bị thay đổi sau khi khởi động.
+- warmStart: thông báo rằng thiết bị gửi bản tin này đang khởi động lại
+và giữ nguyên cấu hình cũ.
+- linkDown: thông báo rằng thiết bị gửi bản tin này phát hiện được một
+trong những kết nối truyền thông (communication link) của nó gặp
+lỗi. Trong bản tin trap có tham số chỉ ra ifIndex của kết nối bị lỗi.
+-  linkUp: thông báo rằng thiết bị gửi bản tin này phát hiện được một
+trong những kết nối truyền thông của nó đã khôi phục trở lại. Trong
+bản tin trap có tham số chỉ ra ifIndex của kết nối được khôi phục.
+- authenticationFailure: thông báo rằng thiết bị gửi bản tin này đã
+nhận được một bản tin không được chứng thực thành công (bản tin
+bị chứng thực không thành công có thể thuộc nhiều giao thức khác
+nhau như telnet, ssh, snmp, ftp, …). Thông thường trap loại này
+xảy ra là do user đăng nhập không thành công vào thiết bị.
+- egpNeighborloss: thông báo rằng một trong số những “EGP
+neighbor” (Exterior Gateway Protocol ) của thiết bị gửi trap đã bị coi
+là down và quan hệ đối tác (peer relationship) giữa 2 bên không còn
+được duy trì.
+- enterpriseSpecific: thông báo rằng bản tin trap này không thuộc các
+kiểu generic như trên mà nó là một loại bản tin do người dùng tự
+định nghĩa
+       trap đặc thù (specific trap):  do người dùng tự định nghĩa 
+
+8       Report
+
+Error status: số nguyên xác định trạng thái lỗi.
+Giá trị     Tên lỗi      Ý nghĩa
+0       noError        Không có lỗi
+1       tooBig       Kích thước thông tin trả lời vượt quá kích thước PDU
+2       noSuchName    Đối tượng không tồn tại
+3       badValue     Giá trị không phù hợp
+4       readOnly       Không được phép ghi
+5       genErr      Lỗi không xác định
+
+◼ Error index: số nguyên xác định đối tượng (OID) gây lỗi
+VARIABLE BINDINGS
+ Chứa danh sách OID và giá trị tương ứng
+ Mỗi SNMP PDU có thể chứa nhiều variable binding
+
+
+Agent (Tác nhân): Phần mềm được cài đặt trên thiết bị mạng, cung cấp thông tin cho hệ thống quản trị.
+Manager (Trình quản lý): Phần mềm trung tâm thu thập, phân tích thông tin từ các Agent.
+MIB (Management Information Base): Cơ sở dữ liệu chứa thông tin quản lý các đối tượng mạng, được SNMP sử dụng.
+  MIB được thể hiện thành 1 file (MIB file), và có thể biểu diễn thành 1
+  cây (MIB tree).
+   MIB có thể được chuẩn hóa hoặc tự tạo.
+   Một MIB định nghĩa các thuộc tính sau cho mỗi đối tượng:
+      Tên và mã số
+      Kiểu dữ liệu
+      Chú giải đối tượng
+ Ví dụ:
+ Các OID của các hãng tự thiết kế nằm dưới
+iso.org.dod.internet.private.enterprise. Ví dụ : Cisco nằm dưới
+iso.org.dod.internet.private.enterprise.cisco hay 1.3.6.1.4.1.9, Microsoft nằm dưới 
+iso.org.dod.internet.private.enterprise.microsoft 
+hay 1.3.6.1.4.1.311. 
+ Số 9 (Cisco) hay 311 (Microsoft) là số dành riêng cho các công ty do 
+IANA cấp. Nếu Cisco hay Microsoft chế tạo ra một thiết bị nào đó, thì
+thiết bị này có thể hỗ trợ các MIB chuẩn đã được định nghĩa sẵn (như
+mib-2) hay hỗ trợ MIB được thiết kế riêng. Các MIB được công ty nào
+thiết kế riêng thì phải nằm bên dưới OID của công ty đó.
+
+Polling (Thăm dò tuần tự): Phương thức mà thiết bị quản lý (Manager) chủ động gửi yêu cầu định kỳ đến các thiết bị mạng để kiểm tra trạng thái hoặc lấy thông tin.
+Trap: Thông báo tự động do thiết bị gửi về hệ thống quản trị khi có sự kiện bất thường xảy ra.
+RFC (Request for Comments): Bộ tài liệu mô tả tiêu chuẩn kỹ thuật về các giao thức mạng, bao gồm cả SNMP.
+ Community string là một chuỗi ký tự được cài đặt giống nhau trên
+cả SNMP manager và SNMP agent, đóng vai trò như “mật khẩu”
+giữa 2 bên khi trao đổi dữ liệu.
+ Community string có 3 loại: 
+    Read-community: Get-Request
+    Write-Community : Set-Request
+    Trap-Community.
+
+SNMPACL ( access control list ) là một danh sách các địa chỉ IP được phép quản lý/giám
+sát agent, nó chỉ áp dụng riêng cho giao thức SNMP và được cài trên
+agent
+
+
+CHƯƠNG 2: QUẢN TRỊ THIẾT BỊ MẠNG
+Các thuật ngữ, khái niệm cần biết:
+Thiết bị mạng (Network Devices): Các thiết bị phần cứng dùng để kết nối, truyền dữ liệu trong mạng như router, switch, hub, access point...
+Router: Thiết bị định tuyến, kết nối các mạng khác nhau, chuyển tiếp gói tin giữa các mạng.
+ CÁC THÀNH PHẦN CHÍNH CỦA ROUTER
+   ❖Các thành phần bên trong của Router:
+    CPU
+    ROM: Chứa chương trình kiểm tra khởi động (POST- Power On Self Test Definition), 
+Bootstrap (giống BIOS của máy tính) và Mini-IOS (recovery password, upgrade 
+IOS). 
+ Nhiệm vụ chính của ROM là kiểm tra phần cứng khi khởi động, sau đó chép HĐH 
+Cisco IOS từ flash vào RAM. 
+
+    RAM: Lưu trữ routing table, ARP cache, fast-switching cache, packet buffering (shared 
+RAM), và packet hold queues 
+ Đa số HĐH Cisco IOS chạy trên RAM; RAM còn lưu trữ file cấu hình đang chạy 
+của router (running-config).
+    Flash: ưu toàn bộ HĐH Cisco IOS;
+    NVRAM: lưu trữ file cấu hình backup/startup 
+của router (startup-config)
+ Nội dung của NVRAM vẫn được giữ khi tắt nguồn hoặc restart router
+   ❖Các thành phần bên ngoài của Router: 
+    LAN:  Gigabit, Fast Ethernet
+    WAN:  Serial: Có 3 loại kết nối WAN thường 
+      được thuê từ nhà cung cấp 
+      dịch vụ:
+      o Thuê kênh riêng
+      o Kết nối chuyển mạch kênh
+      o Kết nối chuyển mạch gói
+    Console/AUX (Auxiliary – hỗ trợ):  rollover, dùng để cấu hình trực tiếp cho router. 
+Cáp thẳng: 1-1,2-2,3-3,..
+cáp chéo: 1-3,2-6,3-1,4-4,5-5,6-2,7-7,8-8
+Cáp rollover: 1-8,2-7,..
+Cisco IOS cung cấp các dịch vụ mạng như sau: 
+    Định tuyến và chuyển mạch. 
+    Đảm bảo và bảo mật cho việc truy cập vào tài nguyên mạng. 
+    Mở rộng hệ thống mạng.
+
+Vùng tự trị (Autonomous System–AS): 
+ Internet được chia thành các vùng nhỏ hơn gọi là các vùng tự trị. 
+ AS bao gồm tập hợp các mạng con được kết nối với nhau bởi Router
+
+Khoảng cách quản trị - AD (Administrative Distance) 
+ AD được sử dụng để đánh giá độ tin cậy của thông tin định tuyến mà 
+Router nhận từ router láng giềng. 
+ AD là một số nguyên nhận giá trị từ 0(max) đến 255(min)
+Connected-0,static-1,BGP(ex)-20,EIGRP(in)-90,IGRP-100,OSPF-110,IS-IS-115,RIP-120,EIGRP(ex)-170,BGP(in)-200
+
+Metric: 
+ Metric là giá trị dùng để định lượng mức độ tối ưu của 1 đường đi trong
+tính toán định tuyến
+ Đường đi nào có metric nhỏ nhất, đường đi đó được xem là tối ưu nhất
+và được đưa vào bảng định tuyến để được sử dụng
+      RIP thực hiện metric dựa vào số router trên đường đi đến đích gọi là hop-count.
+      o OSPF tính metric dựa vào băng thông (Bandwidth) của các đường truyền.
+      o EIGRP tính metric dựa vào một bộ các thông số khác nhau trên đường đi đến đích
+      như:
+      • Băng thông (Bandwidth)
+      • Độ trễ (delay)
+      • Độ tin cậy (reliability)
+      • Tải (load) của đường truyền
+
+Sự hội tụ mạng (convergence): 
+ Là một đặc tính quan trọng đối với các giao thức định tuyến, đó là các thông tin 
+định tuyến trong các bảng định tuyến của tất cả các Router trong mạng phải 
+cùng chính xác. 
+ Sự hội tụ là tiến trình đưa tất cả các bảng định tuyến của các router vào một 
+trạng thái đồng nhất và chính xác.
+ Thời gian hội tụ: là thời gian cần thiết để chia sẻ thông tin qua mạng và để 
+cho tất cả các Router tính toán tuyến đường tốt nhất của nó
+
+Cân bằng tải (Load balancing) 
+ Mục đích của Load balancing là để sử dụng băng thông của mạng một 
+cách hiệu quả hơn và có thể sử dụng làm tuyến dự phòng trong khi 
+tuyến đường chính bị ngắt. 
+ Nếu một giao thức tìm thấy nhiều tuyến có chi phí bằng nhau, nó sẽ tự 
+động phân chia lưu lượng mạng giữa các tuyến này. 
+
+Switch: Thiết bị chuyển mạch, kết nối các thiết bị trong cùng một mạng nội bộ (LAN).
+Chế độ cấu hình VLAN
+    Switch#vlan database
+❖Thêm mới VLAN
+    Switch(vlan)# vlan VLAN-ID name VLAN-Name
+❖Cập nhật
+    Switch(vlan)# exit
+Gán cổng vào VLAN
+    Switch(config)# interface Interface-ID
+    Switch(config-if)# switchport mode access
+    Switch(config-if)# switchport access vlan VLAN-ID
+    Switch(config-if)# end
+❖Kiểm tra
+    Switch# show vlan brief
+    Switch# show interface Interface-ID switchport
+❖Chú ý:
+    Switch(config)#interface range Interface-ID-range
+    Switch(config-if-range)#
+VTP : VLAN trunking protocol
+❖Chỉ định switch làm VTP server
+    Switch(vlan)#vtp server // Thiết lập chế độ VTP server mode
+    Switch(vlan)#vtp domain Domain-Name //đặt switch vào domain
+❖Chỉ định switch làm VTP client
+    Switch(vlan)#vtp client // Thiết lập chế độ VTP server mode
+    Switch(vlan)#vtp domain Domain-Name //đặt switch vào domain
+❖Gán 1 cổng làm trunking port
+    Switch(config-if)#switchport mode trunk
+    Switch(config-if)#switchport trunk encapsulation isl // đóng gói kiểu isl (hoặc dot1q) để đi qua 
+đường trunk
+    Switch(config-if)#switchport trunk allowed vlan VLAN-ID
+
+Hub: Thiết bị kết nối mạng đơn giản, truyền dữ liệu tới tất cả các cổng.
+Access Point (AP): Thiết bị phát sóng WiFi, kết nối mạng không dây với mạng có dây.
+Cấu hình thiết bị mạng: Quá trình thiết lập thông số, chức năng cho thiết bị mạng hoạt động đúng mục đích.
+Địa chỉ IP (IP Address): Địa chỉ định danh thiết bị trong mạng.
+Giao thức định tuyến (Routing Protocol): Tập hợp các quy tắc giúp thiết bị mạng xác định đường đi tối ưu cho dữ liệu.
+Định tuyến tĩnh (Static Routing): Hình thức cấu hình sẵn đường đi của dữ liệu, do quản trị viên thiết lập thủ công.
+Định tuyến động (Dynamic Routing): Thiết bị tự động tìm và cập nhật đường đi nhờ các giao thức định tuyến động.
+Default Gateway: Cổng mặc định để thiết bị truy cập ra ngoài mạng nội bộ.
+CLI (Command Line Interface): Giao diện dòng lệnh, nơi nhập lệnh cấu hình thiết bị mạng.
+Router> User chỉ có khả năng hiển thị các thông số cấu hình 
+      trên router. 
+      Không thể cấu hình để thay đổi các thông số cấu hình 
+      và hoạt động của router.
+Router# có thể nhìn thấy file cấu hình và thay đổi các tham số 
+   cấu hình trên file cấu hình đó
+Router(config)# Chuyển người dùng vào chế độ Global Configuration. 
+      Có thể cấu hình những thay đổi cho router
+Router# ? Hiển thị tất cả các câu lệnh có khả năng thực thi ở chế độ hiện thời
+Router# c? Hiển thị tất cả các câu lệnh bắt đầu từ ký tự c
+Router# clock
+% Imcomplete command: Nhắc nhở sẽ còn nhiều tham số khác nữa của câu lệnh này mà cần phải nhập vào.
+Router# clock ?
+Set: Hiển thị tất cả các câu lệnh phụ của câu lệnh này (trong trường hợp này, Set, dùng để đặt các tham số ngày tháng, và thời gian)
+Ctrl – A Di chuyển con trỏ về đầu dòng
+Esc – B Di chuyển con trỏ về trước một từ
+Ctrl – B Di chuyển con trỏ trước một ký tự
+Ctrl – E Di chuyển con trỏ về cuối dòng
+Ctrl – F Di chuyển con trỏ về sau một ký tự
+Esc – F Di chuyển con trỏ về sau một từ
+Ctrl – Z Di chuyển con trỏ từ mọi chế độ cấu hình trở về chế độ 
+cấu hình Privileged
+Router# terminal no editing Tắt khả năng sử dụng các phím tắt
+Router# terminal editing Bật lại khả năng sử dụng các phím tắt và sử dụng các tổ 
+      hợp phím trong quá trình xử dụng câu lệnh
+Router# show version Hiển thị các thông tin về phần mềm Cisco IOS hiện thời
+Router# show flash Hiển thị các thông tin về bộ nhớ Flash
+Router# show history Hiển thị các câu lệnh đã được lưu trữ trong bộ đệm history
+Router#show ? Hiển thị tất cả các câu lệnh show có khả năng thực thi
+Router#show interfaces Hiển thị trạng thái cho tất cả các Interface
+Router#show interface serial 0/0/0 Hiển thị trạng thái cho một interface đã được chỉ ra
+Router#show ip interface brief Hiển thị các thông tin tổng quát nhất cho tất cả các interface
+Router#show controllers serial 0/0/0 Hiển thị các thông tin về phần cứng của một interface.
+Router#show clock Hiển thị thời gian đã được cấu hình trên router.
+Router#show hosts Hiển thị bảng host (bảng ánh xạ giữa địa chỉ IPvới host name).
+Router#show protocol xem trạng thái của các giao thức được định tuyến (routed 
+protocol) ở layer 3 đang chạy trên router
+Router#show user danh sách các “user” đã kết nối tới router 
+Router#show cdp interfaces xem trạng thái của tất cả các interface đang chạy CDP 
+
+CDP (Cisco Discovery Protocol) là một giao thức hoạt động tại layer 
+2 của mô hình OSI → giúp các thiết bị chia sẻ các thông tin cấu hình 
+cơ bản cho nhau. 
+❖CDP không phải là giao thức định tuyến. 
+Router#show cdp interfaces xem trạng thái của tất cả các interface đang chạy CDP 
+Router#show cdp neighbors thông tin về các „hàng xóm‟ đang được kết nối trực tiếp tới 
+Router này
+Router#show cdp neighbors detail: thông tin chi tiết hơn về các “hàng xóm” được kết nối trực 
+   tiếp tới Router này
+Router(config)# enable password cisco Cấu hình enable password
+Router(config)# enable secret class Cấu hình password mã hóa của chế độ enable.
+Router(config)# line console 0 Vào chế độ line console
+Router(config-line)# password console   Cấu hình password cho line console
+Router(config-line)# login   Cho phép kiểm tra password khi login vào router bằng port console
+Router(config)# line vty 0 4   Vào chế độ line vty để cho phép telnet
+Router(config-line)# password telnet   Cấu hình password để cho phép telnet
+Router(config-line)# login   Cho phép kiểm tra password khi người dùng telnet vào router
+Router(config)# line aux 0   Vào chế độ line auxiliary
+Router(config-line)# password backdoor   Cấu hình password cho line aux
+Router(config-line)# login   Cho phép router kiểm tra password khi người dùng login vào router thông qua port AUX
+Router(config)# service password encryption Khi câu lệnh được thực thi trên router hoặc switch thì tất cả các loại password
+      trên router hoặc switch đó sẽ được mã hóa. (Trừ enable secret password)
+Router(config)# enable password abc123 Cấu hình enable password là abc123
+Router(config)# line console 0
+Router(config-line)# password abc1234
+Router(config-line)# login
+      Cấu hình password cho line console là
+      abc1234
+Router(config)# no service passwordencryption Tắt tính năng mã hóa password trên router hoặc switch
+❖Cấu hình định tuyến tĩnh :
+ Router(config)#ip route DestinationNet Netmask OutgoingPort
+❖Xóa 1 đường định tuyến tĩnh:
+ Router(config)#no ip route DestinationNet Netmask OutgoingPort
+❖Chế độ cấu hình định tuyến
+ Router(config)#router Protocol
+ Router(config-router)#network Network-Address
+VLAN (Virtual LAN): Mạng LAN ảo, chia mạng nội bộ thành các phân vùng logic khác nhau.
+
+ Giao thức định tuyến động (Dynamic Routing)
+Phân loại theo giải thuật:
+Khoảng cách véc-tơ (Distance-Vector): Gửi toàn bộ bảng định tuyến định kỳ cho các láng giềng. Sử dụng các bộ định thời (timer) để tránh vòng lặp
+Ví dụ: RIP, IGRP
+Trạng thái đường truyền (Link-State): Duy trì cơ sở dữ liệu cấu hình mạng phức tạp, sử dụng thuật toán SPF (Shortest Path First) hay Dijkstra
+Ví dụ: OSPF
+Lai ghép (Hybrid): Kết hợp đặc điểm của cả hai loại trên. Ví dụ: EIGRP
+Giao thức RIP (Routing Information Protocol) cần lưu ý:
+Cập nhật định kỳ mỗi 30 giây
+Chỉ số đo (Metric): Hop count (số bước nhảy)
+Giới hạn Hop count tối đa là 15 (16 được coi là không thể tới)
+RIPv1: Định tuyến Classfull (không gửi kèm subnet mask)
+RIPv2: Định tuyến Classless (hỗ trợ VLSM - độ dài subnet mask thay đổi)
+Lệnh cấu hình: router rip và network [địa chỉ mạng lớp A/B/C]
+
+2.5. Cấu hình một số dịch vụ mạng
+1. Hệ thống tên miền (DNS):
+Giao thức và cổng: Hoạt động tại lớp ứng dụng, sử dụng giao thức UDP, cổng 53
+Các loại bản ghi (Resource Records):
+   A (Address): Ánh xạ tên host sang địa chỉ IP
+   MX (Mail Exchanger): Xác định máy chủ thư điện tử, có giá trị ưu tiên (priority) (số càng nhỏ độ ưu tiên càng cao)
+   CNAME (Canonical Name): Tạo tên bí danh (alias), thường dùng cho web hosting
+   NS (Name Server): Chuyển quyền quản lý tên miền xuống DNS cấp thấp hơn
+   PTR (Pointer): Chuyển đổi từ IP sang tên miền (truy vấn ngược)
+Phân loại Server: Primary (nguồn xác thực chính), Secondary (dự phòng, lấy dữ liệu từ Primary), Caching-only (chỉ lưu cache)
+Đồng bộ dữ liệu (Zone Transfer): AXFR (truyền toàn bộ), IXFR (truyền phần thay đổi)
+Khi cài đặt xong DNS, những thành phần nào có trong DNS?
+Forward Lookup Zones, Reverse Lookup Zones, Event 
+Chức năng của Forward Lookup Zones trong DNS là? Chứa tất cả 
+các Zone thuận của dịch vụ DNS, zone này được lưu tại máy
+Một nút trong DNS name space quy định tối đa bao 
+nhiêu ký tự? 63
+2. Dịch vụ cấp IP động (DHCP):
+Chức năng: Tự động cấp địa chỉ IP, Subnet mask, Default Gateway và địa chỉ DNS cho máy trạm
+Quy trình: Client yêu cầu IP từ Server, Server chọn một IP từ dãy địa chỉ (Pool) và cho thuê (Lease) trong một khoảng thời gian
+
+3. Dịch vụ Proxy và NAT:
+Proxy: Hoạt động ở mức ứng dụng, có chức năng Caching để tăng tốc độ truy cập và giảm băng thông
+Cache thụ động (Passive): Chỉ lưu đối tượng khi có yêu cầu
+Cache chủ động (Active): Tự động cập nhật các đối tượng thường xuyên được yêu cầu
+NAT (Network Address Translation): Chuyển đổi địa chỉ IP dùng riêng (Private) sang IP công cộng (Public) để ra Internet
+Dải IP Private: 10.x.x.x, 172.16.x.x - 172.31.x.x, 192.168.x.x
+
+4. Dịch vụ truy cập từ xa (Remote Access):
+Sử dụng giao thức PPP (Point-to-Point Protocol) là phổ biến nhất
+Xác thực: PAP (gửi mật khẩu dạng text, không an toàn) và CHAP (sử dụng cơ chế challenge/response, an toàn hơn)
+
+
+Chương 3: Quản trị hệ thống Windows Server
+Các thuật ngữ, khái niệm cần biết:
+Windows Server: Hệ điều hành máy chủ của Microsoft, cung cấp các dịch vụ và chức năng quản lý mạng cho doanh nghiệp.
+Active Directory (AD):
+    Là một kiến trúc độc quyền của Microsoft. 
+    Là một dịch vụ thư mục không thể thiếu trên Windows Server.
+    quản trị tập trung tất cả các đối tượng trong vùng gồm: người dùng, máy 
+   tính, các thiết bị khác, thư mục chia sẻ
+❖Các thành phần trong dịch vụ thư mục (Directory Services)
+    Objects:  Dữ liệu trong Active Directory như là thông tin users, máy in, server, database, 
+   groups, computers và security policies được tổ chức như các objects
+    Attribute
+    Schema: Định nghĩa các đối tượng và các thuộc tính mà dịch vụ thư mục sử dụng để lưu 
+   trữ dữ liệu. Là của danh bạ AD
+    Container: là object đặc biệt bao gồm nhiều object khác bên trong.
+    VD: domain là một container bao gồm nhiều user account và computer 
+   account.
+
+Active Directory Schema
+ Schema được định nghĩa gồm 2 loại đối tượng (object) là: 
+   o Schema Class objects:
+• Có chức năng như một template cho việc tạo mới các đối tượng trong AD. 
+• Mỗi Schema Class là một tập hợp các thuộc tính của đối tượng (Schema Attribute 
+Objects). 
+• Khi tạo một đối tượng thuộc về một loại Schema Class thì Schema Attribute sẽ 
+lưu trữ các thuộc tính của đối tượng đó tương ứng với loại Schema Class của đối 
+tượng.
+   o Schema Attribute objects
+• Định nghĩa các Schema Class tương ứng với nó. 
+• Mỗi thuộc tính chỉ được định nghĩa một lần trong AD và có thể thuộc nhiều Schema 
+Class theo quan hệ một nhiều (1-m)
+
+Kiến trúc AD logic
+ Domain:
+o Cốt lõi của kiến trúc tổ chức luận lí trong AD chính là Domain, nơi lưu trữ hàng triệu 
+đối tượng (objects). 
+o Tất cả các đối tượng trong hệ thống mạng trong một domain thì do chính domain đó 
+lưu trữ thông tin của các đối tượng. 
+o Active Directory được kiến tạo bởi một hay nhiều domain
+o Một domain có thể triển khai trên nhiều physical structure. 
+o Việc truy xuất vào domain được quản trị thông qua Access Control Lists (ACLs), 
+quyền truy xuất trên domain tương ứng với từng đối tượng. 
+
+ OU (Organizational Unit):
+o Là một container được dùng để tổ chức các đối 
+tượng (user accounts, groups, computers) trong 
+một domain thành các nhóm quản trị luận lí 
+(logical). 
+o Cung cấp phương tiện thực hiện các tác vụ quản 
+trị trong hệ thống như là quản trị user và 
+resources
+
+ Trees: Là tập hợp nhiều domain, được tổ chức theo cấu trúc hình cây với mô hình parent-child
+ Forests: Là tập hợp nhiều domain có mối quan hệ tin cậy. Một forest phải đảm bảo thoả các đặc tính sau:
+   • Toàn bộ domain trong forest phải có 1 schema chia sẻ chung.
+   • Các domain trong forest phải có 1 global catalog chia sẻ chung. 
+   • Các domain trong forest phải có mối quan hệ trust 2 chiều với nhau. 
+   • Các tree trong 1 forest phải có cấu trúc tên(domain name) khác nhau. 
+   • Các domain trong forest hoạt động độc lập với nhau, tuy nhiên hoạt động của forest là hoạt 
+   động của toàn bộ hệ thống tổ chức doanh nghiệp.
+
+Kiến trúc AD vật lý
+   Site: là thuật ngữ được dùng đến khi nói về vị trí địa lý của các domain trong hệ 
+thống. 
+o Khi hệ thống các domain được phân tán ở những vị trí địa lý, những nơi khác 
+nhau và có quan hệ với nhau thì những nơi đặt các domain này chính là các 
+Site. 
+
+   Domain Controller (DC):
+o là 1 máy tính hay server chuyên dụng được setup Windows Server 
+o Có bản sao của Active Directory
+o Chịu trách nhiệm phản hồi yêu cầu trong domain
+o Xác thực người dùng đăng nhập vào hệ thống
+
+3.2.4. QUẢN TRỊ ACTIVE DIRECTORY
+Active Directory Domain Server (AD DS) cung cấp các chức năng của giải pháp xác
+nhận và truy cập (Identity and Access-IDA) cho mạng.
+❖ IDA có nhiệm vụ duy trì an ninh cho nguồn tài nguyên của mạng như file, e-mail,
+ứng dụng và cơ sở dữ liệu.
+❖ Cơ sở hạ tầng của IDA gồm:
+ Lưu trữ thông tin về người dùng, nhóm, máy tính và các đối tượng định danh khác.
+ Xác thực đối tượng định danh: Máy chủ sẽ không cấp quyền truy cập tài liệu cho
+người dùng trừ khi hệ thống xác thực được đối tượng đó là hợp lệ và có thông tin
+trong hệ thống.
+ Điều khiển truy cập: IDA chịu trách nhiệm bảo vệ sự bí mật thông tin.
+ Lưu vết: IDA cung cấp cơ chế kiểm soát các thay đổi và hoạt động diễn ra trong hệ thống.
+
+❖Khônggiantên: lànơimà1têncóthểđượcphângiải.KhônggiantêncủaAD
+dựatrênkhônggiantêncủaDNS.
+❖Phângiải tên: làquytrìnhchuyểnđổi từmột tênthànhcácđối tượnghaycác
+thôngtinmàtênđóthểhiện.
+❖Quytắcđặttên:
+ Mỗi đối tượng trong AD sẽ có DN(DistinguishedName)
+ DN là duy nhất và xác định một đối tượng.
+
+User Account: Tài khoản người dùng, cho phép truy cập tài nguyên và dịch vụ trong hệ thống.
+Phân loại:
+   o Local user account: Được tạo ra trên máy cục bộ (không thể tạo ra trên máy DC)
+   Tạo tài khoản cục bộ với công cụ Local Users and Group trong Computer
+   Management (COMPMGMT.MSC).
+   ❖ Các tài khoản cục bộ (tạo ra trên máy stand-alone server, member server hoặc các
+   máy trạm) đều được lưu trữ trong tập tin cơ sở dữ liệu SAM (Security
+   Manager) tại thư mục \Windows\system32\config.
+   Khởi động trình quản lý Local user and Group
+    Cách 1: click chuột phải lên Computer (This PC hoặc My Computer) →
+   Manager → System tools → Local User and Group.
+    Cách 2: Vào Run → gõ MMC (Microsoft Management Console)
+   o Tại cửa sổ MMC vào File → Add/Remove Snap-in (hoặc nhấn tổ hợp phím Ctrl+M) →
+   Computer management → nhấn add → Local computer → Finish → OK →
+   System tools → Local User and Group
+    Cách 3: Vào Run → gõ lusrmgr.msc 
+
+o Domain user account: Được tạo ra với công cụ Active Directory Users and Computer (DSA.MSC).
+❖ Chứa trong tập tin NTDS.DIT, mặc định chứa trong thư mục \Windows\NTDS.
+Yêu cầu về Username:
+ Từ 1 đến 20 ký tự
+ Không chứa các ký tự : “ / \ [ ] : ; | = , + * ? < >
+ Có thể chứa các ký tự đặc biệt: dấu chấm câu, khoảng trắng, dấu gạch ngang,
+dấu gạch dưới.
+o Nên tránh các khoảng trắng vì những tên như thế phải đặt trong dấu ngoặc
+khi dùng các kịch bản hay dòng lệnh.
+❖ Tên của người dùng và nhóm không được trùng nhau.
+
+Group (Nhóm): Tập hợp người dùng hoặc tài khoản, giúp phân quyền truy cập dễ dàng.
+Tài khoản nhóm (Group Account): 2 loại
+ Nhóm an ninh (Security Group): 
+   o Dùng cho những việc có liên quan đến an ninh, ví dụ gán quyền truy nhập tài nguyên.
+   o Có thể dùng như là danh sách để gửi thông báo e-mail cho nhiều người
+   o Được chỉ định SID (Security Identifier)
+ Nhóm phân phối (Distribution Group)
+   o Dùng như là 1 danh sách với các chức năng không có tính chất an ninh như là gửi 
+   email cho 1 nhóm người dùng
+   o Không thể dùng để gán quyền
+   o Không có SID 
+   o Không xuất hiện trong các ACL (Access Control List).
+
+ Có 4 loại phạm vi của Group:
+   -Local Group: Là nhóm cục bộ trên máy tính, có phạm vi hoạt động trên máy cục bộ đó
+   -Global Group: Dùng để cấp phát các quyền hệ thống và quyền truy cập cho người dùng vượt 
+qua ranh giới của một miền
+   -Domain local Group: Là nhóm cục bộ đặc biệt, chính là nhóm Local Group trên các máy DC. Các 
+máy DC sẽ chia sẻ và đồng bộ các nhóm Domain local này với nhau 
+   -Universal Group: Chức năng giống nhóm Global Group, nhưng phạm vi hoạt động rộng lớn hơn, 
+giữa các rừng, các miền có quan hệ tin cậy với nhau
+
+Qui tắc gia nhập nhóm 
+ Tất cả các nhóm Domain local, Global, Universal đều có thể đặt vào trong 
+nhóm Local.
+ Tất cả các nhóm Domain local, Global, Universal đều có thể đặt vào trong 
+chính loại nhóm của mình.
+ Nhóm Global và Universal có thể đặt vào trong nhóm Domain local.
+ Nhóm Global có thể đặt vào trong nhóm Universal
+
+3.3.3. CHỨNG THỰC VÀ KIỂM SOÁT TRUY CẬP
+❖Các thông tin của một đối tượng AD trong bộ mô tả bảo mật được
+xem là mục kiểm soát hoạt động truy cập ACE (Access Control
+Entry).
+❖Một ACL (Access Control List) chứa nhiều ACE
+❖ACL là danh sách tất cả người dùng và nhóm có quyền truy cập đến
+đối tượng.
+❖ACL có đặc tính kế thừa: thành viên của một nhóm thì được thừa
+hưởng các quyền truy cập đã cấp cho nhóm này
+
+❖ Lệnh net user
+net user [username [password | *] [options]] [/domain] 
+❖ Lệnh net group
+net group [groupname [/comment:"text"]] [/domain] 
+❖ Lệnh net localgroup
+net localgroup [groupname [/comment:"text"]] [/domain]
+❖ Các lệnh hỗ trợ dịch vụ Active Driectory trong môi trường Windows Server 2016: 
+dsadd, dsrm, dsmove, dsget, dsmod, dsquery
+
+3.4.1. CHÍNH SÁCH HỆ THỐNG (SYSTEM POLICY)
+a. CHÍNH SÁCH TÀI KHOẢN NGƯỜI DÙNG
+ Dùng để chỉ định các thông số về tài khoản người dùng mà nó được sử dụng khi 
+tiến trình login xảy ra
+ Cho phép cấu hình các thông số bảo mật máy tính cho mật khẩu, khóa tài 
+khoản và chứng thực Kerberos trong miền.
+
+ Trên máy trạm:
+o Windows + R, gox secpol.msc trong hộp thoại Run
+ Trên Windows Server làm DC 
+o Server manager → Tools → Local Security Policy.
+
+b. CHÍNH SÁCH CỤC BỘ (LOCAL POLICIES)
+❖Cho phép thiết lập các chính sách giám sát các đối tượng trên mạng 
+(người dùng và tài nguyên dùng chung).
+❖Có thể cấp quyền hệ thống cho các người dùng và thiết lập các lựa 
+chọn bảo mật.
+❖Gồm có 
+ Chính sách kiểm toán 
+ Quyền hệ thống của người dùng 
+ Các lựa chọn bảo mật
+
+3.4.2. CHÍNH SÁCH NHÓM (GROUP POLICY)
+❖Group Policy chỉ xuất hiện trên hệ thống miền Active Directory
+❖Cung cấp các tính năng quản lý, bảo mật vượt trội hơn so với 
+System Policy
+❖Có thể triển khai ở nhiều cấp độ như Site, Domain, Organizational 
+Unit
+
+❖So sánh giữa System Policy và Group Policy
+ Chính sách nhóm làm được nhiều điều hơn chính sách hệ thống.
+o Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
+o Có thể dùng chính sách nhóm để triển khai một phần mềm cho 1 hoặc nhiều máy
+1 cách tự động.
+ Chính sách nhóm tự động hủy bỏ tác dụng khi được gỡ bỏ, không giống như các
+chính sách hệ thống.
+ Chính sách nhóm được áp dụng thường xuyên hơn chính sách hệ thống.
+o Các chính sách hệ thống chỉ được áp dụng khi máy tính đăng nhập vào mạng.
+o Các chính sách nhóm được áp dụng khi bật máy lên, khi đăng nhập vào một
+cách tự động vào những thời điểm ngẫu nhiên trong suốt quá trình làm việc
+
+❖Có 2 dạng GPO:
+ Local GPO: lưu trên từng máy
+ Nonlocal GPO: lưu trên Active Director
+
+SỰ THỪA KẾ CHÍNH SÁCH NHÓM 
+❖Thứ tự thừa kế chính sách nhóm 
+ Local 
+ Site 
+ Domain 
+ Organizational Unit 
+❖Các thiết lập có tính tích lũy (cumulative) 
+❖Nếu có xung đột thì không thừa kế 
+❖Có thể cấm sự thừa kế (block inheritance) hay buộc thừa kế (No 
+override)
+
+LOCAL GROUP POLICY
+❖Group Policy có thể áp dụng lên local computer hay môi trường 
+domain.
+❖Group Policy trên local computer được gọi là Local Group Policy 
+(local policy)
+gồm 2 phần:
+ Computer Configuration: nếu thiết lập các policy trong phần này thì đối tượng
+bị tác động là computer và user account
+ User Configuration: đối tượng bị tác động là user account.
+
+File Server: Máy chủ lưu trữ và chia sẻ tệp tin trong mạng.
+Khi thư mục được chia sẻ,
+Windows sẽ có 2 hệ thống để
+kiểm soát việc sử dụng của người
+dùng trên mạng:
+ Hệ thống kiểm soát việc sử dụng tài
+nguyên chia sẻ, gọi tắt là quyền chia
+sẻ (share permission)
+ Hệ thống kiểm soát việc sử dụng tài
+nguyên trên hệ thống NTFS, gọi tắt là
+quyền NTFS (NTFS permission): Có 2 loại hệ thống tập được dùng cho partition và volume cục bộ:
+ FAT- File Allocation Table (bao gồm FAT16 và FAT32)
+o FAT partition không hỗ trợ bảo mật nội bộ
+o Nếu đĩa cứng định dạng là FAT thì mọi người đều có thể thao tác trên các file chứa trên
+đĩa cứng này.
+ NTFS- NewTechnology File System
+o NTFS partition có hỗ trợ bảo mật
+o Nếu đĩa cứng định dạng NTFS thì tùy theo người dùng có quyền truy cập không, nếu
+người dùng không có quyền thì không thể nào truy cập được dữ liệu trên đĩa.
+o Để quản lý được linh hoạt, hệ thống quyền trong NTFS được chia thành nhiều mức độ
+khác nhau.
+o Khi thực hiện cấp quyền, có thể cấp cho người dùng các mức độ khác nhau.
+
+❖Hệ thống NTFS gồm hai loại quyền: basic và advanced (14 quyền
+advanced, 6 quyền basic)
+ Quyền advanced: là các quyền sử dụng được chia theo nhiều mức độ khác nhau. (14 Special permission)
+    Full Control: Cho phép người dùng đọc, viết, thay đổi và xóa các tập tin và thư mục 
+   con. Ngoài ra, người dùng có thể thay đổi cài đặt quyền cho tất cả các tập tin và thư 
+   mục con.
+    Traverse Folder /Execute File: Quyền nhảy cấp (tại thư mục này không có quyền 
+   nhưng lại có quyền tại thư mục bên trong)
+    List Folder / Read Data: đi và thư mục + đọc tài nguyên trong thư mục đó
+    Read Attributes(Đọc thuộc tính): thuộc tính Read, System, Hie, Achive…
+    Read Extended Attributes (Đọc thuộc tính mở rộng): thuộc tính nén, mã hóa v.v…
+    Create Files / Write Data: Tạo tài nguyên + Chỉnh sửa tài nguyên.
+    Create Folders / Append Data: Tạo + sửa tên folder và ghi nối tiếp vào dữ liệu 
+   trên file.
+    Write Attributes: Ghi thuộc tính (thêm bớt dữ liệu trên file)
+    Write Extended Attributes: Ghi thuộc tính mở rộng (thêm bớt dữ liệu trên file 
+   nén, mã hóa…)
+    Delete Subfolders and Files: Xóa folder con và file bên trong subfolder.
+    Delete: Xóa tài nguyên.
+    Read Permissions: Đọc được quyền.
+    Change Permission: Cho phép thay đổi lại quyền.
+    Take Ownership: Đi cướp quyền khi user(Adminisrator) đó không có quyền trên tài 
+   nguyên
+ Quyền basic: dựa trên nhu cầu sử dụng thực tế của người dùng, hệ thống sẽ
+kết hợp một số quyền advanced để tạo thành quyền basic (6 Quyền)
+    Full controll (Kiểm soát hoàn toàn): Cho phép người dùng đọc, viết, thay đổi và 
+   xóa các tập tin và thư mục con. Ngoài ra, người dùng có thể thay đổi cài đặt quyền 
+   cho tất cả các tập tin và thư mục con.
+    Modify (Sửa đổi): Cho phép người dùng đọc và ghi các tệp và thư mục con; cũng 
+   cho phép xóa thư mục.
+    Read & execute (Đọc và thực thi): Cho phép người dùng xem và chạy các tệp thực 
+   thi, bao gồm các tập lệnh.
+    List folder contents (Liệt kê nội dung thư mục): Cho phép xem và liệt kê các tập 
+   tin và thư mục con cũng như thực thi các tập tin; chỉ được kế thừa bởi các thư mục.
+    Read (Đọc): Cho phép người dùng xem thư mục và nội dung thư mục con.
+    Write (Viết): Cho phép người dùng thêm tệp và thư mục con, cho phép user ghi vào 
+   tệp.
+
+
+
+❖Windows sử dụng ACL (Access Control List: danh sách kiểm soát truy cập)
+để kiểm soát việc truy cập và sử dụng một tài nguyên.
+❖Mỗi tài nguyên sẽ có một ACL đi kèm.
+❖ACL chứa các quyền truy cập và sử dụng của người dùng, nhóm người
+dùng (gọi chung là người dùng).
+❖Một ACL gồm nhiều ACE (Access Control Entry: danh mục kiểm soát truy
+cập).
+❖Một ACE gồm tên người dùng và các quyền của người dùng đó
+
+Disk Management: Công cụ quản lý ổ đĩa, phân vùng trên Windows Server.
+Partition: Phân vùng ổ đĩa.
+Volume: Phần không gian lưu trữ được định dạng để sử dụng.
+Service (Dịch vụ mạng): Các dịch vụ như DHCP, DNS, File Server, giúp mạng hoạt động.
+Backup: Sao lưu dữ liệu để phòng ngừa sự cố.
+Restore: Phục hồi dữ liệu từ bản sao lưu sau sự cố.
+
+ Khi sao chép 1 thư mục đã được chia sẻ thì thư mục nguồn vẫn được chia sẻ
+nhưng thư mục copy thì không.
+ Khi di chuyển thư mục đến chỗ khác thì thư mục không được chia sẻ nữa.
+
+❖Một số quy tắc được áp dụng khi cấp quyền:
+ Quyền Allow được cộng dồn (tích lũy): nếu người dùng nhận được các
+quyền Allow từ nhiều nguồn khác nhau, thì các quyền đó sẽ được kết hợp lại.
+ Quyền Deny có độ ưu tiên cao hơn quyền Allow: khi người dùng nhận được
+quyền Allow do kế thừa, hoặc nhận được do là thành viên của nhóm người dùng,
+bạn vẫn có thể vô hiệu các quyền đó bằng cách gán quyền Deny tương ứng.
+ Quyền gán công khai có độ ưu tiên cao hơn: khi người dùng nhận được
+quyền do kế thừa hoặc do là thành viên của nhóm người dùng, bạn có thể vô
+hiệu hóa các quyền đó bằng cách gán quyền công khai.
+
+❖Quyền NTFS là tích luỹ
+❖Quyền File át quyền thư mục
+❖Quyền từ chối (Deny) mạnh hơn quyền khá
+Thao tác,Vị trí đích,Kết quả về quyền
+Copy,Cùng phân vùng,Thừa hưởng từ thư mục đích
+Copy,Khác phân vùng,Thừa hưởng từ thư mục đích
+Copy,Phân vùng Non-NTFS,Mất hoàn toàn quyền NTFS
+Thao tác,Vị trí đích,Cơ chế về quyền
+Move,Cùng phân vùng,Giữ nguyên quyền từ thư mục gốc
+Move,Khác phân vùng,Thừa hưởng quyền từ thư mục đích
+Move,Phân vùng Non-NTFS,Mất toàn bộ quyền NTFS
+
+
+
+Chương 4: Bảo mật mạng
+Liên minh Viện thông Quốc tế (ITU):
+ “Bảo mật mạng là tập hợp các công cụ, chính sách, khái niệm về bảo mật, 
+hướng dẫn, phương pháp quản lý rủi ro, phản ứng, đào tạo, diễn tập, thiết bị và 
+công nghệ có thể được dùng để bảo vệ hệ thống mạng và tài sản"
+
+Bảo mật mạng (Network Security): Tập hợp các biện pháp nhằm đảm bảo an toàn cho dữ liệu và tài nguyên mạng, ngăn chặn truy cập trái phép và các cuộc tấn công mạng.
+
+CÁC YẾU TỐ ĐẢM BẢO AN TOÀN THÔNG TIN
+Tính bí mật (Confidentiality): Đảm bảo thông tin chỉ người có quyền mới được truy cập.
+Tính toàn vẹn (Integrity): Đảm bảo dữ liệu không bị thay đổi, chỉnh sửa trái phép.
+Tính sẵn sàng (Availability): Đảm bảo hệ thống và dữ liệu luôn sẵn sàng khi cần thiết.
+Tính chính xác: Thông tin phải chính xác, tin cậy
+Tính không khước từ (chống chối bỏ): Thông tin có thể kiểm chứng
+được nguồn gốc hoặc người đưa tin
+
+Tấn công mạng (Cyber Attack): Hành động cố ý xâm nhập, phá hoại hoặc lấy cắp dữ liệu mạng.
+Nguy cơ = Mối đe dọa(Threat) + Lỗ hổng hệ thống
+
+TẤN CÔNG QUÉT MẠNG 
+❖Các kiểu Scanning:
+Phòng Chống Ping Sweep 
+Hầu hết các hệ thống IDS 
+(Instruction Detect System) 
+đều có thể nhận biết được 
+dạng tấn công Ping Sweep 
+và gửi cảnh báo về cho 
+quản trị hệ thống mạng.
+ Port Scanning: Kẻ tấn công sẽ gửi một loạt các thông điệp đến mục tiêu nhằm
+xác định các cổng đang mở, và thông qua các cổng này → sẽ biết được có những
+dịch vụ nào đang chạy trên máy tính mục tiêu. Một trong các ứng dụng port
+scanning phổ biến là Nmap.
+- Komodiapacketcrafter cho phép thiết
+lập các giá trị flag thích hợp của gói tin
+cũng như số hiệu port muốn kiểm tra khi
+gởi từ máy tính có IP 192.168.168.10 đến
+máy tính 192.168.168.11
+ Vulnerability Scanning: Là quá trình quét lỗi nhằm xác định ra các lỗ hổng bảo
+mật của các ứng dụng hay máy chủ, máy trạm → đưa ra các phương án tấn
+công thích hợp. Tiến trình quét lỗi có thể xác định được các bản cập nhật hệ
+thống bị thiếu, hay những lỗi hệ thống chưa được vá. (Các chuyên gia bảo mật
+cũng thường tiến hành vulnerability scanning trong công tác bảo vệ hệ thống
+mạng của mình)
+ Network Scanning: Quá trình này dùng để xác định các máy đang hoạt động
+trên hệ thống mạng (thường được các hacker, chuyên gia bảo mật hay những
+quản trị hệ thống thực hiện)
+Phòng chống quét cổng
+ Các hệ thống cần triển khai firewall và thiết lập các chính sách ngăn chặn những 
+tín hiệu dò tìm hay khởi tạo kết nối không hợp lệ.
+ Triển khai IDS để phát hiện dấu hiệu khi bị quét cổng.
+ Che dấu các cổng mở như một số hệ thống tường lửa có chức năng hidden port. 
+ Chỉ mở các cổng cần thiết cho quá trình vận hành, đối với các dịch vụ không 
+hoạt động → đóng những cổng liên quan.
+
+TẤN CÔNG GIẢ MẠO ĐỊA CHỈ IP
+❖ Một hacker có thể giả mạo địa chỉ IP khi quét máy hệ thống để hạn chế thấp nhất 
+khả năng bị phát hiện.
+❖ Source routing cho phép kẻ tấn công chỉ định việc định tuyến một gói tin có
+thông qua Internet. Điều này cũng có thể giảm thiểu cơ hội phát hiện bằng cách bỏ
+qua IDS và tường lửa
+❖Biện pháp đối phó
+ Để phát hiện giả mạo địa chỉ IP, có thể so sánh thời gian sống (TTL) các giá trị:
+TTL của kẻ tấn công sẽ khác với TTL của địa chỉ giả mạo.
+
+TẤN CÔNG CHIẾM QUYỀN MÁY CHỦ
+❖Session Hijacking là hình thức tấn công vào phiên làm việc giữa client và
+server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác
+thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc
+này.
+❖Phân biệt Spoofing và Hijacking: trong tình huống tấn công spoofing các
+hacker sẽ nghe lén dữ liệu truyền trên mạng từ người gởi đến nơi nhận sau
+đó sử dụng các thông tin thu thập được giả mạo địa chỉ (hoặc sử dụng
+ngay các địa chỉ đã lấy trộm) nhằm qua mặt các hệ thống kiểm tra. Trong
+khi đó hình thức tấn công hijacking sẽ làm cho kết nối của nạn nhân đến
+máy chủ bị ngắt khi đã xác thực thành công sau đó cướp lấy phiên làm việc
+này của người dùng nhằm vượt qua bước kiểm tra của máy chủ.
+Quá trình tấn công Session Hijacking gồm 3 bước: 
+ Dò tìm Session: Hacker sẽ dò tìm các session đang mở và tính toán giá
+trị tuần tự của gói tin tiếp theo.
+ Tái đồng bộ kết nối: Hacker gửi các tín hiệu TCP reset (RST) hay FIN để
+yêu cầu khởi động lại quá trình kết nối đồng thời đóng phiên làm việc cũ.
+ Chèn các packet tấn công: lúc này hacker sẽ gửi đến máy chủ những gói
+tin TCP với số hiệu tuần tự đã được tính toán thích hợp với phiên làm việc
+do đó máy chủ sẽ chấp nhận những thông tin này giống như là các dữ
+liệu hợp lệ tiếp theo của người dùng bị tấn công.
+Một số công cụ tấn công Session Hijacking: 
+ Juggernaut: chuyên bắt giữ (sniff) các TCP 
+session trong môi trường mạng hoạt động với 
+hub
+ Hunt: giả mạo địa chỉ MAC với cơ chế ARP 
+spoofing, reset và giám sát các kết nối, nghe 
+lén đường truyền.
+ Burp Suite: có khả năng thay đổi dữ liệu trên 
+quá trình truyền, đánh cướp session hay giả 
+mạo cả các chứng chỉ điện tử dùng trong xác 
+thực https
+
+Malware: Phần mềm độc hại bao gồm virus, sâu (worm), trojan, spyware...
+Phishing: Hình thức lừa đảo qua email hoặc website giả mạo để lấy thông tin cá nhân.
+
+DoS/DDoS (Denial of Service): Tấn công từ chối dịch vụ, làm hệ thống ngừng hoạt động.
+Một số công cụ tấn công DoS:
+ Ping of Death: Các công cụ tấn công Ping of Death gởi nhiều gói tin IP với kích 
+thước lớn đến mục tiêu làm cho các máy này phải mất nhiều thời gian và tài 
+nguyên hệ thống để xử lý, kết quả là không thể đáp ứng được các yêu cầu kết 
+nối thông thường của những máy tính khác dẫn đến bị từ chối dịch vụ. 
+ LAND Attack: Những công cụ có chức năng tấn công LAND Attack sẽ gởi các 
+gói tin có địa chỉ IP trùng lắp với các địa chỉ IP đích khiến cho việc xử lý các yêu 
+cầu này có thể dẫn đến tình trạng bị lặp lại (loop) và không thể tiếp nhận thêm 
+các yêu cầu truy cập khác. 
+ WinNuke: Chương trình này tìm kiếm các máy tính  đang mở port 139 để  gởi 
+các gói tin IP rác đến mục tiêu. Dạng tấn công này còn được gọi là Out of Bound 
+(OOB) và làm tràn ngập bộ nhớ đệm của giao thức IP.
+ CPU Hog: Công cụ này làm quá tải nguồn tài nguyên CPU của các máy bị tấn 
+công . 
+ Bubonic: Là công cụ DoS  hoạt động bằng cách gởi các gói tin TCP với những 
+thiết lập ngẫu nhiên làm cho mục tiêu bị tấn công bị quá tãi hay thậm chí bị gãy 
+đổ. 
+ RPC Locator: Đây là một dịch vụ nếu như không được vá lỗi có khả năng bị tấn 
+công gây tràn bộ đệm. Dịch vụ này hoạt động trên các hệ thống Windows để 
+phân phối các bản cài đặt hay ứng dụng trên toàn hệ thống, đây cũng là một 
+dịch vụ dễ bị tấn công gây ra tình trạng từ chối  dịch vụ trên các máy chủ.  
+ SSPing hay Targa: có thể gửi các gói tin với kích thước lớn đến mục tiêu làm tê 
+liệt khả năng đáp ứng cũng như xử lý các dữ liệu này,  dẫn đến tình trạng “từ 
+chối dịch vụ”.
+❖Thông thường DDoS gồm có 3 thành phần : 
+ Master hay Handler: Chương trình dùng để điều khiển.
+ Slave hay zombie, bot: là các máy tính bị cài đặt hay lây nhiễm các chương
+trình nguy hiểm và bị điều khiển bởi các Master / Handler.
+ Victim: Những mục tiêu bị tấn công từ chối dịch vụ.
+❖Phòng chống tấn công DoS và DDoS:
+ Network-ingress filtering: Tất cả các hệ thống hay thiết bị cung cấp những kết
+nối và truy cập mạng cần thực hiện cơ chế lọc Network-infgress filtering nhằm
+loại bỏ các luồn dữ liệu xuất phát từ các địa chỉ giả mạo, có nguồn gốc không rõ
+ràng. Điều này không ngăn ngừa được các cuộc tấn công nhưng có thể giúp
+ngăn chặn và truy tìm khi có những hành động trái phép diễn ra.
+ Rate-limiting network system: Nhiều bộ định tuyến hiện nay có khả năng hạn
+chế và kiểm soát băng thông trên những giao thức khác nhau, kỹ thuật này còn
+được gọi là trafic shapping.
+ Instruction Detect System: Triển khai các hệ thống dò tìm xâm phạm trái phép để
+phát hiện kịp thời các luồng truyền thông nguy hiểm, những cuộc tấn công hay các
+virus / worm lan truyền trên mạng.
+ Sử dụng công cụ Host-auditing: Một số chương trình có khả năng quét các tập tin
+trên hệ thống để tìm ra các công cụ tấn công DDoS hay các chương trình botnet
+nguy hiểm.
+ Sử dụng công cụ Network-auditing: Chạy các chương trình quét mạng để phát hiện
+các agent (các thành viên của mạng botnet) và loại bỏ chúng.
+ Sửdụng các chương trình dò tìm công cụ DoS: Thường xuyên quét tìm các công cụ
+DoS trên hệ thống với những chương trình thích hợp như Find_ddos, SARA, Zombi
+Zapper để phát hiện và xử lý kịp thời các mầm mống gây nên sự cố từ chối dịch vụ
+ Tắt các dịch vụ không cần thiết: Đóng các cổng hay tắt những dịch vụ không
+cần thiết hay hạn chế sự dụng những chức năng như get, strcpy …
+ Cấu hình firewall để chặn tất cả các tín hiệu ICMP từ bên ngoài.
+ Thường xuyên cập nhật hệ thống: Cập nhật các bản vá lỗi mới nhất cho hệ
+thống và ứng dụng liên quan.
+ Sử dụng các hệ thống bảo vệ DDoS chuyên dụng như IntelliGuard DDoS
+Protection System (DPS) hay các chương trình phòng chống DDoS như
+FortGuard, NetScaler, Advanced Denial of Service Protection…
+
+4.3. MỘT SỐ GIẢI PHÁP BẢO MẬT MẠNG
+PHẦN 1: HỆ THỐNG PHÁT HIỆN XÂM NHẬP (IDS)
+
+1. Định nghĩa & Mục đích
+- IDS (Intrusion Detection System): Hệ thống giám sát lưu thông mạng, phát hiện các hoạt động khả nghi và cảnh báo cho quản trị viên.
+- Mục tiêu: Bảo vệ 4 tính chất (Tính toàn vẹn, Tính bí mật, Tính khả dụng, Tính riêng tư).
+- Phân biệt: IDS khác với Firewall (ngăn chặn), Anti-virus (diệt mã độc), VPN (mã hóa), hay công cụ quét lỗ hổng.
+
+2. Chức năng của IDS
+- Chức năng cốt lõi: Giám sát (lưu lượng) -> Cảnh báo (báo cáo) -> Bảo vệ (hành động thiết thực).
+- Chức năng mở rộng: Phân biệt tấn công nội bộ/bên ngoài, phát hiện dấu hiệu bất thường, đánh giá chất lượng thiết kế mạng và bổ sung điểm yếu cho các hệ thống khác.
+
+3. Phương pháp phân tích (Cách phát hiện)
+- Dựa trên dấu hiệu (Signature-based): So sánh với mẫu tấn công đã biết (giống virus scan).
+- Dựa trên sự bất thường (Anomaly-based): So sánh lưu thông hiện tại với Baseline (thông số chuẩn). Nếu khác biệt -> Xâm nhập.
+
+4. Ba yếu tố nền tảng (IDS Task)
+- Thu thập thông tin (Information source): Kiểm tra các gói tin.
+- Phân tích (Analysis): Xác định hành động tấn công.
+- Cảnh báo (Response): Đưa ra phản hồi.
+
+5. Phân loại IDS (Quan trọng)
+
+a. Network-based IDS (NIDS):
+- Vị trí: Đặt tại các điểm kết nối trong mạng, dùng cảm biến (Sensor) theo dõi thời gian thực.
+- Ưu điểm: Quản lý cả phân đoạn mạng, "trong suốt" với người dùng, độc lập với OS.
+- Hạn chế: Không đọc được dữ liệu mã hóa (SSL/VPN), có thể gây nghẽn cổ chai, báo động giả (False Positive), khó xử lý gói tin phân mảnh chồng chéo.
+
+b. Host-based IDS (HIDS):
+- Vị trí: Cài đặt phần mềm trực tiếp trên các máy chủ xung yếu (Server, DMZ).
+- Nhiệm vụ: Giám sát log file, Registry, CPU, tính toàn vẹn file hệ thống.
+- Ưu điểm: Xác định được user thực hiện hành động, biết cuộc tấn công có thành công hay không, đọc được dữ liệu mã hóa.
+- Hạn chế: Không phát hiện được dò quét mạng (Nmap), tiêu tốn tài nguyên máy chủ, dễ bị vô hiệu hóa nếu OS bị chiếm quyền.
+
+------------------------------------------------------------------------
+
+PHẦN 2: HỆ THỐNG TƯỜNG LỬA (FIREWALL)
+
+1. Khái niệm chung
+- Là rào chắn giữa mạng an toàn (Nội bộ) và mạng không an toàn (Internet).
+- Điều khiển truy cập (cho phép/từ chối) dựa trên Tập luật (Policy).
+
+2. Các vùng mạng cơ bản
+- Mạng Nội bộ (LAN): Máy trạm, máy chủ nội bộ.
+- Vùng DMZ (Demilitarized Zone): Vùng trung lập chứa Web, Mail, DNS... cho phép truy cập từ Internet.
+- Server Farm: Chứa Database, LDAP... không cung cấp dịch vụ trực tiếp ra Internet.
+- Internet: Mạng ngoài.
+
+3. Phân loại Firewall
+- Theo vị trí: Network Firewall & Host Firewall.
+- Theo nền tảng: Software Firewall & Hardware Firewall.
+- Theo khả năng xử lý:
+  + Packet Filter: Tầng 3-4 (IP, Port).
+  + Application Filter: Tầng 7 (Ứng dụng).
+  + State Full Filter: Tầng 3-7 (Theo dõi trạng thái kết nối).
+
+4. Chính sách Firewall (7 thuộc tính của một Luật/Rule)
+1. Chiều đi (In/Out)
+2. Giao thức (TCP/UDP)
+3. IP Nguồn
+4. Cổng (Port) nguồn
+5. IP Đích
+6. Cổng (Port) đích
+7. Hành động (Accept/Deny)
+
+5. Các mô hình triển khai phổ biến
+- Mô hình 1: 1 Firewall phân tách 3 vùng (Internet - LAN - DMZ).
+- Mô hình 2: 2 Firewall nối tiếp (Internet -> FW1 -> DMZ -> FW2 -> LAN). LAN được bảo vệ 2 lớp.
+- Mô hình 3: Firewall đặt giữa tất cả các cặp vùng mạng để kiểm soát tối đa.
+
+Danh sách các câu hỏi trắc nghiệm và đáp án được sắp xếp theo thứ tự bảng chữ cái dựa trên ký tự đầu tiên của nội dung câu hỏi.
+////B:////
+1.	Bản ghi nào cho biết Mail server (MX)
+2.	Bản ghi nào sau đây có chứa thông tin phục vụ cho quá trình phân giải ngược của hệ thỐng DNS?
+Đáp án: PTR
+////C:////
+Chức năng của Active Directory (Cả 3 đáp án trên)
+3.	Các (tiện ích) feature nào sau đây của Hyper-V, cho phép giá trị Minimum RAM trong một máy ảo có thể nhỏ hơn giá trị Startup RAM?
+Đáp án: Smart paging, Guest Integration Services
+4.	Các công cụ làm việc với nhóm chính sách có thể truy cập loại tập tin nào trong Central Store?
+Đáp án: ADMX
+5.	Các lý do nào sau đây dẫn tới việc chúng ta sẽ sử dụng cạc mạng kiểu emulated thay cho cạc mạng kiểu synthetic?
+Đáp án: Bạn muốn cài đặt hệ điều hành trên máy ảo bằng Windows Deployment Services server, Hệ điều hành bạn dự định cài trên máy ảo không có gói Guest Integration Services
+6.	Các lý do để sử dụng chế độ Server Core?
+Đáp án: Có thể chuyển server từ chế độ Server Core sang chế độ GUI mà không phải cài đặt lại hệ điều hành, Bản Server Manager mới trong Windows Server 2012 R2 giúp việc quản trị từ xa dễ dàng hơn
+7.	Các phát biểu nào sau đây mô tả đúng nhất về các yêu cầu khi muỐn mở rộng một volume trên đĩa kiểu dynamic?
+Đáp án: Nếu bạn muốn mở rộng một volume kiểu simple, và sau khi mở rộng nó vẫn thuộc kiểu simple, thì bạn chỉ có thể sử dụng không gian đĩa còn trống trên cùng một đĩa cứng vật lý, Bạn có thể mở rộng một volume kiểu simple sang các đĩa cứng khác, miễn là volume đó không phải là system volume hoặc boot volume
+8.	Các phát biểu nào sau đây nói đúng về volume kiểu striped?
+Đáp án: Volume kiểu striped giúp nâng cao hiệu suất xử lý so với volume kiểu simple
+9.	Các phát biểu nào sau đây nói không đúng về cạc mạng kiểu synthetic?
+Đáp án: Cạc mạng kiểu synthetic có thể khởi động máy ảo bằng kĩ thuật khởi động qua mạng PXE
+10.	Các thành phần mạng nào sau có thể hoạt động với vai trò giỐng như một trạm chuyển tiếp DHCP (DHCP relay agents)?
+Đáp án: Routers, Máy Windows Server 2012 R2
+11.	Các thông tin cấu hình TCP/IP nào sau đây thường được cấu hình ở mức scope option trong DHCP?
+Đáp án: Default Gateway
+12.	Cái nào sau đây cho phép điều chỉnh việc lưu tạm (caching) của hệ thỐng DNS?
+Đáp án: Táp Start of Authority (SOA) trong mục Properties của zone
+14.	Câu nào sau đây nói không đúng về Server Manager?
+Đáp án: Server Manager có thể cùng một lúc cài đặt nhiều chức năng cho nhiều server
+15.	Cho biết tên của thư mục mà Windows sử dụng để lưu toàn bộ các thành phần cần thiết liên quan đến việc cài đặt các chức năng của hệ điều hành sau này?
+Đáp án: WinSxS
+16.	Cho địa chỉ mạng là 172.16.32.0/19, vậy subnet mask sẽ là?
+Đáp án: 255.255.224.0
+18.	Có thể sử dụng vi xử lý nào dưới đây để cài đặt Windows Server 2012 R2?
+Đáp án: Chỉ có vi xử lý 64-bit
+19.	Công cụ nào sau đây được sử dụng để thực hiện các cấu hình cho thiết lập mẫu?
+Đáp án: Security Templates snap-in
+20.	Công nghệ nào cho phép người sử dụng kết nỐi đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn?
+Đáp án: VPN
+21.	Công việc nào sau đây bạn không thể thực hiện được từ xa, khi server ở xa đang chạy Windows Server 2008?
+Đáp án: Cài đặt các role bằng Server Manager
+      Chương trình nào sau đây có thể sử dụng để thêm, xóa hoặc thay đổi các đối tượng trong
+AD, nếu cần thiết có thể thay đổi schema?
+B. LDIFDE
+22.	Cụm từ nào sau đây không phải là tên của một lĩnh vực trong công tác quản trị mạng?
+Đáp án: Group management
+////D:////
+23.	
+Để kiểm tra dịch vụ DNS ta sử dụng lệnh nào? (nslookup) //
+Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì: (Thay đổi tên file ntuser.dat thành file ntuser.man) //
+Để nén một file đã được nén bằng NTFS, cần: (Khi mở file, hệ thỐng tự động giải nén) //
+Để thay đổi chính sách về mật khẩu trên miền ta sử dụng công cụ nào trong Administrative Tools (Domain Security Policy) //
+24.	Đáp án nào đúng khi so sánh giữa System Policy và Group Policy?
+Đáp án: Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
+25.	Để áp dụng GPO trên một nhóm người dùng cụ thể trong OU, bạn sử dụng kĩ thuật nào sau đây?
+Đáp án: Security filtering (lọc)
+26.	Để chuyển từ giao diện đồ họa (GUI) sang giao diện dòng lệnh (Server Core) cần gỡ bỏ các thiết lập nào?
+Đáp án: Graphical Management Tools and Infrastructure, Server Graphical Shell
+27.	Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào?
+Đáp án: Graphical Management Tools and Infrastructure
+28.	Để kết nỐi (join) một máy tính vào domain, sử dụng lệnh của chương trình nào sau đây?
+Đáp án: Netdom.exe
+29.	Để kiểm tra dịch vụ DNS ta sử dụng lệnh nào?
+Đáp án: Nslookup
+30.	Để liệt kê các luật hiện tại của Windows Firewall trên một máy tính đang chạy Windows Server 2012 R2, sử dụng lệnh Windows PowerShell nào?
+Đáp án: Get-NetFirewallRule, Show-NetFirewallRule
+31.	Để triển khai một mẫu bảo mật cho tất cả các máy tính trong AD DS, bạn sử dụng các công cụ nào sau đây?
+Đáp án: Group Policy Object Editor, Group Policy Management
+33.	Đâu không phải là chức năng của hệ thỐng phát hiện xâm nhập IDS?
+Đáp án: Điều khiển luồng
+34.	Đâu không phải là một kiểu tấn công từ chỐi dịch vụ?
+Đáp án: Packet Sniffing Attack
+36.	Đâu là mô tả đúng cho phương thức Trap ở trong giao thức quản trị mạng đơn giản SNMP?
+Đáp án: Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở
+Object nào đó trong Agent
+///F:///
+40.	FTP sử dụng cổng nào để truyền hình?
+Đáp án: 21
+////G:////
+Giả sử ổ đĩa C: đã được định dạng với hệ thỐng tệp tin FAT, cần sử dụng lệnh nào dưới đây để chuyển đổi ổ này sang hệ thỐng tệp tin NTFS? (convert C: /fs:ntfs) //
+Group policy dùng để (Tất cả) //
+41.	Giải pháp nâng cấp lên Windows Server 2012 R2 nào sau đây có thể thực hiện được?
+Đáp án: Từ Windows Server 2008 Standard lên Windows Server 2012 R2 Standard
+42.	Giải pháp tạo đường hầm tự động nào sau đây được hệ điều hành Windows sử dụng, trong trường hợp máy tính nằm sau NAT router?
+Đáp án: Teredo
+43.	Giấy phép bản quyền của hệ điều hành nào sau đây không giới hạn sỐ lượng các bản cài trên máy ảo?
+Đáp án: Windows Server 2012 R2 Datacenter
+46.	
+////H:////
+Hệ điều hành Windows Server 2003 mặc định hỗ trợ cài đặt: (IIS 6.0) //
+Hãy xác định 1 thành phần dưới đây không phải là thành phần trong cấu trúc logic của Active Directory (Site) //
+47.	Hai loại (lớp) đỐi tượng quan trọng trong AD là?
+Đáp án: Đối tượng nút lá, không thể chứa các đối tượng khác (Leaf), Thùng chứa (Container)
+48.	
+////K:////
+Khi lược sử của 1 NSD bị hỏng, không đăng nhập được, cần thực hiện thao tác gì (Xóa lược sử cũ của NSD) //
+Khi 1 file nén được copy từ 1 phân chương đến 1 thư mục nén trên 1 phân chương khác thì: (Phải giải nén, copy trong trạng thái không nén, sau đó lại nén lại.) //
+Khi nào quyền của file hoặc thư mục không thay đổi (Di chuyển trong một phân vùng NTFS) //
+49.	Khay chứa đĩa cứng dựa trên công nghệ JBOD có thể sử dụng để thay thế cho các công nghệ lưu trữ nào sau đây?
+Đáp án: RAID
+50.	Khi bạn cài role Hyper-V trên server Windows Server 2012 R2, hệ điều hành trên server đó sẽ được chuyển vào đỐi tượng nào?
+Đáp án: Parent partition
+51.	Khi bạn sử dụng Active Directory Users And Computers để xóa một group kiểu global, tuy nhiên, hệ thỐng không cho phép thực hiện. Đâu là nguyên nhân?
+Đáp án: Group có chứa thành viên được thiết lập là primary group, Tài khoản hiện tại không có quyền xóa các đối tượng
+52.	Khi sử dụng CSVDE, hàng dữ liệu đầu tiên trong tập tin .CSV được gọi là gì?
+Đáp án: Header record
+53.	Khi thiết kế hạ tầng Active Directory, để hạn chế tới mức tỐi đa việc tạo domain, lý do nào sau đây không hợp lý?
+Đáp án: Bạn phải trả tiền bản quyền cho Microsoft với mỗi domain được tạo ra
+54.	Khi xác định mức độ nguy cơ hệ thỐng, nếu hệ thỐng kết nỐi vật lý không an toàn thì hệ thỐng ở mức nguy cơ….
+Đáp án: Cao
+55.	Khẳng định nào sau đây là ĐÚNG? (Về Sub-id)
+Đáp án: Sub-id phải liên tục và phải bắt đầu từ 0
+56.	Khẳng định nào sau đây là ĐÚNG? (Về bản tin GetRequest)
+Đáp án: Trong một bản tin GetRequest có thể chứa nhiều OID
+57.	Kiểu cấu hình gộp cạc mạng nào sau đây, vừa cung cấp khả năng chịu lỗi, vừa tăng băng thông cho hệ thỐng?
+Đáp án: Switch Independent Mode
+58.	Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ khả năng chịu lỗi?
+Đáp án: Mirrored, RAID-5
+////L://// 59.
+Loại backup nào sau đây có thể được thực hiện qua mạng (Full Backup) // Loại nhóm nào không dùng để gán quyền cho tài nguyên: (Nhóm phân phỐi) //
+60.	Loại địa chỉ IPv6 nào sau đây tương đương với IPv4 private?
+Đáp án: Unique local unicast
+61.	Loại luật nào sau đây không có trong Software Restriction Policies của Windows Server 2012 R2?
+Đáp án: Firewall rules
+62.	Loại luật nào sau đây sẽ kiểm soát các tập tin có phần mở rộng là .msi?
+Đáp án: Windows Installer rules
+63.	Loại nhóm nào không dùng để gán quyền cho tài nguyên?
+Đáp án: Nhóm phân phối
+64.	
+////M:////
+Một DNS domain namespace gồm? Root name, Top-Level Domain, Second-level-domain, Subdomain, host
+65.	Mặc định, hyper-V server có thể gán bao nhiêu địa chỉ MAC cho các cạc mạng ảo?
+Đáp án: 256
+66.	Một hệ thỐng muỐn được nhận ra trên Internet, thì nó phải sử dụng loại địa chỉ IP nào?
+Đáp án: Registered (được đăng kí)
+67.	Một máy tính có địa chỉ IP là 10.75.143.88, bản ghi nào sau đây trong reverse lookup zone là dạng tên đầy đủ (FQDN) của nó?
+Đáp án: 88.143.75.10.in-addr.arpa
+68.	Một thư mục DATA được chia sẻ cho người sử dụng U01 với quyền full-control. Người sử dụng U01 chỉ có quyền đọc với thư mục DATA theo quyền NTFS. Quyền thực sự của người sử dụng U01 trên thư mục DATA là quyền gì?
+Đáp án: Read
+69.	
+////N:////
+NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file (Read/Execute) //
+70.	Nếu đĩa định dạng là NTFS thì trong hộp thoại properties sẽ có thêm một Tab gì so với hộp thoại properties nếu ổ đĩa định dạng FAT?
+Đáp án: Tab Security
+71.	Những lí do nào sau đây cho thấy không nên thực hiện tạo ra checkpoint cho máy
+ảo?
+Đáp án: Checkpoint tiêu hao một không gian đĩa cứng rất lớn, Các checkpoint đã có sẽ làm giảm hiệu suất của các máy ảo
+72.	Những thao tác nào sau đây không thể thực hiện được với một dịch vụ (service) trong Server Manager?
+Đáp án: Vô hiệu một dịch vụ (Disable), Cấu hình để một dịch vụ tự chạy khi máy tính khởi động
+///p:///
+73.	Phát biểu nào không đúng về mục đích tạo OU?
+Đáp án: Để tạo một thùng chứa cố định, không thể di chuyển hoặc đổi tên
+74.	Phát biểu nào sau đây mô tả đúng nhất về đỐi tượng được cấp quyền (security principal) liên quan đến quá trình cấp quyền NTFS?
+Đáp án: Đối tượng được cấp quyền là người sẽ được nhận các quyền sử dụng tài nguyên
+ 
+75.	Phát biểu nào sau đây nói không đúng về đĩa cứng định dạng VHDX?
+Đáp án: Chỉ có thể mở các đĩa VHDX bằng Windows Server 2012 R2 và Windows Server 2012
+76.	Phát biểu nào sau đây phù hợp với ảo hóa loại 1, và loại 2?
+Đáp án: Trong ảo hóa loại 1, hypervisor chạy trực tiếp trên phần cứng của máy thật, Trong ảo hóa loại 2, hypervisor chạy trên nền hệ điều hành của máy thật
+77.	Phát biểu nào sau đây phù hợp với máy ảo thế hệ 1 và máy ảo thế hệ 2?
+Đáp án: Việc tạo máy ảo thế hệ 2 thì nhanh hơn so với việc tạo ra máy ảo thế hệ 1
+
+
+78.	Nếu đĩa định dạng là NTFS thì trong hộp thoại Properties sẽ có thêm một Tab gì so với hộp thoại Properties nếu ổ đĩa định dạng là FAT: (Tab Security) //
+
+
+79.	///R:///
+
+
+80.	Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6?
+Đáp án: AAAA
+81.	Roaming profile cho phép lưu profile của user trên đâu?
+Đáp án: Client
+///S:///
+1.	Sau đây là các mô tả về starter GPO, mô tả nào phù hợp nhất?
+Đáp án: Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
+2.	Server ở xa đang chạy Windows Server 2008, để kết nỐi tới server này bằng Server Manager từ Windows Server 2012 R2, bạn phải cập nhật các gói nào?
+Đáp án: .NET Framework 4.0, Windows Management Framework 3.0
+3.	SỐ shadow copies tỐi đa mà hệ thỐng Windows Server 2012 R2 cho phép duy trì trên mỗi volume là:
+Đáp án: 64
+4.	Switch ảo nào sau đây không cho phép hệ điều hành trên máy ảo giao tiếp với partition cha?
+Đáp án: Private
+ 
+5.	////Q:////
+Quyền nào trong các quyền sau đây cho phép thực hiện nội dung của file (Read/Execute) //
+6.	////T:////
+Thứ tự thực thi các GPOs trong cấu trúc của Active Directory (Site, Domain, OU) // Thông tin người dùng được quản lý bởi dịch vụ Active Directory và được lưu trữ trên Domain Controller với tập tin là: (NTDS.DIT) //
+Trong cơ chế Poll, khởi phát phiên truyền thông là: (Manager) //
+Trong giao thức quản trị mạng đơn giản SNMP, chọn mô tả đúng cho phương thức Trap: (Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở Object nào đó trong Agent) //
+7.	Tác vụ nào sau đây có thể thực hiện bằng quota trong File Server Resource Manager nhưng không thể thực hiện được bằng quota của NTFS?
+Đáp án: Gửi một email tới người quản trị, khi người dùng sử dụng vượt quá định mức của họ
+8.	Tập con của MIB được gọi là VIEW. Trên agent có thể định nghĩa	VIEW.
+Đáp án: nhiều
+9.	Thành phần nào sau đây giúp DHCP client có thể giao tiếp với DHCP server nằm trên mạng con khác?
+Đáp án: Relay agent
+10.	Thứ tự thực thi của GPOs trong cấu trúc Active Directory?
+Đáp án: Domain, OU, Site
+11.	Thuật ngữ nào sau đây diễn đạt quá trình hệ thỐng xem xét người dùng được phép làm gì trên một thư mục chia sẻ, bằng cách đọc các quyền mà họ đã được cấp? Đáp án: Authorization
+12.	Thuật ngữ nào sau đây nói về một thành phần giao tiếp mềm (software interface). Nó giúp máy tính giao tiếp với thiết bị in?
+Đáp án: Printer
+13.	Tiện ích nào sau đây được sử dụng để kết nỐi gián tiếp (offline) máy tính tới domain?
+Đáp án: Djoin
+14.	Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tỐt hơn telnet?
+Đáp án: SSH
+15.	Tình huỐng nào sau đây làm cho hash rule bị mất tác dụng trong việc kiểm soát các phần mềm?
+Đáp án: Khi bạn nâng cấp tập tin đang được thiết lập hash rule lên phiên bản mới, Khi tập tin đang được thiết lập hash rule bị virus làm thay đổi nội dung
+      Truy vấn tới 1 name Server là công việc của? Resolver 
+16.	Trong các câu lệnh cấu hình router sử dụng định tuyến động với giao thức RIPv2 sau đây, câu lệnh nào là không hợp lệ?
+Đáp án: Router(config)#ripv2
+17.	Trong các chế độ cấp địa chỉ IP cho client của DHCP Windows Server 2012 R2, thuật ngữ nào sau đây tương đương với “reservation”?
+Đáp án: Cấp Manual
+18.	Trong các phát biểu liên quan đến thuộc tính (attribute) của một đỐi tượng (object), phát biểu nào sau đây không đúng?
+Đáp án: Các đối tượng thuộc kiểu leaf không chứa thuộc tính
+19.	Trong các tác vụ quản trị mạng, quy trình quản lý bảo mật không liên quan đến công việc nào?
+Đáp án: Thiết lập hạn ngạch sử dụng tài nguyên mạng cho các nhóm user khác nhau
+20.	Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào?
+Đáp án: Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
+21.	Trong các domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đỐi tượng nào KHÔNG thể là thành viên của group kiểu global?
+Đáp án: Group kiểu universal
+22.	Trong các domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đỐi tượng nào có thể là thành viên của group kiểu global?
+Đáp án: Các tài khoản người dùng, Các tài khoản máy tính, Group kiểu global
+23.	Trong cấu hình chức năng dịch địa chỉ mạng (NAT) của router, câu lệnh nào là câu lệnh đúng?
+Đáp án: ip nat pool POOL-1 203.162.0.2 203.162.0.2 netmask 255.255.255.0
+24.	Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng giá trị - AD?
+Đáp án: AD là một số nguyên nhận giá trị từ 0 đến 255
+25.	Trong cấu hình router, sử dụng câu lệnh nào để cho phép chuyển tiếp các gói tin IP quảng bá của DHCP client tìm DHCP server trong mạng?
+Đáp án: Router (config-if)#ip helper-address 192.1.1.2
+26.	Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã sỐ để nhận dạng object đó, mã sỐ đó được gọi là gì?
+Đáp án: OID
+27.	Trong hệ thỐng mạng có một trong các thiết bị in không hoạt động được, và bạn muỐn người dùng tạm thời không được phép gửi yêu cầu in tới printer nỐi với
+thiết bị đó. Bạn sẽ thực hiện hành động nào sau đây?
+Đáp án: Ngưng việc chia sẻ printer
+28.	Trong hệ thỐng quyền NTFS của Windows Server 2012 R2, kết hợp các quyền kiểu advanced sẽ tạo thành các quyền kiểu gì?
+Đáp án: Basic, Standard
+29.	Trong hoạt động của DNS, hệ thỐng sẽ tạo ra một truy vấn kiểu đệ quy trong tình huỐng nào sau đây?
+Đáp án: DNS client yêu cầu DNS server của nó phân giải tên miền www.adatum.com sang địa chỉ IP
+30.	Trong Hyper-V, switch ảo có sỐ cổng tỐi đa là?
+Đáp án: Không giới hạn
+31.	Trong máy cục bộ có nhiều local GPO, local GPO nào có quyền ưu tiên cao nhất?
+Đáp án: User-specific group policy
+32.	Trong môi trường Active Directory, dịch vụ nào sau đây được client sử dụng để tìm kiếm các đỐi tượng trên domain khác?
+Đáp án: Global Catalog
+33.	Trong môi trường AD, đỐi tượng nào sau đây không thể chứa các domain?
+Đáp án: OU
+34.	Trong Software Restriction Policies, chiến lược nào sẽ cấm chạy mọi phần mềm, ngoại trừ các phần mềm đã được Administrator cho phép chạy một cách tường minh?
+Đáp án: Disallowed
+35.	Trong vận hành thực tế, loại ảo hóa server nào sau đây cung cấp hiệu suất xử lý tỐt nhất cho các server đòi hỏi lưu lượng xử lý lớn?
+Đáp án: Ảo hóa loại 1
+36.	Trong việc truyền các gói tin IPv6 trên nền IPv4, giải pháp nào sau đây được sử dụng phổ biến?
+Đáp án: Tunneling
+37.	Trong Windows Server 2012 R2, các nhóm cục bộ của hệ thỐng (built-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào?
+Đáp án: Quyền hạn người dùng (user right)
+38.	Trong Windows Server 2012 R2, có hai tài khoản người dùng tạo sẵn (built-in) nào?
+Đáp án: Administrator, Guest
+39.	Trong Windows Server 2012 R2, loại tài khoản nào sau đây không cho phép cấu hình?
+Đáp án: Network accounts
+40.	Trong Windows Server 2012 R2, sau khi cấu hình và triển khai Audit Directory Service Access, bạn phải làm gì tiếp theo thì hệ thỐng mới thực hiện theo dõi việc truy cập Active Directory?
+Đáp án: Sử dụng Active Directory Users and Computers để lựa chọn các đối tượng trong Active Directory sẽ bị theo dõi
+
+///v:///
+82.	Việc chuyển đổi kiểu của group nào sau đây không cho phép làm trong mọi tình huỐng?
+Đáp án: Từ global sang domain local
+83.	Với một đĩa cứng ảo kiểu pass-through, yêu cầu nào sau đây là đúng?
+Đáp án: Đĩa được sử dụng để làm đĩa ảo kiểu pass-through phải được thiết lập chế độ offline trong partition cha của Hyper-V server
+
+////U:////
+User đăng nhập bằng cách gõ tên đăng nhập và password. Windows 2003 kiểm chứng thông tin về user. Nếu đăng nhập vào domain-Windows 2003 kiểm chứng thông tin trên một: (Domain Controller) //
+///W:///
+42.	Write-Community được dùng trong bản tin nào?
+Đáp án: SetRequest
+///Y:///
+43.	Yêu cầu nào sau đây không cần phải có, khi gắn một cạc Fibre Channel tới một máy
+ảo trong Hyper-V?
+Đáp án: Bạn phải có một cáp nối SCSI để kết nối cạc Fibre Channel và thiết bị lưu trữ
 | 1 | 9 | A | 2 | 9 | B |
 | 1 | 10 | D | 2 | 10 | A |
