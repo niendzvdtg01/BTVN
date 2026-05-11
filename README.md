@@ -1,1761 +1,1252 @@
-# Quản Trị Mạng - Đề Thi & Đáp Án
-
-## Lần 1
-
-### 1. Phát biểu nào sau đây về Switch là đúng nhất?
-- a. Sử dụng địa chỉ vật lý và hoạt động tại tầng Data Link của mô hình OSI. ✅
-- b. Sử dụng địa chỉ vật lý và hoạt động tại tầng Network của mô hình OSI.
-- c. Sử dụng địa chỉ IP và hoạt động tại tầng Network của mô hình OSI.
-- d. Sử dụng địa chỉ vật lý và hoạt động tại tầng Physical của mô hình OSI.
-
-### 2. Thiết bị Hub thông thường nằm ở tầng nào của mô hình OSI?
-- a. Tầng 4
-- b. Tầng 1 ✅
-- c. Tầng 2
-- d. Tầng 3
-
-### 3. Kỹ thuật được dùng để truy cập đường truyền trong mạng Ethernet là
-- a. CSMA/CD ✅
-- b. FTMA
-- c. CDMA
-- d. Token Ring
-
-### 4. Thiết bị Switch có bao nhiêu collision domain?
-- a. 1 collision/port ✅
-- b. 2
-- c. 1
-- d. Nhiều collision/port
-
-### 5. Thiết bị Hub có bao nhiêu collision domain?
-- a. 1 ✅
-- b. 4
-- c. 2
-- d. 3
-
-### 6. Đầu nối của loại cáp UTP là?
-- a. BNC connector
-- b. T - connector
-- c. RJ45 ✅
-- d. RJ11
-
-### 7. Thiết bị Bridge nằm ở tầng nào của mô hình OSI?
-- a. Tầng 1
-- b. Tầng 3
-- c. Tầng 4
-- d. Tầng 2 ✅
-
-### 8. Thiết bị Switch thông thường nằm ở tầng nào của mô hình OSI?
-- a. Tầng 1
-- b. Tầng 3
-- c. Tầng 2 ✅
-- d. Tầng 4
-
-### 9. Trong mô hình mạng hình sao (star model), nếu hub hoặc switch xử lý trung tâm bị hỏng thì
-- a. Mạng không thể hoạt động được ✅
-- b. Mạng không bị ảnh hưởng
-- c. Chỉ một host trên mạng bị ảnh hưởng
-- d. Mạng chỉ bị ảnh hưởng một phần
-
-### 10. Cấp UTP có thể kết nối tối đa bao nhiêu mét?
-- a. 200 mét
-- b. 50 mét
-- c. 150 mét
-- d. 100 mét ✅
-
-### 11. Giao thức IP là giao thức hoạt động ở tầng nào?
-- a. Network Layer (tầng mạng) ✅
-- b. Physical Layer (tầng vật lý)
-- c. Datalink Layer (tầng liên kết dữ liệu)
-- d. Trasport Layer (tầng vận chuyển)
-
-### 12. Subnet mask trong một cộng seria của router là 11111000. Số thập phân của nó là?
-- a. 210
-- b. 240
-- c. 224
-- d. 248 ✅
-
-### 13. Thiết bị Router thông thường nằm ở tầng nào của mô hình OSI?
-- a. Tầng 4
-- b. Tầng 1
-- c. Tầng 3 ✅
-- d. Tầng 2
-
-### 14. Cấp quang có thể kết nối tối đa bao nhiêu mét?
-- a. 10.000 mét
-- b. 100 mét
-- c. 1000 mét
-- d. 2000 mét ✅
-
-### 15. Chọn phát biểu ĐÚNG về thiết bị Switch và Hub
-- a. HUB và SWITCH đều cho hiệu suất hoạt động ngang nhau.
-- b. Hub truyền tin hiệu nhanh hơn Switch
-- c. Sử dụng HUB hiệu quả hơn, do HUB chỉ có một collision-domain.
-- d. Sử dụng SWITCH hiệu quả hơn, do SWITCH phân cách các collision-domain. ✅
-
-### 16. Để kết nối hai HUB với nhau ta sử dụng kiểu bắp cáp
-- a. Cấp thẳng
-- b. Cấp chéo ✅
-- c. Tùy chọn
-- d. Console
-
-### 17. Mạng Internet là sự phát triển của
-- a. Hệ thống mạng LAN
-- b. Hệ thống mạng Intranet
-- c. Tất cả các đều dùng ✅
-- d. Hệ thống mạng WAN
-
-### 18. Thiết bị Repeater nằm ở tầng nào của mô hình OSI?
-- a. Tầng 4
-- b. Tầng 1 ✅
-- c. Tầng 3
-- d. Tầng 2
-
-### 19. 7 tầng của mô hình OSI lần lượt là?
-- a. Physical - Datalink - Network - Transport - Session - Presentation - Application ✅
-- b. Physical - Network - Datalink - Transport - Session - Presentation - Application
-- c. Physical - Datalink - Network - Session - Transport - Presentation - Application
-- d. Physical - Network - Datalink - Transport - Session - Application - Presentation
-
-### 20. Việc nhiều các gói tin bị dùng độ trên mạng sẽ làm cho
-- a. Hiệu quả truyền thông của mạng tăng lên
-- b. Hiệu quả truyền thông của mạng không thay đổi
-- c. Phụ thuộc vào loại gói tin bị dùng độ
-- d. Hiệu quả truyền thông của mạng giảm đi ✅
-
----
-
-## Lần 2
-
-### 1. Phát biểu nào sau đây về Switch là đúng nhất?
-- a. Sử dụng địa chỉ vật lý và hoạt động tại tầng Data Link của mô hình OSI. ✅
-- b. Sử dụng địa chỉ vật lý và hoạt động tại tầng Physical của mô hình OSI.
-- c. Sử dụng địa chỉ IP và hoạt động tại tầng Network của mô hình OSI.
-- d. Sử dụng địa chỉ vật lý và hoạt động tại tầng Network của mô hình OSI.
-
-### 2. Thiết bị Switch có bao nhiêu Broadcast domain?
-- a. 2
-- b. 1 ✅
-- c. 3
-- d. 4 ❌
-
-### 3. Số thập phân 231 được đổi sang nhị phân là số nào sau đây?
-- a. 11110011
-- b. 11100111 ✅
-- c. 11011011
-- d. 11111001
-
-### 4. Cấp UTP có thể kết nối tối đa bao nhiêu mét?
-- a. 200 mét
-- b. 150 mét
-- c. 100 mét ✅
-- d. 50 mét
-
-### 5. Nhiều vụ nào dùng không phải là nhiệm vụ của tầng mạng (Network Layer) trong mô hình OSI?
-- a. Định địa chỉ lớp lý (địa chỉ IP)
-- b. Chọn đường đi để gửi gói tin
-- c. Định địa chỉ vật lý (địa chỉ MAC) ✅
-- d. Định tuyến
-
-### 6. Thiết bị Router có bao nhiêu collision domain?
-- a. 3
-- b. 1 ❌
-- c. Tất cả đều sai
-- d. 2
-
-### 7. Trong mô hình mạng hình sao (star model), nếu hub hoặc switch xử lý trung tâm bị hỏng thì
-- a. Chi một host trên mạng bị ảnh hưởng
-- b. Mạng chỉ bị ảnh hưởng một phần
-- c. Mạng không thể hoạt động được ✅
-- d. Mạng chỉ bị ảnh hưởng một phần
-
-### 8. Kỹ thuật được dùng để truy cập đường truyền trong mạng Ethernet là
-- a. CSMA/CD ✅
-- b. FTMA
-- c. CDMA
-- d. Token Ring
-
-### 9. Thiết bị Switch có bao nhiêu collision domain?
-- a. 1
-- b. 1 collision/port ✅
-- c. Nhiều collision/port
-- d. 2
-
-### 10. Kỹ thuật được dùng để truy cập đường truyền trong mạng Ethernet là
-- a. CSMA/CD ✅
-- b. FTMA
-- c. CDMA
-- d. Token Ring
-
----
-
-## Lần 3
-
-### 1. Một mạng con lớp C mười 2 bit để chia Subnet thì Subnet mask mới sẽ là
-- a. 255.255.255.192 ✅
-- b. 255.255.255.240
-- c. 255.255.255.128
-- d. 255.255.224.0
-
-### 2. Địa chỉ IP 172.169.1.2/18 thuộc lớp nào sau đây?
-- a. B ❌
-- b. A
-- c. C ✅
-- d. D
-
-### 3. Các giao thức nào nằm ở tầng Network?
-- a. TCP và IP
-- b. ICMP và CDMA
-- c. IP và ARP ✅
-- d. TCP và UDP
-
-### 4. Quá trình mở gói dữ liệu (de-encapsulation) thì các header của các tầng sẽ được
-- a. Giữ nguyên
-- b. Sắp xếp lại vị trí
-- c. Thêm vào ✅
-- d. Loại bỏ đi
-
-### 5. Khi một đơn vị dữ liệu bị chuyển từ tầng cao đến tầng thấp hơn (quá trình đóng gói dữ liệu) thì các phần đầu (header) được
-- a. Giữ nguyên
-- b. Thêm vào ✅
-- c. Sắp xếp lại vị trí
-- d. Loại bỏ đi
-
-### 6. Địa chỉ IP version 4 có bao nhiêu octec?
-- a. 32 octec
-- b. 16 octec
-- c. 8 octec
-- d. 4 octec ✅
-
-### 7. Một mạng con lớp C mười 5 bit để chia subnet thì Subnet mask mới sẽ là
-- a. 255.255.255.1
-- b. 255.255.255.248 ❌
-- c. 255.255.255.128
-- d. 255.255.224.0
-
-### 8. Địa chỉ chỉ nào sau đây không phải là địa chỉ MAC?
-- a. 2H:6G:67:23:09:6R ❌
-- b. 43:23:8F:09:BCFF
-- c. 17-A0-BB-5C-34-9D
-- d. 24 D5 B2 78 CC 8A ✅
-
-### 9. Địa chỉ MAC gồm bao nhiêu bit?
-- a. 48 ✅
-- b. 64
-- c. 16
-- d. 32 ❌
-
-### 10. Phương thức nào mà trong đó cả hai bên đều có thể đồng thời gửi dữ liệu?
-- a. Half – duplex
-- b. Full – duplex ✅
-- c. Các câu khác đều sai
-- d. Simplex
-
-### 11. UDP là giao thức?
-- a. Là giao thức thuộc tầng Transport ✅
-- b. Là giao thức thuộc tầng Network
-- c. Hướng kết nối, thiết lập kênh truyền trước khi truyền.
-- d. Có số thứ tự để xác định dùng thứ tự các gói tin khi nhận
-
-### 12. Trong bộ giao thức TCP/IP thì giao thức IP nằm ở tầng?
-- a. Transport
-- b. Network Access ❌
-- c. Internet ✅
-- d. Application
-
-### 13. Các giao thức nào nằm ở tầng Network?
-- a. ICMP và CDMA
-- b. TCP và IP
-- c. TCP và UDP
-- d. IP và ARP ✅
-
-### 14. Khi sử dụng thiết bị repeater trong hệ thống mạng thì
-- a. Giảm collision domain trong một hệ thống mạng
-- b. Chia nhỏ thành các collision domain
-- c. Chia thành 2 collision domain
-- d. Mở rộng thêm collision domain ✅
-
-### 15. Số nhị phân nào dưới đây có giá trị là 164?
-- a. 10101010
-- b. 10010010
-- c. 10100100 ✅
-- d. 11000100
-
-### 16. Một mạng con lớp C mười 5 bit để chia Subnet thì Subnet mask mới sẽ là
-- a. 255.255.255.1
-- b. 255.255.255.248 ❌
-- c. 255.255.255.128
-- d. 255.255.224.0
-
-### 17. Địa chỉ chỉ nào sau đây không phải là địa chỉ MAC?
-- a. 2H:6G:67:23:09:6R ❌
-- b. 43:23:8F:09:BCFF
-- c. 17-A0-BB-5C-34-9D
-- d. 24 D5 B2 78 CC 8A ✅
-
-### 18. Dịch vụ mạng SMTP dùng để
-- a. Cấp địa chỉ cho máy
-- b. Nhận thư điện tử
-- c. Phân giải tên, địa chỉ
-- d. Gửi thư điện tử ✅
-
-### 19. Thứ tự trên xuống dưới trong mô hình tham chiếu OSI là?
-- a. Physical, Session, Network, Datalink, Transport
-- b. Transport, Session, Datalink, Network, Physical
-- c. Session, Transport, Network, Datalink, Physical ✅
-- d. Transport, Session, Datalink, Network, Physical
-
-### 20. Địa chỉ broadcast là địa chỉ chỉ?
-- a. Tất cả các bit phần host = 0
-- b. Tất cả các bit phần host = 1 ✅
-- c. Tất cả các bit phần NetID = 1
-- d. Tất cả các bit phần NetID = 0
-
-### 21. Khi số dữ liệu bị chuyển từ tầng cao đến tầng thấp hơn (quá trình đóng gói dữ liệu) thì các phần đầu (header) được
-- a. Thêm vào ✅
-- b. Giữ nguyên
-- c. Sắp xếp lại vị trí
-- d. Loại bỏ đi
-
-### 22. Dịch vụ nào cho phép người sử dụng có thể đăng nhập vào một host ở xa qua mạng và có thể làm việc với hệ thống?
-- a. WWW
-- b. Telnet ✅
-- c. FTP
-- d. Email
-
-### 23. Muốn chia mạng con thuộc Class B với mỗi Subnet có tối đa 500 host, phải dùng Subnet Mask nào sau đây?
-- a. 255.255.255.192
-- b. 255.255.255.224
-- c. 255.255.252.0
-- d. 255.255.254.0 ❌
-
-### 24. Địa chỉ IP 192.168.1.1 và subnet mask 255.255.255.224. Hãy xác định địa chỉ broadcast?
-- a. 192.168.1.31 ✅
-- b. 192.168.1.96
-- c. 192.168.1.255
-- d. 192.168.1.15
-
-### 25. Hub là thiết bị hoạt động ở tầng nào của mô hình OSI?
-- a. Tầng Transport
-- b. Tầng Network
-- c. Tầng Physycal ✅
-- d. Tầng Data Link
-
-### 26. Trong mô hình OSI, lớp nào trong quá trình đóng gói dữ liệu (de-encapsulation) thì các header của các tầng sẽ được
-- a. Data Link
-- b. Transport
-- c. Physical
-- d. Network ✅
-
-### 27. Giao thức nào được dùng để liên lạc giữa các máy tính với nhau trong một mạng?
-- a. SSH (Secure Shell)
-- b. Web server
-- c. Remote Host ❌
-- d. FTP
-
-### 28. Trong địa chỉ IP, có 5 lớp A, B, C, D, E. Lớp B là lớp có đây địa chỉ?
-- a. Từ 128.0.0.0 tới 191.255.255.255 ✅
-- b. Từ 224.0.0.0 tới 239.255.255.255
-- c. Từ 192.0.0 tới 223.255.255.255
-- d. Từ 240.0.0.0 tới 255.255.255.255
-
-### 29. Dịch vụ mạng SMTP dùng để
-- a. Cấp địa chỉ cho máy
-- b. Nhận thư điện tử
-- c. Phân giải tên, địa chỉ
-- d. Gửi thư điện tử ✅
-
-### 30. Subnet Mask nào sau đây là hợp lệ?
-- a. 255.255.255.0 ✅
-- b. 255.0.0.255
-- c. 255.0.0.255
-- d. 0.0.255
-
-### 31. Một mạng con lớp C mười 2 bit để chia subnet thì Subnet mask mới sẽ là
-- a. 255.255.255.192 ✅
-- b. 255.255.255.128
-- c. 255.255.224.0
-- d. 255.255.224.0
-
-### 32. Địa chỉ IP lớp B với Subnet Netmask là 255.255.240.0, hỏi có bao nhiêu Subnets sử dụng được?
-- a. 2
-- b. 6
-- c. 30
-- d. 14 ✅
-
-### 33. Trong địa chỉ IP, có 5 lớp A, B, C, D, E. Lớp B là lớp có đây địa chỉ?
-- a. Từ 224.0.0.0 tới 239.255.255.255
-- b. Từ 128.0.0.0 tới 191.255.255.255 ✅
-- c. Từ 192.0.0 tới 223.255.255.255
-- d. Từ 240.0.0.0 tới 255.255.255.255
-
-### 34. Địa chỉ MAC (Mac address) là
-- a. Được cấp phát bởi giao thức DHCP
-- b. Địa chỉ lớp 3 được Router xử lý tuyến
-- c. Địa chỉ lớp 2 được gắn cứng vào card mạng (NIC) ✅
-- d. Có thể thay đổi bởi người quản trị (Administrator)
-
-### 35. Can chia mạng con thuộc Class B với mỗi Subnet có tối đa 500 host, phải dùng Subnet Mask nào sau đây?
-- a. 11111111.11111111.11111110.00000000 ✅
-- b. 11111111.11111111.11111111.11000000
-- c. 11111111.11111111.11111100.00000000
-- d. 11111111.11111111.11111111.00000000
-
-### 36. Phương thức nào mà trong đó cả hai bên đều có thể đồng thời gửi dữ liệu?
-- a. Half – duplex
-- b. Full – duplex ✅
-- c. Các câu khác đều sai
-- d. Simplex
-
-### 37. Byte đầu tiên của một địa chỉ IP có dạng: 11011011. Vậy nó thuộc lớp nào?
-- a. Lớp A
-- b. Lớp D
-- c. Lớp C ✅
-- d. Lớp B
-
-### 38. Độ dài tối đa cho phép khi sử dụng dây cáp mạng UTP là bao nhiêu mét?
-- a. 200 mét
-- b. 100 mét ✅
-- c. 80 mét
-- d. 500 mét
-
-### 39. Trong mô hình TCP/IP thì giao thức IP nằm ở tầng?
-- a. Application
-- b. Internet ✅
-- c. Transport
-- d. Network Access
-
-### 40. Số nhị phân nào dưới đây có giá trị là 164?
-- a. 11000100
-- b. 10010010
-- c. 10100100 ✅
-- d. 10101010
-
-### 41. Khả năng định tuyến trên hệ thống mạng được thực hiện bởi thiết bị nào?
-- a. Switch
-- b. Hub
-- c. Modem
-- d. Router ✅
-
-### 42. Địa chỉ nào trong số những địa chỉ dưới đây là địa chỉ Broadcast của lớp C?
-- a. 190.12.253.255
-- b. 129.219.145.255
-- c. 192.168.255.254
-- d. 221.218.253.255 ✅
-
-### 43. Khả năng định tuyến trên hệ thống mạng được thực hiện bởi thiết bị nào?
-- a. Switch
-- b. Hub
-- c. Modem
-- d. Router ✅
-
-### 44. Subnet Mask nào sau đây là hợp lệ?
-- a. 255.255.255.0 ✅
-- b. 255.0.0.255
-- c. 255.0.0.255
-- d. 0.0.255
-
-### 45. Hub là thiết bị hoạt động ở tầng nào của mô hình OSI?
-- a. Tầng Transport
-- b. Tầng Network
-- c. Tầng Physycal ✅
-- d. Tầng Data Link
-
-### 46. Trong mô hình OSI, lớp nào trong quá trình đóng gói dữ liệu có kèm theo IP HEADER?
-- a. Data Link
-- b. Transport
-- c. Physical
-- d. Network ✅
-
-### 47. Giao thức nào được dùng để liên lạc giữa các máy tính với nhau trong một mạng?
-- a. SSH (Secure Shell)
-- b. Web server
-- c. Remote Host ❌
-- d. FTP
-
----
-
-## Tóm tắt Đáp Án
-
-| Lần | Câu | Đáp Án | Lần | Câu | Đáp Án |
-|-----|-----|--------|-----|-----|--------|
-| 1 | 1 | A | 2 | 1 | A |
-| 1 | 2 | B | 2 | 2 | B |
-| 1 | 3 | A | 2 | 3 | B |
-| 1 | 4 | A | 2 | 4 | C |
-| 1 | 5 | A | 2 | 5 | C |
-| 1 | 6 | C | 2 | 6 | C |
-| 1 | 7 | D | 2 | 7 | C |
-| 1 | 8 | C | 2 | 8 | A |
-
-Địa chỉ IP thuộc lớp A nằm trong khoảng từ 1.xxx – 126.xxx
-Địa chỉ IP thuộc lớp B nằm trong khoảng từ 128.0.xx – 191.255.xx
-Địa chỉ IP thuộc lớp C có phạm vi từ 192.0.0.x – 223.255.255.x.
-Lớp D có phạm vi từ 224.0.0.0 – 239.255.255.255.
-lớp E nằm trong khoảng từ 240.0.0.0 – 255.255.255.254
-Web proxy trên ISA chạy port là bao nhiêu? 8080
-Cổng mặc định của Remote desktop là? 3389
-Cổng mặc định của Remote web brower là? 8098
-Cổng hoạt động TCP của dịch vụ Web là? 80
-Chương 1: Tổng quan về quản trị mạng
-Các thuật ngữ, khái niệm cần biết:
-Quản trị mạng (Network Administration): Quản lý, vận hành, giám sát và bảo trì các thành phần của mạng máy tính.
-   5 lĩnh vực chức năng của công tác quản trị mạng (Computer
-  Network Management)
-   Mô hình quản trị mạng do ISO (International Standard 
-  Organization) đề xuất bao gồm 5 lĩnh vực chức năng:
-   Fault Management: Theo ISO, đây là một lĩnh vực phức tạp nhất của công tác quản trị mạng
-1)Xác định “triệu chứng” và cô lập vấn đề căn nguyên của lỗi;
- 2)Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống;
- 3)Ghi lại vấn đề/lỗi được phát hiện và giải pháp khắc phục chúng (chuẩn bị cho
-việc khắc phục lỗi lần sau.
-
-   Configuration Management
-   Accounting Management: quan tâm đến việc chuẩn bị số
-liệu để báo cáo về việc sử dụng mạng và cấp phát tài
-nguyên của toàn hệ thống.
- Quytrình quản lý kiểm toán bao gồm:
- 1) Đo lường việc sử dụng của tất cả các tài nguyên mạng quan
-trọng;
- 2) Phân tích các mẫu sử dụng hiện tại;
- 3) Thiết lập hạn ngạch sử dụng tài nguyên mạng cho các nhóm
-user khác nhau 
-
-   Performance Management: quản lý/đo lường các khía cạnh khác nhau
-của hiệu năng mạng: Băng thông mạng, thời gian hồi đáp
-người dùng, … Mục tiêu là duy trì hiệu năng của mạng ở
-mức có thể truy cập được.
- Quytrình quản lý hiệu năng bao gồm các giai đoạn:
- 1) Thu thập dữ liệu hiệu năng;
- 2) Phân tích dữ liệu;
- 3) Thiết lập các ngưỡng hiệu năng cho giá trị của các thông số
-quan trọng.
-
-   Security Management: điều khiển truy cập đến tài
-nguyên mạng theo đặc quyền của người dùng, nhằm bảo
-vệ các tài nguyên nhạy cảm, ngăn chặn sự truy cập bất
-hợp lệ của người sử dụng không được phép.
- Quytrình quản lý bảo mật liên quan đến:
- 1) Định danh các tài nguyên (tài nguyên mạng) nhạy cảm;
- 2) Xác định mối liên quan giữa tài nguyên nhạy cảm và nhóm user
-được quyền truy cập/không được quyền truy cập tài nguyên đó;
- 3)Theo dõi việc truy cập đến tài nguyên nhạy cảm của user
-
-Hệ thống mạng (Network System): Tập hợp các thiết bị mạng (máy tính, router, switch...) kết nối với nhau nhằm chia sẻ tài nguyên.
-Quản trị viên mạng (Network Administrator): Người chịu trách nhiệm giám sát, vận hành và khắc phục sự cố mạng.
-Thiết bị mạng (Network Devices): Bao gồm router, switch, hub, access point, tường lửa...
-Hệ thống quản trị mạng (Network Management System - NMS): Hệ thống bao gồm phần mềm và phần cứng dùng để giám sát, cấu hình, và quản lý toàn bộ mạng.
-Giám sát mạng (Network Monitoring): Theo dõi hoạt động mạng để kịp thời phát hiện và xử lý sự cố.
-SNMP (Simple Network Management Protocol): Giao thức quản trị mạng đơn giản, cho phép giám sát và điều khiển các thiết bị mạng.
-   3 phiên bản
-   SNMP v1: 1990
-   SNMP v2: 1996
-   SNMP v3: 2003
-   Sử dụng giao thức vận chuyển UDP:
-   Port 161: polling
-   Port 162: trapping
-Một thiết bị hỗ trợ SNMP có thể cung cấp nhiều thông
-tin khác nhau, mỗi thông tin đó gọi là một object.
- Mỗi object có một tên gọi và một mã số để nhận dạng
-object đó, mã số gọi là Object ID (OID)
-Tên thiết bị được gọi là sysName, OID là 1.3.6.1.2.1.1.5.
- Tổng số port giao tiếp (interface) được gọi là ifNumber, OID là 
-1.3.6.1.2.1.2.1.
- Địa chỉ Mac Address của một port được gọi là ifPhysAddress, 
-OID là 1.3.6.1.2.1.2.2.1.6.
- Số byte đã nhận trên một port được gọi là ifInOctets, OID là 
-1.3.6.1.2.1.2.2.1.10.
-
-SNMP message được gói trong UDP-IP-Link header
-SNMP message = Version + Community string + SNMP PDU
-PDU type   PDU
-0       GetRequest: Manager gửi GetRequest cho agent để yêu cầu agent cung 
-      cấp thông tin nào đó dựa vào ObjectID (trong GetRequest 
-      có chứa OID)
-1       GetNextRequest:  Manager gửi GetNextRequest có chứa một ObjectID cho 
-      agent để yêu cầu cung cấp thông tin nằm kế tiếp ObjectID 
-      đó trong MIB. snmpget –v 2c –c public localhost  system.sysContact.0
-2       Response: Agent gửi GetResponse cho Manager để trả lời khi nhận 
-      được GetRequest/GetNextRequest
-3       SetRequest: Manager gửi SetRequest cho agent để đặt giá trị cho đối 
-      tượng của agent dựa vào ObjectID. snmpset -v 2c -c private localhost system.sysContact.0 s “BMCNTT”
-4       Trap (obsolete
-5       GetBulkRequest
-6       InformRequest
-7       Trap (SNMPv2): Agent tự động gửi Trap cho Manager khi có một sự kiện 
-      xảy ra đối với một object nào đó trong agent
-      Có 2 loại trap:
-       trap phổ biến (generic trap): được quy định trong các chuẩn SNMP
-          Ý nghĩa của các bản tin generic-trap như sau : 
-- coldStart: thông báo rằng thiết bị gửi bản tin này đang khởi động lại
-(reinitialize) và cấu hình của nó có thể bị thay đổi sau khi khởi động.
-- warmStart: thông báo rằng thiết bị gửi bản tin này đang khởi động lại
-và giữ nguyên cấu hình cũ.
-- linkDown: thông báo rằng thiết bị gửi bản tin này phát hiện được một
-trong những kết nối truyền thông (communication link) của nó gặp
-lỗi. Trong bản tin trap có tham số chỉ ra ifIndex của kết nối bị lỗi.
--  linkUp: thông báo rằng thiết bị gửi bản tin này phát hiện được một
-trong những kết nối truyền thông của nó đã khôi phục trở lại. Trong
-bản tin trap có tham số chỉ ra ifIndex của kết nối được khôi phục.
-- authenticationFailure: thông báo rằng thiết bị gửi bản tin này đã
-nhận được một bản tin không được chứng thực thành công (bản tin
-bị chứng thực không thành công có thể thuộc nhiều giao thức khác
-nhau như telnet, ssh, snmp, ftp, …). Thông thường trap loại này
-xảy ra là do user đăng nhập không thành công vào thiết bị.
-- egpNeighborloss: thông báo rằng một trong số những “EGP
-neighbor” (Exterior Gateway Protocol ) của thiết bị gửi trap đã bị coi
-là down và quan hệ đối tác (peer relationship) giữa 2 bên không còn
-được duy trì.
-- enterpriseSpecific: thông báo rằng bản tin trap này không thuộc các
-kiểu generic như trên mà nó là một loại bản tin do người dùng tự
-định nghĩa
-       trap đặc thù (specific trap):  do người dùng tự định nghĩa 
-
-8       Report
-
-Error status: số nguyên xác định trạng thái lỗi.
-Giá trị     Tên lỗi      Ý nghĩa
-0       noError        Không có lỗi
-1       tooBig       Kích thước thông tin trả lời vượt quá kích thước PDU
-2       noSuchName    Đối tượng không tồn tại
-3       badValue     Giá trị không phù hợp
-4       readOnly       Không được phép ghi
-5       genErr      Lỗi không xác định
-
-◼ Error index: số nguyên xác định đối tượng (OID) gây lỗi
-VARIABLE BINDINGS
- Chứa danh sách OID và giá trị tương ứng
- Mỗi SNMP PDU có thể chứa nhiều variable binding
-
-
-Agent (Tác nhân): Phần mềm được cài đặt trên thiết bị mạng, cung cấp thông tin cho hệ thống quản trị.
-Manager (Trình quản lý): Phần mềm trung tâm thu thập, phân tích thông tin từ các Agent.
-MIB (Management Information Base): Cơ sở dữ liệu chứa thông tin quản lý các đối tượng mạng, được SNMP sử dụng.
-  MIB được thể hiện thành 1 file (MIB file), và có thể biểu diễn thành 1
-  cây (MIB tree).
-   MIB có thể được chuẩn hóa hoặc tự tạo.
-   Một MIB định nghĩa các thuộc tính sau cho mỗi đối tượng:
-      Tên và mã số
-      Kiểu dữ liệu
-      Chú giải đối tượng
- Ví dụ:
- Các OID của các hãng tự thiết kế nằm dưới
-iso.org.dod.internet.private.enterprise. Ví dụ : Cisco nằm dưới
-iso.org.dod.internet.private.enterprise.cisco hay 1.3.6.1.4.1.9, Microsoft nằm dưới 
-iso.org.dod.internet.private.enterprise.microsoft 
-hay 1.3.6.1.4.1.311. 
- Số 9 (Cisco) hay 311 (Microsoft) là số dành riêng cho các công ty do 
-IANA cấp. Nếu Cisco hay Microsoft chế tạo ra một thiết bị nào đó, thì
-thiết bị này có thể hỗ trợ các MIB chuẩn đã được định nghĩa sẵn (như
-mib-2) hay hỗ trợ MIB được thiết kế riêng. Các MIB được công ty nào
-thiết kế riêng thì phải nằm bên dưới OID của công ty đó.
-
-Polling (Thăm dò tuần tự): Phương thức mà thiết bị quản lý (Manager) chủ động gửi yêu cầu định kỳ đến các thiết bị mạng để kiểm tra trạng thái hoặc lấy thông tin.
-Trap: Thông báo tự động do thiết bị gửi về hệ thống quản trị khi có sự kiện bất thường xảy ra.
-RFC (Request for Comments): Bộ tài liệu mô tả tiêu chuẩn kỹ thuật về các giao thức mạng, bao gồm cả SNMP.
- Community string là một chuỗi ký tự được cài đặt giống nhau trên
-cả SNMP manager và SNMP agent, đóng vai trò như “mật khẩu”
-giữa 2 bên khi trao đổi dữ liệu.
- Community string có 3 loại: 
-    Read-community: Get-Request
-    Write-Community : Set-Request
-    Trap-Community.
-
-SNMPACL ( access control list ) là một danh sách các địa chỉ IP được phép quản lý/giám
-sát agent, nó chỉ áp dụng riêng cho giao thức SNMP và được cài trên
-agent
-
-
-CHƯƠNG 2: QUẢN TRỊ THIẾT BỊ MẠNG
-Các thuật ngữ, khái niệm cần biết:
-Thiết bị mạng (Network Devices): Các thiết bị phần cứng dùng để kết nối, truyền dữ liệu trong mạng như router, switch, hub, access point...
-Router: Thiết bị định tuyến, kết nối các mạng khác nhau, chuyển tiếp gói tin giữa các mạng.
- CÁC THÀNH PHẦN CHÍNH CỦA ROUTER
-   ❖Các thành phần bên trong của Router:
-    CPU
-    ROM: Chứa chương trình kiểm tra khởi động (POST- Power On Self Test Definition), 
-Bootstrap (giống BIOS của máy tính) và Mini-IOS (recovery password, upgrade 
-IOS). 
- Nhiệm vụ chính của ROM là kiểm tra phần cứng khi khởi động, sau đó chép HĐH 
-Cisco IOS từ flash vào RAM. 
-
-    RAM: Lưu trữ routing table, ARP cache, fast-switching cache, packet buffering (shared 
-RAM), và packet hold queues 
- Đa số HĐH Cisco IOS chạy trên RAM; RAM còn lưu trữ file cấu hình đang chạy 
-của router (running-config).
-    Flash: ưu toàn bộ HĐH Cisco IOS;
-    NVRAM: lưu trữ file cấu hình backup/startup 
-của router (startup-config)
- Nội dung của NVRAM vẫn được giữ khi tắt nguồn hoặc restart router
-   ❖Các thành phần bên ngoài của Router: 
-    LAN:  Gigabit, Fast Ethernet
-    WAN:  Serial: Có 3 loại kết nối WAN thường 
-      được thuê từ nhà cung cấp 
-      dịch vụ:
-      o Thuê kênh riêng
-      o Kết nối chuyển mạch kênh
-      o Kết nối chuyển mạch gói
-    Console/AUX (Auxiliary – hỗ trợ):  rollover, dùng để cấu hình trực tiếp cho router. 
-Cáp thẳng: 1-1,2-2,3-3,..
-cáp chéo: 1-3,2-6,3-1,4-4,5-5,6-2,7-7,8-8
-Cáp rollover: 1-8,2-7,..
-Cisco IOS cung cấp các dịch vụ mạng như sau: 
-    Định tuyến và chuyển mạch. 
-    Đảm bảo và bảo mật cho việc truy cập vào tài nguyên mạng. 
-    Mở rộng hệ thống mạng.
-
-Vùng tự trị (Autonomous System–AS): 
- Internet được chia thành các vùng nhỏ hơn gọi là các vùng tự trị. 
- AS bao gồm tập hợp các mạng con được kết nối với nhau bởi Router
-
-Khoảng cách quản trị - AD (Administrative Distance) 
- AD được sử dụng để đánh giá độ tin cậy của thông tin định tuyến mà 
-Router nhận từ router láng giềng. 
- AD là một số nguyên nhận giá trị từ 0(max) đến 255(min)
-Connected-0,static-1,BGP(ex)-20,EIGRP(in)-90,IGRP-100,OSPF-110,IS-IS-115,RIP-120,EIGRP(ex)-170,BGP(in)-200
-
-Metric: 
- Metric là giá trị dùng để định lượng mức độ tối ưu của 1 đường đi trong
-tính toán định tuyến
- Đường đi nào có metric nhỏ nhất, đường đi đó được xem là tối ưu nhất
-và được đưa vào bảng định tuyến để được sử dụng
-      RIP thực hiện metric dựa vào số router trên đường đi đến đích gọi là hop-count.
-      o OSPF tính metric dựa vào băng thông (Bandwidth) của các đường truyền.
-      o EIGRP tính metric dựa vào một bộ các thông số khác nhau trên đường đi đến đích
-      như:
-      • Băng thông (Bandwidth)
-      • Độ trễ (delay)
-      • Độ tin cậy (reliability)
-      • Tải (load) của đường truyền
-
-Sự hội tụ mạng (convergence): 
- Là một đặc tính quan trọng đối với các giao thức định tuyến, đó là các thông tin 
-định tuyến trong các bảng định tuyến của tất cả các Router trong mạng phải 
-cùng chính xác. 
- Sự hội tụ là tiến trình đưa tất cả các bảng định tuyến của các router vào một 
-trạng thái đồng nhất và chính xác.
- Thời gian hội tụ: là thời gian cần thiết để chia sẻ thông tin qua mạng và để 
-cho tất cả các Router tính toán tuyến đường tốt nhất của nó
-
-Cân bằng tải (Load balancing) 
- Mục đích của Load balancing là để sử dụng băng thông của mạng một 
-cách hiệu quả hơn và có thể sử dụng làm tuyến dự phòng trong khi 
-tuyến đường chính bị ngắt. 
- Nếu một giao thức tìm thấy nhiều tuyến có chi phí bằng nhau, nó sẽ tự 
-động phân chia lưu lượng mạng giữa các tuyến này. 
-
-Switch: Thiết bị chuyển mạch, kết nối các thiết bị trong cùng một mạng nội bộ (LAN).
-Chế độ cấu hình VLAN
-    Switch#vlan database
-❖Thêm mới VLAN
-    Switch(vlan)# vlan VLAN-ID name VLAN-Name
-❖Cập nhật
-    Switch(vlan)# exit
-Gán cổng vào VLAN
-    Switch(config)# interface Interface-ID
-    Switch(config-if)# switchport mode access
-    Switch(config-if)# switchport access vlan VLAN-ID
-    Switch(config-if)# end
-❖Kiểm tra
-    Switch# show vlan brief
-    Switch# show interface Interface-ID switchport
-❖Chú ý:
-    Switch(config)#interface range Interface-ID-range
-    Switch(config-if-range)#
-VTP : VLAN trunking protocol
-❖Chỉ định switch làm VTP server
-    Switch(vlan)#vtp server // Thiết lập chế độ VTP server mode
-    Switch(vlan)#vtp domain Domain-Name //đặt switch vào domain
-❖Chỉ định switch làm VTP client
-    Switch(vlan)#vtp client // Thiết lập chế độ VTP server mode
-    Switch(vlan)#vtp domain Domain-Name //đặt switch vào domain
-❖Gán 1 cổng làm trunking port
-    Switch(config-if)#switchport mode trunk
-    Switch(config-if)#switchport trunk encapsulation isl // đóng gói kiểu isl (hoặc dot1q) để đi qua 
-đường trunk
-    Switch(config-if)#switchport trunk allowed vlan VLAN-ID
-
-Hub: Thiết bị kết nối mạng đơn giản, truyền dữ liệu tới tất cả các cổng.
-Access Point (AP): Thiết bị phát sóng WiFi, kết nối mạng không dây với mạng có dây.
-Cấu hình thiết bị mạng: Quá trình thiết lập thông số, chức năng cho thiết bị mạng hoạt động đúng mục đích.
-Địa chỉ IP (IP Address): Địa chỉ định danh thiết bị trong mạng.
-Giao thức định tuyến (Routing Protocol): Tập hợp các quy tắc giúp thiết bị mạng xác định đường đi tối ưu cho dữ liệu.
-Định tuyến tĩnh (Static Routing): Hình thức cấu hình sẵn đường đi của dữ liệu, do quản trị viên thiết lập thủ công.
-Định tuyến động (Dynamic Routing): Thiết bị tự động tìm và cập nhật đường đi nhờ các giao thức định tuyến động.
-Default Gateway: Cổng mặc định để thiết bị truy cập ra ngoài mạng nội bộ.
-CLI (Command Line Interface): Giao diện dòng lệnh, nơi nhập lệnh cấu hình thiết bị mạng.
-Router> User chỉ có khả năng hiển thị các thông số cấu hình 
-      trên router. 
-      Không thể cấu hình để thay đổi các thông số cấu hình 
-      và hoạt động của router.
-Router# có thể nhìn thấy file cấu hình và thay đổi các tham số 
-   cấu hình trên file cấu hình đó
-Router(config)# Chuyển người dùng vào chế độ Global Configuration. 
-      Có thể cấu hình những thay đổi cho router
-Router# ? Hiển thị tất cả các câu lệnh có khả năng thực thi ở chế độ hiện thời
-Router# c? Hiển thị tất cả các câu lệnh bắt đầu từ ký tự c
-Router# clock
-% Imcomplete command: Nhắc nhở sẽ còn nhiều tham số khác nữa của câu lệnh này mà cần phải nhập vào.
-Router# clock ?
-Set: Hiển thị tất cả các câu lệnh phụ của câu lệnh này (trong trường hợp này, Set, dùng để đặt các tham số ngày tháng, và thời gian)
-Ctrl – A Di chuyển con trỏ về đầu dòng
-Esc – B Di chuyển con trỏ về trước một từ
-Ctrl – B Di chuyển con trỏ trước một ký tự
-Ctrl – E Di chuyển con trỏ về cuối dòng
-Ctrl – F Di chuyển con trỏ về sau một ký tự
-Esc – F Di chuyển con trỏ về sau một từ
-Ctrl – Z Di chuyển con trỏ từ mọi chế độ cấu hình trở về chế độ 
-cấu hình Privileged
-Router# terminal no editing Tắt khả năng sử dụng các phím tắt
-Router# terminal editing Bật lại khả năng sử dụng các phím tắt và sử dụng các tổ 
-      hợp phím trong quá trình xử dụng câu lệnh
-Router# show version Hiển thị các thông tin về phần mềm Cisco IOS hiện thời
-Router# show flash Hiển thị các thông tin về bộ nhớ Flash
-Router# show history Hiển thị các câu lệnh đã được lưu trữ trong bộ đệm history
-Router#show ? Hiển thị tất cả các câu lệnh show có khả năng thực thi
-Router#show interfaces Hiển thị trạng thái cho tất cả các Interface
-Router#show interface serial 0/0/0 Hiển thị trạng thái cho một interface đã được chỉ ra
-Router#show ip interface brief Hiển thị các thông tin tổng quát nhất cho tất cả các interface
-Router#show controllers serial 0/0/0 Hiển thị các thông tin về phần cứng của một interface.
-Router#show clock Hiển thị thời gian đã được cấu hình trên router.
-Router#show hosts Hiển thị bảng host (bảng ánh xạ giữa địa chỉ IPvới host name).
-Router#show protocol xem trạng thái của các giao thức được định tuyến (routed 
-protocol) ở layer 3 đang chạy trên router
-Router#show user danh sách các “user” đã kết nối tới router 
-Router#show cdp interfaces xem trạng thái của tất cả các interface đang chạy CDP 
-
-CDP (Cisco Discovery Protocol) là một giao thức hoạt động tại layer 
-2 của mô hình OSI → giúp các thiết bị chia sẻ các thông tin cấu hình 
-cơ bản cho nhau. 
-❖CDP không phải là giao thức định tuyến. 
-Router#show cdp interfaces xem trạng thái của tất cả các interface đang chạy CDP 
-Router#show cdp neighbors thông tin về các „hàng xóm‟ đang được kết nối trực tiếp tới 
-Router này
-Router#show cdp neighbors detail: thông tin chi tiết hơn về các “hàng xóm” được kết nối trực 
-   tiếp tới Router này
-Router(config)# enable password cisco Cấu hình enable password
-Router(config)# enable secret class Cấu hình password mã hóa của chế độ enable.
-Router(config)# line console 0 Vào chế độ line console
-Router(config-line)# password console   Cấu hình password cho line console
-Router(config-line)# login   Cho phép kiểm tra password khi login vào router bằng port console
-Router(config)# line vty 0 4   Vào chế độ line vty để cho phép telnet
-Router(config-line)# password telnet   Cấu hình password để cho phép telnet
-Router(config-line)# login   Cho phép kiểm tra password khi người dùng telnet vào router
-Router(config)# line aux 0   Vào chế độ line auxiliary
-Router(config-line)# password backdoor   Cấu hình password cho line aux
-Router(config-line)# login   Cho phép router kiểm tra password khi người dùng login vào router thông qua port AUX
-Router(config)# service password encryption Khi câu lệnh được thực thi trên router hoặc switch thì tất cả các loại password
-      trên router hoặc switch đó sẽ được mã hóa. (Trừ enable secret password)
-Router(config)# enable password abc123 Cấu hình enable password là abc123
-Router(config)# line console 0
-Router(config-line)# password abc1234
-Router(config-line)# login
-      Cấu hình password cho line console là
-      abc1234
-Router(config)# no service passwordencryption Tắt tính năng mã hóa password trên router hoặc switch
-❖Cấu hình định tuyến tĩnh :
- Router(config)#ip route DestinationNet Netmask OutgoingPort
-❖Xóa 1 đường định tuyến tĩnh:
- Router(config)#no ip route DestinationNet Netmask OutgoingPort
-❖Chế độ cấu hình định tuyến
- Router(config)#router Protocol
- Router(config-router)#network Network-Address
-VLAN (Virtual LAN): Mạng LAN ảo, chia mạng nội bộ thành các phân vùng logic khác nhau.
-
- Giao thức định tuyến động (Dynamic Routing)
-Phân loại theo giải thuật:
-Khoảng cách véc-tơ (Distance-Vector): Gửi toàn bộ bảng định tuyến định kỳ cho các láng giềng. Sử dụng các bộ định thời (timer) để tránh vòng lặp
-Ví dụ: RIP, IGRP
-Trạng thái đường truyền (Link-State): Duy trì cơ sở dữ liệu cấu hình mạng phức tạp, sử dụng thuật toán SPF (Shortest Path First) hay Dijkstra
-Ví dụ: OSPF
-Lai ghép (Hybrid): Kết hợp đặc điểm của cả hai loại trên. Ví dụ: EIGRP
-Giao thức RIP (Routing Information Protocol) cần lưu ý:
-Cập nhật định kỳ mỗi 30 giây
-Chỉ số đo (Metric): Hop count (số bước nhảy)
-Giới hạn Hop count tối đa là 15 (16 được coi là không thể tới)
-RIPv1: Định tuyến Classfull (không gửi kèm subnet mask)
-RIPv2: Định tuyến Classless (hỗ trợ VLSM - độ dài subnet mask thay đổi)
-Lệnh cấu hình: router rip và network [địa chỉ mạng lớp A/B/C]
-
-2.5. Cấu hình một số dịch vụ mạng
-1. Hệ thống tên miền (DNS):
-Giao thức và cổng: Hoạt động tại lớp ứng dụng, sử dụng giao thức UDP, cổng 53
-Các loại bản ghi (Resource Records):
-   A (Address): Ánh xạ tên host sang địa chỉ IP
-   MX (Mail Exchanger): Xác định máy chủ thư điện tử, có giá trị ưu tiên (priority) (số càng nhỏ độ ưu tiên càng cao)
-   CNAME (Canonical Name): Tạo tên bí danh (alias), thường dùng cho web hosting
-   NS (Name Server): Chuyển quyền quản lý tên miền xuống DNS cấp thấp hơn
-   PTR (Pointer): Chuyển đổi từ IP sang tên miền (truy vấn ngược)
-Phân loại Server: Primary (nguồn xác thực chính), Secondary (dự phòng, lấy dữ liệu từ Primary), Caching-only (chỉ lưu cache)
-Đồng bộ dữ liệu (Zone Transfer): AXFR (truyền toàn bộ), IXFR (truyền phần thay đổi)
-Khi cài đặt xong DNS, những thành phần nào có trong DNS?
-Forward Lookup Zones, Reverse Lookup Zones, Event 
-Chức năng của Forward Lookup Zones trong DNS là? Chứa tất cả 
-các Zone thuận của dịch vụ DNS, zone này được lưu tại máy
-Một nút trong DNS name space quy định tối đa bao 
-nhiêu ký tự? 63
-2. Dịch vụ cấp IP động (DHCP):
-Chức năng: Tự động cấp địa chỉ IP, Subnet mask, Default Gateway và địa chỉ DNS cho máy trạm
-Quy trình: Client yêu cầu IP từ Server, Server chọn một IP từ dãy địa chỉ (Pool) và cho thuê (Lease) trong một khoảng thời gian
-
-3. Dịch vụ Proxy và NAT:
-Proxy: Hoạt động ở mức ứng dụng, có chức năng Caching để tăng tốc độ truy cập và giảm băng thông
-Cache thụ động (Passive): Chỉ lưu đối tượng khi có yêu cầu
-Cache chủ động (Active): Tự động cập nhật các đối tượng thường xuyên được yêu cầu
-NAT (Network Address Translation): Chuyển đổi địa chỉ IP dùng riêng (Private) sang IP công cộng (Public) để ra Internet
-Dải IP Private: 10.x.x.x, 172.16.x.x - 172.31.x.x, 192.168.x.x
-
-4. Dịch vụ truy cập từ xa (Remote Access):
-Sử dụng giao thức PPP (Point-to-Point Protocol) là phổ biến nhất
-Xác thực: PAP (gửi mật khẩu dạng text, không an toàn) và CHAP (sử dụng cơ chế challenge/response, an toàn hơn)
-
-
-Chương 3: Quản trị hệ thống Windows Server
-Các thuật ngữ, khái niệm cần biết:
-Windows Server: Hệ điều hành máy chủ của Microsoft, cung cấp các dịch vụ và chức năng quản lý mạng cho doanh nghiệp.
-Active Directory (AD):
-    Là một kiến trúc độc quyền của Microsoft. 
-    Là một dịch vụ thư mục không thể thiếu trên Windows Server.
-    quản trị tập trung tất cả các đối tượng trong vùng gồm: người dùng, máy 
-   tính, các thiết bị khác, thư mục chia sẻ
-❖Các thành phần trong dịch vụ thư mục (Directory Services)
-    Objects:  Dữ liệu trong Active Directory như là thông tin users, máy in, server, database, 
-   groups, computers và security policies được tổ chức như các objects
-    Attribute
-    Schema: Định nghĩa các đối tượng và các thuộc tính mà dịch vụ thư mục sử dụng để lưu 
-   trữ dữ liệu. Là của danh bạ AD
-    Container: là object đặc biệt bao gồm nhiều object khác bên trong.
-    VD: domain là một container bao gồm nhiều user account và computer 
-   account.
-
-Active Directory Schema
- Schema được định nghĩa gồm 2 loại đối tượng (object) là: 
-   o Schema Class objects:
-• Có chức năng như một template cho việc tạo mới các đối tượng trong AD. 
-• Mỗi Schema Class là một tập hợp các thuộc tính của đối tượng (Schema Attribute 
-Objects). 
-• Khi tạo một đối tượng thuộc về một loại Schema Class thì Schema Attribute sẽ 
-lưu trữ các thuộc tính của đối tượng đó tương ứng với loại Schema Class của đối 
-tượng.
-   o Schema Attribute objects
-• Định nghĩa các Schema Class tương ứng với nó. 
-• Mỗi thuộc tính chỉ được định nghĩa một lần trong AD và có thể thuộc nhiều Schema 
-Class theo quan hệ một nhiều (1-m)
-
-Kiến trúc AD logic
- Domain:
-o Cốt lõi của kiến trúc tổ chức luận lí trong AD chính là Domain, nơi lưu trữ hàng triệu 
-đối tượng (objects). 
-o Tất cả các đối tượng trong hệ thống mạng trong một domain thì do chính domain đó 
-lưu trữ thông tin của các đối tượng. 
-o Active Directory được kiến tạo bởi một hay nhiều domain
-o Một domain có thể triển khai trên nhiều physical structure. 
-o Việc truy xuất vào domain được quản trị thông qua Access Control Lists (ACLs), 
-quyền truy xuất trên domain tương ứng với từng đối tượng. 
-
- OU (Organizational Unit):
-o Là một container được dùng để tổ chức các đối 
-tượng (user accounts, groups, computers) trong 
-một domain thành các nhóm quản trị luận lí 
-(logical). 
-o Cung cấp phương tiện thực hiện các tác vụ quản 
-trị trong hệ thống như là quản trị user và 
-resources
-
- Trees: Là tập hợp nhiều domain, được tổ chức theo cấu trúc hình cây với mô hình parent-child
- Forests: Là tập hợp nhiều domain có mối quan hệ tin cậy. Một forest phải đảm bảo thoả các đặc tính sau:
-   • Toàn bộ domain trong forest phải có 1 schema chia sẻ chung.
-   • Các domain trong forest phải có 1 global catalog chia sẻ chung. 
-   • Các domain trong forest phải có mối quan hệ trust 2 chiều với nhau. 
-   • Các tree trong 1 forest phải có cấu trúc tên(domain name) khác nhau. 
-   • Các domain trong forest hoạt động độc lập với nhau, tuy nhiên hoạt động của forest là hoạt 
-   động của toàn bộ hệ thống tổ chức doanh nghiệp.
-
-Kiến trúc AD vật lý
-   Site: là thuật ngữ được dùng đến khi nói về vị trí địa lý của các domain trong hệ 
-thống. 
-o Khi hệ thống các domain được phân tán ở những vị trí địa lý, những nơi khác 
-nhau và có quan hệ với nhau thì những nơi đặt các domain này chính là các 
-Site. 
-
-   Domain Controller (DC):
-o là 1 máy tính hay server chuyên dụng được setup Windows Server 
-o Có bản sao của Active Directory
-o Chịu trách nhiệm phản hồi yêu cầu trong domain
-o Xác thực người dùng đăng nhập vào hệ thống
-
-3.2.4. QUẢN TRỊ ACTIVE DIRECTORY
-Active Directory Domain Server (AD DS) cung cấp các chức năng của giải pháp xác
-nhận và truy cập (Identity and Access-IDA) cho mạng.
-❖ IDA có nhiệm vụ duy trì an ninh cho nguồn tài nguyên của mạng như file, e-mail,
-ứng dụng và cơ sở dữ liệu.
-❖ Cơ sở hạ tầng của IDA gồm:
- Lưu trữ thông tin về người dùng, nhóm, máy tính và các đối tượng định danh khác.
- Xác thực đối tượng định danh: Máy chủ sẽ không cấp quyền truy cập tài liệu cho
-người dùng trừ khi hệ thống xác thực được đối tượng đó là hợp lệ và có thông tin
-trong hệ thống.
- Điều khiển truy cập: IDA chịu trách nhiệm bảo vệ sự bí mật thông tin.
- Lưu vết: IDA cung cấp cơ chế kiểm soát các thay đổi và hoạt động diễn ra trong hệ thống.
-
-❖Khônggiantên: lànơimà1têncóthểđượcphângiải.KhônggiantêncủaAD
-dựatrênkhônggiantêncủaDNS.
-❖Phângiải tên: làquytrìnhchuyểnđổi từmột tênthànhcácđối tượnghaycác
-thôngtinmàtênđóthểhiện.
-❖Quytắcđặttên:
- Mỗi đối tượng trong AD sẽ có DN(DistinguishedName)
- DN là duy nhất và xác định một đối tượng.
-
-User Account: Tài khoản người dùng, cho phép truy cập tài nguyên và dịch vụ trong hệ thống.
-Phân loại:
-   o Local user account: Được tạo ra trên máy cục bộ (không thể tạo ra trên máy DC)
-   Tạo tài khoản cục bộ với công cụ Local Users and Group trong Computer
-   Management (COMPMGMT.MSC).
-   ❖ Các tài khoản cục bộ (tạo ra trên máy stand-alone server, member server hoặc các
-   máy trạm) đều được lưu trữ trong tập tin cơ sở dữ liệu SAM (Security
-   Manager) tại thư mục \Windows\system32\config.
-   Khởi động trình quản lý Local user and Group
-    Cách 1: click chuột phải lên Computer (This PC hoặc My Computer) →
-   Manager → System tools → Local User and Group.
-    Cách 2: Vào Run → gõ MMC (Microsoft Management Console)
-   o Tại cửa sổ MMC vào File → Add/Remove Snap-in (hoặc nhấn tổ hợp phím Ctrl+M) →
-   Computer management → nhấn add → Local computer → Finish → OK →
-   System tools → Local User and Group
-    Cách 3: Vào Run → gõ lusrmgr.msc 
-
-o Domain user account: Được tạo ra với công cụ Active Directory Users and Computer (DSA.MSC).
-❖ Chứa trong tập tin NTDS.DIT, mặc định chứa trong thư mục \Windows\NTDS.
-Yêu cầu về Username:
- Từ 1 đến 20 ký tự
- Không chứa các ký tự : “ / \ [ ] : ; | = , + * ? < >
- Có thể chứa các ký tự đặc biệt: dấu chấm câu, khoảng trắng, dấu gạch ngang,
-dấu gạch dưới.
-o Nên tránh các khoảng trắng vì những tên như thế phải đặt trong dấu ngoặc
-khi dùng các kịch bản hay dòng lệnh.
-❖ Tên của người dùng và nhóm không được trùng nhau.
-
-Group (Nhóm): Tập hợp người dùng hoặc tài khoản, giúp phân quyền truy cập dễ dàng.
-Tài khoản nhóm (Group Account): 2 loại
- Nhóm an ninh (Security Group): 
-   o Dùng cho những việc có liên quan đến an ninh, ví dụ gán quyền truy nhập tài nguyên.
-   o Có thể dùng như là danh sách để gửi thông báo e-mail cho nhiều người
-   o Được chỉ định SID (Security Identifier)
- Nhóm phân phối (Distribution Group)
-   o Dùng như là 1 danh sách với các chức năng không có tính chất an ninh như là gửi 
-   email cho 1 nhóm người dùng
-   o Không thể dùng để gán quyền
-   o Không có SID 
-   o Không xuất hiện trong các ACL (Access Control List).
-
- Có 4 loại phạm vi của Group:
-   -Local Group: Là nhóm cục bộ trên máy tính, có phạm vi hoạt động trên máy cục bộ đó
-   -Global Group: Dùng để cấp phát các quyền hệ thống và quyền truy cập cho người dùng vượt 
-qua ranh giới của một miền
-   -Domain local Group: Là nhóm cục bộ đặc biệt, chính là nhóm Local Group trên các máy DC. Các 
-máy DC sẽ chia sẻ và đồng bộ các nhóm Domain local này với nhau 
-   -Universal Group: Chức năng giống nhóm Global Group, nhưng phạm vi hoạt động rộng lớn hơn, 
-giữa các rừng, các miền có quan hệ tin cậy với nhau
-
-Qui tắc gia nhập nhóm 
- Tất cả các nhóm Domain local, Global, Universal đều có thể đặt vào trong 
-nhóm Local.
- Tất cả các nhóm Domain local, Global, Universal đều có thể đặt vào trong 
-chính loại nhóm của mình.
- Nhóm Global và Universal có thể đặt vào trong nhóm Domain local.
- Nhóm Global có thể đặt vào trong nhóm Universal
-
-3.3.3. CHỨNG THỰC VÀ KIỂM SOÁT TRUY CẬP
-❖Các thông tin của một đối tượng AD trong bộ mô tả bảo mật được
-xem là mục kiểm soát hoạt động truy cập ACE (Access Control
-Entry).
-❖Một ACL (Access Control List) chứa nhiều ACE
-❖ACL là danh sách tất cả người dùng và nhóm có quyền truy cập đến
-đối tượng.
-❖ACL có đặc tính kế thừa: thành viên của một nhóm thì được thừa
-hưởng các quyền truy cập đã cấp cho nhóm này
-
-❖ Lệnh net user
-net user [username [password | *] [options]] [/domain] 
-❖ Lệnh net group
-net group [groupname [/comment:"text"]] [/domain] 
-❖ Lệnh net localgroup
-net localgroup [groupname [/comment:"text"]] [/domain]
-❖ Các lệnh hỗ trợ dịch vụ Active Driectory trong môi trường Windows Server 2016: 
-dsadd, dsrm, dsmove, dsget, dsmod, dsquery
-
-3.4.1. CHÍNH SÁCH HỆ THỐNG (SYSTEM POLICY)
-a. CHÍNH SÁCH TÀI KHOẢN NGƯỜI DÙNG
- Dùng để chỉ định các thông số về tài khoản người dùng mà nó được sử dụng khi 
-tiến trình login xảy ra
- Cho phép cấu hình các thông số bảo mật máy tính cho mật khẩu, khóa tài 
-khoản và chứng thực Kerberos trong miền.
-
- Trên máy trạm:
-o Windows + R, gox secpol.msc trong hộp thoại Run
- Trên Windows Server làm DC 
-o Server manager → Tools → Local Security Policy.
-
-b. CHÍNH SÁCH CỤC BỘ (LOCAL POLICIES)
-❖Cho phép thiết lập các chính sách giám sát các đối tượng trên mạng 
-(người dùng và tài nguyên dùng chung).
-❖Có thể cấp quyền hệ thống cho các người dùng và thiết lập các lựa 
-chọn bảo mật.
-❖Gồm có 
- Chính sách kiểm toán 
- Quyền hệ thống của người dùng 
- Các lựa chọn bảo mật
-
-3.4.2. CHÍNH SÁCH NHÓM (GROUP POLICY)
-❖Group Policy chỉ xuất hiện trên hệ thống miền Active Directory
-❖Cung cấp các tính năng quản lý, bảo mật vượt trội hơn so với 
-System Policy
-❖Có thể triển khai ở nhiều cấp độ như Site, Domain, Organizational 
-Unit
-
-❖So sánh giữa System Policy và Group Policy
- Chính sách nhóm làm được nhiều điều hơn chính sách hệ thống.
-o Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
-o Có thể dùng chính sách nhóm để triển khai một phần mềm cho 1 hoặc nhiều máy
-1 cách tự động.
- Chính sách nhóm tự động hủy bỏ tác dụng khi được gỡ bỏ, không giống như các
-chính sách hệ thống.
- Chính sách nhóm được áp dụng thường xuyên hơn chính sách hệ thống.
-o Các chính sách hệ thống chỉ được áp dụng khi máy tính đăng nhập vào mạng.
-o Các chính sách nhóm được áp dụng khi bật máy lên, khi đăng nhập vào một
-cách tự động vào những thời điểm ngẫu nhiên trong suốt quá trình làm việc
-
-❖Có 2 dạng GPO:
- Local GPO: lưu trên từng máy
- Nonlocal GPO: lưu trên Active Director
-
-SỰ THỪA KẾ CHÍNH SÁCH NHÓM 
-❖Thứ tự thừa kế chính sách nhóm 
- Local 
- Site 
- Domain 
- Organizational Unit 
-❖Các thiết lập có tính tích lũy (cumulative) 
-❖Nếu có xung đột thì không thừa kế 
-❖Có thể cấm sự thừa kế (block inheritance) hay buộc thừa kế (No 
-override)
-
-LOCAL GROUP POLICY
-❖Group Policy có thể áp dụng lên local computer hay môi trường 
-domain.
-❖Group Policy trên local computer được gọi là Local Group Policy 
-(local policy)
-gồm 2 phần:
- Computer Configuration: nếu thiết lập các policy trong phần này thì đối tượng
-bị tác động là computer và user account
- User Configuration: đối tượng bị tác động là user account.
-
-File Server: Máy chủ lưu trữ và chia sẻ tệp tin trong mạng.
-Khi thư mục được chia sẻ,
-Windows sẽ có 2 hệ thống để
-kiểm soát việc sử dụng của người
-dùng trên mạng:
- Hệ thống kiểm soát việc sử dụng tài
-nguyên chia sẻ, gọi tắt là quyền chia
-sẻ (share permission)
- Hệ thống kiểm soát việc sử dụng tài
-nguyên trên hệ thống NTFS, gọi tắt là
-quyền NTFS (NTFS permission): Có 2 loại hệ thống tập được dùng cho partition và volume cục bộ:
- FAT- File Allocation Table (bao gồm FAT16 và FAT32)
-o FAT partition không hỗ trợ bảo mật nội bộ
-o Nếu đĩa cứng định dạng là FAT thì mọi người đều có thể thao tác trên các file chứa trên
-đĩa cứng này.
- NTFS- NewTechnology File System
-o NTFS partition có hỗ trợ bảo mật
-o Nếu đĩa cứng định dạng NTFS thì tùy theo người dùng có quyền truy cập không, nếu
-người dùng không có quyền thì không thể nào truy cập được dữ liệu trên đĩa.
-o Để quản lý được linh hoạt, hệ thống quyền trong NTFS được chia thành nhiều mức độ
-khác nhau.
-o Khi thực hiện cấp quyền, có thể cấp cho người dùng các mức độ khác nhau.
-
-❖Hệ thống NTFS gồm hai loại quyền: basic và advanced (14 quyền
-advanced, 6 quyền basic)
- Quyền advanced: là các quyền sử dụng được chia theo nhiều mức độ khác nhau. (14 Special permission)
-    Full Control: Cho phép người dùng đọc, viết, thay đổi và xóa các tập tin và thư mục 
-   con. Ngoài ra, người dùng có thể thay đổi cài đặt quyền cho tất cả các tập tin và thư 
-   mục con.
-    Traverse Folder /Execute File: Quyền nhảy cấp (tại thư mục này không có quyền 
-   nhưng lại có quyền tại thư mục bên trong)
-    List Folder / Read Data: đi và thư mục + đọc tài nguyên trong thư mục đó
-    Read Attributes(Đọc thuộc tính): thuộc tính Read, System, Hie, Achive…
-    Read Extended Attributes (Đọc thuộc tính mở rộng): thuộc tính nén, mã hóa v.v…
-    Create Files / Write Data: Tạo tài nguyên + Chỉnh sửa tài nguyên.
-    Create Folders / Append Data: Tạo + sửa tên folder và ghi nối tiếp vào dữ liệu 
-   trên file.
-    Write Attributes: Ghi thuộc tính (thêm bớt dữ liệu trên file)
-    Write Extended Attributes: Ghi thuộc tính mở rộng (thêm bớt dữ liệu trên file 
-   nén, mã hóa…)
-    Delete Subfolders and Files: Xóa folder con và file bên trong subfolder.
-    Delete: Xóa tài nguyên.
-    Read Permissions: Đọc được quyền.
-    Change Permission: Cho phép thay đổi lại quyền.
-    Take Ownership: Đi cướp quyền khi user(Adminisrator) đó không có quyền trên tài 
-   nguyên
- Quyền basic: dựa trên nhu cầu sử dụng thực tế của người dùng, hệ thống sẽ
-kết hợp một số quyền advanced để tạo thành quyền basic (6 Quyền)
-    Full controll (Kiểm soát hoàn toàn): Cho phép người dùng đọc, viết, thay đổi và 
-   xóa các tập tin và thư mục con. Ngoài ra, người dùng có thể thay đổi cài đặt quyền 
-   cho tất cả các tập tin và thư mục con.
-    Modify (Sửa đổi): Cho phép người dùng đọc và ghi các tệp và thư mục con; cũng 
-   cho phép xóa thư mục.
-    Read & execute (Đọc và thực thi): Cho phép người dùng xem và chạy các tệp thực 
-   thi, bao gồm các tập lệnh.
-    List folder contents (Liệt kê nội dung thư mục): Cho phép xem và liệt kê các tập 
-   tin và thư mục con cũng như thực thi các tập tin; chỉ được kế thừa bởi các thư mục.
-    Read (Đọc): Cho phép người dùng xem thư mục và nội dung thư mục con.
-    Write (Viết): Cho phép người dùng thêm tệp và thư mục con, cho phép user ghi vào 
-   tệp.
-
-
-
-❖Windows sử dụng ACL (Access Control List: danh sách kiểm soát truy cập)
-để kiểm soát việc truy cập và sử dụng một tài nguyên.
-❖Mỗi tài nguyên sẽ có một ACL đi kèm.
-❖ACL chứa các quyền truy cập và sử dụng của người dùng, nhóm người
-dùng (gọi chung là người dùng).
-❖Một ACL gồm nhiều ACE (Access Control Entry: danh mục kiểm soát truy
-cập).
-❖Một ACE gồm tên người dùng và các quyền của người dùng đó
-
-Disk Management: Công cụ quản lý ổ đĩa, phân vùng trên Windows Server.
-Partition: Phân vùng ổ đĩa.
-Volume: Phần không gian lưu trữ được định dạng để sử dụng.
-Service (Dịch vụ mạng): Các dịch vụ như DHCP, DNS, File Server, giúp mạng hoạt động.
-Backup: Sao lưu dữ liệu để phòng ngừa sự cố.
-Restore: Phục hồi dữ liệu từ bản sao lưu sau sự cố.
-
- Khi sao chép 1 thư mục đã được chia sẻ thì thư mục nguồn vẫn được chia sẻ
-nhưng thư mục copy thì không.
- Khi di chuyển thư mục đến chỗ khác thì thư mục không được chia sẻ nữa.
-
-❖Một số quy tắc được áp dụng khi cấp quyền:
- Quyền Allow được cộng dồn (tích lũy): nếu người dùng nhận được các
-quyền Allow từ nhiều nguồn khác nhau, thì các quyền đó sẽ được kết hợp lại.
- Quyền Deny có độ ưu tiên cao hơn quyền Allow: khi người dùng nhận được
-quyền Allow do kế thừa, hoặc nhận được do là thành viên của nhóm người dùng,
-bạn vẫn có thể vô hiệu các quyền đó bằng cách gán quyền Deny tương ứng.
- Quyền gán công khai có độ ưu tiên cao hơn: khi người dùng nhận được
-quyền do kế thừa hoặc do là thành viên của nhóm người dùng, bạn có thể vô
-hiệu hóa các quyền đó bằng cách gán quyền công khai.
-
-❖Quyền NTFS là tích luỹ
-❖Quyền File át quyền thư mục
-❖Quyền từ chối (Deny) mạnh hơn quyền khá
-Thao tác,Vị trí đích,Kết quả về quyền
-Copy,Cùng phân vùng,Thừa hưởng từ thư mục đích
-Copy,Khác phân vùng,Thừa hưởng từ thư mục đích
-Copy,Phân vùng Non-NTFS,Mất hoàn toàn quyền NTFS
-Thao tác,Vị trí đích,Cơ chế về quyền
-Move,Cùng phân vùng,Giữ nguyên quyền từ thư mục gốc
-Move,Khác phân vùng,Thừa hưởng quyền từ thư mục đích
-Move,Phân vùng Non-NTFS,Mất toàn bộ quyền NTFS
-
-
-
-Chương 4: Bảo mật mạng
-Liên minh Viện thông Quốc tế (ITU):
- “Bảo mật mạng là tập hợp các công cụ, chính sách, khái niệm về bảo mật, 
-hướng dẫn, phương pháp quản lý rủi ro, phản ứng, đào tạo, diễn tập, thiết bị và 
-công nghệ có thể được dùng để bảo vệ hệ thống mạng và tài sản"
-
-Bảo mật mạng (Network Security): Tập hợp các biện pháp nhằm đảm bảo an toàn cho dữ liệu và tài nguyên mạng, ngăn chặn truy cập trái phép và các cuộc tấn công mạng.
-
-CÁC YẾU TỐ ĐẢM BẢO AN TOÀN THÔNG TIN
-Tính bí mật (Confidentiality): Đảm bảo thông tin chỉ người có quyền mới được truy cập.
-Tính toàn vẹn (Integrity): Đảm bảo dữ liệu không bị thay đổi, chỉnh sửa trái phép.
-Tính sẵn sàng (Availability): Đảm bảo hệ thống và dữ liệu luôn sẵn sàng khi cần thiết.
-Tính chính xác: Thông tin phải chính xác, tin cậy
-Tính không khước từ (chống chối bỏ): Thông tin có thể kiểm chứng
-được nguồn gốc hoặc người đưa tin
-
-Tấn công mạng (Cyber Attack): Hành động cố ý xâm nhập, phá hoại hoặc lấy cắp dữ liệu mạng.
-Nguy cơ = Mối đe dọa(Threat) + Lỗ hổng hệ thống
-
-TẤN CÔNG QUÉT MẠNG 
-❖Các kiểu Scanning:
-Phòng Chống Ping Sweep 
-Hầu hết các hệ thống IDS 
-(Instruction Detect System) 
-đều có thể nhận biết được 
-dạng tấn công Ping Sweep 
-và gửi cảnh báo về cho 
-quản trị hệ thống mạng.
- Port Scanning: Kẻ tấn công sẽ gửi một loạt các thông điệp đến mục tiêu nhằm
-xác định các cổng đang mở, và thông qua các cổng này → sẽ biết được có những
-dịch vụ nào đang chạy trên máy tính mục tiêu. Một trong các ứng dụng port
-scanning phổ biến là Nmap.
-- Komodiapacketcrafter cho phép thiết
-lập các giá trị flag thích hợp của gói tin
-cũng như số hiệu port muốn kiểm tra khi
-gởi từ máy tính có IP 192.168.168.10 đến
-máy tính 192.168.168.11
- Vulnerability Scanning: Là quá trình quét lỗi nhằm xác định ra các lỗ hổng bảo
-mật của các ứng dụng hay máy chủ, máy trạm → đưa ra các phương án tấn
-công thích hợp. Tiến trình quét lỗi có thể xác định được các bản cập nhật hệ
-thống bị thiếu, hay những lỗi hệ thống chưa được vá. (Các chuyên gia bảo mật
-cũng thường tiến hành vulnerability scanning trong công tác bảo vệ hệ thống
-mạng của mình)
- Network Scanning: Quá trình này dùng để xác định các máy đang hoạt động
-trên hệ thống mạng (thường được các hacker, chuyên gia bảo mật hay những
-quản trị hệ thống thực hiện)
-Phòng chống quét cổng
- Các hệ thống cần triển khai firewall và thiết lập các chính sách ngăn chặn những 
-tín hiệu dò tìm hay khởi tạo kết nối không hợp lệ.
- Triển khai IDS để phát hiện dấu hiệu khi bị quét cổng.
- Che dấu các cổng mở như một số hệ thống tường lửa có chức năng hidden port. 
- Chỉ mở các cổng cần thiết cho quá trình vận hành, đối với các dịch vụ không 
-hoạt động → đóng những cổng liên quan.
-
-TẤN CÔNG GIẢ MẠO ĐỊA CHỈ IP
-❖ Một hacker có thể giả mạo địa chỉ IP khi quét máy hệ thống để hạn chế thấp nhất 
-khả năng bị phát hiện.
-❖ Source routing cho phép kẻ tấn công chỉ định việc định tuyến một gói tin có
-thông qua Internet. Điều này cũng có thể giảm thiểu cơ hội phát hiện bằng cách bỏ
-qua IDS và tường lửa
-❖Biện pháp đối phó
- Để phát hiện giả mạo địa chỉ IP, có thể so sánh thời gian sống (TTL) các giá trị:
-TTL của kẻ tấn công sẽ khác với TTL của địa chỉ giả mạo.
-
-TẤN CÔNG CHIẾM QUYỀN MÁY CHỦ
-❖Session Hijacking là hình thức tấn công vào phiên làm việc giữa client và
-server cách đánh cắp cookie của người sử dụng sau khi họ đã qua bước xác
-thực với máy chủ, sau đó sẽ chiếm quyền điều khiển của phiên làm việc
-này.
-❖Phân biệt Spoofing và Hijacking: trong tình huống tấn công spoofing các
-hacker sẽ nghe lén dữ liệu truyền trên mạng từ người gởi đến nơi nhận sau
-đó sử dụng các thông tin thu thập được giả mạo địa chỉ (hoặc sử dụng
-ngay các địa chỉ đã lấy trộm) nhằm qua mặt các hệ thống kiểm tra. Trong
-khi đó hình thức tấn công hijacking sẽ làm cho kết nối của nạn nhân đến
-máy chủ bị ngắt khi đã xác thực thành công sau đó cướp lấy phiên làm việc
-này của người dùng nhằm vượt qua bước kiểm tra của máy chủ.
-Quá trình tấn công Session Hijacking gồm 3 bước: 
- Dò tìm Session: Hacker sẽ dò tìm các session đang mở và tính toán giá
-trị tuần tự của gói tin tiếp theo.
- Tái đồng bộ kết nối: Hacker gửi các tín hiệu TCP reset (RST) hay FIN để
-yêu cầu khởi động lại quá trình kết nối đồng thời đóng phiên làm việc cũ.
- Chèn các packet tấn công: lúc này hacker sẽ gửi đến máy chủ những gói
-tin TCP với số hiệu tuần tự đã được tính toán thích hợp với phiên làm việc
-do đó máy chủ sẽ chấp nhận những thông tin này giống như là các dữ
-liệu hợp lệ tiếp theo của người dùng bị tấn công.
-Một số công cụ tấn công Session Hijacking: 
- Juggernaut: chuyên bắt giữ (sniff) các TCP 
-session trong môi trường mạng hoạt động với 
-hub
- Hunt: giả mạo địa chỉ MAC với cơ chế ARP 
-spoofing, reset và giám sát các kết nối, nghe 
-lén đường truyền.
- Burp Suite: có khả năng thay đổi dữ liệu trên 
-quá trình truyền, đánh cướp session hay giả 
-mạo cả các chứng chỉ điện tử dùng trong xác 
-thực https
-
-Malware: Phần mềm độc hại bao gồm virus, sâu (worm), trojan, spyware...
-Phishing: Hình thức lừa đảo qua email hoặc website giả mạo để lấy thông tin cá nhân.
-
-DoS/DDoS (Denial of Service): Tấn công từ chối dịch vụ, làm hệ thống ngừng hoạt động.
-Một số công cụ tấn công DoS:
- Ping of Death: Các công cụ tấn công Ping of Death gởi nhiều gói tin IP với kích 
-thước lớn đến mục tiêu làm cho các máy này phải mất nhiều thời gian và tài 
-nguyên hệ thống để xử lý, kết quả là không thể đáp ứng được các yêu cầu kết 
-nối thông thường của những máy tính khác dẫn đến bị từ chối dịch vụ. 
- LAND Attack: Những công cụ có chức năng tấn công LAND Attack sẽ gởi các 
-gói tin có địa chỉ IP trùng lắp với các địa chỉ IP đích khiến cho việc xử lý các yêu 
-cầu này có thể dẫn đến tình trạng bị lặp lại (loop) và không thể tiếp nhận thêm 
-các yêu cầu truy cập khác. 
- WinNuke: Chương trình này tìm kiếm các máy tính  đang mở port 139 để  gởi 
-các gói tin IP rác đến mục tiêu. Dạng tấn công này còn được gọi là Out of Bound 
-(OOB) và làm tràn ngập bộ nhớ đệm của giao thức IP.
- CPU Hog: Công cụ này làm quá tải nguồn tài nguyên CPU của các máy bị tấn 
-công . 
- Bubonic: Là công cụ DoS  hoạt động bằng cách gởi các gói tin TCP với những 
-thiết lập ngẫu nhiên làm cho mục tiêu bị tấn công bị quá tãi hay thậm chí bị gãy 
-đổ. 
- RPC Locator: Đây là một dịch vụ nếu như không được vá lỗi có khả năng bị tấn 
-công gây tràn bộ đệm. Dịch vụ này hoạt động trên các hệ thống Windows để 
-phân phối các bản cài đặt hay ứng dụng trên toàn hệ thống, đây cũng là một 
-dịch vụ dễ bị tấn công gây ra tình trạng từ chối  dịch vụ trên các máy chủ.  
- SSPing hay Targa: có thể gửi các gói tin với kích thước lớn đến mục tiêu làm tê 
-liệt khả năng đáp ứng cũng như xử lý các dữ liệu này,  dẫn đến tình trạng “từ 
-chối dịch vụ”.
-❖Thông thường DDoS gồm có 3 thành phần : 
- Master hay Handler: Chương trình dùng để điều khiển.
- Slave hay zombie, bot: là các máy tính bị cài đặt hay lây nhiễm các chương
-trình nguy hiểm và bị điều khiển bởi các Master / Handler.
- Victim: Những mục tiêu bị tấn công từ chối dịch vụ.
-❖Phòng chống tấn công DoS và DDoS:
- Network-ingress filtering: Tất cả các hệ thống hay thiết bị cung cấp những kết
-nối và truy cập mạng cần thực hiện cơ chế lọc Network-infgress filtering nhằm
-loại bỏ các luồn dữ liệu xuất phát từ các địa chỉ giả mạo, có nguồn gốc không rõ
-ràng. Điều này không ngăn ngừa được các cuộc tấn công nhưng có thể giúp
-ngăn chặn và truy tìm khi có những hành động trái phép diễn ra.
- Rate-limiting network system: Nhiều bộ định tuyến hiện nay có khả năng hạn
-chế và kiểm soát băng thông trên những giao thức khác nhau, kỹ thuật này còn
-được gọi là trafic shapping.
- Instruction Detect System: Triển khai các hệ thống dò tìm xâm phạm trái phép để
-phát hiện kịp thời các luồng truyền thông nguy hiểm, những cuộc tấn công hay các
-virus / worm lan truyền trên mạng.
- Sử dụng công cụ Host-auditing: Một số chương trình có khả năng quét các tập tin
-trên hệ thống để tìm ra các công cụ tấn công DDoS hay các chương trình botnet
-nguy hiểm.
- Sử dụng công cụ Network-auditing: Chạy các chương trình quét mạng để phát hiện
-các agent (các thành viên của mạng botnet) và loại bỏ chúng.
- Sửdụng các chương trình dò tìm công cụ DoS: Thường xuyên quét tìm các công cụ
-DoS trên hệ thống với những chương trình thích hợp như Find_ddos, SARA, Zombi
-Zapper để phát hiện và xử lý kịp thời các mầm mống gây nên sự cố từ chối dịch vụ
- Tắt các dịch vụ không cần thiết: Đóng các cổng hay tắt những dịch vụ không
-cần thiết hay hạn chế sự dụng những chức năng như get, strcpy …
- Cấu hình firewall để chặn tất cả các tín hiệu ICMP từ bên ngoài.
- Thường xuyên cập nhật hệ thống: Cập nhật các bản vá lỗi mới nhất cho hệ
-thống và ứng dụng liên quan.
- Sử dụng các hệ thống bảo vệ DDoS chuyên dụng như IntelliGuard DDoS
-Protection System (DPS) hay các chương trình phòng chống DDoS như
-FortGuard, NetScaler, Advanced Denial of Service Protection…
-
-4.3. MỘT SỐ GIẢI PHÁP BẢO MẬT MẠNG
-PHẦN 1: HỆ THỐNG PHÁT HIỆN XÂM NHẬP (IDS)
-
-1. Định nghĩa & Mục đích
-- IDS (Intrusion Detection System): Hệ thống giám sát lưu thông mạng, phát hiện các hoạt động khả nghi và cảnh báo cho quản trị viên.
-- Mục tiêu: Bảo vệ 4 tính chất (Tính toàn vẹn, Tính bí mật, Tính khả dụng, Tính riêng tư).
-- Phân biệt: IDS khác với Firewall (ngăn chặn), Anti-virus (diệt mã độc), VPN (mã hóa), hay công cụ quét lỗ hổng.
-
-2. Chức năng của IDS
-- Chức năng cốt lõi: Giám sát (lưu lượng) -> Cảnh báo (báo cáo) -> Bảo vệ (hành động thiết thực).
-- Chức năng mở rộng: Phân biệt tấn công nội bộ/bên ngoài, phát hiện dấu hiệu bất thường, đánh giá chất lượng thiết kế mạng và bổ sung điểm yếu cho các hệ thống khác.
-
-3. Phương pháp phân tích (Cách phát hiện)
-- Dựa trên dấu hiệu (Signature-based): So sánh với mẫu tấn công đã biết (giống virus scan).
-- Dựa trên sự bất thường (Anomaly-based): So sánh lưu thông hiện tại với Baseline (thông số chuẩn). Nếu khác biệt -> Xâm nhập.
-
-4. Ba yếu tố nền tảng (IDS Task)
-- Thu thập thông tin (Information source): Kiểm tra các gói tin.
-- Phân tích (Analysis): Xác định hành động tấn công.
-- Cảnh báo (Response): Đưa ra phản hồi.
-
-5. Phân loại IDS (Quan trọng)
-
-a. Network-based IDS (NIDS):
-- Vị trí: Đặt tại các điểm kết nối trong mạng, dùng cảm biến (Sensor) theo dõi thời gian thực.
-- Ưu điểm: Quản lý cả phân đoạn mạng, "trong suốt" với người dùng, độc lập với OS.
-- Hạn chế: Không đọc được dữ liệu mã hóa (SSL/VPN), có thể gây nghẽn cổ chai, báo động giả (False Positive), khó xử lý gói tin phân mảnh chồng chéo.
-
-b. Host-based IDS (HIDS):
-- Vị trí: Cài đặt phần mềm trực tiếp trên các máy chủ xung yếu (Server, DMZ).
-- Nhiệm vụ: Giám sát log file, Registry, CPU, tính toàn vẹn file hệ thống.
-- Ưu điểm: Xác định được user thực hiện hành động, biết cuộc tấn công có thành công hay không, đọc được dữ liệu mã hóa.
-- Hạn chế: Không phát hiện được dò quét mạng (Nmap), tiêu tốn tài nguyên máy chủ, dễ bị vô hiệu hóa nếu OS bị chiếm quyền.
-
-------------------------------------------------------------------------
-
-PHẦN 2: HỆ THỐNG TƯỜNG LỬA (FIREWALL)
-
-1. Khái niệm chung
-- Là rào chắn giữa mạng an toàn (Nội bộ) và mạng không an toàn (Internet).
-- Điều khiển truy cập (cho phép/từ chối) dựa trên Tập luật (Policy).
-
-2. Các vùng mạng cơ bản
-- Mạng Nội bộ (LAN): Máy trạm, máy chủ nội bộ.
-- Vùng DMZ (Demilitarized Zone): Vùng trung lập chứa Web, Mail, DNS... cho phép truy cập từ Internet.
-- Server Farm: Chứa Database, LDAP... không cung cấp dịch vụ trực tiếp ra Internet.
-- Internet: Mạng ngoài.
-
-3. Phân loại Firewall
-- Theo vị trí: Network Firewall & Host Firewall.
-- Theo nền tảng: Software Firewall & Hardware Firewall.
-- Theo khả năng xử lý:
-  + Packet Filter: Tầng 3-4 (IP, Port).
-  + Application Filter: Tầng 7 (Ứng dụng).
-  + State Full Filter: Tầng 3-7 (Theo dõi trạng thái kết nối).
-
-4. Chính sách Firewall (7 thuộc tính của một Luật/Rule)
-1. Chiều đi (In/Out)
-2. Giao thức (TCP/UDP)
-3. IP Nguồn
-4. Cổng (Port) nguồn
-5. IP Đích
-6. Cổng (Port) đích
-7. Hành động (Accept/Deny)
-
-5. Các mô hình triển khai phổ biến
-- Mô hình 1: 1 Firewall phân tách 3 vùng (Internet - LAN - DMZ).
-- Mô hình 2: 2 Firewall nối tiếp (Internet -> FW1 -> DMZ -> FW2 -> LAN). LAN được bảo vệ 2 lớp.
-- Mô hình 3: Firewall đặt giữa tất cả các cặp vùng mạng để kiểm soát tối đa.
-
-Danh sách các câu hỏi trắc nghiệm và đáp án được sắp xếp theo thứ tự bảng chữ cái dựa trên ký tự đầu tiên của nội dung câu hỏi.
-////B:////
-1.	Bản ghi nào cho biết Mail server (MX)
-2.	Bản ghi nào sau đây có chứa thông tin phục vụ cho quá trình phân giải ngược của hệ thỐng DNS?
-Đáp án: PTR
-////C:////
-Chức năng của Active Directory (Cả 3 đáp án trên)
-3.	Các (tiện ích) feature nào sau đây của Hyper-V, cho phép giá trị Minimum RAM trong một máy ảo có thể nhỏ hơn giá trị Startup RAM?
-Đáp án: Smart paging, Guest Integration Services
-4.	Các công cụ làm việc với nhóm chính sách có thể truy cập loại tập tin nào trong Central Store?
-Đáp án: ADMX
-5.	Các lý do nào sau đây dẫn tới việc chúng ta sẽ sử dụng cạc mạng kiểu emulated thay cho cạc mạng kiểu synthetic?
-Đáp án: Bạn muốn cài đặt hệ điều hành trên máy ảo bằng Windows Deployment Services server, Hệ điều hành bạn dự định cài trên máy ảo không có gói Guest Integration Services
-6.	Các lý do để sử dụng chế độ Server Core?
-Đáp án: Có thể chuyển server từ chế độ Server Core sang chế độ GUI mà không phải cài đặt lại hệ điều hành, Bản Server Manager mới trong Windows Server 2012 R2 giúp việc quản trị từ xa dễ dàng hơn
-7.	Các phát biểu nào sau đây mô tả đúng nhất về các yêu cầu khi muỐn mở rộng một volume trên đĩa kiểu dynamic?
-Đáp án: Nếu bạn muốn mở rộng một volume kiểu simple, và sau khi mở rộng nó vẫn thuộc kiểu simple, thì bạn chỉ có thể sử dụng không gian đĩa còn trống trên cùng một đĩa cứng vật lý, Bạn có thể mở rộng một volume kiểu simple sang các đĩa cứng khác, miễn là volume đó không phải là system volume hoặc boot volume
-8.	Các phát biểu nào sau đây nói đúng về volume kiểu striped?
-Đáp án: Volume kiểu striped giúp nâng cao hiệu suất xử lý so với volume kiểu simple
-9.	Các phát biểu nào sau đây nói không đúng về cạc mạng kiểu synthetic?
-Đáp án: Cạc mạng kiểu synthetic có thể khởi động máy ảo bằng kĩ thuật khởi động qua mạng PXE
-10.	Các thành phần mạng nào sau có thể hoạt động với vai trò giỐng như một trạm chuyển tiếp DHCP (DHCP relay agents)?
-Đáp án: Routers, Máy Windows Server 2012 R2
-11.	Các thông tin cấu hình TCP/IP nào sau đây thường được cấu hình ở mức scope option trong DHCP?
-Đáp án: Default Gateway
-12.	Cái nào sau đây cho phép điều chỉnh việc lưu tạm (caching) của hệ thỐng DNS?
-Đáp án: Táp Start of Authority (SOA) trong mục Properties của zone
-14.	Câu nào sau đây nói không đúng về Server Manager?
-Đáp án: Server Manager có thể cùng một lúc cài đặt nhiều chức năng cho nhiều server
-15.	Cho biết tên của thư mục mà Windows sử dụng để lưu toàn bộ các thành phần cần thiết liên quan đến việc cài đặt các chức năng của hệ điều hành sau này?
-Đáp án: WinSxS
-16.	Cho địa chỉ mạng là 172.16.32.0/19, vậy subnet mask sẽ là?
-Đáp án: 255.255.224.0
-18.	Có thể sử dụng vi xử lý nào dưới đây để cài đặt Windows Server 2012 R2?
-Đáp án: Chỉ có vi xử lý 64-bit
-19.	Công cụ nào sau đây được sử dụng để thực hiện các cấu hình cho thiết lập mẫu?
-Đáp án: Security Templates snap-in
-20.	Công nghệ nào cho phép người sử dụng kết nỐi đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn?
-Đáp án: VPN
-21.	Công việc nào sau đây bạn không thể thực hiện được từ xa, khi server ở xa đang chạy Windows Server 2008?
-Đáp án: Cài đặt các role bằng Server Manager
-      Chương trình nào sau đây có thể sử dụng để thêm, xóa hoặc thay đổi các đối tượng trong
-AD, nếu cần thiết có thể thay đổi schema?
-B. LDIFDE
-22.	Cụm từ nào sau đây không phải là tên của một lĩnh vực trong công tác quản trị mạng?
-Đáp án: Group management
-////D:////
-23.	
-Để kiểm tra dịch vụ DNS ta sử dụng lệnh nào? (nslookup) //
-Để làm cho các thay đổi về môi trường không tác động lên lược sử mạng, cần làm thao tác gì: (Thay đổi tên file ntuser.dat thành file ntuser.man) //
-Để nén một file đã được nén bằng NTFS, cần: (Khi mở file, hệ thỐng tự động giải nén) //
-Để thay đổi chính sách về mật khẩu trên miền ta sử dụng công cụ nào trong Administrative Tools (Domain Security Policy) //
-24.	Đáp án nào đúng khi so sánh giữa System Policy và Group Policy?
-Đáp án: Chính sách nhóm chứa tất cả các chức năng của chính sách hệ thống
-25.	Để áp dụng GPO trên một nhóm người dùng cụ thể trong OU, bạn sử dụng kĩ thuật nào sau đây?
-Đáp án: Security filtering (lọc)
-26.	Để chuyển từ giao diện đồ họa (GUI) sang giao diện dòng lệnh (Server Core) cần gỡ bỏ các thiết lập nào?
-Đáp án: Graphical Management Tools and Infrastructure, Server Graphical Shell
-27.	Để chuyển Windows Server 2012 R2 từ chế độ Server Core sang Minimal Server Interface, bạn phải cài đặt feature nào?
-Đáp án: Graphical Management Tools and Infrastructure
-28.	Để kết nỐi (join) một máy tính vào domain, sử dụng lệnh của chương trình nào sau đây?
-Đáp án: Netdom.exe
-29.	Để kiểm tra dịch vụ DNS ta sử dụng lệnh nào?
-Đáp án: Nslookup
-30.	Để liệt kê các luật hiện tại của Windows Firewall trên một máy tính đang chạy Windows Server 2012 R2, sử dụng lệnh Windows PowerShell nào?
-Đáp án: Get-NetFirewallRule, Show-NetFirewallRule
-31.	Để triển khai một mẫu bảo mật cho tất cả các máy tính trong AD DS, bạn sử dụng các công cụ nào sau đây?
-Đáp án: Group Policy Object Editor, Group Policy Management
-33.	Đâu không phải là chức năng của hệ thỐng phát hiện xâm nhập IDS?
-Đáp án: Điều khiển luồng
-34.	Đâu không phải là một kiểu tấn công từ chỐi dịch vụ?
-Đáp án: Packet Sniffing Attack
-36.	Đâu là mô tả đúng cho phương thức Trap ở trong giao thức quản trị mạng đơn giản SNMP?
-Đáp án: Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở
-Object nào đó trong Agent
-///F:///
-40.	FTP sử dụng cổng nào để truyền hình?
-Đáp án: 21
-////G:////
-Giả sử ổ đĩa C: đã được định dạng với hệ thỐng tệp tin FAT, cần sử dụng lệnh nào dưới đây để chuyển đổi ổ này sang hệ thỐng tệp tin NTFS? (convert C: /fs:ntfs) //
-Group policy dùng để (Tất cả) //
-41.	Giải pháp nâng cấp lên Windows Server 2012 R2 nào sau đây có thể thực hiện được?
-Đáp án: Từ Windows Server 2008 Standard lên Windows Server 2012 R2 Standard
-42.	Giải pháp tạo đường hầm tự động nào sau đây được hệ điều hành Windows sử dụng, trong trường hợp máy tính nằm sau NAT router?
-Đáp án: Teredo
-43.	Giấy phép bản quyền của hệ điều hành nào sau đây không giới hạn sỐ lượng các bản cài trên máy ảo?
-Đáp án: Windows Server 2012 R2 Datacenter
-46.	
-////H:////
-Hệ điều hành Windows Server 2003 mặc định hỗ trợ cài đặt: (IIS 6.0) //
-Hãy xác định 1 thành phần dưới đây không phải là thành phần trong cấu trúc logic của Active Directory (Site) //
-47.	Hai loại (lớp) đỐi tượng quan trọng trong AD là?
-Đáp án: Đối tượng nút lá, không thể chứa các đối tượng khác (Leaf), Thùng chứa (Container)
-48.	
-////K:////
-Khi lược sử của 1 NSD bị hỏng, không đăng nhập được, cần thực hiện thao tác gì (Xóa lược sử cũ của NSD) //
-Khi 1 file nén được copy từ 1 phân chương đến 1 thư mục nén trên 1 phân chương khác thì: (Phải giải nén, copy trong trạng thái không nén, sau đó lại nén lại.) //
-Khi nào quyền của file hoặc thư mục không thay đổi (Di chuyển trong một phân vùng NTFS) //
-49.	Khay chứa đĩa cứng dựa trên công nghệ JBOD có thể sử dụng để thay thế cho các công nghệ lưu trữ nào sau đây?
-Đáp án: RAID
-50.	Khi bạn cài role Hyper-V trên server Windows Server 2012 R2, hệ điều hành trên server đó sẽ được chuyển vào đỐi tượng nào?
-Đáp án: Parent partition
-51.	Khi bạn sử dụng Active Directory Users And Computers để xóa một group kiểu global, tuy nhiên, hệ thỐng không cho phép thực hiện. Đâu là nguyên nhân?
-Đáp án: Group có chứa thành viên được thiết lập là primary group, Tài khoản hiện tại không có quyền xóa các đối tượng
-52.	Khi sử dụng CSVDE, hàng dữ liệu đầu tiên trong tập tin .CSV được gọi là gì?
-Đáp án: Header record
-53.	Khi thiết kế hạ tầng Active Directory, để hạn chế tới mức tỐi đa việc tạo domain, lý do nào sau đây không hợp lý?
-Đáp án: Bạn phải trả tiền bản quyền cho Microsoft với mỗi domain được tạo ra
-54.	Khi xác định mức độ nguy cơ hệ thỐng, nếu hệ thỐng kết nỐi vật lý không an toàn thì hệ thỐng ở mức nguy cơ….
-Đáp án: Cao
-55.	Khẳng định nào sau đây là ĐÚNG? (Về Sub-id)
-Đáp án: Sub-id phải liên tục và phải bắt đầu từ 0
-56.	Khẳng định nào sau đây là ĐÚNG? (Về bản tin GetRequest)
-Đáp án: Trong một bản tin GetRequest có thể chứa nhiều OID
-57.	Kiểu cấu hình gộp cạc mạng nào sau đây, vừa cung cấp khả năng chịu lỗi, vừa tăng băng thông cho hệ thỐng?
-Đáp án: Switch Independent Mode
-58.	Kiểu volume nào sau đây được Windows Server 2012 R2 hỗ trợ khả năng chịu lỗi?
-Đáp án: Mirrored, RAID-5
-////L://// 59.
-Loại backup nào sau đây có thể được thực hiện qua mạng (Full Backup) // Loại nhóm nào không dùng để gán quyền cho tài nguyên: (Nhóm phân phỐi) //
-60.	Loại địa chỉ IPv6 nào sau đây tương đương với IPv4 private?
-Đáp án: Unique local unicast
-61.	Loại luật nào sau đây không có trong Software Restriction Policies của Windows Server 2012 R2?
-Đáp án: Firewall rules
-62.	Loại luật nào sau đây sẽ kiểm soát các tập tin có phần mở rộng là .msi?
-Đáp án: Windows Installer rules
-63.	Loại nhóm nào không dùng để gán quyền cho tài nguyên?
-Đáp án: Nhóm phân phối
-64.	
-////M:////
-Một DNS domain namespace gồm? Root name, Top-Level Domain, Second-level-domain, Subdomain, host
-65.	Mặc định, hyper-V server có thể gán bao nhiêu địa chỉ MAC cho các cạc mạng ảo?
-Đáp án: 256
-66.	Một hệ thỐng muỐn được nhận ra trên Internet, thì nó phải sử dụng loại địa chỉ IP nào?
-Đáp án: Registered (được đăng kí)
-67.	Một máy tính có địa chỉ IP là 10.75.143.88, bản ghi nào sau đây trong reverse lookup zone là dạng tên đầy đủ (FQDN) của nó?
-Đáp án: 88.143.75.10.in-addr.arpa
-68.	Một thư mục DATA được chia sẻ cho người sử dụng U01 với quyền full-control. Người sử dụng U01 chỉ có quyền đọc với thư mục DATA theo quyền NTFS. Quyền thực sự của người sử dụng U01 trên thư mục DATA là quyền gì?
-Đáp án: Read
-69.	
-////N:////
-NSD u01 thuộc về hai nhóm g1 và g2. Nhóm g2 có quyền full control trên file (Read/Execute) //
-70.	Nếu đĩa định dạng là NTFS thì trong hộp thoại properties sẽ có thêm một Tab gì so với hộp thoại properties nếu ổ đĩa định dạng FAT?
-Đáp án: Tab Security
-71.	Những lí do nào sau đây cho thấy không nên thực hiện tạo ra checkpoint cho máy
-ảo?
-Đáp án: Checkpoint tiêu hao một không gian đĩa cứng rất lớn, Các checkpoint đã có sẽ làm giảm hiệu suất của các máy ảo
-72.	Những thao tác nào sau đây không thể thực hiện được với một dịch vụ (service) trong Server Manager?
-Đáp án: Vô hiệu một dịch vụ (Disable), Cấu hình để một dịch vụ tự chạy khi máy tính khởi động
-///p:///
-73.	Phát biểu nào không đúng về mục đích tạo OU?
-Đáp án: Để tạo một thùng chứa cố định, không thể di chuyển hoặc đổi tên
-74.	Phát biểu nào sau đây mô tả đúng nhất về đỐi tượng được cấp quyền (security principal) liên quan đến quá trình cấp quyền NTFS?
-Đáp án: Đối tượng được cấp quyền là người sẽ được nhận các quyền sử dụng tài nguyên
- 
-75.	Phát biểu nào sau đây nói không đúng về đĩa cứng định dạng VHDX?
-Đáp án: Chỉ có thể mở các đĩa VHDX bằng Windows Server 2012 R2 và Windows Server 2012
-76.	Phát biểu nào sau đây phù hợp với ảo hóa loại 1, và loại 2?
-Đáp án: Trong ảo hóa loại 1, hypervisor chạy trực tiếp trên phần cứng của máy thật, Trong ảo hóa loại 2, hypervisor chạy trên nền hệ điều hành của máy thật
-77.	Phát biểu nào sau đây phù hợp với máy ảo thế hệ 1 và máy ảo thế hệ 2?
-Đáp án: Việc tạo máy ảo thế hệ 2 thì nhanh hơn so với việc tạo ra máy ảo thế hệ 1
-
-
-78.	Nếu đĩa định dạng là NTFS thì trong hộp thoại Properties sẽ có thêm một Tab gì so với hộp thoại Properties nếu ổ đĩa định dạng là FAT: (Tab Security) //
-
-
-79.	///R:///
-
-
-80.	Resource Record nào ánh xạ tên máy (hostname) vào địa chỉ IP version 6?
-Đáp án: AAAA
-81.	Roaming profile cho phép lưu profile của user trên đâu?
-Đáp án: Client
-///S:///
-1.	Sau đây là các mô tả về starter GPO, mô tả nào phù hợp nhất?
-Đáp án: Starter GPO được sử dụng như một bản mẫu để tạo ra các GPO mới
-2.	Server ở xa đang chạy Windows Server 2008, để kết nỐi tới server này bằng Server Manager từ Windows Server 2012 R2, bạn phải cập nhật các gói nào?
-Đáp án: .NET Framework 4.0, Windows Management Framework 3.0
-3.	SỐ shadow copies tỐi đa mà hệ thỐng Windows Server 2012 R2 cho phép duy trì trên mỗi volume là:
-Đáp án: 64
-4.	Switch ảo nào sau đây không cho phép hệ điều hành trên máy ảo giao tiếp với partition cha?
-Đáp án: Private
- 
-5.	////Q:////
-Quyền nào trong các quyền sau đây cho phép thực hiện nội dung của file (Read/Execute) //
-6.	////T:////
-Thứ tự thực thi các GPOs trong cấu trúc của Active Directory (Site, Domain, OU) // Thông tin người dùng được quản lý bởi dịch vụ Active Directory và được lưu trữ trên Domain Controller với tập tin là: (NTDS.DIT) //
-Trong cơ chế Poll, khởi phát phiên truyền thông là: (Manager) //
-Trong giao thức quản trị mạng đơn giản SNMP, chọn mô tả đúng cho phương thức Trap: (Agent tự động gửi Trap đến Manager khi có một sự kiện xảy ra ở Object nào đó trong Agent) //
-7.	Tác vụ nào sau đây có thể thực hiện bằng quota trong File Server Resource Manager nhưng không thể thực hiện được bằng quota của NTFS?
-Đáp án: Gửi một email tới người quản trị, khi người dùng sử dụng vượt quá định mức của họ
-8.	Tập con của MIB được gọi là VIEW. Trên agent có thể định nghĩa	VIEW.
-Đáp án: nhiều
-9.	Thành phần nào sau đây giúp DHCP client có thể giao tiếp với DHCP server nằm trên mạng con khác?
-Đáp án: Relay agent
-10.	Thứ tự thực thi của GPOs trong cấu trúc Active Directory?
-Đáp án: Domain, OU, Site
-11.	Thuật ngữ nào sau đây diễn đạt quá trình hệ thỐng xem xét người dùng được phép làm gì trên một thư mục chia sẻ, bằng cách đọc các quyền mà họ đã được cấp? Đáp án: Authorization
-12.	Thuật ngữ nào sau đây nói về một thành phần giao tiếp mềm (software interface). Nó giúp máy tính giao tiếp với thiết bị in?
-Đáp án: Printer
-13.	Tiện ích nào sau đây được sử dụng để kết nỐi gián tiếp (offline) máy tính tới domain?
-Đáp án: Djoin
-14.	Tiện ích nào sau đây là một phương thức bảo mật truy cập từ xa tỐt hơn telnet?
-Đáp án: SSH
-15.	Tình huỐng nào sau đây làm cho hash rule bị mất tác dụng trong việc kiểm soát các phần mềm?
-Đáp án: Khi bạn nâng cấp tập tin đang được thiết lập hash rule lên phiên bản mới, Khi tập tin đang được thiết lập hash rule bị virus làm thay đổi nội dung
-      Truy vấn tới 1 name Server là công việc của? Resolver 
-16.	Trong các câu lệnh cấu hình router sử dụng định tuyến động với giao thức RIPv2 sau đây, câu lệnh nào là không hợp lệ?
-Đáp án: Router(config)#ripv2
-17.	Trong các chế độ cấp địa chỉ IP cho client của DHCP Windows Server 2012 R2, thuật ngữ nào sau đây tương đương với “reservation”?
-Đáp án: Cấp Manual
-18.	Trong các phát biểu liên quan đến thuộc tính (attribute) của một đỐi tượng (object), phát biểu nào sau đây không đúng?
-Đáp án: Các đối tượng thuộc kiểu leaf không chứa thuộc tính
-19.	Trong các tác vụ quản trị mạng, quy trình quản lý bảo mật không liên quan đến công việc nào?
-Đáp án: Thiết lập hạn ngạch sử dụng tài nguyên mạng cho các nhóm user khác nhau
-20.	Trong các tác vụ quản trị mạng, quy trình quản trị hiệu năng mạng không bao gồm giai đoạn nào?
-Đáp án: Khắc phục lỗi và kiểm tra sự hoạt động trở lại bình thường của hệ thống
-21.	Trong các domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đỐi tượng nào KHÔNG thể là thành viên của group kiểu global?
-Đáp án: Group kiểu universal
-22.	Trong các domain đang chạy ở chế độ Windows Server 2012 R2 (Windows Server 2012 R2 domain functional level), các đỐi tượng nào có thể là thành viên của group kiểu global?
-Đáp án: Các tài khoản người dùng, Các tài khoản máy tính, Group kiểu global
-23.	Trong cấu hình chức năng dịch địa chỉ mạng (NAT) của router, câu lệnh nào là câu lệnh đúng?
-Đáp án: ip nat pool POOL-1 203.162.0.2 203.162.0.2 netmask 255.255.255.0
-24.	Trong cấu hình router, đâu là phát biểu đúng khi nói về khoảng giá trị - AD?
-Đáp án: AD là một số nguyên nhận giá trị từ 0 đến 255
-25.	Trong cấu hình router, sử dụng câu lệnh nào để cho phép chuyển tiếp các gói tin IP quảng bá của DHCP client tìm DHCP server trong mạng?
-Đáp án: Router (config-if)#ip helper-address 192.1.1.2
-26.	Trong giao thức quản trị mạng đơn giản SNMP, mỗi object có một tên gọi và một mã sỐ để nhận dạng object đó, mã sỐ đó được gọi là gì?
-Đáp án: OID
-27.	Trong hệ thỐng mạng có một trong các thiết bị in không hoạt động được, và bạn muỐn người dùng tạm thời không được phép gửi yêu cầu in tới printer nỐi với
-thiết bị đó. Bạn sẽ thực hiện hành động nào sau đây?
-Đáp án: Ngưng việc chia sẻ printer
-28.	Trong hệ thỐng quyền NTFS của Windows Server 2012 R2, kết hợp các quyền kiểu advanced sẽ tạo thành các quyền kiểu gì?
-Đáp án: Basic, Standard
-29.	Trong hoạt động của DNS, hệ thỐng sẽ tạo ra một truy vấn kiểu đệ quy trong tình huỐng nào sau đây?
-Đáp án: DNS client yêu cầu DNS server của nó phân giải tên miền www.adatum.com sang địa chỉ IP
-30.	Trong Hyper-V, switch ảo có sỐ cổng tỐi đa là?
-Đáp án: Không giới hạn
-31.	Trong máy cục bộ có nhiều local GPO, local GPO nào có quyền ưu tiên cao nhất?
-Đáp án: User-specific group policy
-32.	Trong môi trường Active Directory, dịch vụ nào sau đây được client sử dụng để tìm kiếm các đỐi tượng trên domain khác?
-Đáp án: Global Catalog
-33.	Trong môi trường AD, đỐi tượng nào sau đây không thể chứa các domain?
-Đáp án: OU
-34.	Trong Software Restriction Policies, chiến lược nào sẽ cấm chạy mọi phần mềm, ngoại trừ các phần mềm đã được Administrator cho phép chạy một cách tường minh?
-Đáp án: Disallowed
-35.	Trong vận hành thực tế, loại ảo hóa server nào sau đây cung cấp hiệu suất xử lý tỐt nhất cho các server đòi hỏi lưu lượng xử lý lớn?
-Đáp án: Ảo hóa loại 1
-36.	Trong việc truyền các gói tin IPv6 trên nền IPv4, giải pháp nào sau đây được sử dụng phổ biến?
-Đáp án: Tunneling
-37.	Trong Windows Server 2012 R2, các nhóm cục bộ của hệ thỐng (built-in) sẽ nhận các thiết lập đặc biệt thông qua cơ chế nào?
-Đáp án: Quyền hạn người dùng (user right)
-38.	Trong Windows Server 2012 R2, có hai tài khoản người dùng tạo sẵn (built-in) nào?
-Đáp án: Administrator, Guest
-39.	Trong Windows Server 2012 R2, loại tài khoản nào sau đây không cho phép cấu hình?
-Đáp án: Network accounts
-40.	Trong Windows Server 2012 R2, sau khi cấu hình và triển khai Audit Directory Service Access, bạn phải làm gì tiếp theo thì hệ thỐng mới thực hiện theo dõi việc truy cập Active Directory?
-Đáp án: Sử dụng Active Directory Users and Computers để lựa chọn các đối tượng trong Active Directory sẽ bị theo dõi
-
-///v:///
-82.	Việc chuyển đổi kiểu của group nào sau đây không cho phép làm trong mọi tình huỐng?
-Đáp án: Từ global sang domain local
-83.	Với một đĩa cứng ảo kiểu pass-through, yêu cầu nào sau đây là đúng?
-Đáp án: Đĩa được sử dụng để làm đĩa ảo kiểu pass-through phải được thiết lập chế độ offline trong partition cha của Hyper-V server
-
-////U:////
-User đăng nhập bằng cách gõ tên đăng nhập và password. Windows 2003 kiểm chứng thông tin về user. Nếu đăng nhập vào domain-Windows 2003 kiểm chứng thông tin trên một: (Domain Controller) //
-///W:///
-42.	Write-Community được dùng trong bản tin nào?
-Đáp án: SetRequest
-///Y:///
-43.	Yêu cầu nào sau đây không cần phải có, khi gắn một cạc Fibre Channel tới một máy
-ảo trong Hyper-V?
-Đáp án: Bạn phải có một cáp nối SCSI để kết nối cạc Fibre Channel và thiết bị lưu trữ
-| 1 | 9 | A | 2 | 9 | B |
-| 1 | 10 | D | 2 | 10 | A |
+HCM tiếp cận văn hóa theo mấy cách chủ yếu: 4 cách
+Hồ Chí Minh đã mấy lần tham gia soạn thảo Hiến pháp?2
+HCM đc bầu làm Trưởng tiểu ban - 1922\
+Hồ Chí Minh trở về nước sau 30 năm hoạt động khi nào? 1/1941
+HCM tham gia ptrao chống thuế ở Trung Kỳ vào 1908
+Hồ Chí Minh được UNESCO tôn vinh Anh hùng dân tộc và nhà văn hóa kiệt xuất ở Việt Nam năm nào? 20/11/1987
+HCM được tôn vinh là "Anh hùng dân tộc vĩ đại" - Điếu văn của BCHTW Đảng(1969)
+HCM lần đầu tiên đã quan tâm tới khẩu hiệu Pháp Tự do-Bình đẳng-Bác ái - 1905
+Ở cương vị Chủ tịch nước Hồ Chí Minh đã ký công bố bao nhiêu đạo luật? 16
+Ban chấp hành Trung ương Đảng tôn vinh Hồ Chí Minh là “Anh hùng dân tộc vĩ đại” năm nào? 1969
+Trong thời gian 30 năm hđ, HCM hđ tại thái lan: 1928-1929
+Tác phẩm Thường thức chính trị được Hồ Chí Minh viết khi nào? 1953 
+Tác phẩm Bản án chế độ thực dân Pháp của HCM bằng tiếng Pháp tại Paris - 1925 
+Tác phẩm đề cương văn hóa VN - 25-28/2/1943
+Tác phẩm “Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa" của Lênin, được trình bày ở Đại hội II Quốc tế Cộng sản
+
+Hồ Chí Minh luôn gắn tài năng với đạo đức. Theo Người, :có tài mà không có đức là hỏng”; dĩ nhiên, đức phải đi đôi với tài, nếu không có tài thì làm việc gì cũng khó. Cũng như vậy, Người luôn gắn phẩm chất chính trị với trình độ học vấn, 
+chuyên môn, nghiệp vụ, trong đó “chính trị là tinh thần, chuyên môn là thể xác. Hai mặt đó 
+thống nhất trong một người. Do vậy, tất cả mọi người đều phải luôn luôn trau dồi đạo đức và tài 
+năng, vừa có đức vừa có tài, vừa “hồng” vừa “chuyên”
+
+“Bất cứ nơi nào chiến đấu cho độc lập, tự do, ở đó có Hồ Chí Minh và ngọn cờ Hồ Chí Minh bay cao. Bất cứ ở đâu, nhân dân chiến đấu cho một thế giới mới, chống lại đói nghèo, ở đó có ngọn cờ Hồ Chí Minh bay cao” - Rômét Chandra, nguyên chủ tịch hội đồng hòa bình thế giới cho rằng.
+
+“Bảy xin hiến pháp ban hành; Trăm đều phải có thần linh pháp quyền” - Trích trong tác phẩm Việt Nam yêu cầu ca của Hồ Chí Minh.
+
+"Bây giờ học thuyết nhiều, chủ nghĩa nhiều nhưng CN chân chính ..."-Đường CK 1927
+
+ “Bạo lực là bà đỡ của một chế độ xã hội cũ đang thai nghén một chế độ xã hội mới"-Mác
+
+“Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc; cả hai cuộc giải phóng này chỉ có thể là sự nghiệp của chủ nghĩa cộng sản và của cách mạng thế giới” - Trong bài Cuộc kháng chiến, Hồ Chí Minh viết.
+
+"Chỉ có giai cấp công nhân là dũng cảm nhất, cách mạng nhất, luôn luôn gan góc đương đầu với bọn đế quốc thực dân"-30 năm hđ của Đảng(1960)
+
+“Chỉ có thể thực hiện hoàn toàn công cuộc giải phóng ở các nước thuộc địa khi giai cấp vô sản giành được thắng lợi ở các nước tư bản tiên tiến”-Quốc tế cộng sản
+
+“Chỉ những người cách mạng chân chính mới thu hái được những điều hiểu biết quý báu của các đời trước để lại"-Lenin
+
+“Chúng tôi giành được thắng lợi là do nhiều nhân tố, nhưng cần phải nhấn mạnh rằng… chúng tôi giành được những thắng lợi đó trước hết là nhờ cái vũ khí không gì thay thế được là chủ nghĩa Mác - Lê-nin”-Trả lời phỏng vấn nhà báo Pháp Sác-lơ Phuốc-ni-ô ngày 15-7-1969, Hồ Chí Minh
+
+“Có sức mạnh cả nước một lòng…lại có sự ủng hộ của nhân dân thế giới, chúng ta sẽ có một sức mạnh tổng hợp cộng với phương pháp cách mạng thích hợp, nhất định cách mạng nước ta sẽ đi đến đích cuối cùng” - Trong buổi nói chuyện với đại sứ nước ta tại Liên Xô năm 1961, Hồ Chí Minh nói.
+
+“Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân” - Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011).
+
+“Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân” - Sửa đổi lối làm việc (1947)
+
+"Cán bộ là những người đem chính sách của Đăng, của chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho Chính phủ hiểu rũ, để đặt chính sách cho đúng"-Sửa đổi lối làm việc
+
+“Đại đoàn kết tức là trước hết phải đoàn kết đại đa số nhân dân, mà đại đa số nhân dân ta là công nhân và nông dân và các tầng lớp nhân dân lao động khác" - Hội nghị đại biểu mặt trận Liên Việt toàn quốc, tháng 1 – 1955, Người chỉ rõ.
+
+“Đảng muốn vững thì phải có chủ nghĩa làm cốt, trong Đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng như người không có trí khôn, tàu không có bàn chỉ nam” - Khi huấn luyện cho cán bộ cách mạng từ năm 1925 đến 1927, Hồ Chí Minh khẳng định.
+
+"Đảng ta là một Đảng cầm quyền..."-Di chúc
+
+"Độc lập, tự do không thể cầu xin mà có được"-HCM
+
+“Điều mong ước cuối cùng của tôi là: Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới” - Kết thúc bản Tài liệu tuyệt đối bí mật (Di chúc) Hồ Chí Minh viết.
+
+“Đường lối chính trị, nên nếp làm việc và đạo đức cách mạng của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ Tịch"- ĐH II
+
+"Đoàn kết là một truyền thống cực kỳ quý báu..."-Di chúc
+
+"Không có lý luận cách mạnh thì không có CM vận động"-Lenin
+
+"Không có sự đồng tỉnh ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong của mình tức là đối với giai cấp vô sản, thì cách mạng vô sản không thể thực hiện được"-Lenin
+
+"Không thành công cũng thành nhân" - KN Yên Bái
+
+“Làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai” - Tháng 9 – 1947, trả lời một nhà báo nước ngoài, Hồ Chí Minh tuyên bố về chính sách đối ngoại.
+
+“Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” - Cương lĩnh chính trị đầu tiên năm 1930.
+
+"Làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn" - ĐH II
+
+“Lúc bấy giờ, tôi ủng hộ Cách mạng Tháng Mười chỉ là theo cảm tính tự nhiên… Tôi kính yêu Lênin vì Lênin là một người yêu nước vĩ đại đã giải phóng đồng bào mình… Tôi tham gia Đảng Xã hội Pháp chẳng qua là vì các “ông bà” ấy... đã tỏ đồng tình với tôi... Còn như Đảng là gì... thì tôi chưa hiểu” - Con đường dẫn tôi đến chủ nghĩa Lênin.
+
+"Lý luận là đem thực tế trong lịch sử, trong kinh nghiệm..."-HCM
+
+"Lý luận như cái kim chỉ nam, nó chỉ phương hướng..."-HCM
+
+"Muốn xây dựng CNXH trước hết phải có những con người XHCN"-HCM
+
+"mục đích của chủ nghĩa xã hội là gì? Nói một cách đơn giản và dễ hiểu là không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân, trước hết là nhân dân lao động"-HCM: Mục tiêu cao nhất của chủ nghĩa xã hội ở Việt Nam.
+
+“Mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân” - Di chúc.
+
+“Nếu như muốn tìm một sự tiêu biểu cho tất cả cuộc đời của chủ tịch Hồ Chí Minh thì đó là đức tính vô cùng giản dị và sự khiêm tốn phi thường” - Anh hùng của nước cộng hòa Chilê đã khái quát.
+
+“Nhà nước của ta là nhà nước dân chủ nhân dân, dựa trên nền tảng liên minh công nông do giai cấp công nhân lãnh đạo” - Hiến pháp năm 1959 khẳng định.
+
+“Nhân danh toàn thể loài người, nhân danh tất cả các đảng viên xã hội, cả phái hữu lẫn phái tả, chúng tôi kêu gọi: Các đồng chí, hãy cứu chúng tôi” - Tháng 12 – 1920, tại Đại hội Tua của Đảng xã hội Pháp.
+
+“Những tư tưởng dân tộc chân chính trong phong trào công nhân bao giờ cũng là những tư tưởng quốc tế chân chính" - Ăngghen từng nói.
+
+"Người ta chỉ có thể trở thành người cs khi biết làm giàu trí óc.."-Lenin
+
+“Người chiến sĩ lỗi lạc của phong trào công sản và công nhân quốc tế"- ĐH II
+
+“Ở nước ta, chính quyền là của nhân dân, do nhân dân làm chủ… nhân dân là ông chủ nắm chính quyền. Nhân dân bầu ra đại biểu thay mặt mình thi hành chính quyền ấy. Thế là dân chủ” - Trong tác phẩm Thường thức chính trị (1953).
+
+“Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của tất cả mọi người" - Mác và Ăngghen (Tuyên ngôn của Đảng Cộng sản, 1848).
+
+"Tư tưởng HCM là một hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của CM VN"-ĐH XI
+
+"Tư tưởng HCM chính là kqua sự vận dụng sáng tạo CN Mác..."-ĐH VII
+
+“Tất cả quyền bính trong nước đều là của toàn thể nhân dân Việt Nam, không phân biệt nòi giống, gái trai, giàu nghèo, giai cấp, tôn giáo; những việc quan hệ đến vận mệnh quốc gia sẽ đưa ra toàn dân phúc quyết" - Hiến pháp năm 1946.
+
+"Toàn đảng ra sức học tập đường lối, chính trị, tác phong và đạo đức của HCM" -Văn kiện ĐH II(1951)
+
+"Toàn Đảng,toàn dân đoàn kết phấn đấu xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới."- Di chúc 1969
+
+“Tinh thần yêu nước chân chính khác hẳn với tinh thần “vị quốc” của bọn đế quốc phản động" - Báo cáo chính trị tại Đại hội II.
+
+“Tinh thần yêu nước là kiên quyết giữ gìn nền độc lập, tự do... Tinh thần quốc tế là đoàn kết với các nước bạn và nhân dân các nước khác để giữ gìn hòa bình thế giới... đó là lập trường quốc tế cách mạng” - Thường thức chính trị.
+
+“Trong giai đoạn này, quyền lợi của giai cấp công nhân và nhân dân lao động và của dân tộc là một. Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động Việt Nam, cho nên nó phải là Đảng của dân tộc Việt Nam” - Báo cáo chính trị tại Đại hội II.
+
+“Trong lúc này quyền lợi của bộ phận, của giai cấp phải đặt dưới sự sinh tử, tồn vong của quốc gia, của dân tộc... nếu không giải quyết được vấn đề dân tộc giải phóng... thì chẳng những toàn thể quốc gia dân tộc còn chịu mãi kiếp ngựa trâu...” - Hội nghị TW Đảng, tháng 5 – 1941.
+
+“Trong Đảng thực hành dân chủ rộng rãi...." - Di chúc.
+
+“Trước cách mạng Tháng Tám và trong kháng chiến, thì nhiệm vụ tuyên huấn là làm cho đồng bào các dân tộc hiểu được mấy việc: Một là đoàn kết. Hai là làm cách mạng hay kháng chiến để đòi độc lập...” - Hồ Chí Minh nói chuyện với cán bộ năm 1963.
+
+"Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì hên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi." - ĐCK
+
+"Trên đời này có hai giống người.."-Đoàn kết giai cấp
+
+“Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người” - Hồ Chí Minh.
+
+"Vô sản tất cả các nước, đoàn kết lại"-Lenin
+
+"Việt Nam “Sẵn sàng là bạn" với các nước trong công đồng quốc tế"-ĐH VII
+
+"Việc cần phải làm trước tiên là chỉnh đốn lại Đảng.."- Di chúc
+
+"Sự ptr của xh loài người là qtr tự nhiên" -Mác
+
+"Sự nghiệp CM của Đảng và của nhân dân ta 76 năm qua..."-ĐH X(2006)
+
+"Sự giải phóng của giai cấp công nhân là sự nghiệp của bản thân giai cấp công nhân" - Mác
+
+"Xây dựng nền vhoa và con người..."-ĐH XI
+
+"Xã hội XHCN là một liên hiệp của những người lao động, tự do của mỗi người là điều kiện tự do của mọi người"- Lenin
+
+Trong tác phẩm Đường Cách Mệnh, Nguyễn Ái Quốc phân biệt ba loại cách mạng: cách 
+mạng tư sản, cách mạng vô sản và cách mạng giải phóng dân tộc
+
+Năm 1953, Hồ Chí Minh viết: “Đảng Lao động là tổ chức cao nhất của giai cấp cần lao và đại biểu cho lợi ích 
+của cả dân tộc…Đảng là Đảng của giai cấp lao động, mà cũng là Đảng của toàn dân”.
+
+Năm 1957, Hồ Chí Minh khẳng định: Đảng là đội tiên phong của giai cấp công nhân, đồng thời cũng là đội 
+tiên phong của dân tộc.
+
+6/1/1946 - Cuộc Tổng tuyển cử bầu Quốc hội khóa I của Việt Nam
+27 -11 -1946, Hồ Chí Minh đã ký sắc lệnh ấn 
+định tội đưa và nhận hối lộ với mức tù từ 5 năm đến 20 năm tù khổ sai và phải nộp phạt gấp đôi 
+số tiền nhận hối lộ.
+26 – 1 – 1946, Hồ Chí Minh ký lệnh nói rõ tội tham ô, trộm cắp của 
+công dân là tội tử hình.
+
+Trong thời kỳ Miền Bắc xây dựng chủ nghĩa xã hội, năm 1961, Hồ Chí Minh tiếp tục khẳng định: Đảng ta là Đảng của giai cấp, đồng thời cũng là của dân tộc, không thiên tư, thiên vị. 
+
+Năm 1965, Hồ Chí Minh cho rằng: Đảng ta xứng đáng là đội tiên phong, là bộ 
+tham mưu của giai cấp vô sản, của nhân dân lao động và của cả dân tộc.
+
+Hội phản đế Đông Dương(Hội pđ đồng minh) (1930)
+Mặt trận dân chủ Đông Dương (1936)
+Mặt trận  phản đế Đông Dương (1939)
+Mặt trận Việt Minh (19/5/1941) 
+Mặt trận Liên Việt (1951)
+Mặt trận Tổ quốc Việt Nam (1955)
+Mặt trận giải phóng Miền Nam (1960)
+Mặt trận Tổ quốc Việt Nam (1976)
+
+
+Hội nghị lần thứ VIII Ban chấp hành Trung ương Đảng ( tháng 5 năm 1941 ) do chủ tịch 
+Hồ Chí Minh chủ trì đã kiên quyết dương cao ngọn cờ giải phóng dân tộc, nhấn mạnh đó là 
+“nhiệm vụ bức thiết nhất”, chủ trương tạm gác khẩu hiệu “ cách mạng ruộng đất”
+
+Tác phẩm Đường Cách mệnh năm 1927 của Hồ Chí Minh là sự chuẩn bị mọi mặt về chính trị,
+tư tưởng, tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam
+
+CHƯƠNG I: KHÁI NIỆM, PHƯƠNG PHÁP NGCUU
+Quá trình nhận thức của Đảng về tư tưởng Hồ Chí Minh
+- Hội nghị thành lập Đảng (3.2.1930): Khẳng định những nội dung cơ bản trong tư tưởng Hồ Chí Minh về đường lối cách mạng Việt Nam
+- Quan điểm QTCS và một số đại biểu của ĐCS Đông Dương (Sau năm 1930): đã phê phán HCM trên một số phương diện về đường lối và lực lượng
+- Đại hội II (1951): Học tập đường lối chính trị, tác phong đạo đức cách mạng Hồ Chí Minh
+- Điếu văn của BCHTW  Đảng (9.1969): Hồ Chí Minh: Anh hùng giải phóng dân tộc
+- Đại hội IV (1976): Hồ Chí Minh: Anh hùng giải phóng dân tộc, người chiến sĩ cộng sản quốc tế lỗi lạc
+- Đại hội V (1982): Đặc biệt coi trọng học tập tư tưởng, đạo đức, tác phong Hồ Chí Minh
+- Đại hội VI (1986): “Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin, 
+    kế thừa di sản quý báu về tư tưởng và lý luận của Chủ tịch Hồ Chí Minh”
+- Đại hội VII (1991): DẤU MỐC “Đảng lấy chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động” 
+- Đại hội IX (2001): là bạn và đối tác tin cậy, 
+- Đại hội XI: Khái niệm TTHCM 
+- Đại hội XII (2016):  Kiên định chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh, 
+    vân dụng sáng tạo và phát triển phù hợp với thực tiễn Việt Nam 
+
+I. KHÁI NIỆM TƯ TƯỞNG HỒ CHÍ MINH
+Định nghĩa "Tư tưởng" (tầm khái quát triết học)
+	Là một hệ thống các quan điểm, quan niệm, luận điểm xây dựng trên nền tảng TRIẾT HỌC (thế giới quan và phương pháp luận) nhất quán.
+	Đại biểu cho ý chí, nguyện vọng của một GIAI CẤP, một DÂN TỘC.
+	Hình thành trên cơ sở THỰC TIỄN và trở lại chỉ đạo hoạt động thực tiễn.
+Các mốc nhận thức của Đảng (Trọng tâm thi trắc nghiệm)
+	Đại hội VII (1991): Cột mốc quan trọng, khẳng định: Đảng lấy chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh làm NỀN TẢNG TƯ TƯỞNG, KIM CHỈ NAM cho hành động.
+	Đại hội IX và XI: Hoàn thiện định nghĩa tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam.
+Nội hàm khái niệm Tư tưởng Hồ Chí Minh
+Bản chất: Hệ thống quan điểm toàn diện, sâu sắc, phản ánh những vấn đề có tính quy luật của cách mạng Việt Nam.
+Nguồn gốc lý luận:
+	Chủ nghĩa Mác – Lênin (nguồn gốc TRỰC TIẾP quyết định bản chất khoa học).
+	Giá trị văn hóa dân tộc.
+	Tinh hoa văn hóa nhân loại.
+Hạt nhân cốt lõi: Tư tưởng về ĐỘC LẬP DÂN TỘC GẮN LIỀN VỚI CHỦ NGHĨA XÃ HỘI nhằm giải phóng dân tộc, giai cấp và con người.
+
+--------------------------------------------------------------------------------
+II. ĐỐI TƯỢNG VÀ NHIỆM VỤ NGHIÊN CỨU
+Đối tượng nghiên cứu
+	Không chỉ là hệ thống quan điểm trong di sản chữ viết (bài nói, bài viết) mà còn 
+	là QUÁ TRÌNH VẬN ĐỘNG, HIỆN THỰC HÓA các quan điểm đó trong thực tiễn.
+	Quá trình này mang tính quy luật, thống nhất giữa SẢN SINH tư tưởng và HIỆN THỰC HÓA tư tưởng.
+Mối quan hệ với các môn học khác
+	Với môn Nguyên lý chủ nghĩa Mác - Lênin: Là mối quan hệ giữa cơ sở thế giới quan/phương pháp luận và sự vận dụng sáng tạo.
+	Với môn Đường lối cách mạng của ĐCSVN: Tư tưởng Hồ Chí Minh là cơ sở khoa học để xây dựng đường lối; học Tư tưởng HCM để nắm vững kiến thức về đường lối của Đảng.
+
+--------------------------------------------------------------------------------
+III. CƠ SỞ PHƯƠNG PHÁP LUẬN VÀ PHƯƠNG PHÁP NGHIÊN CỨU
+Cơ sở phương pháp luận (Các nguyên tắc "vàng")
+	Thống nhất tính Đảng và tính khoa học: Bảo đảm tính khách quan, tránh áp đặt, cường điệu hóa hoặc hiện đại hóa tư tưởng của Người.
+	Quan điểm thực tiễn: Lý luận gắn liền với thực tiễn, lời nói đi đôi với việc làm; thực tiễn là tiêu chuẩn của chân lý.
+	Quan điểm lịch sử - cụ thể: Xem xét hiện tượng trong các giai đoạn phát triển lịch sử nhất định.
+	Quan điểm toàn diện và hệ thống: Không tách rời các yếu tố trong hệ thống tư tưởng, đặc biệt là mối quan hệ giữa độc lập dân tộc và CNXH.
+	Quan điểm kế thừa và phát triển: Biết kế thừa và phát triển sáng tạo trong bối cảnh lịch sử mới.
+Các phương pháp cụ thể
+	Vận dụng phương pháp LỊCH SỬ và LOGIC để tìm ra bản chất sự vật.
+	Vận dụng phương pháp LIÊN NGÀNH (triết học, kinh tế, quân sự, văn hóa...).
+	Các phương pháp hỗ trợ: phân tích, tổng hợp, so sánh, thống kê trắc lượng, văn bản học, phỏng vấn nhân chứng lịch sử.
+
+--------------------------------------------------------------------------------
+IV. Ý NGHĨA HỌC TẬP ĐỐI VỚI SINH VIÊN
+	Nâng cao năng lực TƯ DUY LÝ LUẬN và phương pháp công tác.
+	Bồi dưỡng phẩm chất cách mạng và rèn luyện BẢN LĨNH CHÍNH TRỊ.
+	Xây dựng lập trường cách mạng, kiên định mục tiêu độc lập dân tộc gắn liền với CNXH.
+
+
+
+CHƯƠNG II: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh
+1. Cơ sở khách quan hình thành tư tưởng Hồ Chí Minh
+Bối cảnh lịch sử Việt Nam (cuối XIX - đầu XX):
+  Thực dân Pháp xâm lược; triều đình nhà Nguyễn đầu hàng
+		1. Hiệp ước Nhâm Tuất 1862
+		2. Hiệp ước Hoà Tuất 1874
+		3. Hiệp ước Quý Mùi 1883
+		4. Hiệp ước Pa – tơ – nốt 1884
+  Thất bại của phong trào Cần vương (hệ tư tưởng phong kiến lỗi thời)
+  Sự bế tắc của các xu hướng cứu nước mới: Phan Bội Châu (Đông Du)(dùng bạo lực, cầu ngoại viện - Nhật),
+  Phan Chu Trinh (cải cách "ỷ Pháp cầu tiến bộ"), Hoàng Hoa Thám(Cần vương) (vẫn nặng cốt cách phong kiến)
+Bối cảnh thời đại:
+  CNTB chuyển sang giai đoạn độc quyền (chủ nghĩa đế quốc); chủ nghĩa đế quốc là kẻ thù chung của các dân tộc thuộc địa
+  Cách mạng Tháng Mười Nga (1917): Làm "thức tỉnh các dân tộc Châu Á", mở ra thời đại cách mạng vô sản
+  Sự ra đời của Quốc tế Cộng sản (tháng 3-1919)
+Tiền đề tư tưởng - lý luận:
+  Giá trị truyền thống dân tộc: Chủ nghĩa yêu nước là cội nguồn trí tuệ, là chuẩn mực đạo đức cơ bản của dân tộc
+a. Tinh hoa văn hóa nhân loại:
+    A. Nho giáo
+Tích cực Hồ Chí Minh tiếp thu
+  - Triết lý hành động, nhập thế, giúp đời, Ước vọng xã hội thái bình, Tu thân dưỡng tính,Đề cao văn hóa, lễ giáo,
+  - Đề cao vai trò nhân dân: “Dân vi quý, xã tắc thứ chi, quân vi khinh”
+  - Đạo đức khí tiết: “Phú quý bất năng dâm – Bần tiện bất năng di – Uy vũ bất năng khuất”
+  - Hình thành phẩm chất: Trung với nước – hiếu với dân, Cần, kiệm, liêm, chính, chí công vô tư
+  - Hiếu học
+  - Bình đẳng giáo dục: “Hữu giáo vô loại” (giáo dục không phân biệt đẳng cấp)
+Tiêu cực Hồ Chí Minh phê phán: Bảo vệ chế độ phong kiến,Phân chia đẳng cấp: quân tử – tiểu nhân,Trọng nam khinh nữ,Đề cao người đọc sách
+Mục tiêu:
+  Củng cố trật tự phong kiến
+  Bảo vệ quyền lực tuyệt đối của vua
+B. Phật giáo
+Nội dung tiếp thu: Tư tưởng nhân văn, vị tha,Cứu khổ cứu nạn,Thương người như thể thương thân,Sống đạo đức, giản dị, làm điều thiện
+  Tinh thần bình đẳng, dân chủ, Chống phân biệt đẳng cấp, Gắn bó với dân, với nước, Không xa lánh việc đời,Đề cao lao động, Kết hợp với chủ nghĩa yêu nước
+Tư tưởng triết học
+  - Chân như: thế giới tồn tại vĩnh hằng
+  - Nhân quả: Vạn vật biến đổi theo quy luật
+Đề cao:Sức mạnh con người,Bình đẳng – bác ái – vị tha,Tư tưởng vô ngã
+C. Lão giáo
+Nội dung tiếp thu: Yếu tố biện chứng, Hòa hợp với thiên nhiên,Không màng danh lợi,Vì nước vì dân
+Kết hợp: Nhập thế hành động, Xuất thế vô vi
+Biểu hiện trong tư tưởng Hồ Chí Minh: tư tưởng
+của Hồ Chí Minh thể hiện ở tác phẩm Đời Sống Mới (1947)
+  - “Liêm”:: trong sạch, không tham lam
+Phê phán: tham tiền của,tham địa vị,tham danh tiếng
+Lối sống: thanh đạm, gần thiên nhiên, xa vòng danh lợi
+b. Tinh hoa văn hóa phương Tây
+Nội dung tiếp thu: Văn hóa dân chủ cách mạng phương Tây
+Tìm hiểu: Cách mạng Pháp,Cách mạng Mỹ
+Tiếp thu tư tưởng: Tự do – Bình đẳng – Bác ái
+Các nhà tư tưởng ảnh hưởng: Voltaire, Jean-Jacques Rousseau, Montesquieu
+Văn kiện ảnh hưởng: French Revolution (Tuyên ngôn Nhân quyền và Dân quyền)
+United States Declaration of Independence(quyền:được sống,tự do,mưu cầu hạnh phúc)
+Ảnh hưởng khác: Lòng nhân ái của Thiên Chúa giáo
+Kế thừa: tự do, bình đẳng, bác ái
+  Chủ nghĩa Mác - Lênin: Là cơ sở thế giới quan, phương pháp luận và là nguồn gốc lý luận trực tiếp quyết định bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh
+2. Nhân tố chủ quan
+Khả năng tư duy và trí tuệ: Hồ Chí Minh không ngừng quan sát, nhận thức thực tiễn để khái quát thành lý luận
+Phẩm chất đạo đức: Tư duy độc lập, tự chủ, sáng tạo; bản lĩnh kiên định; trái tim yêu nước thương dân nồng nàn
+3. Năm giai đoạn hình thành và phát triển
+Trước 1911: Hình thành tư tưởng yêu nước và chí hướng cứu nước
+1911 - 1920: Tìm thấy con đường cứu nước, giải phóng dân tộc. 
+	Hồ Chí Minh gia nhập Đảng Xã hội Pháp vào 2/1919
+	Sự kiện Hồ Chí Minh thay mặt những người Việt Nam yêu nước ở Pháp, lấy tên Nguyễn Ái Quốc, gửi Yêu sách của nhân dân An Nam tới Hội nghị Versailles (18-6-1919). - đánh dấu bước trưởng thành trong tư duy đấu tranh chính trị của Người
+Sự kiện quan trọng nhất(bước ngoặt quan trọng): Đọc Sơ thảo lần thứ nhất những luận cương về  
+vấn đề dân tộc và vấn đề thuộc địa của Lênin (7/1920) và biểu quyết tán thành Quốc tế III Tháng 12/1920, 
+  tham gia đại hội 18 Đảng xã hội Pháp tại thành phố Tua. 
+  Tại đây, Nguyễn Ái Quốc đã bỏ phiếu tán thành Đảng xã hội Pháp gia nhập Quốc tế Cộng sản, trở thành một trong những người sáng lập Đảng cộng sản Pháp.
+  Đây là sự kiện đánh dấu sự chuyển biến (về chất) từ chủ nghĩa yêu nước đến chủ nghĩa Lênin, từ giác ngộ dân tộc đến giác ngộ giai cấp, từ người yêu nước thành người cộng sản của Nguyễn Ái Quốc
+1921 - 1930: Hình thành cơ bản tư tưởng về cách mạng Việt Nam. 
+  + Năm 1921- 1923: Hồ Chí Minh tham gia ban nghiên cứu thuộc địa của Đảng cộng sản Pháp tham gia sáng lập “Hội liên hiệp thuộc địa” ngày 26.6.1921, xuất bản báo “Người cùng khổ”. 
+	+ Năm 1923 -1924: Đến Liên Xô, hoạt động trong Quốc tế cộng sản, tham gia Đại hội nông dân Quốc tế, Đại hội Quốc tế công hội đỏ, Đại hội V Quốc tế cộng sản, tham gia khoá học ngắn hạn tại trường đại học Phương Đông của Quốc tế cộng sản, làm việc tại ban Phương Đông của Quốc tế cộng sản.
+	+ Năm 1924 - 1927: Đến Trung Quốc làm nhiệm vụ đặc phái viên của Quốc tế cộng sản. Thành lập Việt Nam cách mạng thanh niên (tháng 6.1925), ra báo Thanh niên, mở các lớp huấn luyện chính trị, đào tạo cán bộ đưa họ về nước hoạt động.
+  + Năm 1928 – 1929: Hồ Chí Minh hoạt động ở Thái Lan, chỉ đạo phong trào yêu nước của Việt Kiều Thái Lan
+  + Năm 1929 – 1930: Trở về Trung Quốc, chủ trì Hội nghị thành lập Đảng (3.2.1930) tại bán đảo Cửu Long (Hương Cảng, Trung Quốc)
+
+Các tác phẩm tiêu biểu: Bản án chế độ thực dân Pháp (1925), Đường cách mệnh (1927), Cương lĩnh đầu tiên của Đảng (1930)
+1930 - 1945: Vượt qua thử thách, giữ vững lập trường cách mạng. Kiên trì bảo vệ quan điểm về vấn đề dân tộc trước khuynh hướng "tả" của Quốc tế Cộng sản
+1. QUỐC TẾ CỘNG SẢN VÀ KHUYNH HƯỚNG “TẢ” (1930)
+- Cuối những năm 20 – đầu 30 thế kỷ XX:
+  + Quốc tế Cộng sản bị chi phối bởi khuynh hướng “tả”
+  + Đề cao đấu tranh giai cấp
+  + Xem nhẹ vấn đề dân tộc
+
+2. HỘI NGHỊ TRUNG ƯƠNG THÁNG 10/1930
+- Thời gian: 14 – 31/10/1930
+- Địa điểm: Hương Cảng
+Nội dung:
+- Đổi tên:
+  + Đảng Cộng sản Việt Nam
+  -> Đảng Cộng sản Đông Dương
+- Phê phán:
+  + Chánh cương vắn tắt
+  + Sách lược vắn tắt
+  vì cho rằng:
+  “chỉ lo phản đế mà quên đấu tranh giai cấp”
+- Chủ trương:
+  + “Thủ tiêu Chánh cương, Sách lược”
+  + Bônsêvích hóa Đảng
+  + Làm theo nghị quyết Quốc tế Cộng sản
+
+3. QUAN ĐIỂM CỦA NGUYỄN ÁI QUỐC
+- Kiên trì:
+  + Độc lập dân tộc
+  + Gắn với chủ nghĩa xã hội
+- Kết hợp:
+  + Vấn đề dân tộc
+  + Vấn đề giai cấp
+ Chống:
+  + “tả” khuynh
+  + biệt phái
+  + giáo điều máy móc
+
+4. THỰC TIỄN CHỨNG MINH NGUYỄN ÁI QUỐC ĐÚNG
+Đại hội VII Quốc tế Cộng sản (1935):
+- Phê phán khuynh hướng “tả”
+- Chủ trương:
+  + Mặt trận dân tộc thống nhất
+  + Chống chủ nghĩa phát xít
+- Bác bỏ:
+  + “cách mạng công nông”
+  + “chính phủ Xô viết”
+=> Chứng minh quan điểm Nguyễn Ái Quốc đúng đắn
+
+5. CHUYỂN HƯỚNG ĐẤU TRANH 1936 – 1939
+- Phê phán:
+  + “tả” khuynh
+  + cô độc
+  + biệt phái
+- Thành lập:
+  + 1936: Mặt trận Nhân dân phản đế Đông Dương
+  + 3/1938: đổi thành Mặt trận Dân chủ Đông Dương
+- Nội dung:
+  + Phân hóa kẻ thù
+  + Tranh thủ đồng minh
+  + Tập trung chống đế quốc
+=> Quay lại tư tưởng trong:
+- Chánh cương vắn tắt
+- Sách lược vắn tắt
+
+6. NGUYỄN ÁI QUỐC TRỞ VỀ NƯỚC
+- Theo dõi cách mạng trong nước
+- Viết:
+  + 8 điểm chỉ đạo cách mạng Đông Dương
+Mốc thời gian:
+- 10/1938:
+  + từ Matxcơva về Trung Quốc
+- 28/1/1941:
+  + về nước sau 30 năm hoạt động ở nước ngoài
+
+7. HỘI NGHỊ TRUNG ƯƠNG VIII (1941)
+- Nguyễn Ái Quốc chủ trì
+Nội dung:
+- Hoàn chỉnh chuyển hướng chiến lược cách mạng
+- Đặt nhiệm vụ hàng đầu:
+  + Giải phóng dân tộc
+Ý nghĩa:
+- Quyết định chiều hướng phát triển cách mạng
+- Dẫn tới thắng lợi Cách mạng Tháng Tám 1945
+
+1945 - 1969: Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện. Đề ra đường lối vừa kháng chiến vừa kiến quốc; chân lý "Không có gì quý hơn độc lập, tự do" (1966)
+1. TÌNH HÌNH SAU CÁCH MẠNG THÁNG TÁM 1945
+- Chính quyền cách mạng còn non trẻ
+- Tình thế:
+  + “Ngàn cân treo sợi tóc”
+Khó khăn:
+- 23/9/1945:
+  + Thực dân Pháp quay lại xâm lược Nam Bộ
+- Miền Bắc:
+  + hơn 20 vạn quân Tưởng kéo vào
+  + âm mưu tiêu diệt Đảng
+  + bóp chết nước Việt Nam Dân chủ Cộng hòa
+
+2. CHỦ TRƯƠNG CỦA HỒ CHÍ MINH
+Về đối nội:
+- Củng cố chính quyền cách mạng
+- Chống:
+  + giặc đói
+  + giặc dốt
+- Khắc phục khó khăn tài chính
+Về đối ngoại:
+- Sách lược:
+  + mềm dẻo
+  + khôn khéo
+- “Thêm bạn bớt thù”
+- “Dĩ bất biến, ứng vạn biến”
+- Tranh thủ thời gian chuẩn bị kháng chiến lâu dài
+
+3. KHÁNG CHIẾN TOÀN QUỐC CHỐNG PHÁP
+- 19/12/1946:
+  + Hồ Chí Minh phát động toàn quốc kháng chiến
+Đường lối kháng chiến:
+- Vừa kháng chiến vừa kiến quốc
+- Kháng chiến:
+  + toàn dân
+  + toàn diện
+  + trường kỳ
+  + tự lực cánh sinh
+
+4. XÂY DỰNG ĐẢNG VÀ ĐẠO ĐỨC CÁCH MẠNG
+Hồ Chí Minh chú trọng:
+- Xây dựng Đảng
+- Xây dựng cán bộ
+Chống:
+- quan liêu
+- mệnh lệnh
+Đạo đức cách mạng:cần,kiệm,liêm,chính,chí công vô tư
+Phong trào:
+- Thi đua ái quốc
+
+5. ĐẠI HỘI II CỦA ĐẢNG (1951)
+Mục đích:
+- Tăng cường lãnh đạo kháng chiến
+Nội dung:
+- Đưa Đảng hoạt động công khai
+- Đổi tên: Đảng Lao động Việt Nam
+Chủ trương:
+- Thành lập Đảng riêng ở: Lào Campuchia
+Thông qua:
+- Cương lĩnh mới
+- Điều lệ mới
+Ý nghĩa:
+- Giải quyết đúng mối quan hệ:
+  + dân tộc
+  + giai cấp
+- Động viên toàn dân kháng chiến thắng lợi
+
+6. THẮNG LỢI KHÁNG CHIẾN CHỐNG PHÁP (1954)
+- 1954: Kháng chiến chống Pháp thắng lợi
+7. SAU HIỆP ĐỊNH GENÈVE 1954
+Tình hình:
+- Miền Bắc: + hoàn toàn giải phóng
+- Đất nước: + tạm thời chia cắt
+Kẻ thù chính:- Đế quốc Mỹ- Chính quyền tay sai
+
+8. NHIỆM VỤ CÁCH MẠNG HAI MIỀN
+Miền Bắc:
+- Thuộc: cách mạng xã hội chủ nghĩa
+- Vai trò:
+  + quyết định sự phát triển toàn bộ cách mạng Việt Nam
+  + quyết định sự nghiệp thống nhất đất nước
+Miền Nam:
+- Thuộc: cách mạng dân tộc dân chủ nhân dân
+- Vai trò:
+  + quyết định trực tiếp giải phóng miền Nam
+  + thực hiện hòa bình, thống nhất Tổ quốc
+
+4. Giá trị tư tưởng Hồ Chí Minh
+Đối với dân tộc: Là tài sản tinh thần vô giá; là nền tảng tư tưởng và kim chỉ nam cho hành động của cách mạng Việt Nam
+Đối với thế giới: Phản ánh khát vọng thời đại; đóng góp vào kho tàng lý luận Mác - Lênin; cổ vũ phong trào giải phóng dân tộc toàn cầu
+
+
+CHƯƠNG III 
+TƯ TƯỞNG HỒ CHÍ MINH VỀ VẤN ĐỀ DÂN TỘC  
+VÀ CÁCH MẠNG GIẢI PHÓNG DÂN TỘC 
+I. TƯ TƯỞNG HỒ CHÍ MINH VỀ VẤN ĐỀ DÂN TỘC
+Thực chất của vấn đề dân tộc thuộc địa
+	Hồ Chí Minh không bàn vấn đề dân tộc nói chung mà tập trung vào vấn đề dân tộc thuộc địa (Mác LN bàn về đấu tranh giai cấp)
+	Thực chất là: Đấu tranh chống chủ nghĩa thực dân, xóa bỏ ách áp bức, giành độc lập dân tộc và thực hiện quyền dân tộc tự quyết
+	Mâu thuẫn chủ yếu ở thuộc địa là: Dân tộc bị áp bức đối kháng với chủ nghĩa đế quốc/thực dân (mâu thuẫn không thể điều hòa)
+	Con đường phát triển: Độc lập dân tộc gắn liền với chủ nghĩa xã hội (làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản)
+	Độc lập dân tộc – Nội dung cốt lõi
+	Cách tiếp cận: Đi từ quyền con người (quyền sống, tự do, mưu cầu hạnh phúc) khái quát lên thành quyền dân tộc
+	Nội dung: Độc lập dân tộc phải là nền độc lập thật sự, hoàn toàn gắn với hòa bình, thống nhất, toàn vẹn lãnh thổ
+	Năm 1919, Nguyễn Ái Quốc gửi tới hội nghị Versaille bản yêu sách gồm 8 điểm
+	Đầu năm 1930, Nguyễn Ái Quốc soạn thảo Cương lĩnh chính  trị đầu tiên  của Đảng
+	Tháng 5 – 1941, Hồ Chí Minh chủ trì Hội nghị lần thứ VIII Ban Chấp hành trung ương 
+	Đảng, viết thư Kính cáo đồng bào, chỉ rõ: “trong lúc này quyền lợi dân tộc giải phóng cao hơn 
+	hết thảy” 
+	Khẩu hiệu hành động/Chân lý thời đại: "Không có gì quý hơn độc lập, tự do" (1966)
+	Động lực lớn: Chủ nghĩa yêu nước chân chính là một bộ phận của tinh thần quốc tế
+Mối quan hệ giữa Dân tộc và Giai cấp
+	Nguyên tắc: Nhận thức và giải quyết vấn đề dân tộc trên quan điểm giai cấp
+	Thứ tự ưu tiên: Giải phóng dân tộc là vấn đề trên hết, trước hết
+	Tiền đề: Giải phóng dân tộc tạo tiền đề để giải phóng giai cấp; lợi ích giai cấp phải phục tùng lợi ích dân tộc
+	Quan điểm quốc tế: Giữ vững độc lập dân tộc mình đồng thời tôn trọng độc lập của dân tộc khác ("giúp bạn là tự giúp mình")
+
+--------------------------------------------------------------------------------
+II. TƯ TƯỞNG HỒ CHÍ MINH VỀ CÁCH MẠNG GIẢI PHÓNG DÂN TỘC
+Tính chất và nhiệm vụ
+	Tính chất: Cách mạng thuộc địa là "dân tộc cách mệnh", đánh đuổi ngoại xâm, giành độc lập
+	Nhiệm vụ hàng đầu: Giải phóng dân tộc. (Khác với quan điểm giáo điều của Quốc tế Cộng sản lúc bấy giờ là nhấn mạnh đấu tranh giai cấp và ruộng đất).
+Con đường và Lãnh đạo
+	Con đường: Cách mạng vô sản (giải phóng giai cấp vô sản thì mới giải phóng được dân tộc).
+	Lãnh đạo: Phải do Đảng Cộng sản cầm quyền (Đảng là người cầm lái thì thuyền cách mệnh mới chạy).
+Lực lượng và Động lực
+	Lực lượng: Toàn dân tộc (sĩ, nông, công, thương đều nhất trí chống cường quyền).
+	Động lực/Gốc cách mạng: Công nhân và Nông dân (vì họ bị áp bức nặng nề nhất và đông đảo nhất).
+	Bạn đồng minh: Tiểu tư sản, trí thức, tư sản dân tộc và một bộ phận địa chủ vừa và nhỏ.
+Tính chủ động và sáng tạo (Cống hiến lý luận quan trọng nhất)
+	Quan điểm đột phá: Cách mạng giải phóng dân tộc ở thuộc địa có khả năng giành thắng lợi TRƯỚC cách mạng vô sản ở chính quốc.
+	Cơ sở: Nhấn mạnh vai trò nỗ lực tự giải phóng của dân tộc ("đem sức ta mà tự giải phóng cho ta").
+Phương pháp và Hình thái cách mạng
+	Phương pháp: Bạo lực cách mạng (kết hợp đấu tranh chính trị và đấu tranh vũ trang).
+	Tư tưởng nhân văn: Tận dụng mọi khả năng hòa bình, đàm phán; chiến tranh chỉ là giải pháp bắt buộc cuối cùng.
+	Hình thái: Khởi nghĩa toàn dân, chiến tranh nhân dân.
+	Phương châm chiến lược: Đánh lâu dài và Tự lực cánh sinh là chính (tranh thủ sự giúp đỡ quốc tế nhưng không ỷ lại).
+
+
+CHƯƠNG III 
+TƯ TƯỞNG HỒ CHÍ MINH VỀ CHỦ NGHĨA XÃ HỘI  
+VÀ CON ĐƯỜNG QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI Ở VIỆT NAM 
+I. TƯ TƯỞNG HỒ CHÍ MINH VỀ CHỦ NGHĨA XÃ HỘI (CNXH) Ở VIỆT NAM
+Tính tất yếu của CNXH
+	Cơ sở lý luận: Tiếp thu vận dụng sáng tạo lý luận Mac – Lênin về sự phát triển tất yếu của các hình thái kinh tế - xã hội.
+	Thực tiễn Việt Nam: Sau khi giành độc lập theo con đường cách mạng vô sản, tiến lên CNXH là bước phát triển tất yếu để giải phóng dân tộc hoàn toàn và đem lại hạnh phúc cho nhân dân.
+	Khẳng định: "Chỉ có chủ nghĩa cộng sản mới cứu nhân loại".
+Đặc trưng bản chất của CNXH ở Việt Nam
+	Cách tiếp cận:
+	Từ yêu cầu giải phóng dân tộc.
+	Từ phương diện đạo đức: Hướng tới giá trị nhân đạo, nhân văn.
+	Từ văn hóa: Đây là cách tiếp cận bao trùm nhất.
+Đặc trưng tổng quát:
+	Chính trị: Chế độ do nhân dân làm chủ (vị trí tối thượng là DÂN).
+	Kinh tế: Nền kinh tế phát triển cao, gắn liền với khoa học - kỹ thuật; chế độ sở hữu công cộng về tư liệu sản xuất chủ yếu.
+	Xã hội: Không còn người bóc lột người; công bằng, lý tưởng.
+	Văn hóa, đạo đức: Phát triển cao, con người được giải phóng toàn diện.
+Mục tiêu và Động lực của CNXH
+	Mục tiêu:
+	Mục tiêu tổng quát: Không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân.
+	Mục tiêu cụ thể: Chính trị (Dân làm chủ, Nhà nước có hai chức năng: dân chủ với nhân dân, chuyên chính với kẻ thù của nhân dân.), Kinh tế (Công nghiệp và nông nghiệp là "hai chân"), Văn hóa (Dân tộc - Khoa học - Đại chúng).
+Động lực:
+	Con người: Động lực quan trọng và quyết định nhất (Công - Nông - Trí thức là nòng cốt).
+Truyền thống yêu nước của dân tộc, sự đoàn kết cộng đồng, sức lao động sáng 
+tạo của nhân dân – đó là sức mạnh tổng hợp tạo nên động lực quan trọng của chủ nghĩa xã hội. 
+	Kinh tế: Giải phóng năng lực sản xuất, thực hiện chế độ khoán.
+	Sự lãnh đạo của Đảng: Hạt nhân trong hệ động lực.
+	Các yếu tố kìm hãm: Chủ nghĩa cá nhân (là "bệnh mẹ"), tham ô, lãng phí, quan liêu (là "giặc nội xâm").
+	Mối quan hệ nguồn lực: Nội lực là quyết định nhất, ngoại lực là rất quan trọng.
+
+--------------------------------------------------------------------------------
+II. CON ĐƯỜNG, BIỆN PHÁP QUÁ ĐỘ LÊN CNXH Ở VIỆT NAM
+Đặc điểm và thực chất của thời kỳ quá độ (TKQD)
+	Loại hình: Quá độ gián tiếp (từ xã hội thuộc địa nửa phong kiến, nông nghiệp lạc hậu tiến lên CNXH không kinh qua giai đoạn phát triển tư bản chủ nghĩa).
+	Đặc điểm lớn nhất: Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH không kinh qua TBCN.
+	Mâu thuẫn cơ bản: Nhu cầu phát triển cao của đất nước đối lập với thực trạng kinh tế - xã hội thấp kém.
+Nhiệm vụ và Nội dung xây dựng CNXH
+	Nhiệm vụ lịch sử: Xây dựng nền tảng vật chất kỹ thuật và cải tạo xã hội cũ, xây dựng xã hội mới (trong đó xây dựng là trọng tâm, lâu dài).
+	Nội dung:
+	Chính trị: Giữ vững vai trò lãnh đạo của Đảng.
+	Kinh tế: Ưu tiên phát triển kinh tế quốc doanh; phát triển cơ cấu kinh tế nhiều thành phần (Hồ Chí Minh là người đầu tiên chủ trương điều này).
+	Nông nghiệp: Là mặt trận hàng đầu.(công nghiệp là trọng tâm)
+	Trong lĩnh vực văn hóa – xã hội: Hồ Chí Minh nhấn mạnh đến vấn đề xây dựng con người mới
+Nguyên tắc, phương châm và biện pháp
+	Nguyên tắc:
+		a. Nguyên tắc thứ nhất: Quán triệt các nguyên lý cơ bản của chủ nghĩa Mác – Lênin về xây dựng chế độ mới. Hồ Chí Minh khẳng định xây dựng chủ nghĩa xã hội là một hiện tượng phổ biến mang tính quốc tế, nên cần nắm vững lý luận khoa học của thời đại và có thể tham khảo, học tập kinh nghiệm của các nước anh em. Tuy nhiên, Người đặc biệt lưu ý không được sao chép, máy móc, giáo điều vì mỗi nước có điều kiện cụ thể khác nhau.
+		b. Nguyên tắc thứ hai: Xuất phát từ điều kiện thực tế của dân tộc. Việc xác định bước đi và biện pháp phải căn cứ vào đặc điểm dân tộc, nhu cầu và khả năng thực tế của nhân dân. Người nhắc nhở phải chống việc quá tuyệt đối hóa cái riêng mà xa rời các nguyên lý chung, nhưng cũng phải chống lại việc áp dụng lý luận mà không tính đến các điều kiện lịch sử cụ thể của đất nước.
+	Phương châm: Dần dần, thận trọng, từ thấp đến cao, không chủ quan nôn nóng ("Tiến nhanh, tiến mạnh, tiến vững chắc" không có nghĩa là làm bừa).
+	Biện pháp quan trọng nhất: "Đem của dân, tài dân, sức dân, làm lợi cho dân" dưới sự lãnh đạo của Đảng.
+	- Thực hiện cải tạo xã hội cũ, xây dựng xã hội mới, kết hợp cải tạo với xây dựng, lấy xây 
+	dựng làm chính.
+	- Kết hợp xây dựng và bảo vệ, đồng thời tiến hành hai nhiệm vụ chiến lược ở hai miền 
+	Nam Bắc khác nhau trong phạm vi một quốc gia. 
+	-  Xây dựng chủ nghĩa xã hội phải có kế hoạch, biện pháp, quyết tâm để thực hiện tháng 
+	lợi kế hoạch 
+	- Trong điều kiện nước ta, biện pháp cơ bản, quyết định, lâu dài trong xây dựng chủ nghĩa 
+	xã hội là đem của dân tài dân, sức dân, làm lợi cho dân dưới sự lãnh đạo của Đảng của Đảng 
+	Cộng sản Việt Nam
+
+
+CHƯƠNG IV 
+TƯ TƯỞNG HỒ CHÍ MINH  
+VỀ ĐẢNG CỘNG SẢN VIỆT NAM
+I. QUAN NIỆM VỀ VAI TRÒ VÀ BẢN CHẤT CỦA ĐẢNG CỘNG SẢN VIỆT NAM (ĐCSVN)
+Sự ra đời của ĐCSVN
+	Công thức hình thành (đặc thù Việt Nam): Chủ nghĩa Mác – Lênin + Phong trào công nhân + Phong trào yêu nước.
+	Những lý do kết hợp dẫn đến việc hình thành Đảng Cộng sản Việt Nam:
+	- Phong trào yêu nước có vị trí, vai trò cực kỳ to lớn trong quá trình phát triển của dân tộc Việt Nam. 
+	- Phong trào công nhân kết hợp được với phong trào yêu nước vì hai phong trào đó đều có mục tiêu chung.
+	- Phong trào nông dân kết hợp với phong traò công nhân
+	- Phong trào yêu nước của trí thức Việt Nam là nhân tố quan trọng thúc đẩy sự kết hợp 
+	các yếu tố cho sự ra đời của Đảng cộng sản Việt Nam. 
+	Điểm sáng tạo: Hồ Chí Minh đưa thêm yếu tố "Phong trào yêu nước" vào sự hình thành Đảng (khác với quan điểm của Lênin chỉ gồm 2 yếu tố đầu).
+Vai trò của ĐCSVN
+	Đảng là nhân tố hàng đầu bảo đảm mọi thắng lợi của cách mạng.
+	Hình tượng so sánh: Đảng như "người cầm lái" cho con thuyền cách mạng.
+	Đảng có vững cách mệnh mới thành công.
+Bản chất của ĐCSVN
+	Đảng mang bản chất giai cấp công nhân.
+	Điểm đặc sắc: Đảng đồng thời là Đảng của nhân dân lao động và của dân tộc Việt Nam (đại diện lợi ích của toàn dân tộc).
+	Nền tảng tư tưởng và kim chỉ nam: Chủ nghĩa Mác – Lênin.
+
+--------------------------------------------------------------------------------
+II. QUAN NIỆM VỀ ĐẢNG CẦM QUYỀN
+Khái niệm và mục đích
+	Cụm từ “Đảng cầm quyền” được Hồ Chí Minh ghi trong bản Di chúc năm 1969
+	"Đảng cầm quyền" là khi Đảng đã lãnh đạo nhân dân giành được chính quyền và trực tiếp lãnh đạo bộ máy nhà nước.
+	Mục đích tối cao: Vì lợi ích của tổ quốc, của nhân dân; phấn đấu cho độc lập dân tộc và chủ nghĩa xã hội.
+Đặc điểm của Đảng cầm quyền
+	Đảng vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân.(Quan điểm này của Hồ Chí Minh về Đảng cầm quyền là sự vận dụng, phát triển hết sức sáng tạo lý luận Mac – Lênin về Đảng vô sản kiểu mới.)
+	"Lãnh đạo" để xác định quyền duy nhất của Đảng; "Đầy tớ" là để tận tâm phục vụ nhân dân, không phải là "đè đầu cưỡi cổ dân".
+	Đảng cầm quyền, dân là chủ (quyền lực thuộc về nhân dân).
+
+--------------------------------------------------------------------------------
+III. XÂY DỰNG ĐẢNG TRONG SẠCH, VỮNG MẠNH
+Tính tất yếu của việc xây dựng Đảng
+	Là quy luật tồn tại và phát triển của bản thân Đảng. Đảng thật sự là “một cơ thể sống” luôn tự hoàn thiện và vượt lên. 
+	Là nhiệm vụ thường xuyên, vừa cấp bách vừa lâu dài.
+Nội dung xây dựng Đảng
+	Về tư tưởng, lý luận: Lấy chủ nghĩa Mác – Lênin làm "cốt". Học tập phải tránh giáo điều. HCM lưu ý 4 điểm
+	Về chính trị: Xây dựng đường lối chính trị đúng đắn (vấn đề cốt tử).
+	Về tổ chức, bộ máy và cán bộ: (Hồ Chí Minh khẳng định sức mạnh của Đảng bắt nguồn 
+	từ tổ chức, một tổ chức tiên phong chiến đấu của giai cấp công nhân. )
+		Chi bộ là tổ chức hạt nhân, quyết định chất lượng lãnh đạo của Đảng.
+		Cán bộ là "cái gốc của mọi công việc".
+	Về đạo đức: Đảng phải "là đạo đức, là văn minh". Đảng viên phải thấm nhuần cần, kiệm, liêm, chính, chí công vô tư.
+Các nguyên tắc sinh hoạt Đảng (Trọng tâm thi trắc nghiệm)
+	Tập trung dân chủ: Nguyên tắc cơ bản nhất.
+	Tập thể lãnh đạo, cá nhân phụ trách: Để giải quyết vấn đề chu đáo và tránh độc đoán.
+	Tự phê bình và phê bình: Là "thang thuốc" tốt nhất để chỉnh đốn Đảng; phải tiến hành thường xuyên như "rửa mặt hàng ngày".
+	Kỷ luật nghiêm minh, tự giác: Sức mạnh của Đảng bắt nguồn từ kỷ luật.
+	Đoàn kết, thống nhất trong Đảng: Là cơ sở để thống nhất ý chí và hành động.
+Cán bộ, công tác cán bộ của Đảng 
+	Cán bộ là cái dây chuyền của bộ máy, là mắt khâu trung gian nối liền giữa Đảng, Nhà nước với nhân dân
+	Hồ Chí Minh cho rằng, công tác cán bộ là công tác gốc của Đảng
+
+IV. TƯ TƯỞNG HỒ CHÍ MINH VỀ DÂN CHỦ VÀ NHÀ NƯỚC CỦA DÂN, DO DÂN, VÌ NHÂN DÂN
+2. Nhà nước dân chủ
+2.1. Nhà nước mang bản chất giai cấp công nhân, thống nhất với tính dân tộc và tính nhân dân
+Bản chất giai cấp công nhân	
+	- Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền
+	- Tính định hướng xã hội chủ nghĩa trong sự phát triển đất nước
+	- Nguyên tắc tổ chức và hoạt động của Nhà nước là tập trung dân chủ
+Thống nhất với tính nhân dân, tính dân tộc
+	- Nhà nước ra đời là kết quả cuộc đấu tranh lâu dài và gian khổ của nhiều thế hệ người Việt Nam, của toàn thể dân tộc.
+	- Nhà nước hoạt động vì quyền lợi của nhân dân, lấy quyền lợi dân tộc làm nền tảng.
+	- Nhà nước đảm đương nhiệm vụ bảo vệ nền độc lập, tự do của Tổ quốc, xây dựng một nước Việt Nam thống nhất, độc lập, dân chủ, giàu mạnh.
+2.2. Nhà nước của nhân dân, do nhân dân và vì nhân dân
+3. Nhà nước pháp quyền
+3.1. Nhà nước hợp hiến, hợp pháp
+3.2.  Nhà nước thượng tôn pháp luật
+3.3. Pháp quyền nhân nghĩa
+
+
+CHƯƠNG V: TƯ TƯỞNG HỒ CHÍ MINH  
+VỀ ĐẠI ĐOÀN KẾT DÂN TỘC VÀ ĐOÀN KẾT QUỐC TẾ 
+I. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẠI ĐOÀN KẾT DÂN TỘC
+Vai trò của đại đoàn kết dân tộc
+	Là vấn đề có ý nghĩa chiến lược, cơ bản, nhất quán và lâu dài. (Lưu ý: Không phải là sách lược nhất thời).
+	đại đoàn kết dân tộc phải luôn luôn được nhận thức là vấn đề sống còn, quyết định thành bại của cách mạng.
+	Là mục tiêu, nhiệm vụ hàng đầu của Đảng và của cả dân tộc.
+	- Đoàn kết trong mặt trận Việt Minh, nhân dân ta đã làm Cách Mạng Tháng Tám thành công, làm nên nước Việt Nam Dân chủ Cộng hòa. 
+	- Đoàn kết trong mặt trận Liên Việt, nhân dân ta đã kháng chiến thắng lợi, lập lại 
+	hòa bình ở Đông Dương, hoàn toàn giải phóng Miền Bắc. 
+	- Đoàn kết trong mặt trận Tổ quốc Việt Nam nhân dân ta đã giành được thắng lợi trong 
+	công cuộc khôi phục kinh tế, cải tạo xã hội chủ nghĩa và trong sự nghiệp xây dựng chủ nghĩa xã hội ở Miền Bắc”. 
+	Câu nói kinh điển: “Đoàn kết, đoàn kết, đại đoàn kết, Thành công, thành công, đại thành công”.
+	Quan điểm về sức mạnh: “Đoàn kết là điểm mẹ, điểm này thực hiện tốt thì đẻ ra con cháu đều tốt”.
+	Lời kết thúc buổi ra mắt của Đảng Lao động Việt Nam này 
+	3 - 3 - 1951, Hồ Chí Minh đã thay mặt Đảng tuyên bố trước toàn thể dân tộc: “Mục đích của 
+	Đảng Lao động Việt Nam có thể gôm trong 8 chữ là: Đoàn kết toàn dân, phụng sự tổ quốc”
+	Chân lý về dân: “Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong”.
+Lực lượng đại đoàn kết dân tộc
+	Đối tượng: Là toàn dân, không phân biệt dân tộc, tín ngưỡng, già trẻ, gái trai.
+	Chủ thể: Là mọi con dân nước Việt, “con Rồng cháu Tiên”.
+	Nền tảng (Gốc): Là khối liên minh công - nông - trí thức. 
+Điều kiện thực hiện: Cần có lòng khoan dung, độ lượng; tin vào dân và kế thừa truyền thống yêu nước.
+	Để thực hành đoàn kết rộng rãi cần có niềm tin vào nhân dân. Với Hồ Chí Minh, yêu 
+	dân, tin dân, dựa vào dân, sống, đấu tranh vì hạnh phúc của nhân dân là NGUYÊN TẮC TỐI CAO. 
+Hình thức tổ chức: Mặt trận dân tộc thống nhất
+	Là nơi quy tụ mọi tổ chức và cá nhân yêu nước.
+Các nguyên tắc hoạt động (Rất quan trọng): (4 NGTAC)
+	Xây dựng trên nền tảng liên minh công - nông - trí thức.(NGUYÊN TẮC CỐT LÕI)
+	Đặt dưới sự lãnh đạo của Đảng.(mang tính NGUYÊN TẮC, TẤT YẾU) (Lãnh đạo bằng chính sách đúng đắn và sự gương mẫu, không phải tự phong).
+	Hoạt động trên cơ sở lợi ích tối cao của dân tộc.
+	Nguyên tắc làm việc: Hiệp thương dân chủ.
+	Phương châm: “Cầu đồng tồn dị” (lấy cái chung để hạn chế cái riêng).
+	Đoàn kết gắn liền với đấu tranh, phê bình trên lập trường thân ái.
+
+--------------------------------------------------------------------------------
+II. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐOÀN KẾT QUỐC TẾ
+Vai trò của đoàn kết quốc tế
+	Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại tạo sức mạnh tổng hợp.
+	Góp phần cùng nhân dân thế giới thực hiện thắng lợi các mục tiêu cách mạng của thời đại (Hòa bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội).
+Lực lượng đoàn kết và hình thức tổ chức
+Các lực lượng: Phong trào cộng sản và công nhân quốc tế; phong trào giải phóng dân tộc; các lực lượng tiến bộ yêu chuộng hòa bình.
+	NGƯỜI đã kiến nghị Ban Phương Đông quốc tế Cộng sản về những biện pháp 
+	nhằm “làm cho các dân tộc thuộc địa, từ trước tới nay vẫn cách biệt nhau, hiểu biết nhau hơn và 
+	đoàn kết lại để đặt cơ sở cho một Liên minh Phương Đông tương lai, khối liên minh này sẽ là 
+	một trong những cái cánh của cách mạng vô sản”. Thêm vào đó, để tăng cường đoàn kết giữa 
+	cách mạng thuộc địa và cách mạng vô sản chính quốc như hai cái cánh của cách mạng thời đại
+
+Bốn tầng mặt trận (Trọng tâm thi):
+Năm 1941, để khơi dậy sức mạnh và quyền tự quyết 
+của mỗi dân tộc, Người quyết định thành lập riêng biệt Mặt trận độc lập đồng minh cho từng 
+nước, tiến tới thành lập Đông Dương độc lập đồng minh
+Từ những năm 20 của thế kỷ XX, cùng với việc 
+sáng lập Hội liên hiệp thuộc địa tại Pháp, Hồ Chí Minh đã tham gia sáng lập Hội liên hiệp các 
+dân tộc bị áp bức tại Trung Quốc. Đây là hình thức sơ khai của mặt trận thống nhất các dân tộc 
+bị áp bức theo xu hướng vô sản, lần đầu tiên xuất hiện trong lịch sử phong trào đấu tranh giải 
+phóng dân tộc. Với việc tham gia sáng lập các tổ chức này, Hồ Chí Minh đã góp phần dặt cơ sở 
+cho sự ra đời của Mặt trận nhân dân Á – Phi đoàn kết với Việt Nam
+	Mặt trận đại đoàn kết dân tộc.
+	Mặt trận đoàn kết Việt - Miên - Lào.
+	Mặt trận nhân dân Á - Phi đoàn kết với Việt Nam.
+	Mặt trận nhân dân thế giới đoàn kết với Việt Nam chống đế quốc xâm lược.
+Nguyên tắc đoàn kết quốc tế(2 ngtac)
+	Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.(vđ cốt tử)
+	- Để đoàn kết với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh giương cao 
+	ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thực hiện đoàn kết thống nhất trên nền 
+	tảng của chủ nghĩa Mac – Lênin và chủ nghĩa quốc tế vô sản, có lý, có tình.
+	- Để đoàn kết với các dân tộc trên thế giới, Hồ Chí Minh giương cao ngọn cờ độc lập, tự 
+	do và quyền bình đẳng giữa các dân tộc. 
+	Độc lập, tự do cho mỗi dân tộc là tư tưởng nhất quán, được Hồ Chí Minh coi là chân lý, 
+	là “lẽ phải không ai chối cãi được”. 
+	- Để đoàn kết với các lực lượng tiến bộ trên thế giới, Hồ Chí Minh giương cao ngọn cờ 
+	hoà bình trong công lý.
+		“Có lý”: Tuân thủ các nguyên tắc của chủ nghĩa Mác – Lênin, vận dụng sáng tạo.
+		“Có tình”: Thông cảm, tôn trọng lẫn nhau, không áp đặt.
+	
+	Nguyên tắc chủ đạo: Độc lập, tự chủ, tự lực tự cường. (Thực lực là cái chiêng, ngoại giao là cái tiếng).
+
+
+CHƯƠNG VI: TƯ TƯỞNG HỒ CHÍ MINH VỀ XÂY DỰNG NHÀ NƯỚC CỦA DÂN, DO DÂN, VÌ DÂN
+I. NHÀ NƯỚC THỂ HIỆN QUYỀN LÀ CHỦ VÀ LÀM CHỦ CỦA NHÂN DÂN
+Quan điểm nhất quán
+	Xây dựng nhà nước mới ở Việt Nam là nhà nước do NHÂN DÂN LAO ĐỘNG LÀM CHỦ.
+	Quyền lực của nhân dân là QUYỀN LỰC TỐI CAO.
+	Dân chủ trong chính trị là quan trọng nhất, biểu hiện tập trung ở hoạt động của nhà nước.
+Phân biệt các khái niệm "Của dân - Do dân - Vì dân" (Trọng tâm thi)
+	Nhà nước CỦA DÂN:
+	Tất cả mọi quyền lực trong nhà nước và xã hội đều THUỘC VỀ NHÂN DÂN.
+	Nhân dân có quyền KIỂM SOÁT nhà nước, có quyền BÃI MIỄN đại biểu nếu không xứng đáng.
+	Vị thế: "DÂN LÀ CHỦ" (đối lập với "quan chủ").
+	Nhà nước DO DÂN:
+	Nhà nước do dân lập nên, dân ủng hộ, dân tham gia quản lý.
+	Nhân dân thực hiện quyền thông qua TỔNG TUYỂN CỬ, bầu ra Quốc hội.
+	Nhà nước VÌ DÂN:
+	Lấy lợi ích chính đáng của nhân dân làm MỤC TIÊU, không có đặc quyền đặc lợi.
+	Cán bộ từ Chủ tịch nước đến công chức đều là CÔNG BỘC, ĐẦY TỚ của dân.
+
+--------------------------------------------------------------------------------
+II. BẢN CHẤT CỦA NHÀ NƯỚC VIỆT NAM MỚI
+Bản chất giai cấp công nhân
+	Không phải là "nhà nước toàn dân" phi giai cấp; nhà nước bao giờ cũng mang BẢN CHẤT GIAI CẤP.
+Biểu hiện:
+	Do ĐẢNG CỘNG SẢN LÃNH ĐẠO (thông qua đường lối, qua đảng viên trong bộ máy và công tác kiểm tra).
+	Tính ĐỊNH HƯỚNG XÃ HỘI CHỦ NGHĨA của sự phát triển đất nước.
+	Nguyên tắc tổ chức cơ bản: TẬP TRUNG DÂN CHỦ.
+Sự thống nhất giữa bản chất giai cấp với tính nhân dân, tính dân tộc
+	Nhà nước ra đời là kết quả đấu tranh của NHIỀU THẾ HỆ người Việt Nam.
+	Nhà nước bảo vệ lợi ích của nhân dân, lấy LỢI ÍCH DÂN TỘC làm cơ bản.
+	Đứng ra làm nhiệm vụ dân tộc giao phó, lãnh đạo kháng chiến và xây dựng đất nước.
+
+--------------------------------------------------------------------------------
+III. XÂY DỰNG NHÀ NƯỚC CÓ HIỆU LỰC PHÁP LÝ MẠNH MẼ
+Nhà nước hợp pháp, hợp hiến
+	Sau Tuyên ngôn độc lập, Hồ Chí Minh đề nghị tổ chức TỔNG TUYỂN CỬ càng sớm càng tốt (thực hiện ngày 06-01-1946).
+	Xây dựng hiến pháp (1946 và 1959) làm cơ sở pháp lý chính thống.
+Quản lý bằng Hiến pháp và Pháp luật
+	Chú trọng đưa pháp luật vào cuộc sống; dân chủ phải đi đôi với KỶ CƯƠNG, PHÉP NƯỚC.
+	Tư tưởng: "THẦN LINH PHÁP QUYỀN" (Quản lý xã hội bằng pháp luật thay vì các sắc lệnh tùy tiện).
+	Mọi người dân đều BÌNH ĐẲNG TRƯỚC PHÁP LUẬT, vi phạm phải bị trừng trị nghiêm khắc.
+
+--------------------------------------------------------------------------------
+IV. XÂY DỰNG NHÀ NƯỚC TRONG SẠCH, VỮNG MẠNH
+Đội ngũ cán bộ, công chức
+	Quan điểm: Cán bộ là "CÁI GỐC CỦA MỌI CÔNG VIỆC".
+	Yêu cầu: Vừa có ĐỨC vừa có TÀI, trong đó ĐỨC LÀ GỐC.
+	Phải tuyệt đối trung thành, thành thạo công việc, liên hệ mật thiết với dân, dám chịu 
+	trách nhiệm, tự phê bình ý thức vì sự lớn mạnh
+Chống các tiêu cực ("Giặc nội xâm")
+	Hồ Chí Minh chỉ ra 6 căn bệnh: TRÁI PHÉP, CẬY THẾ, HỦ HÓA, TƯ TÚNG, CHIA RẼ, KIÊU NGẠO.
+	THAM Ô, LÃNG PHÍ, QUAN LIÊU được gọi là "GIẶC NỘI XÂM".
+	Bệnh QUAN LIÊU là "bệnh gốc", dung túng cho tham ô và lãng phí.
+Tăng cường tính nghiêm minh của pháp luật đi đôi với đẩy mạnh giáo dục đạo đức cách mạng 
+
+
+CHƯƠNG VII 
+TƯ TƯỞNG HỒ CHÍ MINH VỀ VĂN HOÁ, 
+ĐẠO ĐỨC VÀ XÂY DỰNG CON NGƯỜI MỚI
+I. TƯ TƯỞNG HỒ CHÍ MINH VỀ VĂN HÓA
+Định nghĩa và định hướng xây dựng
+	Định nghĩa (8/1943 khi còn trong nhà tù của Tưởng Giới Thạch, lần đầu tiên Hồ Chí Minh đưa ra một định nghĩa của mình về văn hoá): Văn hóa là sự TỔNG HỢP CÁC PHƯƠNG THỨC SINH HOẠT nhằm thích ứng nhu cầu ĐỜI SỐNG và ĐÒI HỎI SINH TỒN.
+	Trên thực tế, văn hoá bao gồm toàn bộ những giá trị vật chất và những giá trị tinh thần 
+	mà loài người đã sáng tạo ra, nhằm đáp ứng sự sinh tồn và cũng là mục đích cuộc sống của loài người
+	Hội nghị lần thứ 5 Ban chấp hành Trung ương Khóa VIII chủ trương xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản dân tộc
+	5 điểm lớn xây dựng nền văn hóa dân tộc: 
+		“1. Xây dựng tâm lý: tinh thần độc lập, tự cường. 
+		2. Xây dựng luân lý: biết hy sinh mình, làm lợi cho quần chúng. 
+		3. Xây dựng xã hội: mọi sự nghiệp có liên quan đến phúc lợi của nhân dân trong xã hội. 
+		4. Xây dựng chính TRỊ: dân quyền.
+		5. Kinh tế."
+Vị trí và Vai trò của văn hóa
+	Là ĐỜI SỐNG TINH THẦN của xã hội, thuộc KIẾN TRÚC THƯỢNG TẦNG.
+	Ngang hàng với chính trị, kinh tế, xã hội.
+		Mối quan hệ:
+		Chính trị, xã hội giải phóng thì văn hóa mới được GIẢI PHÓNG.(văn hóa tự do thì phải CM ctri trước)
+		Kinh tế là cơ sở hạ tầng, NỀN TẢNG để xây dựng văn hóa.
+		Văn hóa không đứng ngoài mà ở TRONG kinh tế và chính trị.
+vAI TRÒ văn hóa
+	a. Văn hóa là mục tiêu, là động lực của sự nghiệp cách mạng
+	b. Văn hóa là một mặt trận
+	c. Văn hóa phục vụ quần chúng nhân dân
+
+Tính chất và Chức năng của nền văn hóa mới
+	3 tính chất: DÂN TỘC – KHOA HỌC – ĐẠI CHÚNG.
+	3 chức năng:
+		Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp. Lý tưởng là điểm hội tụ của những tư tưởng lớn của một Đảng, một dân tộc. Đối với dân tộc Việt Nam, đó là lý tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội. Một khi lý tưởng này 
+phai nhạt thì không thể nói đến thắng lợi của sự nghiệp cách mạng. Tình cảm lớn, theo Hồ Chí Minh là lòng yêu nước, thương dân, thương yêu con người; yêu tính trung thực, chân thành, thuỷ chung, ghét những thói hư, tật xấu, sự sa đoạ… 
+		Mở rộng hiểu biết, NÂNG CAO DÂN TRÍ.
+		Bồi dưỡng phẩm chất, lối sống, hướng con người đến CHÂN – THIỆN – MỸ.
+Một số lĩnh vực chính
+	Văn hóa giáo dục: Là mặt trận quan trọng, nhiệm vụ CẤP BÁCH, ý nghĩa CHIẾN LƯỢC, CƠ BẢN, LÂU DÀI. Mục tiêu là "Học để làm người, làm việc, làm cán bộ".
+	Văn hóa văn nghệ: Văn nghệ là biểu hiện tập trung nhất của nền văn hoá, là đỉnh cao của đời sống tinh thần, 
+là hình ảnh của tâm hồn dân tộc. 3 quan điểm chủ yếu: "Văn hóa văn nghệ là một MẶT TRẬN, nghệ sĩ là CHIẾN SĨ, tác phẩm văn nghệ là VŨ KHÍ". Văn nghệ phải gắn với thực tiễn đời sống nhân dân. Phải có những tác phẩm xứng đáng với thời đại mới của đất nước và dân tộc
+	Văn hóa đời sống:(Gắn việc xây dựng nền văn hoá mới với xây dựng đời sống mới thực sự là một cách nhìn, một giải pháp rất độc đáo của Hồ Chí Minh.) Bao gồm ĐẠO ĐỨC MỚI, LỐI SỐNG MỚI, NẾP SỐNG MỚI.(đạo đức là chủ yếu)
+
+Trước cách mạng Tháng Tám 1945: Xây dựng nền văn hóa dân tộc với 5 nội dung: Xây dựng tâm lýXây dựng luân lýXây dựng xã hộiXây dựng chính trịXây dựng kinh tế
+Trong kháng chiến chống thực dân pháp: Xây dựng nền văn hóa với 3 tính chất:Dân tộc Khoa họcĐại chúng
+Trong thời kỳ xây dựng chủ nghĩa xã hội: xây dựng nền văn hóa có nội dung xã hội chủ nghĩa và tính dân tộc
+
+--------------------------------------------------------------------------------
+II. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẠO ĐỨC
+Vai trò và sức mạnh của đạo đức
+	Đạo đức là GỐC, là NỀN TẢNG của người cách mạng.
+	đạo đức là nguồn nuôi dưỡng và phát triển con người, như gốc của cây, ngọn nguốn của sông suối 
+	"Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân".
+	Đạo đức là nhân tố tạo nên SỨC HẤP DẪN của chủ nghĩa xã hội.
+Những chuẩn mực đạo đức cách mạng (Trọng tâm thi)
+	TRUNG VỚI NƯỚC, HIẾU VỚI DÂN: Chuẩn mực bao trùm nhất.
+	CẦN, KIỆM, LIÊM, CHÍNH, CHÍ CÔNG VÔ TƯ: "Đại cương đạo đức Hồ Chí Minh", là nền tảng của ĐỜI SỐNG MỚI.
+	Thương yêu con người, sống có nghĩa có tình.
+	Có tinh thần quốc tế trong sáng.(quan trọng nhất)
+	CHỦ NGHĨA CÁ NHÂN: Là "giặc nội xâm", "vi trùng rất độc", kẻ thù của chủ nghĩa xã hội.
+Nguyên tắc xây dựng đạo đức mới
+	NÓI ĐI ĐÔI VỚI LÀM, phải NÊU GƯƠNG đạo đức (Nguyên tắc quan trọng bậc nhất).
+	XÂY ĐI ĐÔI VỚI CHỐNG.
+	Phải TU DƯỠNG ĐẠO ĐỨC SUỐT ĐỜI.
+
+--------------------------------------------------------------------------------
+III. TƯ TƯỞNG HỒ CHÍ MINH VỀ XÂY DỰNG CON NGƯỜI MỚI
+Quan niệm về con người
+	Con người là một CHỈNH THỂ thống nhất (tâm lực, thể lực).
+	Con người CỤ THỂ, lịch sử.
+	Bản chất con người mang TÍNH XÃ HỘI.
+Vai trò của con người và chiến lược "Trồng người"
+	Con người là VỐN QUÝ NHẤT, nhân tố QUYẾT ĐỊNH thành công của cách mạng.
+	Con người vừa là MỤC TIÊU, vừa là ĐỘNG LỰC của cách mạng.
+	Chiến lược "Trồng người":
+	- “Trồng người” là yêu cầu khách quan, vừa cấp bách, vừa lâu dài của cách mạng 
+	- Quan điểm: "Muốn xây dựng chủ nghĩa xã hội, TRƯỚC HẾT cần có những CON NGƯỜI xã hội chủ nghĩa".
+	- Chiến lược “trồng người” là một trọng tâm, một bộ phận hợp thành của chiến lược phát triển kinh tế - xã hội
+
+
+1848: Tuyên ngôn ĐCS (Mác+Angghen): 1923 Phan Văn Trường công bố
+1/9/1858: Pháp tấn công Đà Nẵng 
+1862: Nhà tù Côn Đảo
+6/6/1884: Hiệp ước Patonot (đầu hàng hoàn toàn Pháp), Pháp xd // chính quyền thuộc địa + chính quyền phong kiến bản xứ làm tay sai.
+          Gcap địa chủ phân hóa: cấu kết + nêu cao tinh thần như Phong trào Cần Vương+lãnh đạo nông dân + kinh doanh tư bản (ra đời muộn hơn)
+1885-1896: PT Cần Vương (Vua Hàm Nghi+Tôn Thất Thuyết) -> Khởi nghĩa Ba Đình(Thanh Hóa), Bãi Sậy(Hưng Yên), Hương Khê(Hà Tĩnh)
+            Cuối XIX, đầu XX là vùng núi trung du phía Bắc là phong trào nông dân Yên Thế(Băc Giang): Hoàng Hoa Thám chống Pháp gần 30 năm
+            Đầu XX: xu hướng cải cách của Phan Châu Trinh
+            Xu hướng bạo động do Phan Bội Châu tổ chức, lãnh đạo: xây dựng thể chế như ở Nhật -> đưa thanh niên yêu nước sang Nhật(1908 Nhật câu kết Pháp, trục xuất)
+1896: Khơi Nghĩa Phan Đình Phùng thất bại -> chấm dứt vai trò lãnh đạo của giai cấp phong kiến đối với phong trào yêu nước chống thực dân Pháp
+17/10/1887: Liên bang Đông dương thuộc Pháp
+12/1907: pháp đóng cửa Trường Đông kinh NT
+1897-1914: Cuộc khai thác thuộc địa lần thứ nhất
+5/6/1911: Bác Hồ ra đi tìm đường cứu nước
+1912: Phan Bội Châu lập tổ chức VN Quang phục Hội(dùng vũ trang đánh Pháp)
+1913: PBC bị Pháp bắt tại TQ -1940 ông mất
+1919: Bác Hồ thma gia Đảng XH Pháp
+2-3-1919, tổ chức Quốc tế Cộng sản ra đời ở Matxcova trở thành Bộ tham mưu, lãnh đạo phong trào cách mạng thế giới
+18/6/1919: Hội nghị Vexcsxay: Bác Hồ thay mặt hội An Nam yêu nước gửi tới Hội nghị bản 'yêu sách của Nhân dân An Nam'(Gồm 8 quyền tự do)
+1919-1929: Cuộc khai thác thuộc địa lần thứ hai (Nhằm biến VN thành thị trường tiêu thụ hàng hóa của Pháp+vơ vét tài nguyên, thuế má)
+1917: CMT10 Nga thắng lợi (Anh hưởng mạnh mẽ, thức tỉnh phpn trào GPDT trong đó có VN)
+T3/1919: Quốc tế Cộng Sản (Lenin đứng đầu) trở thành bộ tham mưu chiến đầu, tổ chức lãnh đạo phong trào CMVS TG
+1920: Đại hội II của Quốc tế Cộng sản thông qua Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc do Lenin khởi xướng
+7/1920: Bác đọc sơ thảo-> cơ sở để Bác ủng hộ gia nhập Quốc tế CS tại Đại hội XVIII của Đảng XH Pháp (12/1920) tại Tua. Tại đây Bác bỏ phiếu tán thành Quốc tế III
+        thành lập Phân bộ Pháp của Quốc tế CS ->Bác trở thành người CS đầu tiên của VN
+1921: tại Pháp, Bác tgia thành lập Hội Liên Hiệp thuộc địa, sau đó sáng lập tờ báo Người cùng khổ
+1922: Ban Nghiên cứu thuộc địa của ĐCS Pháp thành lập, Bác làm trưởng tiểu ban ngcuu về Đông Dương
+11/1924: Bác đến Quảng Châu xúc tiến công việc thành lập ĐCS
+2/1925: Bác lập nhóm CS đoàn
+6/1925: Bác lập Hội VNCM Thanh niên tại Quảng Châu (nòng cốt là CS đoàn): xuất bản Báo Thanh niên tuyên truyền Mác (Đánh dấu sự ra đời của báo chí CMVN)
+21/6/1925: ra số đầu tiên
+1926: Hội bắt đầu phát triển cơ sở - 1927 các kỳ bộ được thành lập (tuy chưa phải chính ĐCS nhưng HỘI CHÍNH LÀ TIỀN THÂN CỦA ĐCSVN)
+1925-4/1927: Hội đã tổ chức trên 10 lớp huấn luyện tại nhà 13A, 13B đường Văn Minh ,Quảng Châu
+4/1927: 88 số -> 2/1930: 202 số
+1927: Đường Cách Mệnh: Bác khẳng định "Đảng muốn vững thì phải có chủ nghĩa làm cốt , trong đảng ai cũng phải hiểu.."
+      Cuốn sách ctri ĐẦU TIÊN của VN
+12/1927: VN Quốc dân Đảng (Nguyễn Thái Học)
+12/1927 - 1930: phong trào tiểu tư sản trí thức của tổ chức VN Quốc dân Đảng: mạnh nhất ở Yên Bái(2/1930)
+                -> tiểu tư sản hấp tấp, hăng hái nhất thời, không vững chắc, non yếu.
+29/9/1928: PT 'vô sản hóa' do Kỳ bộ Bắc kỳ Hội VNCM thanh niên phát động, truyền bá tư tưởng, rèn luyện cán bộ
+3/1929: trước ptr mạnh mẽ của PT CMVN, Hội VNCMTN không còn đủ sức, những người lãnh đạo Kỳ bộ Bắc kỳ họp tại 5D, Hàm Long, HN thành lập chi bộ CS ĐẦU TIÊN
+17/6/1929: Lập ĐÔNG DƯƠNG CS ĐẢNG (Khâm thiên, HN): Lấy cờ đỏ búa liềm làm Đảng kỳ, xuát bản báo Búa liềm làm cơ quan ngôn luận
+9/1929: Trung Kỳ, Tân Việt CM ĐẢNG chịu tác động mạnh mẽ của Hội VNCMTN -> lập ĐÔNG DƯƠNG CSLĐ
+11/1929: Nam Kỳ thành lập AN NAM CS ĐẢNG (Khánh Hội, SG) xuất bản tạp chí BônsơVích
+23/12/1929: Bác đến Cửu Long(HongKong, TQ) triệu tập 3 đảng hội nghị (6/1 - 7/2), các đại biểu trở về VN ngày 8/2
+            Hội nghị gồm :DDCSD(Trịnh Đình Cửu, Nguyễn Đức Cảnh), ANCSD(Châu Văn Liêm, Nguyễn Thiệu)
+            Bác nêu ra 5 điểm cần thảo luận-> Chánh cương vắn tắt của Đảng + Sách lược văn tắt của Đảng đã phản ảnh đường hướng phát triển và những vấn đề cơ bản
+            về chiến lược và sách lược của CMVN. 2 văn kiện trên là Cương lĩnh CT ĐẦU TIÊN
+24/2/1930: Hoàn thành thống nhất 1 chính đảng, Bác viết Lời kêu gọi :'Nhận chỉ thị của QT CS giải quyết vđ CM nước ta..'
+2/1930: Cương lĩnh chính trị đầu tiên -> Đảng đề ra ĐƯỜNG LỐI để cụ thể hóa cương lĩnh.
+2/1930: Pháp tăng cường bóc lột +khủng bố trắng đàn áp khởi nghĩa Yên Bái(Nguyễn Thái Học)
+1-4/1930: bãi công công nhân tại nhà máy ximang Hải Phòng, dầu Nhà Bè,nhà máy dệt Nam Định, ...PT đấu tranh công nhân Hà Nam, TB, NA,HT.
+1/5/1930: PT ptr cao trào, 16 bãi công công nhân, 34 biểu tình nông dân, 4 đấu tranh nhân dân thành thị
+6-8/1930: 121 đấu tranh nổi bật là bãi công công nhân Bến Thủy -Vinh(8/1930) đánh dấu "THỜI KỲ MỚI, THỜI KỲ ĐẤU TRANH KỊCH LIỆT ĐÃ ĐẾN"
+9/1930: PT CM ptr đỉnh cao, cuộc biểu tình nông dân Hưng Nguyên(12/9/1930) bị đàn áp, máy bay pháp giết 171 người
+          Ban thường vụ trung ương Đảng gửi thông tri cho Xứ ủy Trung kỳ là bạo động quá sớm "DUY TRÌ KIÊN CỐ ẢNH HƯỞNG CỦA ĐẢNG, CỦA XOOVIET TRONG QUẦN CHÚNG ..."
+14-30/10/1930: Hội nghĩ BCHTW Đảng tại Hương Cảng(TQ): Trần Phú "Hãy giữ vững ý chí chiến đấu"
+          Đổi tên ĐCSVN -> ĐCS Đông Dương
+10/1930: Luận cương chính trị (Chưa coi trọng vấn đề dân tộc, chưa đoàn kết rộng rãi)
+4/1931: toàn bộ BCH TW Đảng bị bắt, KHÔNG CÒN LẠI 1 ỦY VIÊN NÀO, CÁC TỔ CHỨC TAN RÃ HẦU HẾT.
+11/4/1931: QT CS ra nghị quyết công nhận ĐCS Đông Dương là chi bộ độc lập
+15/6/1932: Chương trình hành động của ĐCSDD (NV đấu tranh trước mắt cần gây dựng một đoàn thể bí mật,cứng như sắt,..tức ĐCS để hướng đạo quần chúng"
+3/1933: Sơ thảo lịch sử PT CSDD (Hà Huy Tập) bước đầu tổng kết kinh nghiệm lãnh đạo của Đảng, khẳng định công lao Bác
+3/1935: ĐẠI HỘI ĐẠI BIỂU LẦN I CỦA ĐẢNG (MA CAO,TQ):Lê Hồng Phong làm TBT 3 Nvu trước mắt: 1,Củng cố và ptr Đảng 2,Đẩy mạnh cuộc vận động tập hợp quần chứng
+          3, mở rộng tuyên truyền chống dế quốc,..
+7/1935: Đại hội VII QTCSC tại Matcova XÁC ĐỊNH KẺ THÙ NGUY HIỂM TRƯỚC MẮT LÀ CN PHÁT XÍT. Nvu của công nhân, nhân dân lđ là chống CN PX, chống ctranh, bảo vệ hb
+          Lê HP được bầu làm Uỷ viên BCH QTCS
+1936: Mặt trận ndan Pháp(5/1935) thắng lợi ra đời CPhu Mặt trận ndan Pháp-> ĐCS Đông Dương bđ phục hồi hệ thống tổ chức sau 1 tgian đấu tranh gian khổ
+26/7/1936: BCH TW Đảng họp Hội nghị tại Thượng Hải(TQ)(Hà Huy Tập làm TBT 8/1936 -3/1938). Dựa theo QTCS, xđ nvu trước mắt là chống px, ctranh, chống phản động và tay sai, đòi tự do, dchu,hb
+          Lập mặt trận nhân dân phản đế rộng rãi để cùng nhau đòi nhưng điều dân chủ đơn sơ
+10/1936: văn kiện Chung quanh vấn đề chiến sách mới: Cuộc dtoc giải phóng không nhất định phải kết chặt với cuộc CM điền địa.
+          TW Đảng bước dầu phê phán quan điểm chưa đúng, khắc phục hạn chế trong Luận Cương CT 10/1930
+          Bắt đầu tổ chức đấu tranh công khai, mở ra các Uỷ ban hành động như Uỷ ban trù bị Đông Dươgnđại hội
+12/11/1936: cuộc bãi công của CÔNG NHÂN VÙNG MỎ
+5/5/1937: Cuốn Trotxky và phản CM(Hà Huy Tập): phê phán các luận điệu tả khuynh của các phần từ troxky
+1938: Cuấn Vđ dân cày (Trường Chinh+Võ Nguyên Gíap):tố cáo tội ác của đế quốc và pkien, làm rõ vai trò Cm của nông dân
+          Cuốn CM macsxit (Hải Triều)
+          Hội truyền bá quốc ngữ ra đời
+29-30/3/1938: Lập MẶT TRẬN DÂN CHỦ ĐÔNG DƯƠNG (Nguyễn Văn Cừ làm TBT)
+4/1938: 1597  đảng viên hđ bí mật, 200 hđ công khai, hội viên trong quần chúng 35009
+1939: Cuốn TỰ CHỈ TRÍCH (NVC): nêu rõ sai lầm, khuyết điểm, bài học
+9/1939: WW2, Pháp đàn áp CM->Đảng hđ BÍ MẬT
+29/9/1939: TW Đảng gửi "HOÀN CẢNH DD SẼ TIẾN BƯỚC ĐẾN VẤN ĐỀ DÂN TỘC GIẢI PHÓNG"
+11/1939: Hội nghị BCHTW (Bà Điểm, Gia Định): Bước sinh tồn của dân tộc DD là đánh đổ đế quốc Pháp, các ách ngoại xâm. chiến lược CM cx phải thay đổi nhiều,
+          TẠM GÁC KHẨU HIỆU "CM RUỘNG ĐẤT" ="CHỐNG ĐỊA TÔ CAO, VAY NẶNG LÃI, TỊCH THU RUỘNG ĐẤT CỦA ĐẾ QUỐC"
+          THÀNH LẬP MẶT TRẬN DÂN TỘC THỐNG NHẤT PHẢN ĐẾ DD
+          Khắc phục hạn chế của Luận cương T10, kđ lại đường lối như Cương lĩnh đầu tiên
+27/9/1940: Pháp bị Nhật đánh->Khởi nghĩa Bắc Sơn (sau là Cứu quốc quân)
+11/1940: TBT NVC bị bắt -> bầu lại BCH, nhận định "CM PHẢN ĐẾ VÀ CM THỔ ĐỊA PHẢI ĐỒNG THỜI TIẾN"
+          Hội nghị cán bộ TW (Đình Bảng, Bắc Ninh)
+23/11/1940: khởi nghĩa ở Nam Kỳ nhưng bị Pháp đàn áp nặng nề
+1/1941, Hồ Chí Minh mở lớp huấn luyện cán bộ, viết sách: Con đường giải phóng, trong đó nêu ra nội dung gì?
+Phương pháp cách mạng giành chính quyền
+5/1941: Bác chủ trì Hội nghị 8(Trường Chinh là TBT), "NHẬN ĐỊNH CUỘC CM TRƯỚC MẮT LÀ CM GIẢI PHÓNG DÂN TỘC"
+          Hội nghị Nhấn mạnh nd: 1, Mâu thuẫn là VN - PHÁP, NHẬT 2, Kđịnh "phải thay đổi chiến lược", CM DD ko phải CM dân quyền, phản đế và điền địa mà là GPDT
+          Thay = khẩu hiệu :Tịch thu ruộng đất đế quốc, Việt gian chia cho dân cày nghèo. 3, GQuyet vđ dân tộc. 4,tập hợp lực lượng.
+          5, khi CM thành công -> nước VNDCCH. 6, khởi nghĩa vũ trang là nv trọng tâm
+          LẬP MẶT TRẬN VIỆT MINH khẩu hiểu "Đoàn kết toàn dân, chống nhật, chống pháp , tranh lại độc lập, hoãn CM ruộng đất"
+6/6/1941: Bác kêu gọi đồng bào:"Trong lúc này quyền lợi dân tộc GP cao hơn hết thảy..."
+25/10/1941: VIỆT MINH CÔNG BỐ TUYÊN NGÔN "VN độc lập đồng minh ra đời": đáp ứng nguyện vọng cứu nước của mọi giới đồng bào. VM là MẶT TRẬN ĐẠI ĐOÀN KẾT DTVN,
+                    nơi tập hợp, giác ngộ, rèn luyện LLCT, lực lượng cơ bản có ý nghĩa qđ trong tổng khởi nghĩa sau này
+1941: Bác thành lập 1 đội vũ tranh ở Cao Bằng để thúc đẩy cơ sở ctri, xd LLVTrang
+12/1941: TW ra thông cáo CUỘC CTRANH THÁI BÌNH DƯƠNG VÀ TRÁCH NHIỆM CẦN KÍP CỦA ĐẢNG: chỉ rõ đảng bộ địa phương cần vận động nhân dân chống địch bắt lính,
+          chống cướp đoạt tài sản nhân dân, đòi tăng lương, giảm giờ làm, thành lập đội du kích
+          Ở Bắc Sơn-Võ Nhai, Cứu quốc quân tiến hành tuyên truyền vũ trang, mở rộng căn cứ: Thái, Tuyên, Cao, Hà, Bắc, Lạng
+2/1943: Ban TVTW Đảng họp Võng La(Đông Anh): đề ra biện pháp nhằm ptr PT quần chúng rộng rãi nhằm cbi đkiện cho khởi nghĩa nổ ra ở trung tâm đầu não kẻ thù
+1943: Đảng công bố ĐỀ CƯƠNG VĂN HÓA VN: xđ VĂN HÓA CX LÀ TRẬN ĐỊA CM
+1944: HỘI VĂN HÓA CỨU QUỐC VN
+6/1944: ĐẢNG DÂN CHỦ VN: do một số svien, trí thức yêu nước thành lập
+10/1944: Bác gửi thư thông báo việc TRIỆU TẬP ĐẠI HỘI ĐẠI BIỂU QUỐC DÂN: nêu rõ phe xâm lược gần đến ngày bị tiêu diệt, cơ hội dtoc ta GP chỉ ở trong 1/ năm rưỡi
+1944: Cao-Bắc-Lạng phát động ctranh nhưng Bác đình chỉ, ra CHỈ THỊ THÀNH LẬP ĐỘI VN TUYÊN TRUYỀN GP QUÂN: bản chị thị có ý nghĩa như 1 cương lĩnh quân sự của Đảng
+22/12/1944: ĐỘI VN TUYÊN TRUYỀN GP QUÂN (Võ Nguyên Giasp) ở Cao Bằng
+9/3/1945: Nhật nổ súng đảo chính lật đổ Pháp, Chính phủ Bảo Đại-Trần Trọng Kim được Nhật dựng ra bánh vẽ độc lập
+          TBT Trường Chinh triệu tập Hội nghị BTVTW Đảng mở rộng (Đinh Bang): phân tích tình hình và chủ trương chiến lược mới
+12/3/1945: BTVTW ra chỉ thị NHẬT -PHÁP BẮN NHAU VÀ HÀNH ĐỘNG CỦA CTA: xđ rõ kẻ thù chung của DD là PX NHẬT, THAY KHẨU HIỆU THÀNH "ĐÁNH ĐUỔI PX NHẬT"
+           nêu khẩu hiệu "THÀNH LẬP CQ CM CỦA NDDD", làm tiền đề cho tổng khởi nghĩa
+16/4/1945: TỔNG BỘ VIỆT MINH ra chỉ thị về TỔ CHỨC ỦY BAN GPVN
+4/6/1945: KHU GP đc thành lập gồm hầu hết các tỉnh CAO, BẮC, LẠNG, TUYÊN, THÁI, HÀ,..
+          Khu GP Việt Bắc trở thành căn cứ địa chính
+12/8/1945: Uỷ ba lâm thời Khu GP HẠ LỆNH KHỞI NGHĨA TRONG KHU
+13/8/1945: Thành lập UỶ BAN KHỞI NGHĨA TOÀN QUỐC, ban bố "Quân lệnh số 1", phát lệnh tổng khởi nghĩa trong nước
+14-15/1945: Hội nghị toàn quốc (Tân Trào): dự đoán Quân đồng minh sắp vào nước ta và đế quốc Pháp lăm le khôi phục địa vị cũ ở DD
+          -> PHÁT ĐỘNG TOÀN DÂN TỔNG KHỞI NGHĨA GIÀNH CQ TỪ NHẬT
+          khẩu hiệu "PHẢN ĐỐI XÂM LƯỢC!HOÀN TOÀN ĐỘC LẬP!CHÍNH QUYỀN NHÂN DÂN"
+          3 ntac chỉ đạo khởi nghĩa : tập trung , thống nhất, kịp thời
+          Phương hướng hđ: phải đánh chiếm ngay những chỗ có thể thắng, chộp lấy căn cứ chính trước pháp, thành lập ủy ban nd ở nơi giành đc
+16/8/1945: Đại hội Quốc dân họp ở Tân Cào thông qua lệnh Tổng Khởi Nghĩa 
+          1 đơn vị GP của VNG tiến về GP Thái Nguyên, mở đầu CMT8
+17/8/1945: UỶ BAN GPDT RA MẮT QUỐC DÂN, LÀM lễ tuyên thệ ở Tân Cào
+18/8/1945: Thắng lợi ở HN , HCM Lời kêu gọi TKN
+23/8/1945: Thắng lợi ở Huế
+25/8/1945: Thắng lơi ở SQ
+26/8/1945: Đại hội quốc dân: 60 đại biểu các giới, đảng phái ctri, đoàn thể quần chúng cứu quốc, dân tộc,...
+          Tán thành thông qua 10 chính sách lớn của VMinh, lập ỦY BAN GP DÂN TỘC (HCM)
+30/8/1945: Vua Bảo Đại tuyên bố thoái vị,Bác viết bản Tuyên ngôn độc lập
+8/1945: Ở Bắc vĩ tuyến 16, 20 vạn quân Tưởng kéo vào VN với danh nghĩa quân đội Đồng minh vào giải giáp Nhật
+3/9/1945: Chính phủ họp phiên ĐẦU TIÊN
+23/9/1945: Pháp xl VN LẦN 2
+25/10/1945: HỘI NGHỊ CÁN BỘ ĐẢNG BỘ NAM BỘ (THIÊN HỘ, CÁI BÈ):qđ những biện pháp cấp bách củng cố LLVT, xd cso ctri, vtrang bí mật, phát động toàn dân kháng chiến
+          "Thà chết tự do còn hơn sống nô lệ"
+26/9/1945: chi bộ ĐẦU TIÊN lên đường vào Nam chi viện
+          "Diệt cộng, cầm Hồ", phá VM của quân Tưởng -> chiến lược "triệt để lợi dụng mâu thuẫn kẻ thù, hòa hoãn, nhân nhượng có ngtac"
+11/11/1945: Để tránh mũi nhọn tấn công của địch, Đảng chủ trương hđ bí mật "THÔNG CÁO ĐCS DD tự ý giải tán",
+          để lại 1 bộ phận hđ công khai "HỘI NGHIÊN CỨU CN MÁC Ở DD": 
+          đảm bảo cc lương thực cho 20 vạn quân Tưởng, nhân nhượng sử dụng Quan kim, quốc tệ với đồng bạc DD
+          Bầu cử thành công, bổ sung 70 ghế Quốc hội không qua bầu cử cho VIỆT QUỐC, VIỆT CÁCH, mở rộng CP cho phản động 
+25/11/1945: BCHTW Đảng ra CHỈ THỊ KHÁNG CHIẾN KIẾN QUỐC: nhận định tình hình và định hướng con đường "KẺ THÙ CHÍNH LÀ THỰC DÂN PHÁP XL"
+          Mục tiêu vẫn là DTGP, khẩu hiệu "Dân tộc là trên hết,Tổ quốc là trên hết"
+          Tàu Tưởng "HOA - VIỆT THÂN THIỆN"
+          Pháp "ĐỘC LẬP VỀ CTRI, NHÂN NHƯỢNG VỀ KTE"
+28/2/1946: HIỆP ƯỚC TRÙNG KHÁNH (HOA-PHÁP): cho Pháp đưa quân ra Bắc vĩ tuyến 16 làm nv giải giáp Nhật, thay cho 20 vạn Tưởng về nước (dl: 31/3/1946)
+1946: TRƯỜNG ĐẠI HỌC VĂN KHOA HN, 2,5tr dân biết đọc, viết
+6/1/1946: BẦU CỬ QUỐC HỘI, 89% cử tri đi bỏ phiếu "mỗi lá phiếu là 1 viên đạn bắn vào quân thù"
+          333 đại biểu Quốc hội đầu tiên
+2/3/1946: Quốc hội khóa I họp phiên ĐẦU TIÊN tại Nhà hát lớn HN, lập CHÍNH PHỦ CHÍNH THỨC gom 10 bộ(Ban Thường Trực là cụ Nguyễn Văn Tố"
+3/3/1946: ra Chỉ thị Tình hình và Chủ trương: "VẤN ĐỀ LÚC NÀY KHÔNG PHẢI MUỐN ĐÁNH HAY KHÔNG MUỐN ĐÁNH...."
+          chủ trương tạm thời "DÀN HÒA VỚI PHÁP", nhân nhượng về kte nhưng đòi Pháp thừa nhận quyền dtoc tự quyết của VN
+          "Lợi dụng tgian hòa hoãn, diệt bọn phản động bên trong, tay sai của Tàu trắng...."
+6/3/1946: HIỆP ĐỊNH SƠ BỘ( HCM ký với Pháp tại HN):Pháp công nhận Vn là quốc gia tự do, có CP. VN đồng ý để 15000 quân Pháp ra Bắc
+9/3/1946: CHỈ THỊ HÒA ĐỂ TIẾN, PTICH, ĐÁNH GIÁ CHỦ TRƯƠNG HÒA HOÃN VÀ KHẢ NĂNG PTR CỦA TÌNH HÌNH: 
+          cần phải nêu cao tt cảnh giác CM, ss kháng chiến
+19/4-10/5/1946: HỘI NGHỊ TRÙ BỊ (CP VN gặp Pháp tại Đà Lạt)
+6/7-10/9/1946: HỘI NGHỊ PHONGTENNOBLO (PVĐ thăm và đàm phán Pháp): nhưng ko thành công do dã tâm xl VN của Pháp
+14/9/1946: TẠM ƯỚC 14/9 (HCM ký với Marius Moute tại Maxcsxay): nhân nhượng thêm cho Pháp quyền lợi kte, vhoa ở VN, 2 bên đình chiến ở NAM BỘ
+12/7/1946: tấn công bất ngờ lật đổ âm mưu phản động do Trương Tử Anh soạn thảo tại 132 Duvigneau
+20/10/1946: HCM và phái đoàn về đến cảng HP, Bác viết CÔNG VIỆC KHẨN CẤP BÂY GIỜ: nvu cụ thể về qsu, ctri, kđ vai trò của Đảng và dự đoán đúng cuộc chiến VN-P
+          khẩu hiệu "VƯỜN KHÔNG NHÀ TRỐNG","PHÁ HOẠI ĐỂ KHÁNG CHIẾN" ngăn chặn giam chân địch ở Nam bộ, cbi LL cho  kháng chiến lâu dài
+12/1946: Đảng viên 20000 người
+9/11/1946: Quốc hội họp thứ 2, thông qua bản HIẾN PHÁP ĐẦU TIÊN:xd đi đôi với với bảo vệ và làm cho bộ máy dchu trong sạch.
+          HỘI LIÊN HIỆP VN (LIÊN VIỆT): HUỲNH THÚC KHÁNG làm Hội trưởng
+          HỘI ĐỒNG CỐ VẤN CP (VĨNH THỤY)
+          HỘI NGHỊ VĂN HÓA TOÀN QUỐC LẦN THỨ 1 TẠI HN
+          HỘI NGHỊ ĐẠI BIỂU CÁC DTOC THIỂU SỐ Ở TNGUYEN
+11/1946: Pháp tấn công đánh chiếm HP, Lạng Sơn, Đà Nẵng ,Hải Dương, xúc tiến thành lập "CP Cộng hòa Nam Kỳ", triệu tập HỘI NGHỊ LIÊN BANG DD
+12/12/1946: CHỈ THỊ TOÀN DÂN KHÁNG CHIẾN
+16-17/12/1946: Pháp chiếm trụ sở BỘ TÀI CHÍNH, BỘ GT, bắn đại bác thảm sát đồng bào HN ở Yên Ninh, Hàng Bún
+18/12/1946: Pháp đơn phương cắt đứt mọi liên hệ với CPVN, đưa 3 TỐI HẬU THƯ đòi VN giải giáp
+          Hội nghĩ BTVTW Đảng mở rộng tại Vạn Phúc: đánh giá mức độ nghiêm trọng, đề ra chủ trương, phát động toàn dân kháng chiến
+          "THÀ HI SINH TẤT CẢ CHỨ NHẤT ĐỊNH KHÔNG CHỊU MẤT NƯỚC..."
+19/12/1946: thiện chí hbinh bị pháp cự tuyệt
+          HCM ra LỜI KÊU GỌI TOÀN QUỐC KHÁNG CHIẾN
+          20h3' quân dân HN và đô thị từ Bắc vĩ tuyến 16 bắt đầu nổ súng, KHÁNG CHIẾN TOÀN QUỐC BÙNG NỔ
+          Phát triển LL chiến đấu chính quy "TRUNG ĐOÀN THỦ ĐÔ"
+17/2/1947: Trung đoàn thủ đô rút lui lên chiến khu an toàn để củng cố
+6/4/1947: HỘI NGHỊ CÁN BỘ TW: nhấn mạnh mở rộng MẶT TRẬN DTỘC THỐNG NHẤT chống Pháp, củng cố CQ, phát động ctranh du kích, đẩy mạnh ngoại giao, 'LỚP THÁNG 8"
+8/1947: TÁC PHẨM KHÁNG CHIẾN NHẤT ĐỊNH THẮNG LỢI (TRƯỜNG CHINH"
+1947: Đảng viên 70000 người, bộ đội chính quy 12 vạn: 57 trung đoàn, 20 tiểu đoàn
+          LLDQ tự vệ 1 tr người, 3 vạn súng, 20 công xướng sx vk
+          Cử cán bộ sang Lào, XÂY DỰNG KHU CĂN CỨ KHÁNG CHIẾN Ở VÙNG HẠ, TRUNG, THƯỢNG LÀO
+          Cán bộ ở Thái Lan giúp thành lập ỦY BAN DTGP Khmer, xây dựng căn cứ TÂY BẮC CAMPUCHIA
+15/10/1947: CHỈ THỊ PHÁ TAN CUỘC TẤN CÔNG MÙA ĐÔNG : nêu rõ qtam, vạch ra thế yếu của địch, đề ra nvu quân sự cho Bắc Bộ và Trung Bộ, chặt đứt giao thông ll
+21/12/1947: sau 75 ngày đêm, bẻ gãy mũi tấn công địch, đánh bại âm mưu ĐÁNH NHANH THẮNG NHANH
+
+-> ĐƯỜNG LỐI KHÁNH CHIẾN CHỐNG PHÁP: "DỰA TRÊN SỨC MẠNH TOÀN DÂN, TOÀN DIỆN, LÂU DÀI, DỰA VÀO SỨC MÌNH LÀ CHÍNH"
+
+1948: HCM ký SẮC LỆNH phong hàm Đại tướng VNG, Trung tướng Nguyễn Bình, 9 thiếu tướng
+3/1948: thắng lợi La Ngà , Nghĩa Lộ
+4/1948: Thắng lợi Tầm Vu, Đồng Dương
+11/6/1948: LỜI KÊU GỌI THI ĐUA ÁI QUỐC (HCM)
+          Làm thất bại âm mưu "LẤY CTRANH NUÔI CTRANH, LẤY NGƯỜI VIỆT ĐÁNH NGƯỜI VIỆT"
+7/1948: HỘI NGHỊ VĂN HÓA TOÀN QUỐC: xd nền văn hóa mang tchat dtoc,khoc, đại chúng
+8/3/1949: Pháp ký với Bảo Đại HIỆP ĐỊNH VỀ QUAN HỆ PHÁP-VIỆT
+4/1949: CHIẾN DỊCH CẦU KÈ-TRÀ VINH
+13/6/1949: Bảo Đại được Pháp đưa về SG làm Quốc trưởng
+1/7/1949: Bảo Đại thành lập "Quốc gia VN": đó là CQ bất hợp pháp do Pháp dựng lên
+6/1950: CHIẾN DỊCH BIÊN GIỚI THU ĐÔNG: tiến công địch dọc tuyến biên giới Việt-Trung(Cao Bằng-Lạng Sơn)
+          mở rộng căn cứ địa Việt Bắc, tạo hành lang mở rộng quan hệ thông thương với TQ và các nc XHCN, tạo tiền đề thúc đẩy cuộc kchien lên gđoan mới.
+          Đây là chiến dịch quân sự lớn, qtrong ĐẦU TIÊN do quân ta chủ động tấn công, Bác đích thân thị sát, chỉ đạo
+          30 ngày đêm (16/9 -17/10/1950)
+          "ĐẠT ĐƯỢC MỤC TIÊU DIỆT ĐỊCH, KẾT THÚC THỜI KỲ CHIẾN ĐẤU TRONG VÒNG VÂY"
+1/10/1949: ĐCS TQ giành CQ->Nhà nước Trung Hoa ra đời
+11/1949: SẮC LỆNH VỀ NGHĨA VỤ QUÂN SỰ
+          LL ba thứ quân (bộ đội chủ lực, bộ đội địa phương, dân quân du kích) ptr 23 vạn ng: 40 đảng viên, DQTV +DKich 3tr ng
+1950: HCM thăm TQ, LX
+9/1/1950: 3000 hssv SG biểu tình bị Pháp đàn áp, Trần Văn Ơn hi sinh
+18/1/1950: TQ đặt qhe ngoại giao với VN
+30/1/1950: LX đặt qhe ngoại giao với VN
+2/1950: Đông Âu, Triều Tiên đặt qhe ngoại giao với VN
+          Đảng và Bác chủ trương tổng động viên, ra sắc lệnh huy động nhân lực, vật lực, tài lực
+19/3/1950: 500000 dân SG biểu tình chống Mỹ khi Mỹ đưa tàu chiến đến cảng SG
+18/4/1950: mìn đánh tháp canh ở cầu Bà Kiên
+9/1950: CAND chiến công TỔ ĐIỆP BÁO A13, ĐÁNH ĐẮM TBAO HẠM AMYOT D'INVILLE ở SẦM SƠN: đánh đổ âm mưu lôi kéo người kháng chiến ly khai,
+          đánh chiếm vùng tự do THANH-NGHỆ-TĨNH
+19/2/1951: ĐẠI HỘI ĐẠI BIỂU LẦN II (Vinh Quang):"ĐẠI HỘI KHÁNG CHIẾN KIẾN QUỐC" 158 đại biểu chính thức, 53 dự khuyết, thay mặt 766000 đảng viên
+          bối cảnh LX lớn mạnh vượt bậc mọi mặt, các XHCN Đông Âu bước vào xh CSVC
+          ĐẢNG LAO ĐỘNG VN
+          Điều lệ mới của Đảng: 13 chương, 71 điều, tôn chỉ "Phấn đấu ptr chế độ dchu nhân dân, tiến lên CNXHVN,.. tất cả nhân vật đa số, thiểu số ở VN"
+          Báo ctri nhấn mạnh "trong giai đoạn này, quyền lợi của giai cấp công nhân và nhân dân lđ ...Đảng của dtoc VN"
+          Bầu 19 Uỷ viên chính thức, 10 dự khuyết
+          Bầu bộ ctro: 7 chính thức, 1 dự khuyết và Ban bí thư
+          HCM làm Chủ tịch Đảng, Trường Chinh làm TBT
+2/1951: Chính cương của Đảng (15 chính sách lớn)
+12/1951: CHIẾN DỊCH HÒA BÌNH và CHIẾN DỊCH TÂY BẮC thu đông 1952: GP 1 phần Tây Bắc, phá âm mưu lập "xứ Thái tự trị"
+4/1952: Hội nghị lần 3: Công tác "CHỈNH ĐẢNG, CHỈNH QUÂN" là nvu trọng tâm
+8/5/1952: quân dân Nam Bộ đánh vào hậu cần ở Phú Thọ, đốt cháy 5tr l xăng, phá 1000 bom, diệt gọn 1 đội quân pháp
+1/1953: Hội nghị lần 4: họp kiểm điểm về chính sách ruộng đất và qđ cải cách ruộng đất ở nông thôn
+5/1953: Pháp cử Đại tướng HangriNava Tổng tham mưu trưởng lục quân NATO sang làm tổng chỉ huy quân đội viễn chinh ở DD
+7/1953: Nava vạch ra kế hoạch Nava trong 18 tháng chuyển bại thành thắng
+9/3/1953: Thoong qua chủ trương chiến lược Đông Xuân 1953-1954: Nghị quyết mở đường đi tới thắng lợi lịch sử trong cuộc tiến công
+11/1953: Hội nghị lần 5: thông qua CƯƠNG LĨNH RUỘNG ĐẤT: 23 điều, chủ trương "phát động quần chúng triệt để giảm tô, tức và cải cách ruộng đất"
+4/12/1953: kỳ họp 3, Quốc hội khóa I thông qua LUẬT CẢI CÁCH RUỘNG ĐẤT
+19/12/1953: Bác ký ban hành LUẬT CẢI CÁCH RUỘNG ĐẤT
+6/12/1953: mở CHIẾN DỊCH ĐIỆN BIÊN PHỦ (VNG)
+          "CHIẾN DỊCH NÀY LÀ MỘT CHIẾN DỊCH QTR KO NHỮNG VỀ QUÂN SỰ MÀ CẢ VỀ CTRI,..."(HCM)
+          5 vạn quân "ĐÁNH CHẮC TIẾN CHẮC"
+13/3/1954: tấn công Mường Thanh mở đầu chiến dịch
+7/5/1954: 56 ngày đêm, 33 đợt tiến công, 17h30 đánh tới hầm chỉ huy, bắt sống tướng Đờ Cát
+          Chiến thắng là thắng lợi của ý chí, khát vọng độc lập tự do của VN mà nòng cốt là lực lượng quân dội nhân dân VN
+          với Pháp "ĐBP thất thủ gây nỗi kinh hoàng..."
+          Thắng lợi là "thiên sử vàng của dtoc VN"đc ghi nhận MỘT CHIẾN CÔNG VĨ ĐẠI CỦA DTOC VN TRONG TK XX
+                    đi vào lịch sử thế giới NHƯ MỘT CHIẾN CÔNG HIỂN HÁCH, BÁO HIỆU SỰ THẮNG LỢI CỦA NHÂN DÂN CÁC DTOC BỊ ÁP BỨC, SỤP ĐỔ CỦA CN THỰC DÂN
+8/5/1954: HIỆP ĐỊNH GIONEVO: 75 ngày đàm phán, 8 phiên họp toàn thể, 23 phiên họp cấp trưởng đoàn, nhiều cuộc gặp riêng
+          Mỹ do Đalet(Bộ tr ngoại giao), Anh do Anthony Eden(Bộ tr ngoai giao), Pháp do Bidon, LX do Molotov (BTNG), TQ do Chu Ân Lai(Thủ tướng), VN do PVĐ
+          Hội nghị thông qua TUYÊN BỐ CUỐI CÙNG VỀ VĐ LẬP LẠI HÒA BÌNH Ở ĐÔNG DƯƠNG (Mỹ KHÔNG ký)->văn bản pháp lý QUỐC TẾ ĐẦU TIÊN công nhận quyền dtoc cơ bản DD
+7/7/1954: Mỹ đưa Ngô Đình Diệm vào miền Nam làm Thủ tưởng
+7/1954: Hội nghị lần 6: Đế quốc Mỹ là kẻ thù chính của nhân dân Đông Dương
+21/7/1954: HIỆP ĐỊNH ĐÌNH CHỈ CHIẾN SỰ (do so sánh lực lượng ko thuận lợi)
+22/7/1954: LỜI KÊU GỌI ĐỒNG BÀO VÀ CÁN BỘ, CHIẾN SĨ CẢ NƯỚC(HCM): nhấn mạnh TRUNG NAM BẮC đều là bờ cõi nc ta,...
+9/1954: Bộ ctri đề ra nvu chủ yếu trc mắt  Phải hàn gắn vết thương chiến tranh khôi phục kinh tế và làm nhiệm vụ còn lại của CM DTDC nhân dân tạo tiền đề 
+          đưa miền Bắc từng bước quá độ đi lên CNXH
+          NQ của BCT 3 nvu: 1, đấu tranh đòi thi hành hiệp định
+                              2, chuyển hướng công tác cho phù hợp điều kiện mới
+                              3, tập hợp lực lượng dân tộc,.. nhằm lật đổ CQ bù nhìn thân Mỹ, thống nhất TQ
+          NGHỊ QUYẾT BCH " Chuyển từ đấu tranh vũ trang sang đấu tranh chính trị"
+19/1954: Xứ ủy Nam kỳ thành lập (Lê Duẩn Bí thư)
+10/10/1954: những lính pháp cuối rút khỏi HN
+16/5/1954: toàn bộ quân Pháp rút khỏi miền bắc
+3/1955: Hội nghị lần 7
+8/1955: Hội nghị lần 8: Nhận định muốn chống Mỹ,thống nhất cần củng cố miền Bắc, đẩy mạnh đấu tranh miền Nam
+23/10/1955: trưng cầu ý dân phế truất Bảo Đại, đưa NDD làm Tổng thống
+7/1956: cải cách ruộng đất đã hoàn thành ở đồng bằng, trung du, miền núi.Xóa bỏ HOÀN TOÀN chiếm hữu ruộng đất pkien
+          Phạm sai lầm nghiêm trọng đã cường điệu hóa đấu tranh giai cấp ở nông thôn với địa chủ, xử lý oan nhiều cán bộ tốt
+8/1956: ĐỀ CƯƠNG ĐƯỜNG LỐI CM VN Ở MIỀN NAM: nêu rõ chế độ mỹ-diệm là độc tài,px, hiếu chiến
+9/1956: Hội nghị lần 10 kiểm điểm những sai lầm trong cải cách ruộng đất, chỉnh đốn tổ chức
+          Công khai phê bình một số Uỷ viên Bộ ctri, UV TWĐ
+1957: nông nghiệp miền bắc đạt năng suất như 1939, đẩy lùi nạn đói
+13/5/1957: NDD tuyên bố BIÊN GIỚI HOA KÌ KÉO DÀI ĐẾN VĨ TUYẾN 17
+12/1957: Hội nghị lần 13
+11/1958: Hội nghị lần 14: đề ra kế hoạch 3 năm ptr kte, vhoa, cải tạo xhcn đvs kte cá thể, kte tư bản tư doanh
+1/1959: Hội nghị TW 15 mở rộng: NQ về tình hình VM miền Nam với tinh thần tiếp tục CM DCDT DCND, sd bạo lực CM: ctri + vũ trang
+          ->NQ VẠCH RÕ PHƯƠNG HƯỚNG TIẾN LEEN
+3/1959: CQ NDD tuyên bố "ĐẶT MIỀN NAM TRONG TÌNH TRẠNG CTRANH"
+4/1959: Hội nghị lần 16: NQ về vđ hợp tác nông ngiệp xđ 
+19/5/1959: Đường vận tải trên bộ HCM
+23/10/1959: Đường HCM trên biển
+17/1/1960: Khởi nghĩa ĐỒNG KHỞI bùng nổ ở Bến Tre(Nguyễn Thị Định) lan ra đb sông Cửu Long, Tây Nguyên, Trung BỘ
+          -> Thắng lợi là BƯỚC NHẢY VỌT TỪ THẾ GIỮ GÌN LL SANG TIẾN CÔNG, KHỞI NGHĨA TỪNG PHẦN SANG CTRANH CM
+9/1960: ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN III tại HN: HCM nêu rõ "ĐẠI HỘI LẦN NÀY LÀ XD XHCN ở MB và đấu tranh ở MN"     
+          ĐỀ RA KẾT HOẠCH 5 NĂM lần thứ nhất (1961-1965): tiếp tục hoàn thiện quan hệ sx XHCN, xd csvc, cải thiện đời sống, anh ninh QP,hậu thuận cho cuộc kchien
+20/12/1960: MẶT TRẬN DÂN TỘC GP MN VN (Tân Lập, TN) do Nguyễn Hữu Thọ làm Chủ tịch
+1961: Mỹ thực hiện CHIÊN TRANH ĐẶC BIỆT: Cố vấn, vkhi My và quân chủ lực VNCH: 2 kế hoạch: STALAY (1961-1963) và GIONXON MACNAMARA(1964-1965)
+          Mỹ và NDD kế hoạch bình định MN tỏng 18 tháng: 17000 ấp chiến lược
+10/8/1961: Mỹ dải dioxin xuống MNVN
+10/1961: TW Cục MN (Nguyễn Văn Linh làm Bí Thư)
+15/2/1961: LLVTRANG MN thống nhất QUÂN GPMN VN
+2/1/1963: Chiến thắng ẤP BẮC
+1/11/1963: LL đảo chính giết NDD
+11/1963-6/1965: 10 cuộc đảo chính lật đổ lẫn nhau trong nội bộ CQ SG
+12/1963: Hội nghị lần 9: xđ đường lối CM MN, đường lối đoàn kết của Đảng
+          NQ TWĐ xđ "ĐẤU TRANH VTRANH ĐÓNG VTRO QĐ TRỰC TIẾP"
+3/1964: "MỖI NGƯỜI LÀM VIỆC BẰNG HAI ĐỂ ĐỀN ĐÁP LẠI CHO ĐBÀO MN RUỘT THỊT"(HCM)
+5/8/1964: Mỹ dựng chuyện"SỰ KIỆN VỊNH BẮC BỘ":lấy cớ dùng không quân, hải quân đánh phá MB
+9/1964: BCT chủ trương tăng cường chi viện. Đại tướng Nguyễn Chí Thanh, UV BCT được cử vào phụ trách làm Bí thư TW Cục, Chính ủy QGPMN
+1965: Chiến tranh đb bị phá sản
+8/3/1965: THỰC HIỆN "CTRANH CỤC BỘ": MỸ đổ bộ vào Đà Nẵng tham chiến MNVN, không quân và hải quân đánh phá MB
+3/1965: Hội nghị 11
+12/1965: Hội nghị 12: phát động CUỘC KCHIEN CHỐNG MỸ CỨU NƯỚC TRÊN TOÀN QUỐC vs qtam "ĐỘNG VIÊN LL CẢ NƯỚC KIÊN QUYẾT ĐÁNH BẠI CUỘC CTRANH XL CỦA MỸ...."
+1965-1966: Mỹ huy động 70 vạn quân (20 vạn quân Mỹ) mở cuộc phản công lần 1 vào 3 hướng Tây Nguyên, ĐB khu V, ĐNB: tìm giệt quân GP, giành lại chiến trường
+1966-1967: 39 vạn quân Mỹ, 5 vạn chư hầu, 54 vạn quân ngụy với 4000 máy bay, 2500 xe tăng, xe bọc thép phản công LẦN 2
+17/7/1966: LỜI KÊU GỌI CỦA HCM "CTRANH CÓ THỂ KÉO DÀI 5 NĂM, 10 NĂM, ... KHÔNG CÓ GÌ QUÝ HƠN ĐỘC LẬP TỰ DO"
+1967: 94000 cán bộ biên chế thành trung đoàn, sư đoàn bộ binh, binh chủng kỹ thuật nâng tổng số QGP MN lên 22000 quân chủ lực và 57000 quân địa phương
+28/1/1967: Hội nghị lân 13: qđ mở trận ngoại giao nhằm tranh thủ ủng hộ quốc tế, bè bạn, vừa đánh vừa đàm phán
+7/1967: Phạm Hùng (UV BCT giữ Bí thư TW cục MN), Trần Văn Trà (Tư lệnh QGPMN), Nguyễn Thị Định (Phó Tư lệnh)
+1968: 14 vạn cán bộ vào Nam tgia Tổng tiến công 
+1/1968: Hội nghị lần 14: chuyển CMMN sang tki mới, tiến lên giành thắng lợi bằng pp tổng công kích
+30-31/1/1968: Tết Mậu Thân, CUỘC TỔNG TIẾN CÔNG VÀ NỔI DẬY ĐỢT I PHÁT ĐỘNG TRÊN TOÀN MN: tấn công 4/6 tp. 37/42 thị xã từ Đường 9 - Khe Sanh đến ĐBSCL
+          ->MỘT CHỦ TRƯƠNG TÁO BẠO, SÁNG TẠO CỦA ĐẢNG, MANG TÍNH BƯỚC NGOẶT, KHỞI ĐẦU QTRINH ĐI ĐẾN TBAI CỦA MỸ
+13/5/1968: HỘI NGHI PARI :Bộ trưởng Xuân Thủy là trưởng đoàn, Lê ĐT, UV BCT làm cố vấn
+8/1968: LIÊN MINH CÁC LL DTOC, DCHU VÀ HÒA BÌNH VN (TRỊNH ĐÌNH THẢO)
+3/1968: Mỹ tuyên bố hạn chế ném bom MB
+1/11/1968: Mỹ tuyên bố CHẤM DỨT 0 ĐK ĐÁNH PHÁ MB
+1/1/1969: Thư CHÚC MỪNG NĂM MỚI "VÌ ĐỘC LẬP VÌ TỰ DO, ĐÁNH CHO MỸ CÚT, ĐÁNH CHO NGỤY NHÀO"(HCM)
+1/1969: Mỹ buộc chấp nhận cuộc đàm phán
+1969: Mỹ chủ trương thay đổi chiến lược CTRANH cục bộ -> "VN hóa CTRANH"
+6/6/1969: CP CM lâm thời CHMNVN (Huỳnh Thúc Kháng)
+23/9/1969: kỳ họp đb Quốc hội khóa III bầu TĐT làm CTN, Nguyễn Lương Bằng làm PCTN
+1970: Mỹ và quân ngụy Lào mở cuộc hành quân xâm lấn chiến khu chiến lược Cánh đồng Chum (Xiêng Khoảng)
+          -> Liên quân Lào-VN phá thế uy hiếp suờn phía tây và tuyến vận tải Trường Sơn
+3/1970: Mỹ đảo chỉnh ở Cam, lật đổ CP Vương quốc Trung lập do Hoàng thân Norodom xihanuc, dựng CQ tay sai Lon Non
+          -> NẤC THANG NGUY HIỂM BIẾN CAM THÀNH THUỘC ĐỊA KIỂU MỚI
+1/1970: Hội nghị 18
+6/1970: Hội nghị BCT: chủ trương chống VNHCT
+1971: VN+Lào đánh bại cuộc hành quân "Lam Sơn 719" 
+          VN+Cam đập tan cuộc hành quân "Toàn thắng 1/1971"
+28/6-16/9/1972: 81 ngày đêm Thành cổ QT
+4/1972: Mỹ ném bom VN lần thứ 2: Trước hành động điên cuồng của địch->TWĐ phát động CUỘC CTRANH NHÂN DÂN CHỐNG CTRANH PHÁ HOẠI
+18-30/12/1972: 12 ngày đêm DBP TRÊN KHÔNG: bắn rơi 84 máy bay(34 B52 +5F111A+43 GIẶC LÁI)
+15/1/1973: CP Mỹ TUYÊN BỐ NGỪNG PHÁ HOẠI MB và đàm phán
+23/1/1973: Hiệp định Pari được kí kết
+          TWĐ đề ra CHIẾN LƯỢC 2 NĂM (1974-1975)
+27/1/1973: kéo dài 4 năm 8 tháng 14 ngày, 200 phiên họp công khai, 45 gặp riêng, 500 họp báo, 1000 phỏng vấn
+          ->Kí kết HIỆP ĐỊNH VỀ chấm DỨT CTRANH LẬP LẠI HBINH Ở VN
+7/1973: Hội nghị 21: nêu rõ con đường CM là con đường bạo lực CM 
+6/1/1975: chiêm thị xã Phước Long: quân địch không có khả năng đánh chiếm lại
+          ->NHẬN THẤY quân chủ lực cơ động của ta đã mạnh, thời cơ GPMN đã chín muồi
+4/1975: Mỹ từ chối viện trợ CQ SG
+10/3/1975: Cuộc TỔNG TIẾN CÔNG VÀ NỔI DẬY MÙA XUÂN bắt đầu bằng chiến dịch TÂY NGUYÊN vào thị xã Buôn Mê Thuật
+18/3/1975: BCT qđ GPMN trong năm 1975
+26/3: Huế đc GP
+29/3: Đà Nằng đc GP
+25/3/1975: BCT bsung chiến lược GPMN trước mùa mưa
+7/4/1975: VNG ra mệnh lệnh:"Thần tốc, thần tốc hơn nx, táo bạo, táo bạo hơn nx..."
+26/4/1975: Chiến dịch HCM giải phóng SG-Gia Định bắt đầu
+          Bộ Tư Lệnh chiến dịch (Văn Tiến Dũng làm Tư lệnh, Phạm Hùng làm Chính ủy, Trần Văn Trà làm PTL)
+8/1975: Hội nghị lần thứ 24 BCHTW KHÓA III
+27/10/1975: UB TVQH VNDCCH họp phiên ĐẶC BIỆT để bàn chủ trương, biện pháp thống nhất nhà nước: 25 thành viên đại biểu MB (TC TRƯỞNG ĐOÀN) để hiệp thương vs MN
+5-6/11/1975, UB TW MTDTGPMNVN, UB TW LMINH CÁC LL DTOC, DCHU, HBINH VN, CP CM lâm thời CHMNVN
+15-21/11/1975: HỘI NGHỊ HIỆP THƯƠNG (SG): tổ chức tổng tuyển cử vào đầu 1976 theo ngta dân chủ, phổ thông, bình đẳng, bỏ phiếu kín
+25/4/1976: TỔNG TUYỂN CỬ BẦU QUỐC HỘI CHUNG CỦA VN: 23 tr cử tri, 492 đại biểu
+24/6-3/7/1976: Kỳ họp thứ NHẤT QUỐC HỘI VN tại HN: qđ đặt tên nước VNDCCH, quốc kì, quốc ca, quốc huy, SG->HCM
+          TĐT làm CTN, NLB, NHT làm PCTN, TC làm Chủ tịch UBTVQH, PVĐ làm Thủ tướng
+6/1991: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ CNXH(bổ sung 2011)
