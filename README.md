@@ -1,1252 +1,1217 @@
-HCM tiếp cận văn hóa theo mấy cách chủ yếu: 4 cách
-Hồ Chí Minh đã mấy lần tham gia soạn thảo Hiến pháp?2
-HCM đc bầu làm Trưởng tiểu ban - 1922\
-Hồ Chí Minh trở về nước sau 30 năm hoạt động khi nào? 1/1941
-HCM tham gia ptrao chống thuế ở Trung Kỳ vào 1908
-Hồ Chí Minh được UNESCO tôn vinh Anh hùng dân tộc và nhà văn hóa kiệt xuất ở Việt Nam năm nào? 20/11/1987
-HCM được tôn vinh là "Anh hùng dân tộc vĩ đại" - Điếu văn của BCHTW Đảng(1969)
-HCM lần đầu tiên đã quan tâm tới khẩu hiệu Pháp Tự do-Bình đẳng-Bác ái - 1905
-Ở cương vị Chủ tịch nước Hồ Chí Minh đã ký công bố bao nhiêu đạo luật? 16
-Ban chấp hành Trung ương Đảng tôn vinh Hồ Chí Minh là “Anh hùng dân tộc vĩ đại” năm nào? 1969
-Trong thời gian 30 năm hđ, HCM hđ tại thái lan: 1928-1929
-Tác phẩm Thường thức chính trị được Hồ Chí Minh viết khi nào? 1953 
-Tác phẩm Bản án chế độ thực dân Pháp của HCM bằng tiếng Pháp tại Paris - 1925 
-Tác phẩm đề cương văn hóa VN - 25-28/2/1943
-Tác phẩm “Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa" của Lênin, được trình bày ở Đại hội II Quốc tế Cộng sản
+# NGÂN HÀNG CÂU HỎI CÔNG NGHỆ ĐA PHƯƠNG TIỆN
 
-Hồ Chí Minh luôn gắn tài năng với đạo đức. Theo Người, :có tài mà không có đức là hỏng”; dĩ nhiên, đức phải đi đôi với tài, nếu không có tài thì làm việc gì cũng khó. Cũng như vậy, Người luôn gắn phẩm chất chính trị với trình độ học vấn, 
-chuyên môn, nghiệp vụ, trong đó “chính trị là tinh thần, chuyên môn là thể xác. Hai mặt đó 
-thống nhất trong một người. Do vậy, tất cả mọi người đều phải luôn luôn trau dồi đạo đức và tài 
-năng, vừa có đức vừa có tài, vừa “hồng” vừa “chuyên”
+## Phần 1: Tổng quan về Công nghệ Đa phương tiện (Câu 1 - 50)
 
-“Bất cứ nơi nào chiến đấu cho độc lập, tự do, ở đó có Hồ Chí Minh và ngọn cờ Hồ Chí Minh bay cao. Bất cứ ở đâu, nhân dân chiến đấu cho một thế giới mới, chống lại đói nghèo, ở đó có ngọn cờ Hồ Chí Minh bay cao” - Rômét Chandra, nguyên chủ tịch hội đồng hòa bình thế giới cho rằng.
+**Câu 1:** Công nghệ đa phương tiện là gì?
+→ **Đáp án: B. Công nghệ kết hợp nhiều loại dữ liệu**
 
-“Bảy xin hiến pháp ban hành; Trăm đều phải có thần linh pháp quyền” - Trích trong tác phẩm Việt Nam yêu cầu ca của Hồ Chí Minh.
+**Câu 2:** Dữ liệu nào sau đây không phải là thành phần của đa phương tiện?
+→ **Đáp án: C. Mã nguồn**
 
-"Bây giờ học thuyết nhiều, chủ nghĩa nhiều nhưng CN chân chính ..."-Đường CK 1927
+**Câu 3:** Một ví dụ của công nghệ đa phương tiện là?
+→ **Đáp án: C. Trình duyệt web có video, hình ảnh**
 
- “Bạo lực là bà đỡ của một chế độ xã hội cũ đang thai nghén một chế độ xã hội mới"-Mác
+**Câu 4:** Hệ thống nào sau đây sử dụng công nghệ đa phương tiện?
+→ **Đáp án: B. Trình chiếu PowerPoint**
 
-“Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc; cả hai cuộc giải phóng này chỉ có thể là sự nghiệp của chủ nghĩa cộng sản và của cách mạng thế giới” - Trong bài Cuộc kháng chiến, Hồ Chí Minh viết.
+**Câu 5:** Video là dạng dữ liệu gì trong đa phương tiện?
+→ **Đáp án: C. Dữ liệu động kết hợp âm thanh**
 
-"Chỉ có giai cấp công nhân là dũng cảm nhất, cách mạng nhất, luôn luôn gan góc đương đầu với bọn đế quốc thực dân"-30 năm hđ của Đảng(1960)
+**Câu 6:** Dạng dữ liệu nào là dữ liệu tuyến tính trong đa phương tiện?
+→ **Đáp án: B. Âm thanh**
 
-“Chỉ có thể thực hiện hoàn toàn công cuộc giải phóng ở các nước thuộc địa khi giai cấp vô sản giành được thắng lợi ở các nước tư bản tiên tiến”-Quốc tế cộng sản
+**Câu 7:** Siêu văn bản là gì?
+→ **Đáp án: B. Văn bản chứa liên kết**
 
-“Chỉ những người cách mạng chân chính mới thu hái được những điều hiểu biết quý báu của các đời trước để lại"-Lenin
+**Câu 8:** Đặc điểm nào KHÔNG thuộc về công nghệ đa phương tiện?
+→ **Đáp án: C. Chỉ hoạt động với âm thanh**
 
-“Chúng tôi giành được thắng lợi là do nhiều nhân tố, nhưng cần phải nhấn mạnh rằng… chúng tôi giành được những thắng lợi đó trước hết là nhờ cái vũ khí không gì thay thế được là chủ nghĩa Mác - Lê-nin”-Trả lời phỏng vấn nhà báo Pháp Sác-lơ Phuốc-ni-ô ngày 15-7-1969, Hồ Chí Minh
+**Câu 9:** Ứng dụng nào dưới đây thuộc dạng ứng dụng đa phương tiện?
+→ **Đáp án: A. YouTube**
 
-“Có sức mạnh cả nước một lòng…lại có sự ủng hộ của nhân dân thế giới, chúng ta sẽ có một sức mạnh tổng hợp cộng với phương pháp cách mạng thích hợp, nhất định cách mạng nước ta sẽ đi đến đích cuối cùng” - Trong buổi nói chuyện với đại sứ nước ta tại Liên Xô năm 1961, Hồ Chí Minh nói.
+**Câu 10:** Phần mềm nào có khả năng xử lý đa phương tiện?
+→ **Đáp án: A. Audacity**
 
-“Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân” - Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011).
+**Câu 11:** Công nghệ đa phương tiện KHÔNG bao gồm?
+→ **Đáp án: C. Email**
 
-“Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân” - Sửa đổi lối làm việc (1947)
+**Câu 12:** Thành phần nào thường thấy trong bài giảng đa phương tiện?
+→ **Đáp án: A. Văn bản + ảnh + âm thanh**
 
-"Cán bộ là những người đem chính sách của Đăng, của chính phủ giải thích cho dân chúng hiểu rõ và thi hành. Đồng thời đem tình hình của dân chúng báo cáo cho Đảng, cho Chính phủ hiểu rũ, để đặt chính sách cho đúng"-Sửa đổi lối làm việc
+**Câu 13:** Công cụ nào sau đây thường dùng để phát triển nội dung đa phương tiện?
+→ **Đáp án: B. Adobe Flash**
 
-“Đại đoàn kết tức là trước hết phải đoàn kết đại đa số nhân dân, mà đại đa số nhân dân ta là công nhân và nông dân và các tầng lớp nhân dân lao động khác" - Hội nghị đại biểu mặt trận Liên Việt toàn quốc, tháng 1 – 1955, Người chỉ rõ.
+**Câu 14:** Dữ liệu siêu phương tiện là gì?
+→ **Đáp án: B. Dữ liệu có liên kết và nhiều loại dữ liệu**
 
-“Đảng muốn vững thì phải có chủ nghĩa làm cốt, trong Đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng như người không có trí khôn, tàu không có bàn chỉ nam” - Khi huấn luyện cho cán bộ cách mạng từ năm 1925 đến 1927, Hồ Chí Minh khẳng định.
+**Câu 15:** Dữ liệu nào được dùng nhiều trong truyền thông quảng cáo đa phương tiện?
+→ **Đáp án: B. Video**
 
-"Đảng ta là một Đảng cầm quyền..."-Di chúc
+**Câu 16:** Công nghệ nào giúp tổ chức dữ liệu đa phương tiện trên web?
+→ **Đáp án: A. HTML**
 
-"Độc lập, tự do không thể cầu xin mà có được"-HCM
+**Câu 17:** Định dạng dữ liệu nào thường được sử dụng trong đa phương tiện?
+→ **Đáp án: A. JPEG**
 
-“Điều mong ước cuối cùng của tôi là: Toàn Đảng, toàn dân ta đoàn kết phấn đấu, xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới” - Kết thúc bản Tài liệu tuyệt đối bí mật (Di chúc) Hồ Chí Minh viết.
+**Câu 18:** Yếu tố quan trọng nhất để một nội dung đa phương tiện có tính hấp dẫn là gì?
+→ **Đáp án: C. Tính tương tác**
 
-“Đường lối chính trị, nên nếp làm việc và đạo đức cách mạng của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ Tịch"- ĐH II
+**Câu 19:** Dữ liệu đa phương tiện thường yêu cầu gì để truyền tải hiệu quả?
+→ **Đáp án: A. Kênh truyền tốc độ cao**
 
-"Đoàn kết là một truyền thống cực kỳ quý báu..."-Di chúc
+**Câu 20:** Một hệ thống e-learning là ví dụ của ứng dụng nào?
+→ **Đáp án: B. Đa phương tiện**
 
-"Không có lý luận cách mạnh thì không có CM vận động"-Lenin
+**Câu 21:** Tại sao công nghệ đa phương tiện được ứng dụng trong giáo dục?
+→ **Đáp án: B. Vì thu hút người học bằng hình ảnh, âm thanh**
 
-"Không có sự đồng tỉnh ủng hộ của đại đa số nhân dân lao động đối với đội tiền phong của mình tức là đối với giai cấp vô sản, thì cách mạng vô sản không thể thực hiện được"-Lenin
+**Câu 22:** Tính tương tác trong hệ thống đa phương tiện giúp gì?
+→ **Đáp án: C. Tăng mức độ tập trung và hiệu quả học tập**
 
-"Không thành công cũng thành nhân" - KN Yên Bái
+**Câu 23:** Vì sao cần phân tích loại dữ liệu trong đa phương tiện?
+→ **Đáp án: C. Để chọn công cụ xử lý phù hợp**
 
-“Làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai” - Tháng 9 – 1947, trả lời một nhà báo nước ngoài, Hồ Chí Minh tuyên bố về chính sách đối ngoại.
+**Câu 24:** Công nghệ đa phương tiện đóng vai trò gì trong truyền thông số?
+→ **Đáp án: B. Truyền tải nội dung phong phú và sinh động**
 
-“Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” - Cương lĩnh chính trị đầu tiên năm 1930.
+**Câu 25:** Trích rút thông tin đa phương tiện cần gì?
+→ **Đáp án: C. Các kỹ thuật phân tích dữ liệu hình ảnh, âm thanh**
 
-"Làm cho Đảng mạnh và làm cho cách mạng đi mau đến thắng lợi hoàn toàn" - ĐH II
+**Câu 26:** Đâu là thách thức trong tìm kiếm thông tin đa phương tiện trên Internet?
+→ **Đáp án: C. Thiếu công cụ lọc thông minh**
 
-“Lúc bấy giờ, tôi ủng hộ Cách mạng Tháng Mười chỉ là theo cảm tính tự nhiên… Tôi kính yêu Lênin vì Lênin là một người yêu nước vĩ đại đã giải phóng đồng bào mình… Tôi tham gia Đảng Xã hội Pháp chẳng qua là vì các “ông bà” ấy... đã tỏ đồng tình với tôi... Còn như Đảng là gì... thì tôi chưa hiểu” - Con đường dẫn tôi đến chủ nghĩa Lênin.
+**Câu 27:** Hình ảnh đóng vai trò gì trong đa phương tiện?
+→ **Đáp án: B. Làm rõ và minh họa nội dung**
 
-"Lý luận là đem thực tế trong lịch sử, trong kinh nghiệm..."-HCM
+**Câu 28:** Sự khác biệt giữa văn bản và siêu văn bản là gì?
+→ **Đáp án: A. Siêu văn bản có ảnh, liên kết**
 
-"Lý luận như cái kim chỉ nam, nó chỉ phương hướng..."-HCM
+**Câu 29:** Lý do sử dụng video trong bài giảng là gì?
+→ **Đáp án: C. Truyền tải trực quan và sinh động**
 
-"Muốn xây dựng CNXH trước hết phải có những con người XHCN"-HCM
+**Câu 30:** Vì sao âm thanh cần được xử lý khi truyền trên Internet?
+→ **Đáp án: B. Để giảm dung lượng, tăng chất lượng**
 
-"mục đích của chủ nghĩa xã hội là gì? Nói một cách đơn giản và dễ hiểu là không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân, trước hết là nhân dân lao động"-HCM: Mục tiêu cao nhất của chủ nghĩa xã hội ở Việt Nam.
+**Câu 31:** Các yếu tố nào ảnh hưởng đến chất lượng truyền tải nội dung đa phương tiện?
+→ **Đáp án: B. Độ trễ mạng và nén dữ liệu**
 
-“Mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân” - Di chúc.
+**Câu 32:** Một siêu văn bản tốt cần có gì?
+→ **Đáp án: C. Liên kết logic, dễ điều hướng**
 
-“Nếu như muốn tìm một sự tiêu biểu cho tất cả cuộc đời của chủ tịch Hồ Chí Minh thì đó là đức tính vô cùng giản dị và sự khiêm tốn phi thường” - Anh hùng của nước cộng hòa Chilê đã khái quát.
+**Câu 33:** Tại sao video cần được nén?
+→ **Đáp án: B. Để phát sóng dễ hơn**
 
-“Nhà nước của ta là nhà nước dân chủ nhân dân, dựa trên nền tảng liên minh công nông do giai cấp công nhân lãnh đạo” - Hiến pháp năm 1959 khẳng định.
+**Câu 34:** Dữ liệu đa phương tiện yêu cầu gì khi xử lý?
+→ **Đáp án: A. Xử lý thời gian thực**
 
-“Nhân danh toàn thể loài người, nhân danh tất cả các đảng viên xã hội, cả phái hữu lẫn phái tả, chúng tôi kêu gọi: Các đồng chí, hãy cứu chúng tôi” - Tháng 12 – 1920, tại Đại hội Tua của Đảng xã hội Pháp.
+**Câu 35:** Lý do nào dẫn đến sự cần thiết phải nghiên cứu công nghệ đa phương tiện?
+→ **Đáp án: B. Do nhu cầu truyền tải dữ liệu đa dạng ngày càng cao**
 
-“Những tư tưởng dân tộc chân chính trong phong trào công nhân bao giờ cũng là những tư tưởng quốc tế chân chính" - Ăngghen từng nói.
+**Câu 36:** Hệ thống siêu phương tiện thường có gì nổi bật hơn đa phương tiện cơ bản?
+→ **Đáp án: B. Có tính liên kết, định hướng nội dung**
 
-"Người ta chỉ có thể trở thành người cs khi biết làm giàu trí óc.."-Lenin
+**Câu 37:** Tài nguyên đa phương tiện có nhược điểm gì lớn nhất?
+→ **Đáp án: C. Nặng về dung lượng và tài nguyên xử lý**
 
-“Người chiến sĩ lỗi lạc của phong trào công sản và công nhân quốc tế"- ĐH II
+**Câu 38:** Điều gì giúp nâng cao hiệu quả học tập trong hệ thống đa phương tiện?
+→ **Đáp án: C. Sự kết hợp hài hòa giữa các loại dữ liệu**
 
-“Ở nước ta, chính quyền là của nhân dân, do nhân dân làm chủ… nhân dân là ông chủ nắm chính quyền. Nhân dân bầu ra đại biểu thay mặt mình thi hành chính quyền ấy. Thế là dân chủ” - Trong tác phẩm Thường thức chính trị (1953).
+**Câu 39:** Tìm kiếm hình ảnh trên Internet khác với tìm kiếm văn bản như thế nào?
+→ **Đáp án: B. Phải dùng mô tả nội dung và đặc trưng hình ảnh**
 
-“Sự phát triển tự do của mỗi người là điều kiện cho sự phát triển tự do của tất cả mọi người" - Mác và Ăngghen (Tuyên ngôn của Đảng Cộng sản, 1848).
+**Câu 40:** Truy xuất dữ liệu hình ảnh đòi hỏi gì so với văn bản?
+→ **Đáp án: C. Phân tích nội dung và đặc trưng**
 
-"Tư tưởng HCM là một hệ thống quan điểm toàn diện, sâu sắc về những vấn đề cơ bản của CM VN"-ĐH XI
+**Câu 41:** Bạn được giao thiết kế bài giảng có hình ảnh và âm thanh, nên dùng công cụ nào?
+→ **Đáp án: A. Adobe Premiere**
 
-"Tư tưởng HCM chính là kqua sự vận dụng sáng tạo CN Mác..."-ĐH VII
+**Câu 42:** Để truyền tải nội dung video lên web, bạn nên chọn định dạng nào?
+→ **Đáp án: C. MP4**
 
-“Tất cả quyền bính trong nước đều là của toàn thể nhân dân Việt Nam, không phân biệt nòi giống, gái trai, giàu nghèo, giai cấp, tôn giáo; những việc quan hệ đến vận mệnh quốc gia sẽ đưa ra toàn dân phúc quyết" - Hiến pháp năm 1946.
+**Câu 43:** Một hệ thống bán hàng cần giới thiệu sản phẩm bằng video và ảnh, bạn nên chọn nền tảng nào?
+→ **Đáp án: C. Web đa phương tiện**
 
-"Toàn đảng ra sức học tập đường lối, chính trị, tác phong và đạo đức của HCM" -Văn kiện ĐH II(1951)
+**Câu 44:** Khi cần phát triển ứng dụng học ngôn ngữ với âm thanh và hình ảnh, bạn nên chọn gì?
+→ **Đáp án: C. App đa phương tiện**
 
-"Toàn Đảng,toàn dân đoàn kết phấn đấu xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ và giàu mạnh, và góp phần xứng đáng vào sự nghiệp cách mạng thế giới."- Di chúc 1969
+**Câu 45:** Để làm website chứa hình ảnh, âm thanh và video bạn cần gì?
+→ **Đáp án: A. HTML5**
 
-“Tinh thần yêu nước chân chính khác hẳn với tinh thần “vị quốc” của bọn đế quốc phản động" - Báo cáo chính trị tại Đại hội II.
+**Câu 46:** Nếu muốn làm phần mềm tương tác học tập có hình ảnh, âm thanh, bạn nên tích hợp gì?
+→ **Đáp án: C. Video + Quiz + Giao diện**
 
-“Tinh thần yêu nước là kiên quyết giữ gìn nền độc lập, tự do... Tinh thần quốc tế là đoàn kết với các nước bạn và nhân dân các nước khác để giữ gìn hòa bình thế giới... đó là lập trường quốc tế cách mạng” - Thường thức chính trị.
+**Câu 47:** Khi đánh giá chất lượng truyền tải video qua mạng, bạn nên kiểm tra gì?
+→ **Đáp án: B. Độ trễ và độ nén**
 
-“Trong giai đoạn này, quyền lợi của giai cấp công nhân và nhân dân lao động và của dân tộc là một. Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động Việt Nam, cho nên nó phải là Đảng của dân tộc Việt Nam” - Báo cáo chính trị tại Đại hội II.
+**Câu 48:** Bạn được yêu cầu tạo video minh họa dạng mô phỏng 3D, bạn nên dùng gì?
+→ **Đáp án: C. Blender**
 
-“Trong lúc này quyền lợi của bộ phận, của giai cấp phải đặt dưới sự sinh tử, tồn vong của quốc gia, của dân tộc... nếu không giải quyết được vấn đề dân tộc giải phóng... thì chẳng những toàn thể quốc gia dân tộc còn chịu mãi kiếp ngựa trâu...” - Hội nghị TW Đảng, tháng 5 – 1941.
+**Câu 49:** Nếu muốn tạo một bài học tương tác online, công cụ nào nên dùng?
+→ **Đáp án: A. Moodle**
 
-“Trong Đảng thực hành dân chủ rộng rãi...." - Di chúc.
+**Câu 50:** Để nhận diện nội dung từ video, bạn cần kỹ thuật gì?
+→ **Đáp án: C. Phân tích đặc trưng hình ảnh và âm thanh**
 
-“Trước cách mạng Tháng Tám và trong kháng chiến, thì nhiệm vụ tuyên huấn là làm cho đồng bào các dân tộc hiểu được mấy việc: Một là đoàn kết. Hai là làm cách mạng hay kháng chiến để đòi độc lập...” - Hồ Chí Minh nói chuyện với cán bộ năm 1963.
+---
 
-"Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì hên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi." - ĐCK
+## Phần 2: Âm thanh trong Đa phương tiện (Câu 51 - 100)
 
-"Trên đời này có hai giống người.."-Đoàn kết giai cấp
+**Câu 51:** Âm thanh là gì trong công nghệ đa phương tiện?
+→ **Đáp án: B. Dữ liệu số đại diện tín hiệu âm**
 
-“Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người” - Hồ Chí Minh.
+**Câu 52:** Đơn vị đo cường độ âm thanh là gì?
+→ **Đáp án: A. Decibel (dB)**
 
-"Vô sản tất cả các nước, đoàn kết lại"-Lenin
+**Câu 53:** Tần số âm thanh con người nghe được nằm trong khoảng nào?
+→ **Đáp án: B. 20–20.000 Hz**
 
-"Việt Nam “Sẵn sàng là bạn" với các nước trong công đồng quốc tế"-ĐH VII
+**Câu 54:** Kỹ thuật nén âm thanh phổ biến là?
+→ **Đáp án: B. MP3**
 
-"Việc cần phải làm trước tiên là chỉnh đốn lại Đảng.."- Di chúc
+**Câu 55:** Tín hiệu âm thanh được số hóa bằng kỹ thuật nào?
+→ **Đáp án: B. Quantization**
 
-"Sự ptr của xh loài người là qtr tự nhiên" -Mác
+**Câu 56:** Đặc trưng nào sau đây KHÔNG thuộc về âm thanh?
+→ **Đáp án: C. Độ phân giải**
 
-"Sự nghiệp CM của Đảng và của nhân dân ta 76 năm qua..."-ĐH X(2006)
+**Câu 57:** Định dạng tệp âm thanh không nén là gì?
+→ **Đáp án: C. WAV**
 
-"Sự giải phóng của giai cấp công nhân là sự nghiệp của bản thân giai cấp công nhân" - Mác
+**Câu 58:** Định dạng nào thường dùng cho nén âm thanh trên Internet?
+→ **Đáp án: B. MP3**
 
-"Xây dựng nền vhoa và con người..."-ĐH XI
+**Câu 59:** Kỹ thuật nào dùng để phân tích thành phần tần số của tín hiệu âm thanh?
+→ **Đáp án: A. Biến đổi Fourier**
 
-"Xã hội XHCN là một liên hiệp của những người lao động, tự do của mỗi người là điều kiện tự do của mọi người"- Lenin
+**Câu 60:** Một số phần mềm xử lý âm thanh phổ biến là?
+→ **Đáp án: B. Audacity**
 
-Trong tác phẩm Đường Cách Mệnh, Nguyễn Ái Quốc phân biệt ba loại cách mạng: cách 
-mạng tư sản, cách mạng vô sản và cách mạng giải phóng dân tộc
+**Câu 61:** Bộ đặc trưng phổ biến trong trích chọn âm thanh là?
+→ **Đáp án: A. MFCC**
 
-Năm 1953, Hồ Chí Minh viết: “Đảng Lao động là tổ chức cao nhất của giai cấp cần lao và đại biểu cho lợi ích 
-của cả dân tộc…Đảng là Đảng của giai cấp lao động, mà cũng là Đảng của toàn dân”.
+**Câu 62:** Công cụ nào KHÔNG dùng trong xử lý âm thanh?
+→ **Đáp án: C. SQL Server**
 
-Năm 1957, Hồ Chí Minh khẳng định: Đảng là đội tiên phong của giai cấp công nhân, đồng thời cũng là đội 
-tiên phong của dân tộc.
+**Câu 63:** Trong âm thanh, thuật ngữ "sampling rate" chỉ gì?
+→ **Đáp án: B. Tần số lấy mẫu**
 
-6/1/1946 - Cuộc Tổng tuyển cử bầu Quốc hội khóa I của Việt Nam
-27 -11 -1946, Hồ Chí Minh đã ký sắc lệnh ấn 
-định tội đưa và nhận hối lộ với mức tù từ 5 năm đến 20 năm tù khổ sai và phải nộp phạt gấp đôi 
-số tiền nhận hối lộ.
-26 – 1 – 1946, Hồ Chí Minh ký lệnh nói rõ tội tham ô, trộm cắp của 
-công dân là tội tử hình.
+**Câu 64:** Tên một codec âm thanh phổ biến là?
+→ **Đáp án: B. MP3**
 
-Trong thời kỳ Miền Bắc xây dựng chủ nghĩa xã hội, năm 1961, Hồ Chí Minh tiếp tục khẳng định: Đảng ta là Đảng của giai cấp, đồng thời cũng là của dân tộc, không thiên tư, thiên vị. 
-
-Năm 1965, Hồ Chí Minh cho rằng: Đảng ta xứng đáng là đội tiên phong, là bộ 
-tham mưu của giai cấp vô sản, của nhân dân lao động và của cả dân tộc.
-
-Hội phản đế Đông Dương(Hội pđ đồng minh) (1930)
-Mặt trận dân chủ Đông Dương (1936)
-Mặt trận  phản đế Đông Dương (1939)
-Mặt trận Việt Minh (19/5/1941) 
-Mặt trận Liên Việt (1951)
-Mặt trận Tổ quốc Việt Nam (1955)
-Mặt trận giải phóng Miền Nam (1960)
-Mặt trận Tổ quốc Việt Nam (1976)
-
-
-Hội nghị lần thứ VIII Ban chấp hành Trung ương Đảng ( tháng 5 năm 1941 ) do chủ tịch 
-Hồ Chí Minh chủ trì đã kiên quyết dương cao ngọn cờ giải phóng dân tộc, nhấn mạnh đó là 
-“nhiệm vụ bức thiết nhất”, chủ trương tạm gác khẩu hiệu “ cách mạng ruộng đất”
-
-Tác phẩm Đường Cách mệnh năm 1927 của Hồ Chí Minh là sự chuẩn bị mọi mặt về chính trị,
-tư tưởng, tổ chức cho sự ra đời của Đảng Cộng sản Việt Nam
-
-CHƯƠNG I: KHÁI NIỆM, PHƯƠNG PHÁP NGCUU
-Quá trình nhận thức của Đảng về tư tưởng Hồ Chí Minh
-- Hội nghị thành lập Đảng (3.2.1930): Khẳng định những nội dung cơ bản trong tư tưởng Hồ Chí Minh về đường lối cách mạng Việt Nam
-- Quan điểm QTCS và một số đại biểu của ĐCS Đông Dương (Sau năm 1930): đã phê phán HCM trên một số phương diện về đường lối và lực lượng
-- Đại hội II (1951): Học tập đường lối chính trị, tác phong đạo đức cách mạng Hồ Chí Minh
-- Điếu văn của BCHTW  Đảng (9.1969): Hồ Chí Minh: Anh hùng giải phóng dân tộc
-- Đại hội IV (1976): Hồ Chí Minh: Anh hùng giải phóng dân tộc, người chiến sĩ cộng sản quốc tế lỗi lạc
-- Đại hội V (1982): Đặc biệt coi trọng học tập tư tưởng, đạo đức, tác phong Hồ Chí Minh
-- Đại hội VI (1986): “Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin, 
-    kế thừa di sản quý báu về tư tưởng và lý luận của Chủ tịch Hồ Chí Minh”
-- Đại hội VII (1991): DẤU MỐC “Đảng lấy chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, kim chỉ nam cho hành động” 
-- Đại hội IX (2001): là bạn và đối tác tin cậy, 
-- Đại hội XI: Khái niệm TTHCM 
-- Đại hội XII (2016):  Kiên định chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh, 
-    vân dụng sáng tạo và phát triển phù hợp với thực tiễn Việt Nam 
-
-I. KHÁI NIỆM TƯ TƯỞNG HỒ CHÍ MINH
-Định nghĩa "Tư tưởng" (tầm khái quát triết học)
-	Là một hệ thống các quan điểm, quan niệm, luận điểm xây dựng trên nền tảng TRIẾT HỌC (thế giới quan và phương pháp luận) nhất quán.
-	Đại biểu cho ý chí, nguyện vọng của một GIAI CẤP, một DÂN TỘC.
-	Hình thành trên cơ sở THỰC TIỄN và trở lại chỉ đạo hoạt động thực tiễn.
-Các mốc nhận thức của Đảng (Trọng tâm thi trắc nghiệm)
-	Đại hội VII (1991): Cột mốc quan trọng, khẳng định: Đảng lấy chủ nghĩa Mác – Lênin và tư tưởng Hồ Chí Minh làm NỀN TẢNG TƯ TƯỞNG, KIM CHỈ NAM cho hành động.
-	Đại hội IX và XI: Hoàn thiện định nghĩa tư tưởng Hồ Chí Minh là hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam.
-Nội hàm khái niệm Tư tưởng Hồ Chí Minh
-Bản chất: Hệ thống quan điểm toàn diện, sâu sắc, phản ánh những vấn đề có tính quy luật của cách mạng Việt Nam.
-Nguồn gốc lý luận:
-	Chủ nghĩa Mác – Lênin (nguồn gốc TRỰC TIẾP quyết định bản chất khoa học).
-	Giá trị văn hóa dân tộc.
-	Tinh hoa văn hóa nhân loại.
-Hạt nhân cốt lõi: Tư tưởng về ĐỘC LẬP DÂN TỘC GẮN LIỀN VỚI CHỦ NGHĨA XÃ HỘI nhằm giải phóng dân tộc, giai cấp và con người.
-
---------------------------------------------------------------------------------
-II. ĐỐI TƯỢNG VÀ NHIỆM VỤ NGHIÊN CỨU
-Đối tượng nghiên cứu
-	Không chỉ là hệ thống quan điểm trong di sản chữ viết (bài nói, bài viết) mà còn 
-	là QUÁ TRÌNH VẬN ĐỘNG, HIỆN THỰC HÓA các quan điểm đó trong thực tiễn.
-	Quá trình này mang tính quy luật, thống nhất giữa SẢN SINH tư tưởng và HIỆN THỰC HÓA tư tưởng.
-Mối quan hệ với các môn học khác
-	Với môn Nguyên lý chủ nghĩa Mác - Lênin: Là mối quan hệ giữa cơ sở thế giới quan/phương pháp luận và sự vận dụng sáng tạo.
-	Với môn Đường lối cách mạng của ĐCSVN: Tư tưởng Hồ Chí Minh là cơ sở khoa học để xây dựng đường lối; học Tư tưởng HCM để nắm vững kiến thức về đường lối của Đảng.
-
---------------------------------------------------------------------------------
-III. CƠ SỞ PHƯƠNG PHÁP LUẬN VÀ PHƯƠNG PHÁP NGHIÊN CỨU
-Cơ sở phương pháp luận (Các nguyên tắc "vàng")
-	Thống nhất tính Đảng và tính khoa học: Bảo đảm tính khách quan, tránh áp đặt, cường điệu hóa hoặc hiện đại hóa tư tưởng của Người.
-	Quan điểm thực tiễn: Lý luận gắn liền với thực tiễn, lời nói đi đôi với việc làm; thực tiễn là tiêu chuẩn của chân lý.
-	Quan điểm lịch sử - cụ thể: Xem xét hiện tượng trong các giai đoạn phát triển lịch sử nhất định.
-	Quan điểm toàn diện và hệ thống: Không tách rời các yếu tố trong hệ thống tư tưởng, đặc biệt là mối quan hệ giữa độc lập dân tộc và CNXH.
-	Quan điểm kế thừa và phát triển: Biết kế thừa và phát triển sáng tạo trong bối cảnh lịch sử mới.
-Các phương pháp cụ thể
-	Vận dụng phương pháp LỊCH SỬ và LOGIC để tìm ra bản chất sự vật.
-	Vận dụng phương pháp LIÊN NGÀNH (triết học, kinh tế, quân sự, văn hóa...).
-	Các phương pháp hỗ trợ: phân tích, tổng hợp, so sánh, thống kê trắc lượng, văn bản học, phỏng vấn nhân chứng lịch sử.
-
---------------------------------------------------------------------------------
-IV. Ý NGHĨA HỌC TẬP ĐỐI VỚI SINH VIÊN
-	Nâng cao năng lực TƯ DUY LÝ LUẬN và phương pháp công tác.
-	Bồi dưỡng phẩm chất cách mạng và rèn luyện BẢN LĨNH CHÍNH TRỊ.
-	Xây dựng lập trường cách mạng, kiên định mục tiêu độc lập dân tộc gắn liền với CNXH.
-
-
-
-CHƯƠNG II: Cơ sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh
-1. Cơ sở khách quan hình thành tư tưởng Hồ Chí Minh
-Bối cảnh lịch sử Việt Nam (cuối XIX - đầu XX):
-  Thực dân Pháp xâm lược; triều đình nhà Nguyễn đầu hàng
-		1. Hiệp ước Nhâm Tuất 1862
-		2. Hiệp ước Hoà Tuất 1874
-		3. Hiệp ước Quý Mùi 1883
-		4. Hiệp ước Pa – tơ – nốt 1884
-  Thất bại của phong trào Cần vương (hệ tư tưởng phong kiến lỗi thời)
-  Sự bế tắc của các xu hướng cứu nước mới: Phan Bội Châu (Đông Du)(dùng bạo lực, cầu ngoại viện - Nhật),
-  Phan Chu Trinh (cải cách "ỷ Pháp cầu tiến bộ"), Hoàng Hoa Thám(Cần vương) (vẫn nặng cốt cách phong kiến)
-Bối cảnh thời đại:
-  CNTB chuyển sang giai đoạn độc quyền (chủ nghĩa đế quốc); chủ nghĩa đế quốc là kẻ thù chung của các dân tộc thuộc địa
-  Cách mạng Tháng Mười Nga (1917): Làm "thức tỉnh các dân tộc Châu Á", mở ra thời đại cách mạng vô sản
-  Sự ra đời của Quốc tế Cộng sản (tháng 3-1919)
-Tiền đề tư tưởng - lý luận:
-  Giá trị truyền thống dân tộc: Chủ nghĩa yêu nước là cội nguồn trí tuệ, là chuẩn mực đạo đức cơ bản của dân tộc
-a. Tinh hoa văn hóa nhân loại:
-    A. Nho giáo
-Tích cực Hồ Chí Minh tiếp thu
-  - Triết lý hành động, nhập thế, giúp đời, Ước vọng xã hội thái bình, Tu thân dưỡng tính,Đề cao văn hóa, lễ giáo,
-  - Đề cao vai trò nhân dân: “Dân vi quý, xã tắc thứ chi, quân vi khinh”
-  - Đạo đức khí tiết: “Phú quý bất năng dâm – Bần tiện bất năng di – Uy vũ bất năng khuất”
-  - Hình thành phẩm chất: Trung với nước – hiếu với dân, Cần, kiệm, liêm, chính, chí công vô tư
-  - Hiếu học
-  - Bình đẳng giáo dục: “Hữu giáo vô loại” (giáo dục không phân biệt đẳng cấp)
-Tiêu cực Hồ Chí Minh phê phán: Bảo vệ chế độ phong kiến,Phân chia đẳng cấp: quân tử – tiểu nhân,Trọng nam khinh nữ,Đề cao người đọc sách
-Mục tiêu:
-  Củng cố trật tự phong kiến
-  Bảo vệ quyền lực tuyệt đối của vua
-B. Phật giáo
-Nội dung tiếp thu: Tư tưởng nhân văn, vị tha,Cứu khổ cứu nạn,Thương người như thể thương thân,Sống đạo đức, giản dị, làm điều thiện
-  Tinh thần bình đẳng, dân chủ, Chống phân biệt đẳng cấp, Gắn bó với dân, với nước, Không xa lánh việc đời,Đề cao lao động, Kết hợp với chủ nghĩa yêu nước
-Tư tưởng triết học
-  - Chân như: thế giới tồn tại vĩnh hằng
-  - Nhân quả: Vạn vật biến đổi theo quy luật
-Đề cao:Sức mạnh con người,Bình đẳng – bác ái – vị tha,Tư tưởng vô ngã
-C. Lão giáo
-Nội dung tiếp thu: Yếu tố biện chứng, Hòa hợp với thiên nhiên,Không màng danh lợi,Vì nước vì dân
-Kết hợp: Nhập thế hành động, Xuất thế vô vi
-Biểu hiện trong tư tưởng Hồ Chí Minh: tư tưởng
-của Hồ Chí Minh thể hiện ở tác phẩm Đời Sống Mới (1947)
-  - “Liêm”:: trong sạch, không tham lam
-Phê phán: tham tiền của,tham địa vị,tham danh tiếng
-Lối sống: thanh đạm, gần thiên nhiên, xa vòng danh lợi
-b. Tinh hoa văn hóa phương Tây
-Nội dung tiếp thu: Văn hóa dân chủ cách mạng phương Tây
-Tìm hiểu: Cách mạng Pháp,Cách mạng Mỹ
-Tiếp thu tư tưởng: Tự do – Bình đẳng – Bác ái
-Các nhà tư tưởng ảnh hưởng: Voltaire, Jean-Jacques Rousseau, Montesquieu
-Văn kiện ảnh hưởng: French Revolution (Tuyên ngôn Nhân quyền và Dân quyền)
-United States Declaration of Independence(quyền:được sống,tự do,mưu cầu hạnh phúc)
-Ảnh hưởng khác: Lòng nhân ái của Thiên Chúa giáo
-Kế thừa: tự do, bình đẳng, bác ái
-  Chủ nghĩa Mác - Lênin: Là cơ sở thế giới quan, phương pháp luận và là nguồn gốc lý luận trực tiếp quyết định bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh
-2. Nhân tố chủ quan
-Khả năng tư duy và trí tuệ: Hồ Chí Minh không ngừng quan sát, nhận thức thực tiễn để khái quát thành lý luận
-Phẩm chất đạo đức: Tư duy độc lập, tự chủ, sáng tạo; bản lĩnh kiên định; trái tim yêu nước thương dân nồng nàn
-3. Năm giai đoạn hình thành và phát triển
-Trước 1911: Hình thành tư tưởng yêu nước và chí hướng cứu nước
-1911 - 1920: Tìm thấy con đường cứu nước, giải phóng dân tộc. 
-	Hồ Chí Minh gia nhập Đảng Xã hội Pháp vào 2/1919
-	Sự kiện Hồ Chí Minh thay mặt những người Việt Nam yêu nước ở Pháp, lấy tên Nguyễn Ái Quốc, gửi Yêu sách của nhân dân An Nam tới Hội nghị Versailles (18-6-1919). - đánh dấu bước trưởng thành trong tư duy đấu tranh chính trị của Người
-Sự kiện quan trọng nhất(bước ngoặt quan trọng): Đọc Sơ thảo lần thứ nhất những luận cương về  
-vấn đề dân tộc và vấn đề thuộc địa của Lênin (7/1920) và biểu quyết tán thành Quốc tế III Tháng 12/1920, 
-  tham gia đại hội 18 Đảng xã hội Pháp tại thành phố Tua. 
-  Tại đây, Nguyễn Ái Quốc đã bỏ phiếu tán thành Đảng xã hội Pháp gia nhập Quốc tế Cộng sản, trở thành một trong những người sáng lập Đảng cộng sản Pháp.
-  Đây là sự kiện đánh dấu sự chuyển biến (về chất) từ chủ nghĩa yêu nước đến chủ nghĩa Lênin, từ giác ngộ dân tộc đến giác ngộ giai cấp, từ người yêu nước thành người cộng sản của Nguyễn Ái Quốc
-1921 - 1930: Hình thành cơ bản tư tưởng về cách mạng Việt Nam. 
-  + Năm 1921- 1923: Hồ Chí Minh tham gia ban nghiên cứu thuộc địa của Đảng cộng sản Pháp tham gia sáng lập “Hội liên hiệp thuộc địa” ngày 26.6.1921, xuất bản báo “Người cùng khổ”. 
-	+ Năm 1923 -1924: Đến Liên Xô, hoạt động trong Quốc tế cộng sản, tham gia Đại hội nông dân Quốc tế, Đại hội Quốc tế công hội đỏ, Đại hội V Quốc tế cộng sản, tham gia khoá học ngắn hạn tại trường đại học Phương Đông của Quốc tế cộng sản, làm việc tại ban Phương Đông của Quốc tế cộng sản.
-	+ Năm 1924 - 1927: Đến Trung Quốc làm nhiệm vụ đặc phái viên của Quốc tế cộng sản. Thành lập Việt Nam cách mạng thanh niên (tháng 6.1925), ra báo Thanh niên, mở các lớp huấn luyện chính trị, đào tạo cán bộ đưa họ về nước hoạt động.
-  + Năm 1928 – 1929: Hồ Chí Minh hoạt động ở Thái Lan, chỉ đạo phong trào yêu nước của Việt Kiều Thái Lan
-  + Năm 1929 – 1930: Trở về Trung Quốc, chủ trì Hội nghị thành lập Đảng (3.2.1930) tại bán đảo Cửu Long (Hương Cảng, Trung Quốc)
-
-Các tác phẩm tiêu biểu: Bản án chế độ thực dân Pháp (1925), Đường cách mệnh (1927), Cương lĩnh đầu tiên của Đảng (1930)
-1930 - 1945: Vượt qua thử thách, giữ vững lập trường cách mạng. Kiên trì bảo vệ quan điểm về vấn đề dân tộc trước khuynh hướng "tả" của Quốc tế Cộng sản
-1. QUỐC TẾ CỘNG SẢN VÀ KHUYNH HƯỚNG “TẢ” (1930)
-- Cuối những năm 20 – đầu 30 thế kỷ XX:
-  + Quốc tế Cộng sản bị chi phối bởi khuynh hướng “tả”
-  + Đề cao đấu tranh giai cấp
-  + Xem nhẹ vấn đề dân tộc
-
-2. HỘI NGHỊ TRUNG ƯƠNG THÁNG 10/1930
-- Thời gian: 14 – 31/10/1930
-- Địa điểm: Hương Cảng
-Nội dung:
-- Đổi tên:
-  + Đảng Cộng sản Việt Nam
-  -> Đảng Cộng sản Đông Dương
-- Phê phán:
-  + Chánh cương vắn tắt
-  + Sách lược vắn tắt
-  vì cho rằng:
-  “chỉ lo phản đế mà quên đấu tranh giai cấp”
-- Chủ trương:
-  + “Thủ tiêu Chánh cương, Sách lược”
-  + Bônsêvích hóa Đảng
-  + Làm theo nghị quyết Quốc tế Cộng sản
-
-3. QUAN ĐIỂM CỦA NGUYỄN ÁI QUỐC
-- Kiên trì:
-  + Độc lập dân tộc
-  + Gắn với chủ nghĩa xã hội
-- Kết hợp:
-  + Vấn đề dân tộc
-  + Vấn đề giai cấp
- Chống:
-  + “tả” khuynh
-  + biệt phái
-  + giáo điều máy móc
-
-4. THỰC TIỄN CHỨNG MINH NGUYỄN ÁI QUỐC ĐÚNG
-Đại hội VII Quốc tế Cộng sản (1935):
-- Phê phán khuynh hướng “tả”
-- Chủ trương:
-  + Mặt trận dân tộc thống nhất
-  + Chống chủ nghĩa phát xít
-- Bác bỏ:
-  + “cách mạng công nông”
-  + “chính phủ Xô viết”
-=> Chứng minh quan điểm Nguyễn Ái Quốc đúng đắn
-
-5. CHUYỂN HƯỚNG ĐẤU TRANH 1936 – 1939
-- Phê phán:
-  + “tả” khuynh
-  + cô độc
-  + biệt phái
-- Thành lập:
-  + 1936: Mặt trận Nhân dân phản đế Đông Dương
-  + 3/1938: đổi thành Mặt trận Dân chủ Đông Dương
-- Nội dung:
-  + Phân hóa kẻ thù
-  + Tranh thủ đồng minh
-  + Tập trung chống đế quốc
-=> Quay lại tư tưởng trong:
-- Chánh cương vắn tắt
-- Sách lược vắn tắt
-
-6. NGUYỄN ÁI QUỐC TRỞ VỀ NƯỚC
-- Theo dõi cách mạng trong nước
-- Viết:
-  + 8 điểm chỉ đạo cách mạng Đông Dương
-Mốc thời gian:
-- 10/1938:
-  + từ Matxcơva về Trung Quốc
-- 28/1/1941:
-  + về nước sau 30 năm hoạt động ở nước ngoài
-
-7. HỘI NGHỊ TRUNG ƯƠNG VIII (1941)
-- Nguyễn Ái Quốc chủ trì
-Nội dung:
-- Hoàn chỉnh chuyển hướng chiến lược cách mạng
-- Đặt nhiệm vụ hàng đầu:
-  + Giải phóng dân tộc
-Ý nghĩa:
-- Quyết định chiều hướng phát triển cách mạng
-- Dẫn tới thắng lợi Cách mạng Tháng Tám 1945
-
-1945 - 1969: Tư tưởng Hồ Chí Minh tiếp tục phát triển, hoàn thiện. Đề ra đường lối vừa kháng chiến vừa kiến quốc; chân lý "Không có gì quý hơn độc lập, tự do" (1966)
-1. TÌNH HÌNH SAU CÁCH MẠNG THÁNG TÁM 1945
-- Chính quyền cách mạng còn non trẻ
-- Tình thế:
-  + “Ngàn cân treo sợi tóc”
-Khó khăn:
-- 23/9/1945:
-  + Thực dân Pháp quay lại xâm lược Nam Bộ
-- Miền Bắc:
-  + hơn 20 vạn quân Tưởng kéo vào
-  + âm mưu tiêu diệt Đảng
-  + bóp chết nước Việt Nam Dân chủ Cộng hòa
-
-2. CHỦ TRƯƠNG CỦA HỒ CHÍ MINH
-Về đối nội:
-- Củng cố chính quyền cách mạng
-- Chống:
-  + giặc đói
-  + giặc dốt
-- Khắc phục khó khăn tài chính
-Về đối ngoại:
-- Sách lược:
-  + mềm dẻo
-  + khôn khéo
-- “Thêm bạn bớt thù”
-- “Dĩ bất biến, ứng vạn biến”
-- Tranh thủ thời gian chuẩn bị kháng chiến lâu dài
-
-3. KHÁNG CHIẾN TOÀN QUỐC CHỐNG PHÁP
-- 19/12/1946:
-  + Hồ Chí Minh phát động toàn quốc kháng chiến
-Đường lối kháng chiến:
-- Vừa kháng chiến vừa kiến quốc
-- Kháng chiến:
-  + toàn dân
-  + toàn diện
-  + trường kỳ
-  + tự lực cánh sinh
-
-4. XÂY DỰNG ĐẢNG VÀ ĐẠO ĐỨC CÁCH MẠNG
-Hồ Chí Minh chú trọng:
-- Xây dựng Đảng
-- Xây dựng cán bộ
-Chống:
-- quan liêu
-- mệnh lệnh
-Đạo đức cách mạng:cần,kiệm,liêm,chính,chí công vô tư
-Phong trào:
-- Thi đua ái quốc
-
-5. ĐẠI HỘI II CỦA ĐẢNG (1951)
-Mục đích:
-- Tăng cường lãnh đạo kháng chiến
-Nội dung:
-- Đưa Đảng hoạt động công khai
-- Đổi tên: Đảng Lao động Việt Nam
-Chủ trương:
-- Thành lập Đảng riêng ở: Lào Campuchia
-Thông qua:
-- Cương lĩnh mới
-- Điều lệ mới
-Ý nghĩa:
-- Giải quyết đúng mối quan hệ:
-  + dân tộc
-  + giai cấp
-- Động viên toàn dân kháng chiến thắng lợi
-
-6. THẮNG LỢI KHÁNG CHIẾN CHỐNG PHÁP (1954)
-- 1954: Kháng chiến chống Pháp thắng lợi
-7. SAU HIỆP ĐỊNH GENÈVE 1954
-Tình hình:
-- Miền Bắc: + hoàn toàn giải phóng
-- Đất nước: + tạm thời chia cắt
-Kẻ thù chính:- Đế quốc Mỹ- Chính quyền tay sai
-
-8. NHIỆM VỤ CÁCH MẠNG HAI MIỀN
-Miền Bắc:
-- Thuộc: cách mạng xã hội chủ nghĩa
-- Vai trò:
-  + quyết định sự phát triển toàn bộ cách mạng Việt Nam
-  + quyết định sự nghiệp thống nhất đất nước
-Miền Nam:
-- Thuộc: cách mạng dân tộc dân chủ nhân dân
-- Vai trò:
-  + quyết định trực tiếp giải phóng miền Nam
-  + thực hiện hòa bình, thống nhất Tổ quốc
-
-4. Giá trị tư tưởng Hồ Chí Minh
-Đối với dân tộc: Là tài sản tinh thần vô giá; là nền tảng tư tưởng và kim chỉ nam cho hành động của cách mạng Việt Nam
-Đối với thế giới: Phản ánh khát vọng thời đại; đóng góp vào kho tàng lý luận Mác - Lênin; cổ vũ phong trào giải phóng dân tộc toàn cầu
-
-
-CHƯƠNG III 
-TƯ TƯỞNG HỒ CHÍ MINH VỀ VẤN ĐỀ DÂN TỘC  
-VÀ CÁCH MẠNG GIẢI PHÓNG DÂN TỘC 
-I. TƯ TƯỞNG HỒ CHÍ MINH VỀ VẤN ĐỀ DÂN TỘC
-Thực chất của vấn đề dân tộc thuộc địa
-	Hồ Chí Minh không bàn vấn đề dân tộc nói chung mà tập trung vào vấn đề dân tộc thuộc địa (Mác LN bàn về đấu tranh giai cấp)
-	Thực chất là: Đấu tranh chống chủ nghĩa thực dân, xóa bỏ ách áp bức, giành độc lập dân tộc và thực hiện quyền dân tộc tự quyết
-	Mâu thuẫn chủ yếu ở thuộc địa là: Dân tộc bị áp bức đối kháng với chủ nghĩa đế quốc/thực dân (mâu thuẫn không thể điều hòa)
-	Con đường phát triển: Độc lập dân tộc gắn liền với chủ nghĩa xã hội (làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản)
-	Độc lập dân tộc – Nội dung cốt lõi
-	Cách tiếp cận: Đi từ quyền con người (quyền sống, tự do, mưu cầu hạnh phúc) khái quát lên thành quyền dân tộc
-	Nội dung: Độc lập dân tộc phải là nền độc lập thật sự, hoàn toàn gắn với hòa bình, thống nhất, toàn vẹn lãnh thổ
-	Năm 1919, Nguyễn Ái Quốc gửi tới hội nghị Versaille bản yêu sách gồm 8 điểm
-	Đầu năm 1930, Nguyễn Ái Quốc soạn thảo Cương lĩnh chính  trị đầu tiên  của Đảng
-	Tháng 5 – 1941, Hồ Chí Minh chủ trì Hội nghị lần thứ VIII Ban Chấp hành trung ương 
-	Đảng, viết thư Kính cáo đồng bào, chỉ rõ: “trong lúc này quyền lợi dân tộc giải phóng cao hơn 
-	hết thảy” 
-	Khẩu hiệu hành động/Chân lý thời đại: "Không có gì quý hơn độc lập, tự do" (1966)
-	Động lực lớn: Chủ nghĩa yêu nước chân chính là một bộ phận của tinh thần quốc tế
-Mối quan hệ giữa Dân tộc và Giai cấp
-	Nguyên tắc: Nhận thức và giải quyết vấn đề dân tộc trên quan điểm giai cấp
-	Thứ tự ưu tiên: Giải phóng dân tộc là vấn đề trên hết, trước hết
-	Tiền đề: Giải phóng dân tộc tạo tiền đề để giải phóng giai cấp; lợi ích giai cấp phải phục tùng lợi ích dân tộc
-	Quan điểm quốc tế: Giữ vững độc lập dân tộc mình đồng thời tôn trọng độc lập của dân tộc khác ("giúp bạn là tự giúp mình")
-
---------------------------------------------------------------------------------
-II. TƯ TƯỞNG HỒ CHÍ MINH VỀ CÁCH MẠNG GIẢI PHÓNG DÂN TỘC
-Tính chất và nhiệm vụ
-	Tính chất: Cách mạng thuộc địa là "dân tộc cách mệnh", đánh đuổi ngoại xâm, giành độc lập
-	Nhiệm vụ hàng đầu: Giải phóng dân tộc. (Khác với quan điểm giáo điều của Quốc tế Cộng sản lúc bấy giờ là nhấn mạnh đấu tranh giai cấp và ruộng đất).
-Con đường và Lãnh đạo
-	Con đường: Cách mạng vô sản (giải phóng giai cấp vô sản thì mới giải phóng được dân tộc).
-	Lãnh đạo: Phải do Đảng Cộng sản cầm quyền (Đảng là người cầm lái thì thuyền cách mệnh mới chạy).
-Lực lượng và Động lực
-	Lực lượng: Toàn dân tộc (sĩ, nông, công, thương đều nhất trí chống cường quyền).
-	Động lực/Gốc cách mạng: Công nhân và Nông dân (vì họ bị áp bức nặng nề nhất và đông đảo nhất).
-	Bạn đồng minh: Tiểu tư sản, trí thức, tư sản dân tộc và một bộ phận địa chủ vừa và nhỏ.
-Tính chủ động và sáng tạo (Cống hiến lý luận quan trọng nhất)
-	Quan điểm đột phá: Cách mạng giải phóng dân tộc ở thuộc địa có khả năng giành thắng lợi TRƯỚC cách mạng vô sản ở chính quốc.
-	Cơ sở: Nhấn mạnh vai trò nỗ lực tự giải phóng của dân tộc ("đem sức ta mà tự giải phóng cho ta").
-Phương pháp và Hình thái cách mạng
-	Phương pháp: Bạo lực cách mạng (kết hợp đấu tranh chính trị và đấu tranh vũ trang).
-	Tư tưởng nhân văn: Tận dụng mọi khả năng hòa bình, đàm phán; chiến tranh chỉ là giải pháp bắt buộc cuối cùng.
-	Hình thái: Khởi nghĩa toàn dân, chiến tranh nhân dân.
-	Phương châm chiến lược: Đánh lâu dài và Tự lực cánh sinh là chính (tranh thủ sự giúp đỡ quốc tế nhưng không ỷ lại).
-
-
-CHƯƠNG III 
-TƯ TƯỞNG HỒ CHÍ MINH VỀ CHỦ NGHĨA XÃ HỘI  
-VÀ CON ĐƯỜNG QUÁ ĐỘ LÊN CHỦ NGHĨA XÃ HỘI Ở VIỆT NAM 
-I. TƯ TƯỞNG HỒ CHÍ MINH VỀ CHỦ NGHĨA XÃ HỘI (CNXH) Ở VIỆT NAM
-Tính tất yếu của CNXH
-	Cơ sở lý luận: Tiếp thu vận dụng sáng tạo lý luận Mac – Lênin về sự phát triển tất yếu của các hình thái kinh tế - xã hội.
-	Thực tiễn Việt Nam: Sau khi giành độc lập theo con đường cách mạng vô sản, tiến lên CNXH là bước phát triển tất yếu để giải phóng dân tộc hoàn toàn và đem lại hạnh phúc cho nhân dân.
-	Khẳng định: "Chỉ có chủ nghĩa cộng sản mới cứu nhân loại".
-Đặc trưng bản chất của CNXH ở Việt Nam
-	Cách tiếp cận:
-	Từ yêu cầu giải phóng dân tộc.
-	Từ phương diện đạo đức: Hướng tới giá trị nhân đạo, nhân văn.
-	Từ văn hóa: Đây là cách tiếp cận bao trùm nhất.
-Đặc trưng tổng quát:
-	Chính trị: Chế độ do nhân dân làm chủ (vị trí tối thượng là DÂN).
-	Kinh tế: Nền kinh tế phát triển cao, gắn liền với khoa học - kỹ thuật; chế độ sở hữu công cộng về tư liệu sản xuất chủ yếu.
-	Xã hội: Không còn người bóc lột người; công bằng, lý tưởng.
-	Văn hóa, đạo đức: Phát triển cao, con người được giải phóng toàn diện.
-Mục tiêu và Động lực của CNXH
-	Mục tiêu:
-	Mục tiêu tổng quát: Không ngừng nâng cao đời sống vật chất và tinh thần của nhân dân.
-	Mục tiêu cụ thể: Chính trị (Dân làm chủ, Nhà nước có hai chức năng: dân chủ với nhân dân, chuyên chính với kẻ thù của nhân dân.), Kinh tế (Công nghiệp và nông nghiệp là "hai chân"), Văn hóa (Dân tộc - Khoa học - Đại chúng).
-Động lực:
-	Con người: Động lực quan trọng và quyết định nhất (Công - Nông - Trí thức là nòng cốt).
-Truyền thống yêu nước của dân tộc, sự đoàn kết cộng đồng, sức lao động sáng 
-tạo của nhân dân – đó là sức mạnh tổng hợp tạo nên động lực quan trọng của chủ nghĩa xã hội. 
-	Kinh tế: Giải phóng năng lực sản xuất, thực hiện chế độ khoán.
-	Sự lãnh đạo của Đảng: Hạt nhân trong hệ động lực.
-	Các yếu tố kìm hãm: Chủ nghĩa cá nhân (là "bệnh mẹ"), tham ô, lãng phí, quan liêu (là "giặc nội xâm").
-	Mối quan hệ nguồn lực: Nội lực là quyết định nhất, ngoại lực là rất quan trọng.
-
---------------------------------------------------------------------------------
-II. CON ĐƯỜNG, BIỆN PHÁP QUÁ ĐỘ LÊN CNXH Ở VIỆT NAM
-Đặc điểm và thực chất của thời kỳ quá độ (TKQD)
-	Loại hình: Quá độ gián tiếp (từ xã hội thuộc địa nửa phong kiến, nông nghiệp lạc hậu tiến lên CNXH không kinh qua giai đoạn phát triển tư bản chủ nghĩa).
-	Đặc điểm lớn nhất: Từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH không kinh qua TBCN.
-	Mâu thuẫn cơ bản: Nhu cầu phát triển cao của đất nước đối lập với thực trạng kinh tế - xã hội thấp kém.
-Nhiệm vụ và Nội dung xây dựng CNXH
-	Nhiệm vụ lịch sử: Xây dựng nền tảng vật chất kỹ thuật và cải tạo xã hội cũ, xây dựng xã hội mới (trong đó xây dựng là trọng tâm, lâu dài).
-	Nội dung:
-	Chính trị: Giữ vững vai trò lãnh đạo của Đảng.
-	Kinh tế: Ưu tiên phát triển kinh tế quốc doanh; phát triển cơ cấu kinh tế nhiều thành phần (Hồ Chí Minh là người đầu tiên chủ trương điều này).
-	Nông nghiệp: Là mặt trận hàng đầu.(công nghiệp là trọng tâm)
-	Trong lĩnh vực văn hóa – xã hội: Hồ Chí Minh nhấn mạnh đến vấn đề xây dựng con người mới
-Nguyên tắc, phương châm và biện pháp
-	Nguyên tắc:
-		a. Nguyên tắc thứ nhất: Quán triệt các nguyên lý cơ bản của chủ nghĩa Mác – Lênin về xây dựng chế độ mới. Hồ Chí Minh khẳng định xây dựng chủ nghĩa xã hội là một hiện tượng phổ biến mang tính quốc tế, nên cần nắm vững lý luận khoa học của thời đại và có thể tham khảo, học tập kinh nghiệm của các nước anh em. Tuy nhiên, Người đặc biệt lưu ý không được sao chép, máy móc, giáo điều vì mỗi nước có điều kiện cụ thể khác nhau.
-		b. Nguyên tắc thứ hai: Xuất phát từ điều kiện thực tế của dân tộc. Việc xác định bước đi và biện pháp phải căn cứ vào đặc điểm dân tộc, nhu cầu và khả năng thực tế của nhân dân. Người nhắc nhở phải chống việc quá tuyệt đối hóa cái riêng mà xa rời các nguyên lý chung, nhưng cũng phải chống lại việc áp dụng lý luận mà không tính đến các điều kiện lịch sử cụ thể của đất nước.
-	Phương châm: Dần dần, thận trọng, từ thấp đến cao, không chủ quan nôn nóng ("Tiến nhanh, tiến mạnh, tiến vững chắc" không có nghĩa là làm bừa).
-	Biện pháp quan trọng nhất: "Đem của dân, tài dân, sức dân, làm lợi cho dân" dưới sự lãnh đạo của Đảng.
-	- Thực hiện cải tạo xã hội cũ, xây dựng xã hội mới, kết hợp cải tạo với xây dựng, lấy xây 
-	dựng làm chính.
-	- Kết hợp xây dựng và bảo vệ, đồng thời tiến hành hai nhiệm vụ chiến lược ở hai miền 
-	Nam Bắc khác nhau trong phạm vi một quốc gia. 
-	-  Xây dựng chủ nghĩa xã hội phải có kế hoạch, biện pháp, quyết tâm để thực hiện tháng 
-	lợi kế hoạch 
-	- Trong điều kiện nước ta, biện pháp cơ bản, quyết định, lâu dài trong xây dựng chủ nghĩa 
-	xã hội là đem của dân tài dân, sức dân, làm lợi cho dân dưới sự lãnh đạo của Đảng của Đảng 
-	Cộng sản Việt Nam
-
-
-CHƯƠNG IV 
-TƯ TƯỞNG HỒ CHÍ MINH  
-VỀ ĐẢNG CỘNG SẢN VIỆT NAM
-I. QUAN NIỆM VỀ VAI TRÒ VÀ BẢN CHẤT CỦA ĐẢNG CỘNG SẢN VIỆT NAM (ĐCSVN)
-Sự ra đời của ĐCSVN
-	Công thức hình thành (đặc thù Việt Nam): Chủ nghĩa Mác – Lênin + Phong trào công nhân + Phong trào yêu nước.
-	Những lý do kết hợp dẫn đến việc hình thành Đảng Cộng sản Việt Nam:
-	- Phong trào yêu nước có vị trí, vai trò cực kỳ to lớn trong quá trình phát triển của dân tộc Việt Nam. 
-	- Phong trào công nhân kết hợp được với phong trào yêu nước vì hai phong trào đó đều có mục tiêu chung.
-	- Phong trào nông dân kết hợp với phong traò công nhân
-	- Phong trào yêu nước của trí thức Việt Nam là nhân tố quan trọng thúc đẩy sự kết hợp 
-	các yếu tố cho sự ra đời của Đảng cộng sản Việt Nam. 
-	Điểm sáng tạo: Hồ Chí Minh đưa thêm yếu tố "Phong trào yêu nước" vào sự hình thành Đảng (khác với quan điểm của Lênin chỉ gồm 2 yếu tố đầu).
-Vai trò của ĐCSVN
-	Đảng là nhân tố hàng đầu bảo đảm mọi thắng lợi của cách mạng.
-	Hình tượng so sánh: Đảng như "người cầm lái" cho con thuyền cách mạng.
-	Đảng có vững cách mệnh mới thành công.
-Bản chất của ĐCSVN
-	Đảng mang bản chất giai cấp công nhân.
-	Điểm đặc sắc: Đảng đồng thời là Đảng của nhân dân lao động và của dân tộc Việt Nam (đại diện lợi ích của toàn dân tộc).
-	Nền tảng tư tưởng và kim chỉ nam: Chủ nghĩa Mác – Lênin.
-
---------------------------------------------------------------------------------
-II. QUAN NIỆM VỀ ĐẢNG CẦM QUYỀN
-Khái niệm và mục đích
-	Cụm từ “Đảng cầm quyền” được Hồ Chí Minh ghi trong bản Di chúc năm 1969
-	"Đảng cầm quyền" là khi Đảng đã lãnh đạo nhân dân giành được chính quyền và trực tiếp lãnh đạo bộ máy nhà nước.
-	Mục đích tối cao: Vì lợi ích của tổ quốc, của nhân dân; phấn đấu cho độc lập dân tộc và chủ nghĩa xã hội.
-Đặc điểm của Đảng cầm quyền
-	Đảng vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân.(Quan điểm này của Hồ Chí Minh về Đảng cầm quyền là sự vận dụng, phát triển hết sức sáng tạo lý luận Mac – Lênin về Đảng vô sản kiểu mới.)
-	"Lãnh đạo" để xác định quyền duy nhất của Đảng; "Đầy tớ" là để tận tâm phục vụ nhân dân, không phải là "đè đầu cưỡi cổ dân".
-	Đảng cầm quyền, dân là chủ (quyền lực thuộc về nhân dân).
-
---------------------------------------------------------------------------------
-III. XÂY DỰNG ĐẢNG TRONG SẠCH, VỮNG MẠNH
-Tính tất yếu của việc xây dựng Đảng
-	Là quy luật tồn tại và phát triển của bản thân Đảng. Đảng thật sự là “một cơ thể sống” luôn tự hoàn thiện và vượt lên. 
-	Là nhiệm vụ thường xuyên, vừa cấp bách vừa lâu dài.
-Nội dung xây dựng Đảng
-	Về tư tưởng, lý luận: Lấy chủ nghĩa Mác – Lênin làm "cốt". Học tập phải tránh giáo điều. HCM lưu ý 4 điểm
-	Về chính trị: Xây dựng đường lối chính trị đúng đắn (vấn đề cốt tử).
-	Về tổ chức, bộ máy và cán bộ: (Hồ Chí Minh khẳng định sức mạnh của Đảng bắt nguồn 
-	từ tổ chức, một tổ chức tiên phong chiến đấu của giai cấp công nhân. )
-		Chi bộ là tổ chức hạt nhân, quyết định chất lượng lãnh đạo của Đảng.
-		Cán bộ là "cái gốc của mọi công việc".
-	Về đạo đức: Đảng phải "là đạo đức, là văn minh". Đảng viên phải thấm nhuần cần, kiệm, liêm, chính, chí công vô tư.
-Các nguyên tắc sinh hoạt Đảng (Trọng tâm thi trắc nghiệm)
-	Tập trung dân chủ: Nguyên tắc cơ bản nhất.
-	Tập thể lãnh đạo, cá nhân phụ trách: Để giải quyết vấn đề chu đáo và tránh độc đoán.
-	Tự phê bình và phê bình: Là "thang thuốc" tốt nhất để chỉnh đốn Đảng; phải tiến hành thường xuyên như "rửa mặt hàng ngày".
-	Kỷ luật nghiêm minh, tự giác: Sức mạnh của Đảng bắt nguồn từ kỷ luật.
-	Đoàn kết, thống nhất trong Đảng: Là cơ sở để thống nhất ý chí và hành động.
-Cán bộ, công tác cán bộ của Đảng 
-	Cán bộ là cái dây chuyền của bộ máy, là mắt khâu trung gian nối liền giữa Đảng, Nhà nước với nhân dân
-	Hồ Chí Minh cho rằng, công tác cán bộ là công tác gốc của Đảng
-
-IV. TƯ TƯỞNG HỒ CHÍ MINH VỀ DÂN CHỦ VÀ NHÀ NƯỚC CỦA DÂN, DO DÂN, VÌ NHÂN DÂN
-2. Nhà nước dân chủ
-2.1. Nhà nước mang bản chất giai cấp công nhân, thống nhất với tính dân tộc và tính nhân dân
-Bản chất giai cấp công nhân	
-	- Đảng Cộng sản Việt Nam giữ vị trí và vai trò cầm quyền
-	- Tính định hướng xã hội chủ nghĩa trong sự phát triển đất nước
-	- Nguyên tắc tổ chức và hoạt động của Nhà nước là tập trung dân chủ
-Thống nhất với tính nhân dân, tính dân tộc
-	- Nhà nước ra đời là kết quả cuộc đấu tranh lâu dài và gian khổ của nhiều thế hệ người Việt Nam, của toàn thể dân tộc.
-	- Nhà nước hoạt động vì quyền lợi của nhân dân, lấy quyền lợi dân tộc làm nền tảng.
-	- Nhà nước đảm đương nhiệm vụ bảo vệ nền độc lập, tự do của Tổ quốc, xây dựng một nước Việt Nam thống nhất, độc lập, dân chủ, giàu mạnh.
-2.2. Nhà nước của nhân dân, do nhân dân và vì nhân dân
-3. Nhà nước pháp quyền
-3.1. Nhà nước hợp hiến, hợp pháp
-3.2.  Nhà nước thượng tôn pháp luật
-3.3. Pháp quyền nhân nghĩa
-
-
-CHƯƠNG V: TƯ TƯỞNG HỒ CHÍ MINH  
-VỀ ĐẠI ĐOÀN KẾT DÂN TỘC VÀ ĐOÀN KẾT QUỐC TẾ 
-I. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẠI ĐOÀN KẾT DÂN TỘC
-Vai trò của đại đoàn kết dân tộc
-	Là vấn đề có ý nghĩa chiến lược, cơ bản, nhất quán và lâu dài. (Lưu ý: Không phải là sách lược nhất thời).
-	đại đoàn kết dân tộc phải luôn luôn được nhận thức là vấn đề sống còn, quyết định thành bại của cách mạng.
-	Là mục tiêu, nhiệm vụ hàng đầu của Đảng và của cả dân tộc.
-	- Đoàn kết trong mặt trận Việt Minh, nhân dân ta đã làm Cách Mạng Tháng Tám thành công, làm nên nước Việt Nam Dân chủ Cộng hòa. 
-	- Đoàn kết trong mặt trận Liên Việt, nhân dân ta đã kháng chiến thắng lợi, lập lại 
-	hòa bình ở Đông Dương, hoàn toàn giải phóng Miền Bắc. 
-	- Đoàn kết trong mặt trận Tổ quốc Việt Nam nhân dân ta đã giành được thắng lợi trong 
-	công cuộc khôi phục kinh tế, cải tạo xã hội chủ nghĩa và trong sự nghiệp xây dựng chủ nghĩa xã hội ở Miền Bắc”. 
-	Câu nói kinh điển: “Đoàn kết, đoàn kết, đại đoàn kết, Thành công, thành công, đại thành công”.
-	Quan điểm về sức mạnh: “Đoàn kết là điểm mẹ, điểm này thực hiện tốt thì đẻ ra con cháu đều tốt”.
-	Lời kết thúc buổi ra mắt của Đảng Lao động Việt Nam này 
-	3 - 3 - 1951, Hồ Chí Minh đã thay mặt Đảng tuyên bố trước toàn thể dân tộc: “Mục đích của 
-	Đảng Lao động Việt Nam có thể gôm trong 8 chữ là: Đoàn kết toàn dân, phụng sự tổ quốc”
-	Chân lý về dân: “Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong”.
-Lực lượng đại đoàn kết dân tộc
-	Đối tượng: Là toàn dân, không phân biệt dân tộc, tín ngưỡng, già trẻ, gái trai.
-	Chủ thể: Là mọi con dân nước Việt, “con Rồng cháu Tiên”.
-	Nền tảng (Gốc): Là khối liên minh công - nông - trí thức. 
-Điều kiện thực hiện: Cần có lòng khoan dung, độ lượng; tin vào dân và kế thừa truyền thống yêu nước.
-	Để thực hành đoàn kết rộng rãi cần có niềm tin vào nhân dân. Với Hồ Chí Minh, yêu 
-	dân, tin dân, dựa vào dân, sống, đấu tranh vì hạnh phúc của nhân dân là NGUYÊN TẮC TỐI CAO. 
-Hình thức tổ chức: Mặt trận dân tộc thống nhất
-	Là nơi quy tụ mọi tổ chức và cá nhân yêu nước.
-Các nguyên tắc hoạt động (Rất quan trọng): (4 NGTAC)
-	Xây dựng trên nền tảng liên minh công - nông - trí thức.(NGUYÊN TẮC CỐT LÕI)
-	Đặt dưới sự lãnh đạo của Đảng.(mang tính NGUYÊN TẮC, TẤT YẾU) (Lãnh đạo bằng chính sách đúng đắn và sự gương mẫu, không phải tự phong).
-	Hoạt động trên cơ sở lợi ích tối cao của dân tộc.
-	Nguyên tắc làm việc: Hiệp thương dân chủ.
-	Phương châm: “Cầu đồng tồn dị” (lấy cái chung để hạn chế cái riêng).
-	Đoàn kết gắn liền với đấu tranh, phê bình trên lập trường thân ái.
-
---------------------------------------------------------------------------------
-II. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐOÀN KẾT QUỐC TẾ
-Vai trò của đoàn kết quốc tế
-	Nhằm kết hợp sức mạnh dân tộc với sức mạnh thời đại tạo sức mạnh tổng hợp.
-	Góp phần cùng nhân dân thế giới thực hiện thắng lợi các mục tiêu cách mạng của thời đại (Hòa bình, độc lập dân tộc, dân chủ và chủ nghĩa xã hội).
-Lực lượng đoàn kết và hình thức tổ chức
-Các lực lượng: Phong trào cộng sản và công nhân quốc tế; phong trào giải phóng dân tộc; các lực lượng tiến bộ yêu chuộng hòa bình.
-	NGƯỜI đã kiến nghị Ban Phương Đông quốc tế Cộng sản về những biện pháp 
-	nhằm “làm cho các dân tộc thuộc địa, từ trước tới nay vẫn cách biệt nhau, hiểu biết nhau hơn và 
-	đoàn kết lại để đặt cơ sở cho một Liên minh Phương Đông tương lai, khối liên minh này sẽ là 
-	một trong những cái cánh của cách mạng vô sản”. Thêm vào đó, để tăng cường đoàn kết giữa 
-	cách mạng thuộc địa và cách mạng vô sản chính quốc như hai cái cánh của cách mạng thời đại
-
-Bốn tầng mặt trận (Trọng tâm thi):
-Năm 1941, để khơi dậy sức mạnh và quyền tự quyết 
-của mỗi dân tộc, Người quyết định thành lập riêng biệt Mặt trận độc lập đồng minh cho từng 
-nước, tiến tới thành lập Đông Dương độc lập đồng minh
-Từ những năm 20 của thế kỷ XX, cùng với việc 
-sáng lập Hội liên hiệp thuộc địa tại Pháp, Hồ Chí Minh đã tham gia sáng lập Hội liên hiệp các 
-dân tộc bị áp bức tại Trung Quốc. Đây là hình thức sơ khai của mặt trận thống nhất các dân tộc 
-bị áp bức theo xu hướng vô sản, lần đầu tiên xuất hiện trong lịch sử phong trào đấu tranh giải 
-phóng dân tộc. Với việc tham gia sáng lập các tổ chức này, Hồ Chí Minh đã góp phần dặt cơ sở 
-cho sự ra đời của Mặt trận nhân dân Á – Phi đoàn kết với Việt Nam
-	Mặt trận đại đoàn kết dân tộc.
-	Mặt trận đoàn kết Việt - Miên - Lào.
-	Mặt trận nhân dân Á - Phi đoàn kết với Việt Nam.
-	Mặt trận nhân dân thế giới đoàn kết với Việt Nam chống đế quốc xâm lược.
-Nguyên tắc đoàn kết quốc tế(2 ngtac)
-	Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.(vđ cốt tử)
-	- Để đoàn kết với phong trào cộng sản và công nhân quốc tế, Hồ Chí Minh giương cao 
-	ngọn cờ độc lập dân tộc gắn liền với chủ nghĩa xã hội, thực hiện đoàn kết thống nhất trên nền 
-	tảng của chủ nghĩa Mac – Lênin và chủ nghĩa quốc tế vô sản, có lý, có tình.
-	- Để đoàn kết với các dân tộc trên thế giới, Hồ Chí Minh giương cao ngọn cờ độc lập, tự 
-	do và quyền bình đẳng giữa các dân tộc. 
-	Độc lập, tự do cho mỗi dân tộc là tư tưởng nhất quán, được Hồ Chí Minh coi là chân lý, 
-	là “lẽ phải không ai chối cãi được”. 
-	- Để đoàn kết với các lực lượng tiến bộ trên thế giới, Hồ Chí Minh giương cao ngọn cờ 
-	hoà bình trong công lý.
-		“Có lý”: Tuân thủ các nguyên tắc của chủ nghĩa Mác – Lênin, vận dụng sáng tạo.
-		“Có tình”: Thông cảm, tôn trọng lẫn nhau, không áp đặt.
-	
-	Nguyên tắc chủ đạo: Độc lập, tự chủ, tự lực tự cường. (Thực lực là cái chiêng, ngoại giao là cái tiếng).
-
-
-CHƯƠNG VI: TƯ TƯỞNG HỒ CHÍ MINH VỀ XÂY DỰNG NHÀ NƯỚC CỦA DÂN, DO DÂN, VÌ DÂN
-I. NHÀ NƯỚC THỂ HIỆN QUYỀN LÀ CHỦ VÀ LÀM CHỦ CỦA NHÂN DÂN
-Quan điểm nhất quán
-	Xây dựng nhà nước mới ở Việt Nam là nhà nước do NHÂN DÂN LAO ĐỘNG LÀM CHỦ.
-	Quyền lực của nhân dân là QUYỀN LỰC TỐI CAO.
-	Dân chủ trong chính trị là quan trọng nhất, biểu hiện tập trung ở hoạt động của nhà nước.
-Phân biệt các khái niệm "Của dân - Do dân - Vì dân" (Trọng tâm thi)
-	Nhà nước CỦA DÂN:
-	Tất cả mọi quyền lực trong nhà nước và xã hội đều THUỘC VỀ NHÂN DÂN.
-	Nhân dân có quyền KIỂM SOÁT nhà nước, có quyền BÃI MIỄN đại biểu nếu không xứng đáng.
-	Vị thế: "DÂN LÀ CHỦ" (đối lập với "quan chủ").
-	Nhà nước DO DÂN:
-	Nhà nước do dân lập nên, dân ủng hộ, dân tham gia quản lý.
-	Nhân dân thực hiện quyền thông qua TỔNG TUYỂN CỬ, bầu ra Quốc hội.
-	Nhà nước VÌ DÂN:
-	Lấy lợi ích chính đáng của nhân dân làm MỤC TIÊU, không có đặc quyền đặc lợi.
-	Cán bộ từ Chủ tịch nước đến công chức đều là CÔNG BỘC, ĐẦY TỚ của dân.
-
---------------------------------------------------------------------------------
-II. BẢN CHẤT CỦA NHÀ NƯỚC VIỆT NAM MỚI
-Bản chất giai cấp công nhân
-	Không phải là "nhà nước toàn dân" phi giai cấp; nhà nước bao giờ cũng mang BẢN CHẤT GIAI CẤP.
-Biểu hiện:
-	Do ĐẢNG CỘNG SẢN LÃNH ĐẠO (thông qua đường lối, qua đảng viên trong bộ máy và công tác kiểm tra).
-	Tính ĐỊNH HƯỚNG XÃ HỘI CHỦ NGHĨA của sự phát triển đất nước.
-	Nguyên tắc tổ chức cơ bản: TẬP TRUNG DÂN CHỦ.
-Sự thống nhất giữa bản chất giai cấp với tính nhân dân, tính dân tộc
-	Nhà nước ra đời là kết quả đấu tranh của NHIỀU THẾ HỆ người Việt Nam.
-	Nhà nước bảo vệ lợi ích của nhân dân, lấy LỢI ÍCH DÂN TỘC làm cơ bản.
-	Đứng ra làm nhiệm vụ dân tộc giao phó, lãnh đạo kháng chiến và xây dựng đất nước.
-
---------------------------------------------------------------------------------
-III. XÂY DỰNG NHÀ NƯỚC CÓ HIỆU LỰC PHÁP LÝ MẠNH MẼ
-Nhà nước hợp pháp, hợp hiến
-	Sau Tuyên ngôn độc lập, Hồ Chí Minh đề nghị tổ chức TỔNG TUYỂN CỬ càng sớm càng tốt (thực hiện ngày 06-01-1946).
-	Xây dựng hiến pháp (1946 và 1959) làm cơ sở pháp lý chính thống.
-Quản lý bằng Hiến pháp và Pháp luật
-	Chú trọng đưa pháp luật vào cuộc sống; dân chủ phải đi đôi với KỶ CƯƠNG, PHÉP NƯỚC.
-	Tư tưởng: "THẦN LINH PHÁP QUYỀN" (Quản lý xã hội bằng pháp luật thay vì các sắc lệnh tùy tiện).
-	Mọi người dân đều BÌNH ĐẲNG TRƯỚC PHÁP LUẬT, vi phạm phải bị trừng trị nghiêm khắc.
-
---------------------------------------------------------------------------------
-IV. XÂY DỰNG NHÀ NƯỚC TRONG SẠCH, VỮNG MẠNH
-Đội ngũ cán bộ, công chức
-	Quan điểm: Cán bộ là "CÁI GỐC CỦA MỌI CÔNG VIỆC".
-	Yêu cầu: Vừa có ĐỨC vừa có TÀI, trong đó ĐỨC LÀ GỐC.
-	Phải tuyệt đối trung thành, thành thạo công việc, liên hệ mật thiết với dân, dám chịu 
-	trách nhiệm, tự phê bình ý thức vì sự lớn mạnh
-Chống các tiêu cực ("Giặc nội xâm")
-	Hồ Chí Minh chỉ ra 6 căn bệnh: TRÁI PHÉP, CẬY THẾ, HỦ HÓA, TƯ TÚNG, CHIA RẼ, KIÊU NGẠO.
-	THAM Ô, LÃNG PHÍ, QUAN LIÊU được gọi là "GIẶC NỘI XÂM".
-	Bệnh QUAN LIÊU là "bệnh gốc", dung túng cho tham ô và lãng phí.
-Tăng cường tính nghiêm minh của pháp luật đi đôi với đẩy mạnh giáo dục đạo đức cách mạng 
-
-
-CHƯƠNG VII 
-TƯ TƯỞNG HỒ CHÍ MINH VỀ VĂN HOÁ, 
-ĐẠO ĐỨC VÀ XÂY DỰNG CON NGƯỜI MỚI
-I. TƯ TƯỞNG HỒ CHÍ MINH VỀ VĂN HÓA
-Định nghĩa và định hướng xây dựng
-	Định nghĩa (8/1943 khi còn trong nhà tù của Tưởng Giới Thạch, lần đầu tiên Hồ Chí Minh đưa ra một định nghĩa của mình về văn hoá): Văn hóa là sự TỔNG HỢP CÁC PHƯƠNG THỨC SINH HOẠT nhằm thích ứng nhu cầu ĐỜI SỐNG và ĐÒI HỎI SINH TỒN.
-	Trên thực tế, văn hoá bao gồm toàn bộ những giá trị vật chất và những giá trị tinh thần 
-	mà loài người đã sáng tạo ra, nhằm đáp ứng sự sinh tồn và cũng là mục đích cuộc sống của loài người
-	Hội nghị lần thứ 5 Ban chấp hành Trung ương Khóa VIII chủ trương xây dựng và phát triển nền văn hóa Việt Nam tiên tiến, đậm đà bản dân tộc
-	5 điểm lớn xây dựng nền văn hóa dân tộc: 
-		“1. Xây dựng tâm lý: tinh thần độc lập, tự cường. 
-		2. Xây dựng luân lý: biết hy sinh mình, làm lợi cho quần chúng. 
-		3. Xây dựng xã hội: mọi sự nghiệp có liên quan đến phúc lợi của nhân dân trong xã hội. 
-		4. Xây dựng chính TRỊ: dân quyền.
-		5. Kinh tế."
-Vị trí và Vai trò của văn hóa
-	Là ĐỜI SỐNG TINH THẦN của xã hội, thuộc KIẾN TRÚC THƯỢNG TẦNG.
-	Ngang hàng với chính trị, kinh tế, xã hội.
-		Mối quan hệ:
-		Chính trị, xã hội giải phóng thì văn hóa mới được GIẢI PHÓNG.(văn hóa tự do thì phải CM ctri trước)
-		Kinh tế là cơ sở hạ tầng, NỀN TẢNG để xây dựng văn hóa.
-		Văn hóa không đứng ngoài mà ở TRONG kinh tế và chính trị.
-vAI TRÒ văn hóa
-	a. Văn hóa là mục tiêu, là động lực của sự nghiệp cách mạng
-	b. Văn hóa là một mặt trận
-	c. Văn hóa phục vụ quần chúng nhân dân
-
-Tính chất và Chức năng của nền văn hóa mới
-	3 tính chất: DÂN TỘC – KHOA HỌC – ĐẠI CHÚNG.
-	3 chức năng:
-		Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp. Lý tưởng là điểm hội tụ của những tư tưởng lớn của một Đảng, một dân tộc. Đối với dân tộc Việt Nam, đó là lý tưởng độc lập dân tộc gắn liền với chủ nghĩa xã hội. Một khi lý tưởng này 
-phai nhạt thì không thể nói đến thắng lợi của sự nghiệp cách mạng. Tình cảm lớn, theo Hồ Chí Minh là lòng yêu nước, thương dân, thương yêu con người; yêu tính trung thực, chân thành, thuỷ chung, ghét những thói hư, tật xấu, sự sa đoạ… 
-		Mở rộng hiểu biết, NÂNG CAO DÂN TRÍ.
-		Bồi dưỡng phẩm chất, lối sống, hướng con người đến CHÂN – THIỆN – MỸ.
-Một số lĩnh vực chính
-	Văn hóa giáo dục: Là mặt trận quan trọng, nhiệm vụ CẤP BÁCH, ý nghĩa CHIẾN LƯỢC, CƠ BẢN, LÂU DÀI. Mục tiêu là "Học để làm người, làm việc, làm cán bộ".
-	Văn hóa văn nghệ: Văn nghệ là biểu hiện tập trung nhất của nền văn hoá, là đỉnh cao của đời sống tinh thần, 
-là hình ảnh của tâm hồn dân tộc. 3 quan điểm chủ yếu: "Văn hóa văn nghệ là một MẶT TRẬN, nghệ sĩ là CHIẾN SĨ, tác phẩm văn nghệ là VŨ KHÍ". Văn nghệ phải gắn với thực tiễn đời sống nhân dân. Phải có những tác phẩm xứng đáng với thời đại mới của đất nước và dân tộc
-	Văn hóa đời sống:(Gắn việc xây dựng nền văn hoá mới với xây dựng đời sống mới thực sự là một cách nhìn, một giải pháp rất độc đáo của Hồ Chí Minh.) Bao gồm ĐẠO ĐỨC MỚI, LỐI SỐNG MỚI, NẾP SỐNG MỚI.(đạo đức là chủ yếu)
-
-Trước cách mạng Tháng Tám 1945: Xây dựng nền văn hóa dân tộc với 5 nội dung: Xây dựng tâm lýXây dựng luân lýXây dựng xã hộiXây dựng chính trịXây dựng kinh tế
-Trong kháng chiến chống thực dân pháp: Xây dựng nền văn hóa với 3 tính chất:Dân tộc Khoa họcĐại chúng
-Trong thời kỳ xây dựng chủ nghĩa xã hội: xây dựng nền văn hóa có nội dung xã hội chủ nghĩa và tính dân tộc
-
---------------------------------------------------------------------------------
-II. TƯ TƯỞNG HỒ CHÍ MINH VỀ ĐẠO ĐỨC
-Vai trò và sức mạnh của đạo đức
-	Đạo đức là GỐC, là NỀN TẢNG của người cách mạng.
-	đạo đức là nguồn nuôi dưỡng và phát triển con người, như gốc của cây, ngọn nguốn của sông suối 
-	"Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân".
-	Đạo đức là nhân tố tạo nên SỨC HẤP DẪN của chủ nghĩa xã hội.
-Những chuẩn mực đạo đức cách mạng (Trọng tâm thi)
-	TRUNG VỚI NƯỚC, HIẾU VỚI DÂN: Chuẩn mực bao trùm nhất.
-	CẦN, KIỆM, LIÊM, CHÍNH, CHÍ CÔNG VÔ TƯ: "Đại cương đạo đức Hồ Chí Minh", là nền tảng của ĐỜI SỐNG MỚI.
-	Thương yêu con người, sống có nghĩa có tình.
-	Có tinh thần quốc tế trong sáng.(quan trọng nhất)
-	CHỦ NGHĨA CÁ NHÂN: Là "giặc nội xâm", "vi trùng rất độc", kẻ thù của chủ nghĩa xã hội.
-Nguyên tắc xây dựng đạo đức mới
-	NÓI ĐI ĐÔI VỚI LÀM, phải NÊU GƯƠNG đạo đức (Nguyên tắc quan trọng bậc nhất).
-	XÂY ĐI ĐÔI VỚI CHỐNG.
-	Phải TU DƯỠNG ĐẠO ĐỨC SUỐT ĐỜI.
-
---------------------------------------------------------------------------------
-III. TƯ TƯỞNG HỒ CHÍ MINH VỀ XÂY DỰNG CON NGƯỜI MỚI
-Quan niệm về con người
-	Con người là một CHỈNH THỂ thống nhất (tâm lực, thể lực).
-	Con người CỤ THỂ, lịch sử.
-	Bản chất con người mang TÍNH XÃ HỘI.
-Vai trò của con người và chiến lược "Trồng người"
-	Con người là VỐN QUÝ NHẤT, nhân tố QUYẾT ĐỊNH thành công của cách mạng.
-	Con người vừa là MỤC TIÊU, vừa là ĐỘNG LỰC của cách mạng.
-	Chiến lược "Trồng người":
-	- “Trồng người” là yêu cầu khách quan, vừa cấp bách, vừa lâu dài của cách mạng 
-	- Quan điểm: "Muốn xây dựng chủ nghĩa xã hội, TRƯỚC HẾT cần có những CON NGƯỜI xã hội chủ nghĩa".
-	- Chiến lược “trồng người” là một trọng tâm, một bộ phận hợp thành của chiến lược phát triển kinh tế - xã hội
-
-
-1848: Tuyên ngôn ĐCS (Mác+Angghen): 1923 Phan Văn Trường công bố
-1/9/1858: Pháp tấn công Đà Nẵng 
-1862: Nhà tù Côn Đảo
-6/6/1884: Hiệp ước Patonot (đầu hàng hoàn toàn Pháp), Pháp xd // chính quyền thuộc địa + chính quyền phong kiến bản xứ làm tay sai.
-          Gcap địa chủ phân hóa: cấu kết + nêu cao tinh thần như Phong trào Cần Vương+lãnh đạo nông dân + kinh doanh tư bản (ra đời muộn hơn)
-1885-1896: PT Cần Vương (Vua Hàm Nghi+Tôn Thất Thuyết) -> Khởi nghĩa Ba Đình(Thanh Hóa), Bãi Sậy(Hưng Yên), Hương Khê(Hà Tĩnh)
-            Cuối XIX, đầu XX là vùng núi trung du phía Bắc là phong trào nông dân Yên Thế(Băc Giang): Hoàng Hoa Thám chống Pháp gần 30 năm
-            Đầu XX: xu hướng cải cách của Phan Châu Trinh
-            Xu hướng bạo động do Phan Bội Châu tổ chức, lãnh đạo: xây dựng thể chế như ở Nhật -> đưa thanh niên yêu nước sang Nhật(1908 Nhật câu kết Pháp, trục xuất)
-1896: Khơi Nghĩa Phan Đình Phùng thất bại -> chấm dứt vai trò lãnh đạo của giai cấp phong kiến đối với phong trào yêu nước chống thực dân Pháp
-17/10/1887: Liên bang Đông dương thuộc Pháp
-12/1907: pháp đóng cửa Trường Đông kinh NT
-1897-1914: Cuộc khai thác thuộc địa lần thứ nhất
-5/6/1911: Bác Hồ ra đi tìm đường cứu nước
-1912: Phan Bội Châu lập tổ chức VN Quang phục Hội(dùng vũ trang đánh Pháp)
-1913: PBC bị Pháp bắt tại TQ -1940 ông mất
-1919: Bác Hồ thma gia Đảng XH Pháp
-2-3-1919, tổ chức Quốc tế Cộng sản ra đời ở Matxcova trở thành Bộ tham mưu, lãnh đạo phong trào cách mạng thế giới
-18/6/1919: Hội nghị Vexcsxay: Bác Hồ thay mặt hội An Nam yêu nước gửi tới Hội nghị bản 'yêu sách của Nhân dân An Nam'(Gồm 8 quyền tự do)
-1919-1929: Cuộc khai thác thuộc địa lần thứ hai (Nhằm biến VN thành thị trường tiêu thụ hàng hóa của Pháp+vơ vét tài nguyên, thuế má)
-1917: CMT10 Nga thắng lợi (Anh hưởng mạnh mẽ, thức tỉnh phpn trào GPDT trong đó có VN)
-T3/1919: Quốc tế Cộng Sản (Lenin đứng đầu) trở thành bộ tham mưu chiến đầu, tổ chức lãnh đạo phong trào CMVS TG
-1920: Đại hội II của Quốc tế Cộng sản thông qua Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc do Lenin khởi xướng
-7/1920: Bác đọc sơ thảo-> cơ sở để Bác ủng hộ gia nhập Quốc tế CS tại Đại hội XVIII của Đảng XH Pháp (12/1920) tại Tua. Tại đây Bác bỏ phiếu tán thành Quốc tế III
-        thành lập Phân bộ Pháp của Quốc tế CS ->Bác trở thành người CS đầu tiên của VN
-1921: tại Pháp, Bác tgia thành lập Hội Liên Hiệp thuộc địa, sau đó sáng lập tờ báo Người cùng khổ
-1922: Ban Nghiên cứu thuộc địa của ĐCS Pháp thành lập, Bác làm trưởng tiểu ban ngcuu về Đông Dương
-11/1924: Bác đến Quảng Châu xúc tiến công việc thành lập ĐCS
-2/1925: Bác lập nhóm CS đoàn
-6/1925: Bác lập Hội VNCM Thanh niên tại Quảng Châu (nòng cốt là CS đoàn): xuất bản Báo Thanh niên tuyên truyền Mác (Đánh dấu sự ra đời của báo chí CMVN)
-21/6/1925: ra số đầu tiên
-1926: Hội bắt đầu phát triển cơ sở - 1927 các kỳ bộ được thành lập (tuy chưa phải chính ĐCS nhưng HỘI CHÍNH LÀ TIỀN THÂN CỦA ĐCSVN)
-1925-4/1927: Hội đã tổ chức trên 10 lớp huấn luyện tại nhà 13A, 13B đường Văn Minh ,Quảng Châu
-4/1927: 88 số -> 2/1930: 202 số
-1927: Đường Cách Mệnh: Bác khẳng định "Đảng muốn vững thì phải có chủ nghĩa làm cốt , trong đảng ai cũng phải hiểu.."
-      Cuốn sách ctri ĐẦU TIÊN của VN
-12/1927: VN Quốc dân Đảng (Nguyễn Thái Học)
-12/1927 - 1930: phong trào tiểu tư sản trí thức của tổ chức VN Quốc dân Đảng: mạnh nhất ở Yên Bái(2/1930)
-                -> tiểu tư sản hấp tấp, hăng hái nhất thời, không vững chắc, non yếu.
-29/9/1928: PT 'vô sản hóa' do Kỳ bộ Bắc kỳ Hội VNCM thanh niên phát động, truyền bá tư tưởng, rèn luyện cán bộ
-3/1929: trước ptr mạnh mẽ của PT CMVN, Hội VNCMTN không còn đủ sức, những người lãnh đạo Kỳ bộ Bắc kỳ họp tại 5D, Hàm Long, HN thành lập chi bộ CS ĐẦU TIÊN
-17/6/1929: Lập ĐÔNG DƯƠNG CS ĐẢNG (Khâm thiên, HN): Lấy cờ đỏ búa liềm làm Đảng kỳ, xuát bản báo Búa liềm làm cơ quan ngôn luận
-9/1929: Trung Kỳ, Tân Việt CM ĐẢNG chịu tác động mạnh mẽ của Hội VNCMTN -> lập ĐÔNG DƯƠNG CSLĐ
-11/1929: Nam Kỳ thành lập AN NAM CS ĐẢNG (Khánh Hội, SG) xuất bản tạp chí BônsơVích
-23/12/1929: Bác đến Cửu Long(HongKong, TQ) triệu tập 3 đảng hội nghị (6/1 - 7/2), các đại biểu trở về VN ngày 8/2
-            Hội nghị gồm :DDCSD(Trịnh Đình Cửu, Nguyễn Đức Cảnh), ANCSD(Châu Văn Liêm, Nguyễn Thiệu)
-            Bác nêu ra 5 điểm cần thảo luận-> Chánh cương vắn tắt của Đảng + Sách lược văn tắt của Đảng đã phản ảnh đường hướng phát triển và những vấn đề cơ bản
-            về chiến lược và sách lược của CMVN. 2 văn kiện trên là Cương lĩnh CT ĐẦU TIÊN
-24/2/1930: Hoàn thành thống nhất 1 chính đảng, Bác viết Lời kêu gọi :'Nhận chỉ thị của QT CS giải quyết vđ CM nước ta..'
-2/1930: Cương lĩnh chính trị đầu tiên -> Đảng đề ra ĐƯỜNG LỐI để cụ thể hóa cương lĩnh.
-2/1930: Pháp tăng cường bóc lột +khủng bố trắng đàn áp khởi nghĩa Yên Bái(Nguyễn Thái Học)
-1-4/1930: bãi công công nhân tại nhà máy ximang Hải Phòng, dầu Nhà Bè,nhà máy dệt Nam Định, ...PT đấu tranh công nhân Hà Nam, TB, NA,HT.
-1/5/1930: PT ptr cao trào, 16 bãi công công nhân, 34 biểu tình nông dân, 4 đấu tranh nhân dân thành thị
-6-8/1930: 121 đấu tranh nổi bật là bãi công công nhân Bến Thủy -Vinh(8/1930) đánh dấu "THỜI KỲ MỚI, THỜI KỲ ĐẤU TRANH KỊCH LIỆT ĐÃ ĐẾN"
-9/1930: PT CM ptr đỉnh cao, cuộc biểu tình nông dân Hưng Nguyên(12/9/1930) bị đàn áp, máy bay pháp giết 171 người
-          Ban thường vụ trung ương Đảng gửi thông tri cho Xứ ủy Trung kỳ là bạo động quá sớm "DUY TRÌ KIÊN CỐ ẢNH HƯỞNG CỦA ĐẢNG, CỦA XOOVIET TRONG QUẦN CHÚNG ..."
-14-30/10/1930: Hội nghĩ BCHTW Đảng tại Hương Cảng(TQ): Trần Phú "Hãy giữ vững ý chí chiến đấu"
-          Đổi tên ĐCSVN -> ĐCS Đông Dương
-10/1930: Luận cương chính trị (Chưa coi trọng vấn đề dân tộc, chưa đoàn kết rộng rãi)
-4/1931: toàn bộ BCH TW Đảng bị bắt, KHÔNG CÒN LẠI 1 ỦY VIÊN NÀO, CÁC TỔ CHỨC TAN RÃ HẦU HẾT.
-11/4/1931: QT CS ra nghị quyết công nhận ĐCS Đông Dương là chi bộ độc lập
-15/6/1932: Chương trình hành động của ĐCSDD (NV đấu tranh trước mắt cần gây dựng một đoàn thể bí mật,cứng như sắt,..tức ĐCS để hướng đạo quần chúng"
-3/1933: Sơ thảo lịch sử PT CSDD (Hà Huy Tập) bước đầu tổng kết kinh nghiệm lãnh đạo của Đảng, khẳng định công lao Bác
-3/1935: ĐẠI HỘI ĐẠI BIỂU LẦN I CỦA ĐẢNG (MA CAO,TQ):Lê Hồng Phong làm TBT 3 Nvu trước mắt: 1,Củng cố và ptr Đảng 2,Đẩy mạnh cuộc vận động tập hợp quần chứng
-          3, mở rộng tuyên truyền chống dế quốc,..
-7/1935: Đại hội VII QTCSC tại Matcova XÁC ĐỊNH KẺ THÙ NGUY HIỂM TRƯỚC MẮT LÀ CN PHÁT XÍT. Nvu của công nhân, nhân dân lđ là chống CN PX, chống ctranh, bảo vệ hb
-          Lê HP được bầu làm Uỷ viên BCH QTCS
-1936: Mặt trận ndan Pháp(5/1935) thắng lợi ra đời CPhu Mặt trận ndan Pháp-> ĐCS Đông Dương bđ phục hồi hệ thống tổ chức sau 1 tgian đấu tranh gian khổ
-26/7/1936: BCH TW Đảng họp Hội nghị tại Thượng Hải(TQ)(Hà Huy Tập làm TBT 8/1936 -3/1938). Dựa theo QTCS, xđ nvu trước mắt là chống px, ctranh, chống phản động và tay sai, đòi tự do, dchu,hb
-          Lập mặt trận nhân dân phản đế rộng rãi để cùng nhau đòi nhưng điều dân chủ đơn sơ
-10/1936: văn kiện Chung quanh vấn đề chiến sách mới: Cuộc dtoc giải phóng không nhất định phải kết chặt với cuộc CM điền địa.
-          TW Đảng bước dầu phê phán quan điểm chưa đúng, khắc phục hạn chế trong Luận Cương CT 10/1930
-          Bắt đầu tổ chức đấu tranh công khai, mở ra các Uỷ ban hành động như Uỷ ban trù bị Đông Dươgnđại hội
-12/11/1936: cuộc bãi công của CÔNG NHÂN VÙNG MỎ
-5/5/1937: Cuốn Trotxky và phản CM(Hà Huy Tập): phê phán các luận điệu tả khuynh của các phần từ troxky
-1938: Cuấn Vđ dân cày (Trường Chinh+Võ Nguyên Gíap):tố cáo tội ác của đế quốc và pkien, làm rõ vai trò Cm của nông dân
-          Cuốn CM macsxit (Hải Triều)
-          Hội truyền bá quốc ngữ ra đời
-29-30/3/1938: Lập MẶT TRẬN DÂN CHỦ ĐÔNG DƯƠNG (Nguyễn Văn Cừ làm TBT)
-4/1938: 1597  đảng viên hđ bí mật, 200 hđ công khai, hội viên trong quần chúng 35009
-1939: Cuốn TỰ CHỈ TRÍCH (NVC): nêu rõ sai lầm, khuyết điểm, bài học
-9/1939: WW2, Pháp đàn áp CM->Đảng hđ BÍ MẬT
-29/9/1939: TW Đảng gửi "HOÀN CẢNH DD SẼ TIẾN BƯỚC ĐẾN VẤN ĐỀ DÂN TỘC GIẢI PHÓNG"
-11/1939: Hội nghị BCHTW (Bà Điểm, Gia Định): Bước sinh tồn của dân tộc DD là đánh đổ đế quốc Pháp, các ách ngoại xâm. chiến lược CM cx phải thay đổi nhiều,
-          TẠM GÁC KHẨU HIỆU "CM RUỘNG ĐẤT" ="CHỐNG ĐỊA TÔ CAO, VAY NẶNG LÃI, TỊCH THU RUỘNG ĐẤT CỦA ĐẾ QUỐC"
-          THÀNH LẬP MẶT TRẬN DÂN TỘC THỐNG NHẤT PHẢN ĐẾ DD
-          Khắc phục hạn chế của Luận cương T10, kđ lại đường lối như Cương lĩnh đầu tiên
-27/9/1940: Pháp bị Nhật đánh->Khởi nghĩa Bắc Sơn (sau là Cứu quốc quân)
-11/1940: TBT NVC bị bắt -> bầu lại BCH, nhận định "CM PHẢN ĐẾ VÀ CM THỔ ĐỊA PHẢI ĐỒNG THỜI TIẾN"
-          Hội nghị cán bộ TW (Đình Bảng, Bắc Ninh)
-23/11/1940: khởi nghĩa ở Nam Kỳ nhưng bị Pháp đàn áp nặng nề
-1/1941, Hồ Chí Minh mở lớp huấn luyện cán bộ, viết sách: Con đường giải phóng, trong đó nêu ra nội dung gì?
-Phương pháp cách mạng giành chính quyền
-5/1941: Bác chủ trì Hội nghị 8(Trường Chinh là TBT), "NHẬN ĐỊNH CUỘC CM TRƯỚC MẮT LÀ CM GIẢI PHÓNG DÂN TỘC"
-          Hội nghị Nhấn mạnh nd: 1, Mâu thuẫn là VN - PHÁP, NHẬT 2, Kđịnh "phải thay đổi chiến lược", CM DD ko phải CM dân quyền, phản đế và điền địa mà là GPDT
-          Thay = khẩu hiệu :Tịch thu ruộng đất đế quốc, Việt gian chia cho dân cày nghèo. 3, GQuyet vđ dân tộc. 4,tập hợp lực lượng.
-          5, khi CM thành công -> nước VNDCCH. 6, khởi nghĩa vũ trang là nv trọng tâm
-          LẬP MẶT TRẬN VIỆT MINH khẩu hiểu "Đoàn kết toàn dân, chống nhật, chống pháp , tranh lại độc lập, hoãn CM ruộng đất"
-6/6/1941: Bác kêu gọi đồng bào:"Trong lúc này quyền lợi dân tộc GP cao hơn hết thảy..."
-25/10/1941: VIỆT MINH CÔNG BỐ TUYÊN NGÔN "VN độc lập đồng minh ra đời": đáp ứng nguyện vọng cứu nước của mọi giới đồng bào. VM là MẶT TRẬN ĐẠI ĐOÀN KẾT DTVN,
-                    nơi tập hợp, giác ngộ, rèn luyện LLCT, lực lượng cơ bản có ý nghĩa qđ trong tổng khởi nghĩa sau này
-1941: Bác thành lập 1 đội vũ tranh ở Cao Bằng để thúc đẩy cơ sở ctri, xd LLVTrang
-12/1941: TW ra thông cáo CUỘC CTRANH THÁI BÌNH DƯƠNG VÀ TRÁCH NHIỆM CẦN KÍP CỦA ĐẢNG: chỉ rõ đảng bộ địa phương cần vận động nhân dân chống địch bắt lính,
-          chống cướp đoạt tài sản nhân dân, đòi tăng lương, giảm giờ làm, thành lập đội du kích
-          Ở Bắc Sơn-Võ Nhai, Cứu quốc quân tiến hành tuyên truyền vũ trang, mở rộng căn cứ: Thái, Tuyên, Cao, Hà, Bắc, Lạng
-2/1943: Ban TVTW Đảng họp Võng La(Đông Anh): đề ra biện pháp nhằm ptr PT quần chúng rộng rãi nhằm cbi đkiện cho khởi nghĩa nổ ra ở trung tâm đầu não kẻ thù
-1943: Đảng công bố ĐỀ CƯƠNG VĂN HÓA VN: xđ VĂN HÓA CX LÀ TRẬN ĐỊA CM
-1944: HỘI VĂN HÓA CỨU QUỐC VN
-6/1944: ĐẢNG DÂN CHỦ VN: do một số svien, trí thức yêu nước thành lập
-10/1944: Bác gửi thư thông báo việc TRIỆU TẬP ĐẠI HỘI ĐẠI BIỂU QUỐC DÂN: nêu rõ phe xâm lược gần đến ngày bị tiêu diệt, cơ hội dtoc ta GP chỉ ở trong 1/ năm rưỡi
-1944: Cao-Bắc-Lạng phát động ctranh nhưng Bác đình chỉ, ra CHỈ THỊ THÀNH LẬP ĐỘI VN TUYÊN TRUYỀN GP QUÂN: bản chị thị có ý nghĩa như 1 cương lĩnh quân sự của Đảng
-22/12/1944: ĐỘI VN TUYÊN TRUYỀN GP QUÂN (Võ Nguyên Giasp) ở Cao Bằng
-9/3/1945: Nhật nổ súng đảo chính lật đổ Pháp, Chính phủ Bảo Đại-Trần Trọng Kim được Nhật dựng ra bánh vẽ độc lập
-          TBT Trường Chinh triệu tập Hội nghị BTVTW Đảng mở rộng (Đinh Bang): phân tích tình hình và chủ trương chiến lược mới
-12/3/1945: BTVTW ra chỉ thị NHẬT -PHÁP BẮN NHAU VÀ HÀNH ĐỘNG CỦA CTA: xđ rõ kẻ thù chung của DD là PX NHẬT, THAY KHẨU HIỆU THÀNH "ĐÁNH ĐUỔI PX NHẬT"
-           nêu khẩu hiệu "THÀNH LẬP CQ CM CỦA NDDD", làm tiền đề cho tổng khởi nghĩa
-16/4/1945: TỔNG BỘ VIỆT MINH ra chỉ thị về TỔ CHỨC ỦY BAN GPVN
-4/6/1945: KHU GP đc thành lập gồm hầu hết các tỉnh CAO, BẮC, LẠNG, TUYÊN, THÁI, HÀ,..
-          Khu GP Việt Bắc trở thành căn cứ địa chính
-12/8/1945: Uỷ ba lâm thời Khu GP HẠ LỆNH KHỞI NGHĨA TRONG KHU
-13/8/1945: Thành lập UỶ BAN KHỞI NGHĨA TOÀN QUỐC, ban bố "Quân lệnh số 1", phát lệnh tổng khởi nghĩa trong nước
-14-15/1945: Hội nghị toàn quốc (Tân Trào): dự đoán Quân đồng minh sắp vào nước ta và đế quốc Pháp lăm le khôi phục địa vị cũ ở DD
-          -> PHÁT ĐỘNG TOÀN DÂN TỔNG KHỞI NGHĨA GIÀNH CQ TỪ NHẬT
-          khẩu hiệu "PHẢN ĐỐI XÂM LƯỢC!HOÀN TOÀN ĐỘC LẬP!CHÍNH QUYỀN NHÂN DÂN"
-          3 ntac chỉ đạo khởi nghĩa : tập trung , thống nhất, kịp thời
-          Phương hướng hđ: phải đánh chiếm ngay những chỗ có thể thắng, chộp lấy căn cứ chính trước pháp, thành lập ủy ban nd ở nơi giành đc
-16/8/1945: Đại hội Quốc dân họp ở Tân Cào thông qua lệnh Tổng Khởi Nghĩa 
-          1 đơn vị GP của VNG tiến về GP Thái Nguyên, mở đầu CMT8
-17/8/1945: UỶ BAN GPDT RA MẮT QUỐC DÂN, LÀM lễ tuyên thệ ở Tân Cào
-18/8/1945: Thắng lợi ở HN , HCM Lời kêu gọi TKN
-23/8/1945: Thắng lợi ở Huế
-25/8/1945: Thắng lơi ở SQ
-26/8/1945: Đại hội quốc dân: 60 đại biểu các giới, đảng phái ctri, đoàn thể quần chúng cứu quốc, dân tộc,...
-          Tán thành thông qua 10 chính sách lớn của VMinh, lập ỦY BAN GP DÂN TỘC (HCM)
-30/8/1945: Vua Bảo Đại tuyên bố thoái vị,Bác viết bản Tuyên ngôn độc lập
-8/1945: Ở Bắc vĩ tuyến 16, 20 vạn quân Tưởng kéo vào VN với danh nghĩa quân đội Đồng minh vào giải giáp Nhật
-3/9/1945: Chính phủ họp phiên ĐẦU TIÊN
-23/9/1945: Pháp xl VN LẦN 2
-25/10/1945: HỘI NGHỊ CÁN BỘ ĐẢNG BỘ NAM BỘ (THIÊN HỘ, CÁI BÈ):qđ những biện pháp cấp bách củng cố LLVT, xd cso ctri, vtrang bí mật, phát động toàn dân kháng chiến
-          "Thà chết tự do còn hơn sống nô lệ"
-26/9/1945: chi bộ ĐẦU TIÊN lên đường vào Nam chi viện
-          "Diệt cộng, cầm Hồ", phá VM của quân Tưởng -> chiến lược "triệt để lợi dụng mâu thuẫn kẻ thù, hòa hoãn, nhân nhượng có ngtac"
-11/11/1945: Để tránh mũi nhọn tấn công của địch, Đảng chủ trương hđ bí mật "THÔNG CÁO ĐCS DD tự ý giải tán",
-          để lại 1 bộ phận hđ công khai "HỘI NGHIÊN CỨU CN MÁC Ở DD": 
-          đảm bảo cc lương thực cho 20 vạn quân Tưởng, nhân nhượng sử dụng Quan kim, quốc tệ với đồng bạc DD
-          Bầu cử thành công, bổ sung 70 ghế Quốc hội không qua bầu cử cho VIỆT QUỐC, VIỆT CÁCH, mở rộng CP cho phản động 
-25/11/1945: BCHTW Đảng ra CHỈ THỊ KHÁNG CHIẾN KIẾN QUỐC: nhận định tình hình và định hướng con đường "KẺ THÙ CHÍNH LÀ THỰC DÂN PHÁP XL"
-          Mục tiêu vẫn là DTGP, khẩu hiệu "Dân tộc là trên hết,Tổ quốc là trên hết"
-          Tàu Tưởng "HOA - VIỆT THÂN THIỆN"
-          Pháp "ĐỘC LẬP VỀ CTRI, NHÂN NHƯỢNG VỀ KTE"
-28/2/1946: HIỆP ƯỚC TRÙNG KHÁNH (HOA-PHÁP): cho Pháp đưa quân ra Bắc vĩ tuyến 16 làm nv giải giáp Nhật, thay cho 20 vạn Tưởng về nước (dl: 31/3/1946)
-1946: TRƯỜNG ĐẠI HỌC VĂN KHOA HN, 2,5tr dân biết đọc, viết
-6/1/1946: BẦU CỬ QUỐC HỘI, 89% cử tri đi bỏ phiếu "mỗi lá phiếu là 1 viên đạn bắn vào quân thù"
-          333 đại biểu Quốc hội đầu tiên
-2/3/1946: Quốc hội khóa I họp phiên ĐẦU TIÊN tại Nhà hát lớn HN, lập CHÍNH PHỦ CHÍNH THỨC gom 10 bộ(Ban Thường Trực là cụ Nguyễn Văn Tố"
-3/3/1946: ra Chỉ thị Tình hình và Chủ trương: "VẤN ĐỀ LÚC NÀY KHÔNG PHẢI MUỐN ĐÁNH HAY KHÔNG MUỐN ĐÁNH...."
-          chủ trương tạm thời "DÀN HÒA VỚI PHÁP", nhân nhượng về kte nhưng đòi Pháp thừa nhận quyền dtoc tự quyết của VN
-          "Lợi dụng tgian hòa hoãn, diệt bọn phản động bên trong, tay sai của Tàu trắng...."
-6/3/1946: HIỆP ĐỊNH SƠ BỘ( HCM ký với Pháp tại HN):Pháp công nhận Vn là quốc gia tự do, có CP. VN đồng ý để 15000 quân Pháp ra Bắc
-9/3/1946: CHỈ THỊ HÒA ĐỂ TIẾN, PTICH, ĐÁNH GIÁ CHỦ TRƯƠNG HÒA HOÃN VÀ KHẢ NĂNG PTR CỦA TÌNH HÌNH: 
-          cần phải nêu cao tt cảnh giác CM, ss kháng chiến
-19/4-10/5/1946: HỘI NGHỊ TRÙ BỊ (CP VN gặp Pháp tại Đà Lạt)
-6/7-10/9/1946: HỘI NGHỊ PHONGTENNOBLO (PVĐ thăm và đàm phán Pháp): nhưng ko thành công do dã tâm xl VN của Pháp
-14/9/1946: TẠM ƯỚC 14/9 (HCM ký với Marius Moute tại Maxcsxay): nhân nhượng thêm cho Pháp quyền lợi kte, vhoa ở VN, 2 bên đình chiến ở NAM BỘ
-12/7/1946: tấn công bất ngờ lật đổ âm mưu phản động do Trương Tử Anh soạn thảo tại 132 Duvigneau
-20/10/1946: HCM và phái đoàn về đến cảng HP, Bác viết CÔNG VIỆC KHẨN CẤP BÂY GIỜ: nvu cụ thể về qsu, ctri, kđ vai trò của Đảng và dự đoán đúng cuộc chiến VN-P
-          khẩu hiệu "VƯỜN KHÔNG NHÀ TRỐNG","PHÁ HOẠI ĐỂ KHÁNG CHIẾN" ngăn chặn giam chân địch ở Nam bộ, cbi LL cho  kháng chiến lâu dài
-12/1946: Đảng viên 20000 người
-9/11/1946: Quốc hội họp thứ 2, thông qua bản HIẾN PHÁP ĐẦU TIÊN:xd đi đôi với với bảo vệ và làm cho bộ máy dchu trong sạch.
-          HỘI LIÊN HIỆP VN (LIÊN VIỆT): HUỲNH THÚC KHÁNG làm Hội trưởng
-          HỘI ĐỒNG CỐ VẤN CP (VĨNH THỤY)
-          HỘI NGHỊ VĂN HÓA TOÀN QUỐC LẦN THỨ 1 TẠI HN
-          HỘI NGHỊ ĐẠI BIỂU CÁC DTOC THIỂU SỐ Ở TNGUYEN
-11/1946: Pháp tấn công đánh chiếm HP, Lạng Sơn, Đà Nẵng ,Hải Dương, xúc tiến thành lập "CP Cộng hòa Nam Kỳ", triệu tập HỘI NGHỊ LIÊN BANG DD
-12/12/1946: CHỈ THỊ TOÀN DÂN KHÁNG CHIẾN
-16-17/12/1946: Pháp chiếm trụ sở BỘ TÀI CHÍNH, BỘ GT, bắn đại bác thảm sát đồng bào HN ở Yên Ninh, Hàng Bún
-18/12/1946: Pháp đơn phương cắt đứt mọi liên hệ với CPVN, đưa 3 TỐI HẬU THƯ đòi VN giải giáp
-          Hội nghĩ BTVTW Đảng mở rộng tại Vạn Phúc: đánh giá mức độ nghiêm trọng, đề ra chủ trương, phát động toàn dân kháng chiến
-          "THÀ HI SINH TẤT CẢ CHỨ NHẤT ĐỊNH KHÔNG CHỊU MẤT NƯỚC..."
-19/12/1946: thiện chí hbinh bị pháp cự tuyệt
-          HCM ra LỜI KÊU GỌI TOÀN QUỐC KHÁNG CHIẾN
-          20h3' quân dân HN và đô thị từ Bắc vĩ tuyến 16 bắt đầu nổ súng, KHÁNG CHIẾN TOÀN QUỐC BÙNG NỔ
-          Phát triển LL chiến đấu chính quy "TRUNG ĐOÀN THỦ ĐÔ"
-17/2/1947: Trung đoàn thủ đô rút lui lên chiến khu an toàn để củng cố
-6/4/1947: HỘI NGHỊ CÁN BỘ TW: nhấn mạnh mở rộng MẶT TRẬN DTỘC THỐNG NHẤT chống Pháp, củng cố CQ, phát động ctranh du kích, đẩy mạnh ngoại giao, 'LỚP THÁNG 8"
-8/1947: TÁC PHẨM KHÁNG CHIẾN NHẤT ĐỊNH THẮNG LỢI (TRƯỜNG CHINH"
-1947: Đảng viên 70000 người, bộ đội chính quy 12 vạn: 57 trung đoàn, 20 tiểu đoàn
-          LLDQ tự vệ 1 tr người, 3 vạn súng, 20 công xướng sx vk
-          Cử cán bộ sang Lào, XÂY DỰNG KHU CĂN CỨ KHÁNG CHIẾN Ở VÙNG HẠ, TRUNG, THƯỢNG LÀO
-          Cán bộ ở Thái Lan giúp thành lập ỦY BAN DTGP Khmer, xây dựng căn cứ TÂY BẮC CAMPUCHIA
-15/10/1947: CHỈ THỊ PHÁ TAN CUỘC TẤN CÔNG MÙA ĐÔNG : nêu rõ qtam, vạch ra thế yếu của địch, đề ra nvu quân sự cho Bắc Bộ và Trung Bộ, chặt đứt giao thông ll
-21/12/1947: sau 75 ngày đêm, bẻ gãy mũi tấn công địch, đánh bại âm mưu ĐÁNH NHANH THẮNG NHANH
-
--> ĐƯỜNG LỐI KHÁNH CHIẾN CHỐNG PHÁP: "DỰA TRÊN SỨC MẠNH TOÀN DÂN, TOÀN DIỆN, LÂU DÀI, DỰA VÀO SỨC MÌNH LÀ CHÍNH"
-
-1948: HCM ký SẮC LỆNH phong hàm Đại tướng VNG, Trung tướng Nguyễn Bình, 9 thiếu tướng
-3/1948: thắng lợi La Ngà , Nghĩa Lộ
-4/1948: Thắng lợi Tầm Vu, Đồng Dương
-11/6/1948: LỜI KÊU GỌI THI ĐUA ÁI QUỐC (HCM)
-          Làm thất bại âm mưu "LẤY CTRANH NUÔI CTRANH, LẤY NGƯỜI VIỆT ĐÁNH NGƯỜI VIỆT"
-7/1948: HỘI NGHỊ VĂN HÓA TOÀN QUỐC: xd nền văn hóa mang tchat dtoc,khoc, đại chúng
-8/3/1949: Pháp ký với Bảo Đại HIỆP ĐỊNH VỀ QUAN HỆ PHÁP-VIỆT
-4/1949: CHIẾN DỊCH CẦU KÈ-TRÀ VINH
-13/6/1949: Bảo Đại được Pháp đưa về SG làm Quốc trưởng
-1/7/1949: Bảo Đại thành lập "Quốc gia VN": đó là CQ bất hợp pháp do Pháp dựng lên
-6/1950: CHIẾN DỊCH BIÊN GIỚI THU ĐÔNG: tiến công địch dọc tuyến biên giới Việt-Trung(Cao Bằng-Lạng Sơn)
-          mở rộng căn cứ địa Việt Bắc, tạo hành lang mở rộng quan hệ thông thương với TQ và các nc XHCN, tạo tiền đề thúc đẩy cuộc kchien lên gđoan mới.
-          Đây là chiến dịch quân sự lớn, qtrong ĐẦU TIÊN do quân ta chủ động tấn công, Bác đích thân thị sát, chỉ đạo
-          30 ngày đêm (16/9 -17/10/1950)
-          "ĐẠT ĐƯỢC MỤC TIÊU DIỆT ĐỊCH, KẾT THÚC THỜI KỲ CHIẾN ĐẤU TRONG VÒNG VÂY"
-1/10/1949: ĐCS TQ giành CQ->Nhà nước Trung Hoa ra đời
-11/1949: SẮC LỆNH VỀ NGHĨA VỤ QUÂN SỰ
-          LL ba thứ quân (bộ đội chủ lực, bộ đội địa phương, dân quân du kích) ptr 23 vạn ng: 40 đảng viên, DQTV +DKich 3tr ng
-1950: HCM thăm TQ, LX
-9/1/1950: 3000 hssv SG biểu tình bị Pháp đàn áp, Trần Văn Ơn hi sinh
-18/1/1950: TQ đặt qhe ngoại giao với VN
-30/1/1950: LX đặt qhe ngoại giao với VN
-2/1950: Đông Âu, Triều Tiên đặt qhe ngoại giao với VN
-          Đảng và Bác chủ trương tổng động viên, ra sắc lệnh huy động nhân lực, vật lực, tài lực
-19/3/1950: 500000 dân SG biểu tình chống Mỹ khi Mỹ đưa tàu chiến đến cảng SG
-18/4/1950: mìn đánh tháp canh ở cầu Bà Kiên
-9/1950: CAND chiến công TỔ ĐIỆP BÁO A13, ĐÁNH ĐẮM TBAO HẠM AMYOT D'INVILLE ở SẦM SƠN: đánh đổ âm mưu lôi kéo người kháng chiến ly khai,
-          đánh chiếm vùng tự do THANH-NGHỆ-TĨNH
-19/2/1951: ĐẠI HỘI ĐẠI BIỂU LẦN II (Vinh Quang):"ĐẠI HỘI KHÁNG CHIẾN KIẾN QUỐC" 158 đại biểu chính thức, 53 dự khuyết, thay mặt 766000 đảng viên
-          bối cảnh LX lớn mạnh vượt bậc mọi mặt, các XHCN Đông Âu bước vào xh CSVC
-          ĐẢNG LAO ĐỘNG VN
-          Điều lệ mới của Đảng: 13 chương, 71 điều, tôn chỉ "Phấn đấu ptr chế độ dchu nhân dân, tiến lên CNXHVN,.. tất cả nhân vật đa số, thiểu số ở VN"
-          Báo ctri nhấn mạnh "trong giai đoạn này, quyền lợi của giai cấp công nhân và nhân dân lđ ...Đảng của dtoc VN"
-          Bầu 19 Uỷ viên chính thức, 10 dự khuyết
-          Bầu bộ ctro: 7 chính thức, 1 dự khuyết và Ban bí thư
-          HCM làm Chủ tịch Đảng, Trường Chinh làm TBT
-2/1951: Chính cương của Đảng (15 chính sách lớn)
-12/1951: CHIẾN DỊCH HÒA BÌNH và CHIẾN DỊCH TÂY BẮC thu đông 1952: GP 1 phần Tây Bắc, phá âm mưu lập "xứ Thái tự trị"
-4/1952: Hội nghị lần 3: Công tác "CHỈNH ĐẢNG, CHỈNH QUÂN" là nvu trọng tâm
-8/5/1952: quân dân Nam Bộ đánh vào hậu cần ở Phú Thọ, đốt cháy 5tr l xăng, phá 1000 bom, diệt gọn 1 đội quân pháp
-1/1953: Hội nghị lần 4: họp kiểm điểm về chính sách ruộng đất và qđ cải cách ruộng đất ở nông thôn
-5/1953: Pháp cử Đại tướng HangriNava Tổng tham mưu trưởng lục quân NATO sang làm tổng chỉ huy quân đội viễn chinh ở DD
-7/1953: Nava vạch ra kế hoạch Nava trong 18 tháng chuyển bại thành thắng
-9/3/1953: Thoong qua chủ trương chiến lược Đông Xuân 1953-1954: Nghị quyết mở đường đi tới thắng lợi lịch sử trong cuộc tiến công
-11/1953: Hội nghị lần 5: thông qua CƯƠNG LĨNH RUỘNG ĐẤT: 23 điều, chủ trương "phát động quần chúng triệt để giảm tô, tức và cải cách ruộng đất"
-4/12/1953: kỳ họp 3, Quốc hội khóa I thông qua LUẬT CẢI CÁCH RUỘNG ĐẤT
-19/12/1953: Bác ký ban hành LUẬT CẢI CÁCH RUỘNG ĐẤT
-6/12/1953: mở CHIẾN DỊCH ĐIỆN BIÊN PHỦ (VNG)
-          "CHIẾN DỊCH NÀY LÀ MỘT CHIẾN DỊCH QTR KO NHỮNG VỀ QUÂN SỰ MÀ CẢ VỀ CTRI,..."(HCM)
-          5 vạn quân "ĐÁNH CHẮC TIẾN CHẮC"
-13/3/1954: tấn công Mường Thanh mở đầu chiến dịch
-7/5/1954: 56 ngày đêm, 33 đợt tiến công, 17h30 đánh tới hầm chỉ huy, bắt sống tướng Đờ Cát
-          Chiến thắng là thắng lợi của ý chí, khát vọng độc lập tự do của VN mà nòng cốt là lực lượng quân dội nhân dân VN
-          với Pháp "ĐBP thất thủ gây nỗi kinh hoàng..."
-          Thắng lợi là "thiên sử vàng của dtoc VN"đc ghi nhận MỘT CHIẾN CÔNG VĨ ĐẠI CỦA DTOC VN TRONG TK XX
-                    đi vào lịch sử thế giới NHƯ MỘT CHIẾN CÔNG HIỂN HÁCH, BÁO HIỆU SỰ THẮNG LỢI CỦA NHÂN DÂN CÁC DTOC BỊ ÁP BỨC, SỤP ĐỔ CỦA CN THỰC DÂN
-8/5/1954: HIỆP ĐỊNH GIONEVO: 75 ngày đàm phán, 8 phiên họp toàn thể, 23 phiên họp cấp trưởng đoàn, nhiều cuộc gặp riêng
-          Mỹ do Đalet(Bộ tr ngoại giao), Anh do Anthony Eden(Bộ tr ngoai giao), Pháp do Bidon, LX do Molotov (BTNG), TQ do Chu Ân Lai(Thủ tướng), VN do PVĐ
-          Hội nghị thông qua TUYÊN BỐ CUỐI CÙNG VỀ VĐ LẬP LẠI HÒA BÌNH Ở ĐÔNG DƯƠNG (Mỹ KHÔNG ký)->văn bản pháp lý QUỐC TẾ ĐẦU TIÊN công nhận quyền dtoc cơ bản DD
-7/7/1954: Mỹ đưa Ngô Đình Diệm vào miền Nam làm Thủ tưởng
-7/1954: Hội nghị lần 6: Đế quốc Mỹ là kẻ thù chính của nhân dân Đông Dương
-21/7/1954: HIỆP ĐỊNH ĐÌNH CHỈ CHIẾN SỰ (do so sánh lực lượng ko thuận lợi)
-22/7/1954: LỜI KÊU GỌI ĐỒNG BÀO VÀ CÁN BỘ, CHIẾN SĨ CẢ NƯỚC(HCM): nhấn mạnh TRUNG NAM BẮC đều là bờ cõi nc ta,...
-9/1954: Bộ ctri đề ra nvu chủ yếu trc mắt  Phải hàn gắn vết thương chiến tranh khôi phục kinh tế và làm nhiệm vụ còn lại của CM DTDC nhân dân tạo tiền đề 
-          đưa miền Bắc từng bước quá độ đi lên CNXH
-          NQ của BCT 3 nvu: 1, đấu tranh đòi thi hành hiệp định
-                              2, chuyển hướng công tác cho phù hợp điều kiện mới
-                              3, tập hợp lực lượng dân tộc,.. nhằm lật đổ CQ bù nhìn thân Mỹ, thống nhất TQ
-          NGHỊ QUYẾT BCH " Chuyển từ đấu tranh vũ trang sang đấu tranh chính trị"
-19/1954: Xứ ủy Nam kỳ thành lập (Lê Duẩn Bí thư)
-10/10/1954: những lính pháp cuối rút khỏi HN
-16/5/1954: toàn bộ quân Pháp rút khỏi miền bắc
-3/1955: Hội nghị lần 7
-8/1955: Hội nghị lần 8: Nhận định muốn chống Mỹ,thống nhất cần củng cố miền Bắc, đẩy mạnh đấu tranh miền Nam
-23/10/1955: trưng cầu ý dân phế truất Bảo Đại, đưa NDD làm Tổng thống
-7/1956: cải cách ruộng đất đã hoàn thành ở đồng bằng, trung du, miền núi.Xóa bỏ HOÀN TOÀN chiếm hữu ruộng đất pkien
-          Phạm sai lầm nghiêm trọng đã cường điệu hóa đấu tranh giai cấp ở nông thôn với địa chủ, xử lý oan nhiều cán bộ tốt
-8/1956: ĐỀ CƯƠNG ĐƯỜNG LỐI CM VN Ở MIỀN NAM: nêu rõ chế độ mỹ-diệm là độc tài,px, hiếu chiến
-9/1956: Hội nghị lần 10 kiểm điểm những sai lầm trong cải cách ruộng đất, chỉnh đốn tổ chức
-          Công khai phê bình một số Uỷ viên Bộ ctri, UV TWĐ
-1957: nông nghiệp miền bắc đạt năng suất như 1939, đẩy lùi nạn đói
-13/5/1957: NDD tuyên bố BIÊN GIỚI HOA KÌ KÉO DÀI ĐẾN VĨ TUYẾN 17
-12/1957: Hội nghị lần 13
-11/1958: Hội nghị lần 14: đề ra kế hoạch 3 năm ptr kte, vhoa, cải tạo xhcn đvs kte cá thể, kte tư bản tư doanh
-1/1959: Hội nghị TW 15 mở rộng: NQ về tình hình VM miền Nam với tinh thần tiếp tục CM DCDT DCND, sd bạo lực CM: ctri + vũ trang
-          ->NQ VẠCH RÕ PHƯƠNG HƯỚNG TIẾN LEEN
-3/1959: CQ NDD tuyên bố "ĐẶT MIỀN NAM TRONG TÌNH TRẠNG CTRANH"
-4/1959: Hội nghị lần 16: NQ về vđ hợp tác nông ngiệp xđ 
-19/5/1959: Đường vận tải trên bộ HCM
-23/10/1959: Đường HCM trên biển
-17/1/1960: Khởi nghĩa ĐỒNG KHỞI bùng nổ ở Bến Tre(Nguyễn Thị Định) lan ra đb sông Cửu Long, Tây Nguyên, Trung BỘ
-          -> Thắng lợi là BƯỚC NHẢY VỌT TỪ THẾ GIỮ GÌN LL SANG TIẾN CÔNG, KHỞI NGHĨA TỪNG PHẦN SANG CTRANH CM
-9/1960: ĐẠI HỘI ĐẠI BIỂU TOÀN QUỐC LẦN III tại HN: HCM nêu rõ "ĐẠI HỘI LẦN NÀY LÀ XD XHCN ở MB và đấu tranh ở MN"     
-          ĐỀ RA KẾT HOẠCH 5 NĂM lần thứ nhất (1961-1965): tiếp tục hoàn thiện quan hệ sx XHCN, xd csvc, cải thiện đời sống, anh ninh QP,hậu thuận cho cuộc kchien
-20/12/1960: MẶT TRẬN DÂN TỘC GP MN VN (Tân Lập, TN) do Nguyễn Hữu Thọ làm Chủ tịch
-1961: Mỹ thực hiện CHIÊN TRANH ĐẶC BIỆT: Cố vấn, vkhi My và quân chủ lực VNCH: 2 kế hoạch: STALAY (1961-1963) và GIONXON MACNAMARA(1964-1965)
-          Mỹ và NDD kế hoạch bình định MN tỏng 18 tháng: 17000 ấp chiến lược
-10/8/1961: Mỹ dải dioxin xuống MNVN
-10/1961: TW Cục MN (Nguyễn Văn Linh làm Bí Thư)
-15/2/1961: LLVTRANG MN thống nhất QUÂN GPMN VN
-2/1/1963: Chiến thắng ẤP BẮC
-1/11/1963: LL đảo chính giết NDD
-11/1963-6/1965: 10 cuộc đảo chính lật đổ lẫn nhau trong nội bộ CQ SG
-12/1963: Hội nghị lần 9: xđ đường lối CM MN, đường lối đoàn kết của Đảng
-          NQ TWĐ xđ "ĐẤU TRANH VTRANH ĐÓNG VTRO QĐ TRỰC TIẾP"
-3/1964: "MỖI NGƯỜI LÀM VIỆC BẰNG HAI ĐỂ ĐỀN ĐÁP LẠI CHO ĐBÀO MN RUỘT THỊT"(HCM)
-5/8/1964: Mỹ dựng chuyện"SỰ KIỆN VỊNH BẮC BỘ":lấy cớ dùng không quân, hải quân đánh phá MB
-9/1964: BCT chủ trương tăng cường chi viện. Đại tướng Nguyễn Chí Thanh, UV BCT được cử vào phụ trách làm Bí thư TW Cục, Chính ủy QGPMN
-1965: Chiến tranh đb bị phá sản
-8/3/1965: THỰC HIỆN "CTRANH CỤC BỘ": MỸ đổ bộ vào Đà Nẵng tham chiến MNVN, không quân và hải quân đánh phá MB
-3/1965: Hội nghị 11
-12/1965: Hội nghị 12: phát động CUỘC KCHIEN CHỐNG MỸ CỨU NƯỚC TRÊN TOÀN QUỐC vs qtam "ĐỘNG VIÊN LL CẢ NƯỚC KIÊN QUYẾT ĐÁNH BẠI CUỘC CTRANH XL CỦA MỸ...."
-1965-1966: Mỹ huy động 70 vạn quân (20 vạn quân Mỹ) mở cuộc phản công lần 1 vào 3 hướng Tây Nguyên, ĐB khu V, ĐNB: tìm giệt quân GP, giành lại chiến trường
-1966-1967: 39 vạn quân Mỹ, 5 vạn chư hầu, 54 vạn quân ngụy với 4000 máy bay, 2500 xe tăng, xe bọc thép phản công LẦN 2
-17/7/1966: LỜI KÊU GỌI CỦA HCM "CTRANH CÓ THỂ KÉO DÀI 5 NĂM, 10 NĂM, ... KHÔNG CÓ GÌ QUÝ HƠN ĐỘC LẬP TỰ DO"
-1967: 94000 cán bộ biên chế thành trung đoàn, sư đoàn bộ binh, binh chủng kỹ thuật nâng tổng số QGP MN lên 22000 quân chủ lực và 57000 quân địa phương
-28/1/1967: Hội nghị lân 13: qđ mở trận ngoại giao nhằm tranh thủ ủng hộ quốc tế, bè bạn, vừa đánh vừa đàm phán
-7/1967: Phạm Hùng (UV BCT giữ Bí thư TW cục MN), Trần Văn Trà (Tư lệnh QGPMN), Nguyễn Thị Định (Phó Tư lệnh)
-1968: 14 vạn cán bộ vào Nam tgia Tổng tiến công 
-1/1968: Hội nghị lần 14: chuyển CMMN sang tki mới, tiến lên giành thắng lợi bằng pp tổng công kích
-30-31/1/1968: Tết Mậu Thân, CUỘC TỔNG TIẾN CÔNG VÀ NỔI DẬY ĐỢT I PHÁT ĐỘNG TRÊN TOÀN MN: tấn công 4/6 tp. 37/42 thị xã từ Đường 9 - Khe Sanh đến ĐBSCL
-          ->MỘT CHỦ TRƯƠNG TÁO BẠO, SÁNG TẠO CỦA ĐẢNG, MANG TÍNH BƯỚC NGOẶT, KHỞI ĐẦU QTRINH ĐI ĐẾN TBAI CỦA MỸ
-13/5/1968: HỘI NGHI PARI :Bộ trưởng Xuân Thủy là trưởng đoàn, Lê ĐT, UV BCT làm cố vấn
-8/1968: LIÊN MINH CÁC LL DTOC, DCHU VÀ HÒA BÌNH VN (TRỊNH ĐÌNH THẢO)
-3/1968: Mỹ tuyên bố hạn chế ném bom MB
-1/11/1968: Mỹ tuyên bố CHẤM DỨT 0 ĐK ĐÁNH PHÁ MB
-1/1/1969: Thư CHÚC MỪNG NĂM MỚI "VÌ ĐỘC LẬP VÌ TỰ DO, ĐÁNH CHO MỸ CÚT, ĐÁNH CHO NGỤY NHÀO"(HCM)
-1/1969: Mỹ buộc chấp nhận cuộc đàm phán
-1969: Mỹ chủ trương thay đổi chiến lược CTRANH cục bộ -> "VN hóa CTRANH"
-6/6/1969: CP CM lâm thời CHMNVN (Huỳnh Thúc Kháng)
-23/9/1969: kỳ họp đb Quốc hội khóa III bầu TĐT làm CTN, Nguyễn Lương Bằng làm PCTN
-1970: Mỹ và quân ngụy Lào mở cuộc hành quân xâm lấn chiến khu chiến lược Cánh đồng Chum (Xiêng Khoảng)
-          -> Liên quân Lào-VN phá thế uy hiếp suờn phía tây và tuyến vận tải Trường Sơn
-3/1970: Mỹ đảo chỉnh ở Cam, lật đổ CP Vương quốc Trung lập do Hoàng thân Norodom xihanuc, dựng CQ tay sai Lon Non
-          -> NẤC THANG NGUY HIỂM BIẾN CAM THÀNH THUỘC ĐỊA KIỂU MỚI
-1/1970: Hội nghị 18
-6/1970: Hội nghị BCT: chủ trương chống VNHCT
-1971: VN+Lào đánh bại cuộc hành quân "Lam Sơn 719" 
-          VN+Cam đập tan cuộc hành quân "Toàn thắng 1/1971"
-28/6-16/9/1972: 81 ngày đêm Thành cổ QT
-4/1972: Mỹ ném bom VN lần thứ 2: Trước hành động điên cuồng của địch->TWĐ phát động CUỘC CTRANH NHÂN DÂN CHỐNG CTRANH PHÁ HOẠI
-18-30/12/1972: 12 ngày đêm DBP TRÊN KHÔNG: bắn rơi 84 máy bay(34 B52 +5F111A+43 GIẶC LÁI)
-15/1/1973: CP Mỹ TUYÊN BỐ NGỪNG PHÁ HOẠI MB và đàm phán
-23/1/1973: Hiệp định Pari được kí kết
-          TWĐ đề ra CHIẾN LƯỢC 2 NĂM (1974-1975)
-27/1/1973: kéo dài 4 năm 8 tháng 14 ngày, 200 phiên họp công khai, 45 gặp riêng, 500 họp báo, 1000 phỏng vấn
-          ->Kí kết HIỆP ĐỊNH VỀ chấm DỨT CTRANH LẬP LẠI HBINH Ở VN
-7/1973: Hội nghị 21: nêu rõ con đường CM là con đường bạo lực CM 
-6/1/1975: chiêm thị xã Phước Long: quân địch không có khả năng đánh chiếm lại
-          ->NHẬN THẤY quân chủ lực cơ động của ta đã mạnh, thời cơ GPMN đã chín muồi
-4/1975: Mỹ từ chối viện trợ CQ SG
-10/3/1975: Cuộc TỔNG TIẾN CÔNG VÀ NỔI DẬY MÙA XUÂN bắt đầu bằng chiến dịch TÂY NGUYÊN vào thị xã Buôn Mê Thuật
-18/3/1975: BCT qđ GPMN trong năm 1975
-26/3: Huế đc GP
-29/3: Đà Nằng đc GP
-25/3/1975: BCT bsung chiến lược GPMN trước mùa mưa
-7/4/1975: VNG ra mệnh lệnh:"Thần tốc, thần tốc hơn nx, táo bạo, táo bạo hơn nx..."
-26/4/1975: Chiến dịch HCM giải phóng SG-Gia Định bắt đầu
-          Bộ Tư Lệnh chiến dịch (Văn Tiến Dũng làm Tư lệnh, Phạm Hùng làm Chính ủy, Trần Văn Trà làm PTL)
-8/1975: Hội nghị lần thứ 24 BCHTW KHÓA III
-27/10/1975: UB TVQH VNDCCH họp phiên ĐẶC BIỆT để bàn chủ trương, biện pháp thống nhất nhà nước: 25 thành viên đại biểu MB (TC TRƯỞNG ĐOÀN) để hiệp thương vs MN
-5-6/11/1975, UB TW MTDTGPMNVN, UB TW LMINH CÁC LL DTOC, DCHU, HBINH VN, CP CM lâm thời CHMNVN
-15-21/11/1975: HỘI NGHỊ HIỆP THƯƠNG (SG): tổ chức tổng tuyển cử vào đầu 1976 theo ngta dân chủ, phổ thông, bình đẳng, bỏ phiếu kín
-25/4/1976: TỔNG TUYỂN CỬ BẦU QUỐC HỘI CHUNG CỦA VN: 23 tr cử tri, 492 đại biểu
-24/6-3/7/1976: Kỳ họp thứ NHẤT QUỐC HỘI VN tại HN: qđ đặt tên nước VNDCCH, quốc kì, quốc ca, quốc huy, SG->HCM
-          TĐT làm CTN, NLB, NHT làm PCTN, TC làm Chủ tịch UBTVQH, PVĐ làm Thủ tướng
-6/1991: Cương lĩnh xây dựng đất nước trong thời kỳ quá độ CNXH(bổ sung 2011)
+**Câu 65:** Việc xử lý âm thanh nhằm mục đích gì?
+→ **Đáp án: C. Nén và nhận dạng nội dung**
+
+**Câu 66:** Vì sao cần số hóa tín hiệu âm thanh?
+→ **Đáp án: B. Để lưu trữ và xử lý bằng máy tính**
+
+**Câu 67:** Tăng "sampling rate" sẽ ảnh hưởng gì đến chất lượng âm thanh?
+→ **Đáp án: A. Tăng độ chi tiết**
+
+**Câu 68:** Kỹ thuật biến đổi Fourier được dùng để?
+→ **Đáp án: B. Phân tích tần số tín hiệu âm thanh**
+
+**Câu 69:** Trích chọn đặc trưng âm thanh giúp gì trong nhận dạng?
+→ **Đáp án: B. Tăng hiệu quả phân tích**
+
+**Câu 70:** MFCC là đặc trưng mô tả gì?
+→ **Đáp án: B. Thành phần phổ của âm thanh**
+
+**Câu 71:** Kỹ thuật nén âm thanh giúp?
+→ **Đáp án: C. Giảm kích thước và tiết kiệm băng thông**
+
+**Câu 72:** Tại sao cần đảm bảo chất lượng truyền âm thanh?
+→ **Đáp án: B. Đảm bảo người nghe hiểu nội dung**
+
+**Câu 73:** Các công cụ như Praat giúp gì trong xử lý âm thanh?
+→ **Đáp án: B. Phân tích giọng nói, ngữ điệu**
+
+**Câu 74:** Biến đổi Fourier dùng để làm gì với tín hiệu âm thanh?
+→ **Đáp án: B. Biến đổi sang miền tần số**
+
+**Câu 75:** Tần số cao trong âm thanh tương ứng với?
+→ **Đáp án: B. Âm cao**
+
+**Câu 76:** Đặc điểm nào sau đây giúp nhận diện người nói?
+→ **Đáp án: B. MFCC**
+
+**Câu 77:** Lý do sử dụng codec âm thanh là?
+→ **Đáp án: B. Nén và giải nén âm thanh**
+
+**Câu 78:** Đặc điểm nào của âm thanh ảnh hưởng đến cảm nhận người nghe?
+→ **Đáp án: D. Cả ba trên**
+
+**Câu 79:** Tại sao cần phân tích phổ trong âm thanh?
+→ **Đáp án: B. Phát hiện thành phần tần số**
+
+**Câu 80:** Âm thanh mono và stereo khác nhau thế nào?
+→ **Đáp án: A. Stereo có 2 kênh, mono có 1 kênh**
+
+**Câu 81:** Tần số thấp trong âm thanh tạo cảm giác gì?
+→ **Đáp án: B. Âm trầm**
+
+**Câu 82:** Nhận dạng giọng nói khác với nhận dạng văn bản ở điểm nào?
+→ **Đáp án: B. Xử lý trực tiếp tín hiệu âm thanh**
+
+**Câu 83:** Chất lượng âm thanh khi nén phụ thuộc vào?
+→ **Đáp án: B. Định dạng và tỷ lệ nén**
+
+**Câu 84:** Việc tăng sampling rate quá mức sẽ gây ra?
+→ **Đáp án: B. Tăng kích thước dữ liệu không cần thiết**
+
+**Câu 85:** Vì sao cần xử lý tiếng ồn trong tín hiệu âm thanh?
+→ **Đáp án: B. Giảm nhiễu, tăng rõ ràng**
+
+**Câu 86:** Bạn cần trích xuất đặc trưng âm thanh cho bài toán nhận dạng giọng nói, nên dùng gì?
+→ **Đáp án: B. MFCC**
+
+**Câu 87:** Muốn giảm kích thước file nhạc MP3, bạn làm gì?
+→ **Đáp án: B. Giảm bitrate**
+
+**Câu 88:** Để phân tích giọng nói của người dùng, công cụ nào nên dùng?
+→ **Đáp án: A. Audacity**
+
+**Câu 89:** Trong một ứng dụng nhận diện tiếng nói, bạn cần làm gì trước tiên?
+→ **Đáp án: B. Ghi âm và xử lý tín hiệu âm thanh**
+
+**Câu 90:** Kỹ thuật giúp bạn nhận dạng cảm xúc qua giọng nói là gì?
+→ **Đáp án: B. Phân tích phổ và MFCC**
+
+**Câu 91:** Bạn được giao xây dựng hệ thống điều khiển bằng giọng nói, bạn nên xử lý gì?
+→ **Đáp án: B. Âm thanh, nhận dạng giọng nói**
+
+**Câu 92:** Để lọc nhiễu âm thanh trong phòng họp, bạn sẽ sử dụng kỹ thuật nào?
+→ **Đáp án: B. Noise cancellation**
+
+**Câu 93:** Trong nhận dạng âm thanh, việc chuẩn hóa âm lượng giúp?
+→ **Đáp án: B. Giảm sai lệch tín hiệu**
+
+**Câu 94:** Công cụ nào sau đây cho phép xem biểu đồ phổ âm thanh?
+→ **Đáp án: A. Praat**
+
+**Câu 95:** Khi xây dựng một ứng dụng học phát âm, bạn cần?
+→ **Đáp án: C. Bộ trích chọn đặc trưng và so khớp âm thanh**
+
+**Câu 96:** Trong phần mềm nhận dạng tiếng nói, MFCC được sử dụng cho?
+→ **Đáp án: B. Trích chọn đặc trưng âm thanh**
+
+**Câu 97:** Bạn cần làm phần mềm kiểm tra chất lượng phát âm của sinh viên, cần gì?
+→ **Đáp án: C. Bộ đặc trưng âm thanh và mô hình phân loại**
+
+**Câu 98:** Để xử lý giọng nói trẻ em khác người lớn, cần gì?
+→ **Đáp án: C. Tùy chỉnh bộ đặc trưng MFCC**
+
+**Câu 99:** Bạn muốn nén podcast mà không làm giảm chất lượng quá nhiều, chọn gì?
+→ **Đáp án: B. MP3 với bitrate 128kbps**
+
+**Câu 100:** Khi thiết kế phần mềm học ngoại ngữ với giọng nói, bạn cần ưu tiên gì?
+→ **Đáp án: B. Độ chính xác nhận dạng và âm thanh rõ ràng**
+
+---
+
+## Phần 3: Hình ảnh và Video (Câu 101 - 250)
+
+**Câu 101:** Định dạng ảnh phổ biến trong web là gì?
+→ **Đáp án: B. PNG**
+
+**Câu 102:** Định dạng ảnh nào hỗ trợ nền trong suốt?
+→ **Đáp án: B. PNG**
+
+**Câu 103:** JPEG là chuẩn nén ảnh theo kiểu gì?
+→ **Đáp án: B. Mất dữ liệu**
+
+**Câu 104:** Kỹ thuật nén ảnh GIF hỗ trợ tối đa bao nhiêu màu?
+→ **Đáp án: B. 256**
+
+**Câu 105:** Nén ảnh là quá trình gì?
+→ **Đáp án: B. Làm giảm kích thước lưu trữ ảnh**
+
+**Câu 106:** Kỹ thuật nén ảnh nào phổ biến trên mạng xã hội?
+→ **Đáp án: B. JPEG**
+
+**Câu 107:** Một pixel trong ảnh số là gì?
+→ **Đáp án: A. Một điểm màu**
+
+**Câu 108:** Video là gì trong đa phương tiện?
+→ **Đáp án: A. Một chuỗi hình ảnh liên tục**
+
+**Câu 109:** Chuẩn nén video nào thường dùng cho streaming?
+→ **Đáp án: B. MP4**
+
+**Câu 110:** Định dạng video phổ biến hiện nay là gì?
+→ **Đáp án: B. .avi**
+
+**Câu 111:** Chuẩn nén video H.264 có ưu điểm gì?
+→ **Đáp án: C. Nén hiệu quả, chất lượng tốt**
+
+**Câu 112:** Video full HD có độ phân giải là?
+→ **Đáp án: B. 1920x1080**
+
+**Câu 113:** Kỹ thuật nén ảnh "lossless" nghĩa là gì?
+→ **Đáp án: A. Nén mà không mất dữ liệu**
+
+**Câu 114:** Ảnh raster được tạo từ?
+→ **Đáp án: B. Các điểm ảnh (pixel)**
+
+**Câu 115:** Định dạng ảnh nào dùng cho ảnh vẽ, sơ đồ nhiều chi tiết?
+→ **Đáp án: C. SVG**
+
+**Câu 116:** FPS trong video nghĩa là gì?
+→ **Đáp án: A. Frames per second**
+
+**Câu 117:** Công cụ phổ biến để chỉnh sửa ảnh là?
+→ **Đáp án: B. Photoshop**
+
+**Câu 118:** Định dạng video MP4 là viết tắt của gì?
+→ **Đáp án: D. MPEG-4**
+
+**Câu 119:** Kỹ thuật nén ảnh LZW được dùng trong định dạng nào?
+→ **Đáp án: A. GIF**
+
+**Câu 120:** BMP là định dạng ảnh như thế nào?
+→ **Đáp án: A. Không nén**
+
+**Câu 121:** Định dạng ảnh nào hỗ trợ hoạt ảnh (animation)?
+→ **Đáp án: B. GIF**
+
+**Câu 122:** Độ sâu màu 8 bit nghĩa là gì?
+→ **Đáp án: B. 256 màu**
+
+**Câu 123:** Định dạng video .avi có đặc điểm gì?
+→ **Đáp án: B. Không nén hoặc nén ít**
+
+**Câu 124:** Tệp nào sau đây không phải là video?
+→ **Đáp án: C. .doc**
+
+**Câu 125:** Kỹ thuật nén video "intra-frame" hoạt động như thế nào?
+→ **Đáp án: A. Dựa trên từng khung hình**
+
+**Câu 126:** Vector graphics được dùng để lưu trữ gì?
+→ **Đáp án: B. Dữ liệu dạng hình học**
+
+**Câu 127:** Công cụ chỉnh sửa video mã nguồn mở phổ biến là?
+→ **Đáp án: C. Kdenlive**
+
+**Câu 128:** Kỹ thuật nào giúp cải thiện chất lượng ảnh bị mờ?
+→ **Đáp án: A. Sharpening**
+
+**Câu 129:** Định dạng ảnh nào phù hợp để in chất lượng cao?
+→ **Đáp án: C. TIFF**
+
+**Câu 130:** Video streaming yêu cầu gì về mạng?
+→ **Đáp án: B. Mạng tốc độ cao**
+
+**Câu 131:** Tệp hình ảnh nào có dung lượng lớn nhất?
+→ **Đáp án: C. BMP**
+
+**Câu 132:** "Lossy compression" trong video là gì?
+→ **Đáp án: B. Mất một phần dữ liệu để giảm kích thước**
+
+**Câu 133:** Công cụ nào KHÔNG dùng để chỉnh sửa video?
+→ **Đáp án: C. MS Excel**
+
+**Câu 134:** Ảnh JPEG thích hợp cho việc gì?
+→ **Đáp án: B. Lưu trữ ảnh web**
+
+**Câu 135:** Một khung hình video là?
+→ **Đáp án: B. 1 ảnh tĩnh**
+
+**Câu 136:** Yếu tố nào ảnh hưởng đến chất lượng hình ảnh?
+→ **Đáp án: A. Độ phân giải**
+
+**Câu 137:** H.264 là chuẩn nén dùng cho?
+→ **Đáp án: C. Video**
+
+**Câu 138:** Định dạng ảnh nào được hỗ trợ rộng rãi trên Internet?
+→ **Đáp án: B. PNG**
+
+**Câu 139:** Chuỗi ảnh tạo nên video còn gọi là gì?
+→ **Đáp án: A. Khung hình**
+
+**Câu 140:** Độ phân giải 4K tương ứng với?
+→ **Đáp án: B. 3840x2160**
+
+**Câu 141:** Các định dạng ảnh vector phổ biến là?
+→ **Đáp án: A. SVG, EPS**
+
+**Câu 142:** Kỹ thuật "downsampling" nghĩa là?
+→ **Đáp án: B. Giảm số pixel để giảm kích thước**
+
+**Câu 143:** Một video 30 fps nghĩa là gì?
+→ **Đáp án: B. 30 khung hình/giây**
+
+**Câu 144:** Bitrate ảnh hưởng đến?
+→ **Đáp án: B. Kích thước và chất lượng video**
+
+**Câu 145:** Chuẩn nào dùng để nén ảnh động?
+→ **Đáp án: C. GIF**
+
+**Câu 146:** Nén video giúp gì?
+→ **Đáp án: B. Giảm dung lượng và tiết kiệm băng thông**
+
+**Câu 147:** Codec trong video dùng để?
+→ **Đáp án: B. Mã hóa và giải mã dữ liệu video**
+
+**Câu 148:** Công cụ nào dùng để xem thông số video?
+→ **Đáp án: B. VLC Media Player**
+
+**Câu 149:** Định dạng nào KHÔNG phải của video?
+→ **Đáp án: D. .gif**
+
+**Câu 150:** Video RAW là gì?
+→ **Đáp án: B. Video chưa qua nén hoặc chỉnh sửa**
+
+**Câu 151:** Tại sao JPEG được ưa chuộng trong chia sẻ ảnh trên web?
+→ **Đáp án: C. Nén ảnh hiệu quả với chất lượng chấp nhận được**
+
+**Câu 152:** Vì sao PNG được sử dụng nhiều trong thiết kế web?
+→ **Đáp án: B. Hỗ trợ nền trong suốt**
+
+**Câu 153:** Lợi ích chính của việc nén ảnh là gì?
+→ **Đáp án: B. Giảm kích thước lưu trữ**
+
+**Câu 154:** Video được tạo thành từ chuỗi ảnh như thế nào?
+→ **Đáp án: B. Các hình ảnh liên tiếp theo thời gian**
+
+**Câu 155:** Tại sao người ta chọn H.264 cho truyền video trực tuyến?
+→ **Đáp án: C. Cân bằng giữa chất lượng và dung lượng**
+
+**Câu 156:** Tốc độ khung hình (fps) ảnh hưởng thế nào đến video?
+→ **Đáp án: B. Tốc độ càng cao thì video càng mượt**
+
+**Câu 157:** Tại sao ảnh BMP không phù hợp cho web?
+→ **Đáp án: C. Kích thước lớn, không nén**
+
+**Câu 158:** Định dạng nào phù hợp nhất để lưu ảnh chất lượng cao phục vụ in ấn?
+→ **Đáp án: C. TIFF**
+
+**Câu 159:** Vì sao cần phân biệt giữa ảnh vector và raster?
+→ **Đáp án: B. Để tối ưu hóa lưu trữ và hiển thị**
+
+**Câu 160:** Bitrate càng cao trong video thì ảnh hưởng thế nào?
+→ **Đáp án: A. Chất lượng và dung lượng cao hơn**
+
+**Câu 161:** Khác biệt chính giữa ảnh JPEG và PNG là gì?
+→ **Đáp án: B. PNG hỗ trợ nền trong suốt**
+
+**Câu 162:** Kỹ thuật intra-frame trong video giúp gì?
+→ **Đáp án: B. Tăng tính độc lập giữa các khung hình**
+
+**Câu 163:** Khi nén video quá mạnh sẽ gây ra hiện tượng gì?
+→ **Đáp án: B. Mất chi tiết và hiện tượng "blocky"**
+
+**Câu 164:** Tại sao cần nén video trước khi chia sẻ qua mạng?
+→ **Đáp án: C. Giảm dung lượng, dễ truyền tải**
+
+**Câu 165:** Kỹ thuật downsampling ảnh hưởng đến hình ảnh như thế nào?
+→ **Đáp án: B. Giảm số điểm ảnh, giảm chi tiết**
+
+**Câu 166:** Tại sao định dạng GIF không phù hợp cho ảnh màu chất lượng cao?
+→ **Đáp án: B. Vì giới hạn 256 màu**
+
+**Câu 167:** Codec video có vai trò gì?
+→ **Đáp án: B. Mã hóa và giải mã video**
+
+**Câu 168:** Khác biệt chính giữa video 720p và 1080p là gì?
+→ **Đáp án: C. Khác độ phân giải**
+
+**Câu 169:** Khi cần xử lý video độ phân giải cao, điều gì cần được quan tâm?
+→ **Đáp án: C. Hiệu năng xử lý và bộ nhớ**
+
+**Câu 170:** Vì sao video cần nhiều băng thông hơn ảnh?
+→ **Đáp án: B. Là chuỗi ảnh chuyển động + âm thanh**
+
+**Câu 171:** Định dạng ảnh SVG được dùng tốt nhất trong trường hợp nào?
+→ **Đáp án: B. Biểu đồ, sơ đồ kỹ thuật số**
+
+**Câu 172:** Nếu bạn giảm fps từ 60 xuống 30 trong video, điều gì xảy ra?
+→ **Đáp án: C. Video ít mượt, giảm dung lượng**
+
+**Câu 173:** Ảnh vector có lợi thế gì so với ảnh bitmap?
+→ **Đáp án: A. Kích thước nhỏ và không mất chất lượng khi phóng to**
+
+**Câu 174:** Tại sao không nên dùng ảnh JPEG khi cần chỉnh sửa nhiều lần?
+→ **Đáp án: B. Giảm chất lượng dần mỗi lần lưu**
+
+**Câu 175:** Chuyển đổi ảnh sang grayscale giúp ích gì?
+→ **Đáp án: B. Làm nhẹ ảnh, tăng khả năng phân tích đặc trưng**
+
+**Câu 176:** Video 4K có ưu điểm gì nổi bật so với Full HD?
+→ **Đáp án: C. Độ phân giải cao hơn, chi tiết rõ**
+
+**Câu 177:** Video định dạng .mkv khác .mp4 ở điểm nào?
+→ **Đáp án: B. .mkv hỗ trợ nhiều track và phụ đề hơn**
+
+**Câu 178:** Chất lượng ảnh số phụ thuộc vào?
+→ **Đáp án: A. Độ phân giải, độ sâu màu**
+
+**Câu 179:** Video bitrate thấp gây ra điều gì?
+→ **Đáp án: B. Video mờ và nhiều hiện tượng nén**
+
+**Câu 180:** H.265 là chuẩn nén video thế hệ mới có gì vượt trội?
+→ **Đáp án: B. Nén hiệu quả hơn H.264 cùng chất lượng**
+
+**Câu 181:** HDR trong video giúp gì?
+→ **Đáp án: C. Tăng độ tương phản và chi tiết vùng sáng tối**
+
+**Câu 182:** Yếu tố nào ảnh hưởng đến thời gian nén video?
+→ **Đáp án: B. Thuật toán và độ phân giải**
+
+**Câu 183:** Định dạng container trong video là gì?
+→ **Đáp án: B. Dữ liệu chứa âm thanh, video và phụ đề**
+
+**Câu 184:** Tại sao cần có các định dạng ảnh khác nhau (JPG, PNG, TIFF,...)?
+→ **Đáp án: B. Để phù hợp với nhu cầu lưu trữ, hiển thị khác nhau**
+
+**Câu 185:** Một video nặng chủ yếu do yếu tố nào?
+→ **Đáp án: B. FPS và độ phân giải**
+
+**Câu 186:** Vector graphics thích hợp cho thiết kế nào?
+→ **Đáp án: B. Biểu tượng, logo**
+
+**Câu 187:** Thêm phụ đề trong video ảnh hưởng đến định dạng nào?
+→ **Đáp án: B. Container video**
+
+**Câu 188:** Khi bạn thấy hiện tượng "blocky" trong video, nguyên nhân có thể là?
+→ **Đáp án: B. Nén quá mạnh**
+
+**Câu 189:** Video với frame rate thấp thường gây cảm giác gì?
+→ **Đáp án: B. Giật, không trơn**
+
+**Câu 190:** Định dạng ảnh phù hợp cho nền trong suốt và ít màu là gì?
+→ **Đáp án: C. PNG**
+
+**Câu 191:** Video cần ít nhất bao nhiêu FPS để hiển thị mượt?
+→ **Đáp án: C. 24**
+
+**Câu 192:** Video interlaced khác với progressive ở điểm nào?
+→ **Đáp án: B. Cách hiển thị khung hình**
+
+**Câu 193:** Tại sao ảnh PNG thường dùng trong logo, biểu tượng?
+→ **Đáp án: B. Có nền trong suốt, không mất dữ liệu**
+
+**Câu 194:** Dữ liệu EXIF trong ảnh dùng để làm gì?
+→ **Đáp án: B. Chứa thông tin máy ảnh, thời gian chụp, cài đặt**
+
+**Câu 195:** Video HDR khác video SDR ở điểm gì?
+→ **Đáp án: B. Dải màu và độ tương phản rộng hơn**
+
+**Câu 196:** Khác biệt giữa định dạng .mp4 và .webm là gì?
+→ **Đáp án: A. Webm mã nguồn mở hơn, tối ưu cho web**
+
+**Câu 197:** Video .mov thường gắn với hệ điều hành nào?
+→ **Đáp án: B. macOS**
+
+**Câu 198:** Một đoạn video dài hơn có thể gây ảnh hưởng gì?
+→ **Đáp án: B. Tăng dung lượng và thời gian tải**
+
+**Câu 199:** Video 30fps và 60fps khác nhau chủ yếu ở điểm gì?
+→ **Đáp án: B. Độ mượt khi phát**
+
+**Câu 200:** Lý do cần có kỹ thuật nén ảnh/video trong truyền thông số là gì?
+→ **Đáp án: B. Để giảm băng thông, tăng hiệu quả lưu trữ và truyền tải**
+
+**Câu 201:** Bạn muốn đăng ảnh chất lượng tốt nhưng dung lượng nhỏ lên website, chọn định dạng nào?
+→ **Đáp án: C. JPEG**
+
+**Câu 202:** Khi thiết kế website có ảnh nền trong suốt, bạn nên dùng định dạng nào?
+→ **Đáp án: C. PNG**
+
+**Câu 203:** Một lập trình viên cần tạo ảnh động nhẹ cho banner web, định dạng phù hợp là?
+→ **Đáp án: C. GIF**
+
+**Câu 204:** Bạn cần trích khung hình từ video để tạo ảnh đại diện, công cụ nào phù hợp?
+→ **Đáp án: A. Adobe Premiere**
+
+**Câu 205:** Khi cần xử lý ảnh cho hệ thống nhận diện khuôn mặt, bước đầu tiên là gì?
+→ **Đáp án: A. Chuyển sang grayscale**
+
+**Câu 206:** Để làm nổi bật các đường viền trong ảnh nhận diện vật thể, bạn áp dụng kỹ thuật nào?
+→ **Đáp án: B. Edge Detection**
+
+**Câu 207:** Cần giảm dung lượng video nhưng vẫn giữ được chất lượng tương đối, bạn làm gì?
+→ **Đáp án: B. Chuyển sang định dạng H.264**
+
+**Câu 208:** Khi tạo một hệ thống streaming video học trực tuyến, cần ưu tiên điều gì?
+→ **Đáp án: B. Độ nén và bitrate hợp lý**
+
+**Câu 209:** Muốn nén ảnh mà không làm mất dữ liệu, bạn chọn định dạng nào?
+→ **Đáp án: B. PNG**
+
+**Câu 210:** Bạn làm app xem video, người dùng phản ánh bị giật. Nguyên nhân có thể là?
+→ **Đáp án: A. FPS thấp hoặc bitrate không phù hợp**
+
+**Câu 211:** Khi thiết kế logo có thể phóng to tùy ý, bạn nên dùng định dạng nào?
+→ **Đáp án: C. SVG**
+
+**Câu 212:** Để nhận dạng hành động trong video, bước đầu tiên bạn cần?
+→ **Đáp án: B. Trích đặc trưng từ chuỗi khung hình**
+
+**Câu 213:** Muốn tách tiếng khỏi video để xử lý riêng, bạn cần?
+→ **Đáp án: B. Phần mềm tách âm thanh**
+
+**Câu 214:** Khi tạo ứng dụng truyền hình ảnh từ camera lên server, bạn cần?
+→ **Đáp án: A. Mạng tốc độ cao và nén ảnh**
+
+**Câu 215:** Bạn cần nén ảnh đầu vào từ webcam để truyền đi nhanh hơn, bạn chọn cách?
+→ **Đáp án: B. Dùng JPEG và giảm chất lượng ảnh**
+
+**Câu 216:** Khi phát video độ phân giải 4K qua mạng yếu, giải pháp là?
+→ **Đáp án: B. Giảm độ phân giải hoặc bitrate**
+
+**Câu 217:** Dự án cần ảnh y tế chất lượng cao không mất chi tiết, chọn định dạng nào?
+→ **Đáp án: B. TIFF**
+
+**Câu 218:** Bạn muốn xây dựng hệ thống phân loại ảnh động vật, nên làm bước nào đầu tiên?
+→ **Đáp án: B. Trích đặc trưng và huấn luyện mô hình**
+
+**Câu 219:** Một video quảng cáo cần nhúng trên web nhẹ và phổ biến, chọn định dạng nào?
+→ **Đáp án: B. .mp4**
+
+**Câu 220:** Bạn làm phần mềm xử lý ảnh, cần giảm nhiễu, chọn kỹ thuật gì?
+→ **Đáp án: A. Median filter**
+
+**Câu 221:** Video nhiều chuyển động nhanh nên dùng fps nào để mượt hơn?
+→ **Đáp án: D. 60fps**
+
+**Câu 222:** Khi muốn nhận diện biển số từ video, cần kết hợp xử lý gì?
+→ **Đáp án: B. Phân tích chuyển động + OCR**
+
+**Câu 223:** Bạn phát hiện hình ảnh trong video bị méo do nén quá mức, nên điều chỉnh gì?
+→ **Đáp án: B. Tăng bitrate hoặc giảm mức nén**
+
+**Câu 224:** Ứng dụng cần xử lý ảnh y sinh để phân tích tế bào, cần ưu tiên gì?
+→ **Đáp án: C. Độ phân giải và độ chính xác cao**
+
+**Câu 225:** Để làm ảnh đại diện web load nhanh mà vẫn đẹp, định dạng tốt là?
+→ **Đáp án: B. JPEG**
+
+**Câu 226:** Bạn muốn hiển thị ảnh scan hóa đơn để OCR, nên chuyển ảnh sang?
+→ **Đáp án: B. Grayscale hoặc nhị phân**
+
+**Câu 227:** Để xây dựng phần mềm kiểm tra chất lượng ảnh, bạn cần đo thông số nào?
+→ **Đáp án: C. Độ sắc nét, độ sáng, độ tương phản**
+
+**Câu 228:** Bạn cần xử lý các khung hình trong video để phát hiện bất thường, chọn bước nào?
+→ **Đáp án: A. Tách khung, trích đặc trưng**
+
+**Câu 229:** Bạn cần làm ứng dụng quay phim màn hình, nên dùng định dạng video nào?
+→ **Đáp án: C. .mp4**
+
+**Câu 230:** Muốn kiểm tra số khung hình/giây (fps) của video, bạn dùng?
+→ **Đáp án: B. VLC Media Player**
+
+**Câu 231:** Bạn được giao dựng video quảng cáo có nhạc nền, bạn cần làm gì?
+→ **Đáp án: B. Đồng bộ hình ảnh và âm thanh**
+
+**Câu 232:** Để đồng bộ phụ đề với âm thanh trong video, bạn cần công cụ nào?
+→ **Đáp án: A. Trình biên tập phụ đề**
+
+**Câu 233:** Cần xây dựng website thư viện video học tập, yếu tố cần ưu tiên là?
+→ **Đáp án: B. Dung lượng lưu trữ và tốc độ truy cập**
+
+**Câu 234:** Ảnh dùng để nhận diện vật thể nên có định dạng nào?
+→ **Đáp án: B. TIFF**
+
+**Câu 235:** Bạn làm chatbot video, cần xử lý gì khi người dùng gửi video lên?
+→ **Đáp án: B. Phân tích hình ảnh và âm thanh**
+
+**Câu 236:** Ứng dụng video giảng dạy cần có gì để hỗ trợ người học tốt hơn?
+→ **Đáp án: C. Chú thích trực quan và phụ đề**
+
+**Câu 237:** Khi làm web bán hàng có nhiều ảnh sản phẩm, bạn cần?
+→ **Đáp án: A. Giảm kích thước ảnh bằng JPEG**
+
+**Câu 238:** Dữ liệu hình ảnh dùng huấn luyện AI cần xử lý bước gì đầu tiên?
+→ **Đáp án: C. Tiền xử lý: cắt, chuẩn hóa ảnh**
+
+**Câu 239:** Để phát hiện chuyển động trong video, bạn cần dùng kỹ thuật gì?
+→ **Đáp án: B. Trừ khung hình liên tiếp**
+
+**Câu 240:** Bạn thiết kế phần mềm đồ họa cần ảnh lưu dưới dạng có thể chỉnh sửa vector, chọn?
+→ **Đáp án: C. SVG**
+
+**Câu 241:** Muốn phát hiện vật thể trong ảnh/video, bạn cần?
+→ **Đáp án: B. SIFT, HOG, YOLO hoặc CNN**
+
+**Câu 242:** Bạn tạo ứng dụng thực tế ảo, hình ảnh 360 độ nên lưu định dạng nào?
+→ **Đáp án: C. JPEG hoặc WebP**
+
+**Câu 243:** Muốn ghép nền cho ảnh chân dung, kỹ thuật dùng là?
+→ **Đáp án: B. Tách nền (chroma key)**
+
+**Câu 244:** Bạn muốn giảm rung trong video quay tay, bạn dùng kỹ thuật gì?
+→ **Đáp án: B. Stabilization**
+
+**Câu 245:** Một trang báo điện tử có nhiều video, để tăng tốc tải trang cần?
+→ **Đáp án: A. Nén video và chọn độ phân giải thấp**
+
+**Câu 246:** Để tạo demo sản phẩm dạng hình ảnh và âm thanh, dùng gì?
+→ **Đáp án: B. PowerPoint**
+
+**Câu 247:** Bạn cần đo bitrate video, phần mềm nào phù hợp?
+→ **Đáp án: A. VLC**
+
+**Câu 248:** Khi xây dựng hệ thống tìm kiếm ảnh tương tự, cần?
+→ **Đáp án: B. Trích đặc trưng và so khớp ảnh**
+
+**Câu 249:** Bạn làm hệ thống giám sát an ninh qua video, cần ưu tiên gì?
+→ **Đáp án: B. Độ phân giải đủ + phát hiện chuyển động**
+
+**Câu 250:** Bạn cần lưu ảnh để làm việc với mạng CNN, định dạng nào phù hợp nhất?
+→ **Đáp án: B. PNG hoặc JPEG**
+
+---
+
+## Phần 4: Cơ sở dữ liệu Đa phương tiện (Câu 251 - 300)
+
+**Câu 251:** Cơ sở dữ liệu đa phương tiện là gì?
+→ **Đáp án: C. Lưu trữ nhiều dạng dữ liệu như ảnh, âm thanh, video**
+
+**Câu 252:** Một đặc trưng chính của cơ sở dữ liệu đa phương tiện là?
+→ **Đáp án: C. Dữ liệu không đồng nhất và dung lượng lớn**
+
+**Câu 253:** Đối tượng nào KHÔNG phải là thành phần thường thấy trong CSDL đa phương tiện?
+→ **Đáp án: D. Lập trình ngôn ngữ**
+
+**Câu 254:** Dữ liệu ảnh trong cơ sở dữ liệu thường được lưu ở định dạng nào?
+→ **Đáp án: B. .jpg/.png**
+
+**Câu 255:** Một cơ sở dữ liệu đa phương tiện thường lưu trữ?
+→ **Đáp án: B. Hình ảnh, video, âm thanh**
+
+**Câu 256:** Dữ liệu video thường có đặc điểm gì?
+→ **Đáp án: C. Kích thước lớn, khó lập chỉ mục**
+
+**Câu 257:** Cấu trúc phổ biến để lưu trữ ảnh trong cơ sở dữ liệu là?
+→ **Đáp án: B. Bảng có link đến file hệ thống**
+
+**Câu 258:** CSDL đa phương tiện hỗ trợ loại dữ liệu nào sau đây?
+→ **Đáp án: B. Dữ liệu phi cấu trúc**
+
+**Câu 259:** Khái niệm "metadata" liên quan đến?
+→ **Đáp án: B. Dữ liệu mô tả dữ liệu khác**
+
+**Câu 260:** Đặc trưng của ảnh số trong cơ sở dữ liệu là gì?
+→ **Đáp án: B. Có độ phân giải và màu sắc cụ thể**
+
+**Câu 261:** Định dạng lưu trữ âm thanh phổ biến trong CSDL là gì?
+→ **Đáp án: A. .mp3/.wav**
+
+**Câu 262:** Một CSDL đa phương tiện có thể sử dụng ngôn ngữ truy vấn nào?
+→ **Đáp án: B. SQL với mở rộng hỗ trợ dữ liệu phức hợp**
+
+**Câu 263:** Tại sao ảnh không nên lưu trực tiếp vào bảng dữ liệu?
+→ **Đáp án: B. Làm giảm tốc độ truy xuất**
+
+**Câu 264:** CSDL đa phương tiện có thể xây dựng trên nền tảng nào?
+→ **Đáp án: A. Hệ quản trị cơ sở dữ liệu (DBMS)**
+
+**Câu 265:** Kiểu dữ liệu nào thường dùng để tham chiếu đến tệp đa phương tiện trong SQL?
+→ **Đáp án: B. BLOB hoặc LINK**
+
+**Câu 266:** Tại sao cần dùng "metadata" trong CSDL đa phương tiện?
+→ **Đáp án: B. Mô tả và quản lý nội dung dữ liệu**
+
+**Câu 267:** Dữ liệu ảnh trong CSDL thường được lưu gián tiếp nhằm?
+→ **Đáp án: B. Tránh lưu trữ nặng trong DB chính**
+
+**Câu 268:** Ưu điểm của việc lưu link đến file đa phương tiện thay vì lưu trực tiếp trong DB là gì?
+→ **Đáp án: B. Tiết kiệm dung lượng và dễ quản lý**
+
+**Câu 269:** Tại sao CSDL đa phương tiện thường phức tạp hơn so với CSDL truyền thống?
+→ **Đáp án: B. Do dữ liệu phi cấu trúc và khó lập chỉ mục**
+
+**Câu 270:** Dữ liệu video cần xử lý thế nào trước khi lưu vào DB?
+→ **Đáp án: A. Nén và mã hóa nếu cần**
+
+**Câu 271:** Dữ liệu âm thanh khi lưu trong CSDL thường cần?
+→ **Đáp án: B. Mã hóa nhị phân hoặc nén**
+
+**Câu 272:** CSDL đa phương tiện yêu cầu gì để truy vấn hiệu quả?
+→ **Đáp án: A. Chỉ mục phù hợp với loại dữ liệu**
+
+**Câu 273:** Tại sao việc tìm kiếm hình ảnh theo nội dung (CBIR) trong CSDL lại khó?
+→ **Đáp án: B. Vì hình ảnh không có cấu trúc logic như văn bản**
+
+**Câu 274:** Ngôn ngữ truy vấn CSDL đa phương tiện khác với SQL thông thường ở điểm nào?
+→ **Đáp án: A. Có thể xử lý ảnh, video**
+
+**Câu 275:** Metadata giúp ích gì trong tìm kiếm đa phương tiện?
+→ **Đáp án: B. Cung cấp thông tin để lập chỉ mục**
+
+**Câu 276:** Dữ liệu âm thanh trong CSDL thường được trích chọn đặc trưng để làm gì?
+→ **Đáp án: B. Phân loại và truy xuất**
+
+**Câu 277:** CSDL đa phương tiện hỗ trợ gì cho hệ thống học máy?
+→ **Đáp án: B. Lưu dữ liệu ảnh, video để huấn luyện**
+
+**Câu 278:** Phân biệt chính giữa dữ liệu văn bản và hình ảnh trong CSDL là gì?
+→ **Đáp án: B. Hình ảnh không có ngữ nghĩa rõ ràng**
+
+**Câu 279:** Tại sao cần xử lý ảnh trước khi lưu vào DB?
+→ **Đáp án: B. Giảm kích thước và tăng hiệu quả lưu trữ**
+
+**Câu 280:** CSDL đa phương tiện sử dụng BLOB để?
+→ **Đáp án: A. Lưu ảnh và âm thanh nhị phân**
+
+**Câu 281:** Dữ liệu ảnh/video trong DB thường được truy vấn qua?
+→ **Đáp án: B. Đường dẫn file hoặc mã hóa truy vấn**
+
+**Câu 282:** Vì sao nên tạo chỉ mục (index) cho metadata trong CSDL đa phương tiện?
+→ **Đáp án: B. Để tìm kiếm hiệu quả hơn**
+
+**Câu 283:** Khi lưu nhiều tệp đa phương tiện, yếu tố nào quan trọng nhất để DB hoạt động ổn định?
+→ **Đáp án: B. Bộ nhớ và dung lượng ổ đĩa**
+
+**Câu 284:** Trong thiết kế DB đa phương tiện, việc phân tách dữ liệu và metadata có lợi gì?
+→ **Đáp án: B. Tăng khả năng bảo trì và mở rộng**
+
+**Câu 285:** Với hệ thống lưu trữ ảnh y tế, cần ưu tiên gì?
+→ **Đáp án: B. Độ phân giải và định dạng chuẩn**
+
+**Câu 286:** Bạn cần xây dựng hệ thống lưu trữ ảnh đại diện người dùng, cách lưu trữ hiệu quả là gì?
+→ **Đáp án: B. Lưu đường dẫn file và quản lý file ngoài DB**
+
+**Câu 287:** Khi thiết kế bảng chứa dữ liệu ảnh sản phẩm, bạn nên thêm trường nào?
+→ **Đáp án: B. image_path hoặc image_blob**
+
+**Câu 288:** Để tìm kiếm video dựa trên nội dung, bạn cần?
+→ **Đáp án: B. Phân tích đặc trưng nội dung video**
+
+**Câu 289:** Hệ thống e-learning lưu trữ video bài giảng nên chọn phương pháp gì?
+→ **Đáp án: B. Lưu đường dẫn và nén video hợp lý**
+
+**Câu 290:** Trong hệ thống nhận diện giọng nói, bạn cần lưu gì trong CSDL để huấn luyện mô hình?
+→ **Đáp án: C. Đặc trưng âm thanh đã trích chọn**
+
+**Câu 291:** Để xây dựng hệ thống quản lý ảnh cho bệnh viện, bạn cần đảm bảo yếu tố nào?
+→ **Đáp án: B. Lưu ảnh chất lượng cao và bảo mật**
+
+**Câu 292:** Bạn đang thiết kế hệ thống tìm kiếm ảnh tương tự, dữ liệu nào nên được lưu trong DB?
+→ **Đáp án: C. Đặc trưng trích chọn từ ảnh**
+
+**Câu 293:** Cần xây dựng chức năng tìm kiếm video theo nội dung giảng viên, bạn nên lưu gì?
+→ **Đáp án: B. Metadata gồm giảng viên, tiêu đề**
+
+**Câu 294:** Với hệ thống giám sát an ninh, bạn cần lưu gì để phục vụ truy xuất nhanh?
+→ **Đáp án: B. Ảnh trích từ video và metadata thời gian**
+
+**Câu 295:** Khi muốn truy xuất ảnh dựa theo màu sắc chính, bạn cần lưu?
+→ **Đáp án: B. RGB histogram hoặc vector đặc trưng**
+
+**Câu 296:** Trong hệ thống quản lý âm thanh podcast, nên lưu thông tin gì để hỗ trợ tìm kiếm?
+→ **Đáp án: B. Metadata về tiêu đề, chủ đề, người nói**
+
+**Câu 297:** Khi xây dựng cơ sở dữ liệu cho ứng dụng học ngoại ngữ có giọng nói, bạn nên lưu?
+→ **Đáp án: B. Tệp âm thanh nén + mô tả nội dung**
+
+**Câu 298:** Để thiết kế dashboard quản lý nội dung đa phương tiện, bạn cần tổ chức CSDL theo cách nào?
+→ **Đáp án: A. Tập trung theo loại dữ liệu + metadata**
+
+**Câu 299:** Một hệ thống học máy cần ảnh đã gắn nhãn để huấn luyện, bạn nên lưu?
+→ **Đáp án: B. Metadata + đường dẫn + nhãn**
+
+**Câu 300:** Cần xây dựng ứng dụng học phát âm có lưu kết quả học viên, bạn cần gì trong CSDL?
+→ **Đáp án: B. Bản ghi âm và đặc trưng giọng nói**
+
+## Phần 5: Thực tế ảo (VR) (Câu 301 - 400)
+
+**Câu 301:** Thực tế ảo (Virtual Reality – VR) là gì?
+→ **Đáp án: B. Môi trường mô phỏng 3D tương tác**
+
+**Câu 302:** Thiết bị nào thường dùng để trải nghiệm thực tế ảo?
+→ **Đáp án: B. Kính VR**
+
+**Câu 303:** Một ứng dụng tiêu biểu của VR trong giáo dục là?
+→ **Đáp án: B. Mô phỏng thí nghiệm ảo**
+
+**Câu 304:** Môi trường thực tế ảo chủ yếu mô phỏng bằng công nghệ nào?
+→ **Đáp án: B. 3D**
+
+**Câu 305:** VR là viết tắt của cụm từ nào sau đây?
+→ **Đáp án: B. Virtual Reality**
+
+**Câu 306:** Hệ thống trực quan trong VR là gì?
+→ **Đáp án: B. Thiết bị mô phỏng hình ảnh 3D**
+
+**Câu 307:** Một đặc điểm của môi trường VR là?
+→ **Đáp án: B. Có tính tương tác và mô phỏng**
+
+**Câu 308:** Ứng dụng VR trong y học dùng để làm gì?
+→ **Đáp án: B. Mô phỏng phẫu thuật và đào tạo**
+
+**Câu 309:** Thiết bị giúp nhận diện chuyển động tay trong VR là?
+→ **Đáp án: C. Găng tay cảm biến**
+
+**Câu 310:** Kỹ thuật nào giúp mô phỏng cảm nhận không gian trong VR?
+→ **Đáp án: B. Hiển thị 3D**
+
+**Câu 311:** Một hệ điều hành phổ biến dùng phát triển ứng dụng VR?
+→ **Đáp án: B. Android VR**
+
+**Câu 312:** Môi trường thực tế ảo khác thực tế tăng cường ở điểm nào?
+→ **Đáp án: A. VR mô phỏng toàn bộ, AR kết hợp thực và ảo**
+
+**Câu 313:** Kỹ thuật nào tạo cảm giác chiều sâu trong hình ảnh VR?
+→ **Đáp án: B. Đa điểm nhìn (stereoscopic)**
+
+**Câu 314:** Thiết bị theo dõi đầu trong VR gọi là gì?
+→ **Đáp án: B. HMD (Head-Mounted Display)**
+
+**Câu 315:** Một hệ thống VR bao gồm thành phần nào sau đây?
+→ **Đáp án: B. Thiết bị đầu vào, đầu ra và hệ thống phần mềm**
+
+**Câu 316:** Ứng dụng phổ biến của VR trong giải trí là?
+→ **Đáp án: B. Game 3D**
+
+**Câu 317:** Thiết bị hỗ trợ mô phỏng di chuyển trong VR là?
+→ **Đáp án: B. Bộ điều khiển chuyển động**
+
+**Câu 318:** VR có thể ứng dụng trong lĩnh vực nào sau đây?
+→ **Đáp án: B. Du lịch ảo**
+
+**Câu 319:** VR cần phần mềm nào để xây dựng môi trường ảo?
+→ **Đáp án: B. Công cụ dựng hình và mô phỏng (Unity, Unreal)**
+
+**Câu 320:** Đặc điểm chính của hệ thống phần mềm thực tế ảo là?
+→ **Đáp án: B. Tạo và điều khiển môi trường ảo**
+
+**Câu 321:** Một trong các thành phần chính của phần mềm VR thông minh là?
+→ **Đáp án: B. Công cụ AI tích hợp phân tích hành vi**
+
+**Câu 322:** Thiết bị nào sau đây là đầu ra trong hệ thống VR?
+→ **Đáp án: A. Loa**
+
+**Câu 323:** Ứng dụng nào sau đây thuộc hệ thống phần mềm VR?
+→ **Đáp án: B. Unity**
+
+**Câu 324:** VR trong mô phỏng quân sự dùng để?
+→ **Đáp án: B. Tập luyện chiến thuật và điều khiển mô phỏng**
+
+**Câu 325:** Trải nghiệm VR thường đi kèm với?
+→ **Đáp án: B. Cảm biến chuyển động và thiết bị hiển thị**
+
+**Câu 326:** Khác biệt chính giữa VR và video 3D là gì?
+→ **Đáp án: B. VR cho phép tương tác**
+
+**Câu 327:** Công nghệ theo dõi vị trí trong VR dùng để?
+→ **Đáp án: B. Ghi lại vị trí chuyển động người dùng trong môi trường ảo**
+
+**Câu 328:** Thiết bị nào tạo phản hồi xúc giác trong VR?
+→ **Đáp án: B. Bộ phản hồi xúc giác (haptic)**
+
+**Câu 329:** Một lợi ích của VR trong kiến trúc là?
+→ **Đáp án: B. Mô phỏng và tham quan mô hình 3D**
+
+**Câu 330:** Loại hình dữ liệu nào cần được tích hợp trong môi trường VR?
+→ **Đáp án: B. Dữ liệu hình ảnh, âm thanh, chuyển động**
+
+**Câu 331:** Vì sao VR được sử dụng trong đào tạo kỹ năng thực hành?
+→ **Đáp án: B. Cho phép tương tác trong môi trường mô phỏng an toàn**
+
+**Câu 332:** Tính tương tác trong VR mang lại lợi ích gì?
+→ **Đáp án: A. Tạo cảm giác chân thật**
+
+**Câu 333:** Môi trường VR mô phỏng thế giới thật như thế nào?
+→ **Đáp án: B. Bằng mô hình 3D và cảm biến tương tác**
+
+**Câu 334:** Lý do chính khiến VR có thể thay thế mô hình huấn luyện truyền thống là?
+→ **Đáp án: B. Có khả năng mô phỏng, tương tác và phản hồi**
+
+**Câu 335:** VR trong y học giúp gì trong đào tạo bác sĩ?
+→ **Đáp án: B. Mô phỏng phẫu thuật, thao tác khó và nguy hiểm**
+
+**Câu 336:** Hệ thống phần mềm VR thông minh có gì khác hệ phần mềm VR cơ bản?
+→ **Đáp án: B. Có tích hợp trí tuệ nhân tạo để phản hồi thông minh**
+
+**Câu 337:** Tại sao VR yêu cầu thiết bị phần cứng mạnh?
+→ **Đáp án: B. Để hiển thị hình ảnh 3D mượt và phản hồi nhanh**
+
+**Câu 338:** Khác biệt chính giữa môi trường VR và phim hoạt hình 3D là gì?
+→ **Đáp án: A. VR cho phép tương tác trong thời gian thực**
+
+**Câu 339:** VR giúp người học cảm nhận tốt hơn vì?
+→ **Đáp án: B. Mô phỏng bằng hình ảnh, âm thanh và chuyển động**
+
+**Câu 340:** Khi thiết kế bài giảng sử dụng VR, bạn cần chú ý gì?
+→ **Đáp án: A. Tối ưu dung lượng, độ trễ và tương tác**
+
+**Câu 341:** Hệ thống trực quan trong VR hoạt động thế nào?
+→ **Đáp án: B. Dùng công nghệ 3D kết hợp cảm biến theo dõi**
+
+**Câu 342:** HMD (kính VR) giúp gì trong trải nghiệm VR?
+→ **Đáp án: B. Hiển thị hình ảnh lập thể theo hướng nhìn thực**
+
+**Câu 343:** Mục đích của việc tích hợp phản hồi xúc giác trong VR là gì?
+→ **Đáp án: B. Tăng trải nghiệm chân thật thông qua cảm giác xúc giác**
+
+**Câu 344:** Tại sao nói VR giúp giảm rủi ro trong đào tạo kỹ thuật?
+→ **Đáp án: C. Mô phỏng tình huống nguy hiểm mà không ảnh hưởng thực tế**
+
+**Câu 345:** Hệ điều hành ảnh hưởng như thế nào đến phát triển ứng dụng VR?
+→ **Đáp án: B. Ảnh hưởng đến khả năng hỗ trợ phần cứng và API VR**
+
+**Câu 346:** Một hệ thống VR thông minh có thể thích ứng với người dùng bằng cách nào?
+→ **Đáp án: B. Điều chỉnh phản hồi dựa vào hành vi và dữ liệu cảm biến**
+
+**Câu 347:** Trong thiết kế VR, tốc độ khung hình (FPS) cao giúp gì?
+→ **Đáp án: B. Làm trải nghiệm mượt mà và giảm chóng mặt**
+
+**Câu 348:** Kỹ thuật dựng hình lập thể (stereoscopic rendering) trong VR mang lại điều gì?
+→ **Đáp án: B. Tạo cảm giác chiều sâu chân thực hơn**
+
+**Câu 349:** Ứng dụng của VR trong du lịch ảo giúp gì cho người dùng?
+→ **Đáp án: B. Tham quan địa điểm mà không cần đến thực tế**
+
+**Câu 350:** Hệ thống theo dõi chuyển động trong VR hoạt động dựa trên gì?
+→ **Đáp án: A. Cảm biến và camera**
+
+**Câu 351:** Phản hồi âm thanh trong VR được sử dụng để?
+→ **Đáp án: B. Tăng tính chân thực khi tương tác trong môi trường ảo**
+
+**Câu 352:** Khi tích hợp AI vào VR, điều gì có thể xảy ra?
+→ **Đáp án: B. VR có thể phản hồi thông minh và cá nhân hóa trải nghiệm**
+
+**Câu 353:** VR ảnh hưởng đến trải nghiệm người dùng nhờ yếu tố nào?
+→ **Đáp án: B. Mức độ tương tác và phản hồi thời gian thực**
+
+**Câu 354:** Một môi trường VR hiệu quả cần gì?
+→ **Đáp án: B. Tương tác mượt, hình ảnh lập thể và âm thanh đa chiều**
+
+**Câu 355:** Trong các yếu tố sau, cái nào quan trọng nhất để xây dựng môi trường VR hấp dẫn?
+→ **Đáp án: B. Mức độ mô phỏng, tương tác và phản hồi cảm giác**
+
+**Câu 356:** Trong giáo dục, lý do chính khiến VR được ưa chuộng là gì?
+→ **Đáp án: B. Tăng tính trực quan, mô phỏng và hấp dẫn người học**
+
+**Câu 357:** VR trong kiến trúc giúp gì?
+→ **Đáp án: B. Trình bày mô hình nhà 3D cho khách hàng trải nghiệm**
+
+**Câu 358:** Trong VR, cảm biến chuyển động giúp gì cho người dùng?
+→ **Đáp án: B. Theo dõi cử chỉ và vị trí người dùng**
+
+**Câu 359:** VR có thể hỗ trợ người khuyết tật bằng cách nào?
+→ **Đáp án: B. Mô phỏng tương tác mà không yêu cầu vận động thật**
+
+**Câu 360:** VR giúp người học nhớ lâu hơn do?
+→ **Đáp án: B. Trải nghiệm thực hành sinh động và tương tác nhiều giác quan**
+
+**Câu 361:** Sự khác biệt giữa môi trường VR tĩnh và động là gì?
+→ **Đáp án: A. Tĩnh dùng cho ảnh, động có tương tác và thay đổi theo hành vi người dùng**
+
+**Câu 362:** Điều gì giúp nâng cao tính chân thực trong thiết kế môi trường VR?
+→ **Đáp án: B. Tích hợp âm thanh, chuyển động, phản hồi xúc giác**
+
+**Câu 363:** Tại sao VR thường cần thuật toán tối ưu hóa hình ảnh?
+→ **Đáp án: B. Giảm tải tính toán và cải thiện hiệu năng thời gian thực**
+
+**Câu 364:** Môi trường thực tế ảo được gọi là "immersive" vì?
+→ **Đáp án: B. Người dùng có cảm giác hòa nhập vào thế giới ảo**
+
+**Câu 365:** Tại sao VR được đánh giá cao trong lĩnh vực mô phỏng công nghiệp?
+→ **Đáp án: B. Cho phép thực hành an toàn và lặp lại tình huống**
+
+**Câu 366:** Trong một ứng dụng VR hướng dẫn kỹ năng nghề, yếu tố nào quan trọng nhất?
+→ **Đáp án: B. Mức độ tương tác và mô phỏng chính xác**
+
+**Câu 367:** Một hệ thống VR tích hợp AI có thể làm gì khi người dùng thay đổi hành vi?
+→ **Đáp án: B. Điều chỉnh nội dung phù hợp hơn**
+
+**Câu 368:** Khi sử dụng VR trong hội họp trực tuyến, điểm lợi là gì?
+→ **Đáp án: B. Tạo không gian họp ảo gần thực tế và tăng tương tác**
+
+**Câu 369:** VR có thể tích hợp với công nghệ nào để nâng cao hiệu quả mô phỏng?
+→ **Đáp án: B. Trí tuệ nhân tạo và học máy**
+
+**Câu 370:** Hình ảnh lập thể trong VR tạo ra cảm giác gì cho người dùng?
+→ **Đáp án: B. Chiều sâu và không gian ba chiều**
+
+**Câu 371:** Bạn cần xây dựng mô hình nhà ảo cho khách tham quan, công cụ phù hợp nhất là?
+→ **Đáp án: C. Unity hoặc Unreal Engine**
+
+**Câu 372:** Khi thiết kế một ứng dụng VR cho giáo dục, yếu tố nào cần được ưu tiên?
+→ **Đáp án: C. Mức độ tương tác, âm thanh, hình ảnh**
+
+**Câu 373:** Để đồng bộ chuyển động đầu người dùng trong môi trường VR, bạn cần sử dụng gì?
+→ **Đáp án: C. Cảm biến định hướng (IMU)**
+
+**Câu 374:** Bạn muốn xây dựng trải nghiệm du lịch ảo cho người dùng, nội dung nên có gì?
+→ **Đáp án: C. Mô hình 3D, âm thanh, thuyết minh**
+
+**Câu 375:** Để phát triển game VR có thể điều khiển bằng tay, thiết bị nào cần tích hợp?
+→ **Đáp án: C. Găng tay cảm biến hoặc controller**
+
+**Câu 376:** Khi xây dựng một hệ thống đào tạo lái xe bằng VR, bạn cần mô phỏng gì?
+→ **Đáp án: B. Vô lăng, đường đi, biển báo**
+
+**Câu 377:** Bạn cần tối ưu hóa FPS trong mô hình VR 3D phức tạp, bạn sẽ làm gì?
+→ **Đáp án: B. Giảm chi tiết vật thể xa, tối ưu texture**
+
+**Câu 378:** Khi tích hợp AI vào hệ thống VR học ngoại ngữ, bạn có thể làm gì?
+→ **Đáp án: B. Tạo phản hồi cá nhân hóa theo phát âm**
+
+**Câu 379:** Để giúp người dùng không bị chóng mặt khi sử dụng VR, bạn cần điều chỉnh?
+→ **Đáp án: C. FPS cao và delay thấp**
+
+**Câu 380:** Khi xây dựng không gian hội nghị VR, yếu tố nào cần đảm bảo?
+→ **Đáp án: C. Giao tiếp thời gian thực và tương tác người dùng**
+
+**Câu 381:** Trong mô phỏng nhà máy VR, bạn cần thiết kế thêm gì để người dùng hiểu luồng sản xuất?
+→ **Đáp án: B. Biểu đồ và hoạt cảnh tương tác**
+
+**Câu 382:** Bạn được giao xây dựng lớp học thực tế ảo về sinh học, bạn cần chuẩn bị gì?
+→ **Đáp án: B. Mô hình 3D sinh vật, âm thanh, tương tác**
+
+**Câu 383:** Để giúp người khuyết tật vận động trải nghiệm VR, bạn sẽ làm gì?
+→ **Đáp án: A. Tích hợp điều khiển bằng mắt hoặc giọng nói**
+
+**Câu 384:** Khi kiểm tra hệ thống VR giáo dục, yếu tố nào chứng minh ứng dụng hiệu quả?
+→ **Đáp án: B. Mức độ tham gia và phản hồi người học**
+
+**Câu 385:** Trong phát triển ứng dụng VR luyện phẫu thuật, cần lưu gì trong cơ sở dữ liệu?
+→ **Đáp án: C. Thao tác người dùng, kết quả tương tác**
+
+**Câu 386:** Bạn đang thiết kế ứng dụng hướng dẫn sửa máy móc bằng VR, bạn cần thêm gì?
+→ **Đáp án: B. Hướng dẫn bằng giọng nói và mô hình 3D**
+
+**Câu 387:** Khi xây dựng bài giảng VR về hóa học, bạn cần tạo gì?
+→ **Đáp án: C. Mô hình phân tử 3D và hiệu ứng phản ứng hóa học**
+
+**Câu 388:** Để điều hướng trong môi trường VR 3D bằng tay, bạn cần triển khai?
+→ **Đáp án: B. Theo dõi chuyển động tay và mapping gesture**
+
+**Câu 389:** Trong một lớp học VR, để tăng tương tác giữa giáo viên và học sinh, bạn thêm gì?
+→ **Đáp án: A. Micro và chat**
+
+**Câu 390:** Bạn cần kiểm thử phản ứng người dùng khi trải nghiệm VR, bạn sẽ làm gì?
+→ **Đáp án: B. Đo cảm biến sinh trắc và quan sát tương tác**
+
+**Câu 391:** Trong hệ thống mô phỏng thể thao bằng VR, bạn cần mô phỏng gì để tạo cảm giác thật?
+→ **Đáp án: C. Chuyển động, phản hồi và âm thanh chân thực**
+
+**Câu 392:** Khi tích hợp dữ liệu giọng nói vào VR, điều cần quan tâm là gì?
+→ **Đáp án: B. Đồng bộ giọng nói với hành vi và phản hồi hình ảnh**
+
+**Câu 393:** Bạn thiết kế lớp học thực tế ảo cho người khiếm thị, bạn cần?
+→ **Đáp án: A. Âm thanh hướng dẫn chi tiết và giao diện điều khiển bằng giọng nói**
+
+**Câu 394:** Để tạo trải nghiệm cảm giác chân thật hơn trong game VR, bạn cần?
+→ **Đáp án: B. Tăng FPS và thêm phản hồi vật lý**
+
+**Câu 395:** Một khóa học lái xe bằng VR nên được thiết kế với yếu tố nào?
+→ **Đáp án: B. Mô phỏng tương tác tình huống giao thông**
+
+**Câu 396:** Trong ứng dụng VR chăm sóc sức khỏe, dữ liệu sinh trắc học có thể dùng để?
+→ **Đáp án: B. Tùy biến phản hồi theo trạng thái người dùng**
+
+**Câu 397:** Trong VR, tính năng nào hỗ trợ mô phỏng tiếp xúc vật lý?
+→ **Đáp án: B. Phản hồi xúc giác (haptic feedback)**
+
+**Câu 398:** Khi triển khai VR trong giảng dạy kỹ thuật điện, nội dung cần có là?
+→ **Đáp án: B. Mô hình 3D tương tác và mô phỏng dòng điện**
+
+**Câu 399:** Trong ứng dụng hướng nghiệp bằng VR, tính năng nào quan trọng nhất?
+→ **Đáp án: B. Tái hiện môi trường nghề nghiệp và thao tác thực tế**
+
+**Câu 400:** Một hệ thống VR hỗ trợ AI có thể giúp cá nhân hóa trải nghiệm học tập bằng cách nào?
+→ **Đáp án: B. Điều chỉnh nội dung và mức độ phù hợp với từng người**
